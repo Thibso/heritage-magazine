@@ -11,6 +11,7 @@ const config: Config = {
       colors: {
         mainBlue: "#181E39",
         white: "#FFFFFF",
+        bgLight: "#F5F5F5",
         orange: "#ED731B",
         noir: "#000000",
         background: "var(--background)",

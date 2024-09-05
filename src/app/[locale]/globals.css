@@ -2,26 +2,25 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+@layer base {
+  .container {
+    @apply px-4 py-12 lg:px-24 lg:py-20;
+    max-width: inherit !important;
   }
-}
 
-body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
-}
+  .header-title {
+    @apply font-light text-xl uppercase;
+  }
 
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
+  .h2 {
+    @apply font-medium text-2xl uppercase;
+  }
+
+  .h3 {
+    @apply font-light text-2xl uppercase text-orange;
+  }
+
+  p {
+    @apply font-light text-xl;
   }
 }
