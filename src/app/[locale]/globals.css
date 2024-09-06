@@ -8,19 +8,19 @@
   }
 
   .header-title {
-    @apply font-light text-xl uppercase;
+    @apply font-light text-base lg:text-xl uppercase;
   }
 
   .h2 {
-    @apply font-sfPro font-bold text-2xl uppercase;
+    @apply font-sfPro font-bold text-xl lg:text-2xl uppercase;
   }
 
   .h3 {
-    @apply font-sfPro font-semibold text-xl text-orange;
+    @apply font-sfPro font-semibold text-lg lg:text-xl text-orange;
   }
 
   p {
-    @apply font-sfPro font-normal text-lg;
+    @apply font-sfPro font-normal text-base lg:text-lg;
   }
 
   a {

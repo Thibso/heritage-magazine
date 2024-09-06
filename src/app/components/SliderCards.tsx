@@ -17,36 +17,48 @@ export default function SliderCards() {
   return (
     <>
       <Swiper
-        slidesPerView={2}
-        spaceBetween={100}
+        slidesPerView={1}
+        spaceBetween={25}
         pagination={{
           clickable: true,
+        }}
+        breakpoints={{
+          640: {
+            slidesPerView: 2,
+            spaceBetween: 50,
+          },
+          1024: {
+            slidesPerView: 2,
+            spaceBetween: 100,
+          },
         }}
         modules={[Pagination]}
         className="mySwiper cursor-pointer"
       >
         <SwiperSlide>
-          <Image src={ascher} alt="" />
+          <Image src={ascher} alt="Dr Ascher Benjamin - (H)ERITAGE Magazine" />
           <div className="flex justify-between mt-4">
-            <h4 className="uppercase text-xl font-sfPro font-light">
+            <h4 className="uppercase text-base lg:text-xl font-sfPro font-light">
               Dr Benjamin Ascher
             </h4>
             <button>Lire l&apos;article</button>
           </div>
         </SwiperSlide>
         <SwiperSlide>
-          <Image src={claire} alt="" />
+          <Image src={claire} alt="Olivier Claire - (H)ERITAGE Magazine" />
           <div className="flex justify-between mt-4">
-            <h4 className="uppercase text-xl font-sfPro font-light">
+            <h4 className="uppercase text-base lg:text-xl font-sfPro font-light">
               Olivier Claire
             </h4>
             <button>Lire l&apos;article</button>
           </div>
         </SwiperSlide>
         <SwiperSlide>
-          <Image src={aerolase} alt="" />
+          <Image src={aerolase} alt="Dr Adda - (H)ERITAGE Magazine" />
           <div className="flex justify-between mt-4">
-            <h4 className="uppercase text-xl font-sfPro font-light">Dr Adda</h4>
+            <h4 className="uppercase text-base lg:text-xl font-sfPro font-light">
+              Dr Adda
+            </h4>
             <button>Lire l&apos;article</button>
           </div>
         </SwiperSlide>

@@ -28,18 +28,18 @@ export default function Home() {
   const t = useTranslations("HomePage");
   return (
     <main>
-      <section className="myContainer overflow-hidden relative grid items-center bg-headerBlue h-screen max-h-[1080px] w-full">
+      <section className="myContainer overflow-hidden relative grid items-center bg-headerBlue h-screen max-h-[600px] lg:max-h-[1080px] w-full">
         <video
           className="m-auto scale-125"
           width="100%"
           height="auto"
-          controls
           autoPlay
+          muted
           loop
         >
           <source src="/motion-logo.mp4" type="video/mp4" />
         </video>
-        <h2 className="absolute w-fit top-[65%] left-1/2 -translate-x-1/2 header-title text-white text-center font-semibold">
+        <h2 className="absolute w-[95%] lg:w-fit top-[60%] lg:top-[65%] left-1/2 -translate-x-1/2 header-title text-white text-center font-semibold">
           {t("title")}
         </h2>
 
@@ -48,19 +48,19 @@ export default function Home() {
         </button>
       </section>
 
-      <section className="grid grid-cols-8 max-w-[1920px] m-auto">
+      <section className="max-lg:flex max-lg:flex-col-reverse lg:grid lg:grid-cols-8 max-w-[1920px] m-auto">
         <div className="col-span-3 w-full h-full relative">
           <Image
             src={woman}
             alt="Illustration esthétique"
-            className="absolute w-full h-full object-cover object-center"
+            className="lg:absolute w-full h-full object-cover max-lg:max-h-[350px] object-center"
           />
         </div>
 
-        <div className="myContainer col-span-5 space-y-16">
+        <div className="myContainer col-span-5 space-y-8 lg:space-y-16">
           <div>
             <h1 className="h2">(H)eritage Magazine</h1>
-            <h2 className="h3 mt-4 font-sfPro">
+            <h2 className="h3 mt-2 lg:mt-4 font-sfPro">
               Le média dédié à l&apos;innovation en chirurgie, médecine et
               dermatologie esthétique
             </h2>
@@ -100,11 +100,11 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="grid grid-cols-8 max-w-[1920px] m-auto">
-        <div className="myContainer bg-mainBlue col-span-3 space-y-16">
+      <section className="lg:grid lg:grid-cols-8 max-w-[1920px] m-auto">
+        <div className="myContainer bg-mainBlue col-span-3 space-y-8 lg:space-y-16">
           <div>
             <h2 className="h2 text-white">(H)eritage Magazine</h2>
-            <h3 className="h3 mt-4">Une plateforme print & digitale</h3>
+            <h3 className="h3 mt-2 lg:mt-4">Une plateforme print & digitale</h3>
           </div>
 
           <div className="space-y-4 text-white">
@@ -130,9 +130,9 @@ export default function Home() {
 
         <div className="bg-bgLight col-span-5 grid items-center overflow-hidden">
           <video
-            className="m-auto scale-[2] object-cover"
-            controls
+            className="m-auto scale-[1.5] lg:scale-[2] object-cover"
             autoPlay
+            muted
             loop
           >
             <source src="/magazine.mp4" type="video/mp4" />
@@ -141,12 +141,12 @@ export default function Home() {
       </section>
 
       <section className="overflow-hidden max-w-[1920px] m-auto">
-        <div className="myContainer max-w-screen-xl m-auto space-y-16">
+        <div className="myContainer max-w-screen-xl m-auto space-y-8 lg:space-y-16">
           <div className="text-center">
             <h2 className="h2 text-mainBlue">
               (H)eritage un Magazine dédié aux acteurs de l&apos;esthétique
             </h2>
-            <h3 className="h3 mt-4">
+            <h3 className="h3 mt-2 lg:mt-4">
               L&apos;innovation au service de l&apos;excellence médicale
             </h3>
           </div>
