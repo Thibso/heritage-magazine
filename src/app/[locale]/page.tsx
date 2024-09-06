@@ -25,7 +25,7 @@ export default function Home() {
           <div>
             <h2 className="h2">Heritage Magazine</h2>
             <h3 className="h3 mt-4 font-monaLight">
-              Le média dédié à l'innovation
+              Le média dédié à l&apos;innovation
             </h3>
           </div>
 
@@ -70,7 +70,7 @@ export default function Home() {
         <div className="myContainer bg-mainBlue col-span-3 space-y-16">
           <div>
             <h2 className="h2 text-white">Heritage Magazine</h2>
-            <h3 className="h3 mt-4">Le média dédié à l'innovation</h3>
+            <h3 className="h3 mt-4">Le média dédié à l&apos;innovation</h3>
           </div>
 
           <div className="space-y-4 text-white">
@@ -94,7 +94,7 @@ export default function Home() {
             </p>
           </div>
 
-          <button>Lire l'article</button>
+          <button>Lire l&apos;article</button>
         </div>
 
         <div className="bg-bgLight col-span-5"></div>
@@ -104,7 +104,7 @@ export default function Home() {
         <div className="myContainer max-w-screen-xl m-auto space-y-16">
           <div className="text-center">
             <h2 className="h2 text-mainBlue">Heritage Magazine</h2>
-            <h3 className="h3 mt-4">Le média dédié à l'innovation</h3>
+            <h3 className="h3 mt-4">Le média dédié à l&apos;innovation</h3>
           </div>
 
           <SliderCards />
