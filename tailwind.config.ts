@@ -17,6 +17,9 @@ const config: Config = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        mona: ["var(--font-mona)"],
+      },
     },
   },
   plugins: [],
