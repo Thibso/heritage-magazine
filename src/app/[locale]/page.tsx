@@ -28,10 +28,9 @@ export default function Home() {
   const t = useTranslations("HomePage");
   return (
     <main>
-      <section className="myContainer overflow-hidden relative grid items-center bg-mainBlue h-screen max-h-[500px] lg:max-h-[1080px] w-full">
+      <section className="myContainer overflow-hidden relative grid items-center bg-headerBlue h-screen max-h-[500px] lg:max-h-[1080px] w-full">
         <video
-          className="m-auto"
-          width="65%"
+          className="m-auto w-[70%] lg:w-[60%]"
           height="auto"
           autoPlay
           muted
@@ -43,7 +42,7 @@ export default function Home() {
             type="video/mp4"
           />
         </video>
-        <h2 className="absolute w-[90%] lg:w-fit top-[60%] lg:top-[65%] left-1/2 -translate-x-1/2 header-title text-white text-center font-semibold">
+        <h2 className="absolute w-[70%] lg:w-fit top-[60%] lg:top-[65%] left-1/2 -translate-x-1/2 header-title text-white text-center font-semibold">
           {t("title")}
         </h2>
 
