@@ -28,10 +28,10 @@ export default function Home() {
   const t = useTranslations("HomePage");
   return (
     <main>
-      <section className="myContainer overflow-hidden relative grid items-center bg-mainBlue h-screen max-h-[600px] lg:max-h-[1080px] w-full">
+      <section className="myContainer overflow-hidden relative grid items-center bg-[#181e38] h-screen max-h-[600px] lg:max-h-[1080px] w-full">
         <video
           className="m-auto"
-          width="75%"
+          width="65%"
           height="auto"
           autoPlay
           muted
