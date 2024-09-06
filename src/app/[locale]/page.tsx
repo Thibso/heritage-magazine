@@ -43,7 +43,7 @@ export default function Home() {
             type="video/mp4"
           />
         </video>
-        <h2 className="absolute w-[95%] lg:w-fit top-[60%] lg:top-[65%] left-1/2 -translate-x-1/2 header-title text-white text-center font-semibold">
+        <h2 className="absolute w-[90%] lg:w-fit top-[60%] lg:top-[65%] left-1/2 -translate-x-1/2 header-title text-white text-center font-semibold">
           {t("title")}
         </h2>
 
@@ -132,15 +132,18 @@ export default function Home() {
           <button className="text-orange">A propos</button>
         </div>
 
-        <div className="bg-bgLight col-span-5 grid items-center overflow-hidden">
+        <div className="bg-bgLight py-8 col-span-5 grid items-center overflow-hidden">
           <video
-            className="m-auto scale-[1.85] lg:scale-[2] object-cover"
+            className="m-auto w-full object-cover"
             autoPlay
             muted
             loop
             playsInline
           >
-            <source src="/magazine.mp4" type="video/mp4" />
+            <source
+              src="/magazine-heritage-specialiste-innovations-sante.mp4"
+              type="video/mp4"
+            />
           </video>
         </div>
       </section>
