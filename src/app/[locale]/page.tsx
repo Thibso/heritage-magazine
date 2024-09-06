@@ -1,5 +1,6 @@
 import { useTranslations } from "next-intl";
 import Image from "next/image";
+import Button from "../components/buttons/Button";
 import SliderCards from "../components/SliderCards";
 import woman from "../img/magazine-innovation-sante.jpg";
 
@@ -58,9 +59,12 @@ export default function Home() {
           {t("title")}
         </h2>
 
-        <button className="bg-orange px-12 py-2 rounded-3xl absolute w-fit top-[80%] lg:top-[80%] left-1/2 -translate-x-1/2 text-white font-sfPro font-medium leading-none">
+        <a
+          href="#discover"
+          className="bg-orange px-12 py-2 rounded-3xl absolute w-fit top-[80%] lg:top-[80%] left-1/2 -translate-x-1/2 text-white font-sfPro font-medium leading-none"
+        >
           Découvrir
-        </button>
+        </a>
       </section>
 
       <section className="lg:grid lg:grid-cols-8 max-w-[1920px] m-auto max-lg:bg-bgLight">
@@ -115,7 +119,10 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="max-lg:flex max-lg:flex-col-reverse lg:grid lg:grid-cols-8 max-w-[1920px] m-auto">
+      <section
+        id="discover"
+        className="max-lg:flex max-lg:flex-col-reverse lg:grid lg:grid-cols-8 max-w-[1920px] m-auto"
+      >
         <div className="myContainer bg-mainBlue col-span-3 space-y-8 lg:space-y-16">
           <div>
             <h2 className="h2 text-white">(H)eritage Magazine</h2>
@@ -140,7 +147,7 @@ export default function Home() {
             </p>
           </div>
 
-          <button className="text-orange">A propos</button>
+          <Button link="/">A propos</Button>
         </div>
 
         <div className="bg-bgLight max-lg:pb-12 col-span-5 grid items-center overflow-hidden">

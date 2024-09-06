@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+* {
+  scroll-behavior: smooth;
+}
+
 @layer base {
   .myContainer {
     @apply px-4 py-12 lg:px-10 lg:py-12 xl:px-24 xl:py-20 max-w-[1920px] m-auto;
