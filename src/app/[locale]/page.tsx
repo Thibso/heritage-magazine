@@ -28,7 +28,7 @@ export default function Home() {
   const t = useTranslations("HomePage");
   return (
     <main>
-      <section className="myContainer overflow-hidden relative grid items-center bg-mainBlue h-screen max-h-[600px] lg:max-h-[1080px] w-full">
+      <section className="myContainer overflow-hidden relative grid items-center bg-mainBlue h-screen max-h-[500px] lg:max-h-[1080px] w-full">
         <video
           className="m-auto"
           width="65%"
@@ -47,12 +47,12 @@ export default function Home() {
           {t("title")}
         </h2>
 
-        <button className="bg-orange px-12 py-2 rounded-3xl absolute w-fit top-[85%] left-1/2 -translate-x-1/2 text-white font-sfPro font-medium leading-none">
+        <button className="bg-orange px-12 py-2 rounded-3xl absolute w-fit top-[80%] lg:top-[85%] left-1/2 -translate-x-1/2 text-white font-sfPro font-medium leading-none">
           Découvrir
         </button>
       </section>
 
-      <section className=" lg:grid lg:grid-cols-8 max-w-[1920px] m-auto">
+      <section className="lg:grid lg:grid-cols-8 max-w-[1920px] m-auto max-lg:bg-bgLight">
         <div className="col-span-3 w-full h-full relative">
           <Image
             src={woman}
@@ -132,7 +132,7 @@ export default function Home() {
           <button className="text-orange">A propos</button>
         </div>
 
-        <div className="bg-bgLight py-8 col-span-5 grid items-center overflow-hidden">
+        <div className="bg-bgLight max-lg:pb-12 col-span-5 grid items-center overflow-hidden">
           <video
             className="m-auto w-full object-cover"
             autoPlay

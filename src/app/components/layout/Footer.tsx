@@ -6,7 +6,7 @@ export default function Footer() {
     <footer>
       <div className="myContainer bg-mainBlue text-white lg:grid lg:grid-cols-4 max-lg:space-y-4">
         <div className="col-span-2 flex">
-          <div className="lg:w-[70%] space-y-4">
+          <div className="lg:w-[70%] space-y-12">
             <Image
               src={logo}
               alt="Logo (H)ERITAGE Magazine"
@@ -23,7 +23,7 @@ export default function Footer() {
         <div className="lg:grid lg:grid-cols-2 gap-6 col-span-2 max-lg:space-y-4">
           <div className="space-y-4">
             <h2 className="h2 text-lg text-left">
-              <a href="">Heritage magazine</a>
+              <a href="">(H)eritage magazine</a>
             </h2>
             <ul>
               <li>
@@ -56,7 +56,10 @@ export default function Footer() {
 
             <div className="flex gap-4 justify-center col-span-1">
               {/* instagram */}
-              <a href="">
+              <a
+                href="https://www.instagram.com/magazine_heritage/"
+                target="_blank"
+              >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -74,7 +77,10 @@ export default function Footer() {
               </a>
 
               {/* Facebook */}
-              <a href="">
+              <a
+                href="https://www.facebook.com/profile.php?id=61564632284607"
+                target="_blank"
+              >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -90,7 +96,10 @@ export default function Footer() {
               </a>
 
               {/* LinkedIn */}
-              <a href="">
+              <a
+                href="https://www.linkedin.com/company/magazine-heritage/"
+                target="_blank"
+              >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"

@@ -84,7 +84,7 @@ export default function SliderCards() {
               <h4 className="uppercase text-base lg:text-xl font-sfPro font-light">
                 {slide.title}
               </h4>
-              <button>Lire l&apos;article</button>
+              {/* <button>Lire l&apos;article</button> */}
             </div>
           </SwiperSlide>
         ))}

@@ -66,7 +66,10 @@
   left: 50% !important;
   transform: translateX(-50%) !important;
 }
-
+.swiper-pagination-bullet {
+  background: #181e39 !important;
+  opacity: 1 !important;
+}
 .swiper-pagination-bullet-active {
-  background: orange !important;
+  background: #ed731b !important;
 }
