@@ -12,15 +12,15 @@
   }
 
   .h2 {
-    @apply font-mona font-medium text-2xl uppercase;
+    @apply font-sfPro font-bold text-2xl uppercase;
   }
 
   .h3 {
-    @apply font-mona font-light text-2xl uppercase text-orange;
+    @apply font-sfPro font-semibold text-xl text-orange;
   }
 
   p {
-    @apply font-mona font-light text-xl;
+    @apply font-sfPro font-normal text-lg;
   }
 
   a {

@@ -28,7 +28,7 @@ export default function SliderCards() {
         <SwiperSlide>
           <Image src={ascher} alt="" />
           <div className="flex justify-between mt-4">
-            <h4 className="uppercase text-xl font-mona font-light">
+            <h4 className="uppercase text-xl font-sfPro font-light">
               Dr Benjamin Ascher
             </h4>
             <button>Lire l&apos;article</button>
@@ -37,7 +37,7 @@ export default function SliderCards() {
         <SwiperSlide>
           <Image src={claire} alt="" />
           <div className="flex justify-between mt-4">
-            <h4 className="uppercase text-xl font-mona font-light">
+            <h4 className="uppercase text-xl font-sfPro font-light">
               Olivier Claire
             </h4>
             <button>Lire l&apos;article</button>
@@ -46,7 +46,7 @@ export default function SliderCards() {
         <SwiperSlide>
           <Image src={aerolase} alt="" />
           <div className="flex justify-between mt-4">
-            <h4 className="uppercase text-xl font-mona font-light">Dr Adda</h4>
+            <h4 className="uppercase text-xl font-sfPro font-light">Dr Adda</h4>
             <button>Lire l&apos;article</button>
           </div>
         </SwiperSlide>

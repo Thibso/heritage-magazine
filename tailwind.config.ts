@@ -19,7 +19,7 @@ const config: Config = {
         foreground: "var(--foreground)",
       },
       fontFamily: {
-        mona: ["var(--font-mona)"],
+        sfPro: ["var(--font-sfPro)"],
       },
     },
   },
