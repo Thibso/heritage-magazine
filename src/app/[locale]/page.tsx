@@ -19,7 +19,7 @@ export async function generateMetadata({ params }: Params) {
       title:
         "(H)ERITAGE Magazine | Innovations en médecine esthétique & anti-âge",
       description:
-        "(H)ERITAGE Magazine. Média premium dédié à l'innovation en chirurgie, médecine et dermatologie esthétique. Découvrez (H)ERITAGE Magazine",
+        "(H)ERITAGE Magazine. Média premium dédié à l&apos;innovation en chirurgie, médecine et dermatologie esthétique. Découvrez (H)ERITAGE Magazine",
     };
   }
 }
@@ -144,10 +144,10 @@ export default function Home() {
         <div className="myContainer max-w-screen-xl m-auto space-y-16">
           <div className="text-center">
             <h2 className="h2 text-mainBlue">
-              (H)eritage un Magazine dédié aux acteurs de l'esthétique
+              (H)eritage un Magazine dédié aux acteurs de l&apos;esthétique
             </h2>
             <h3 className="h3 mt-4">
-              L'innovation au service de l'excellence médicale
+              L&apos;innovation au service de l&apos;excellence médicale
             </h3>
           </div>
 
