@@ -1,3 +1,4 @@
+import { GoogleAnalytics } from "@next/third-parties/google";
 import { NextIntlClientProvider } from "next-intl";
 import { getMessages } from "next-intl/server";
 import localFont from "next/font/local";
@@ -75,6 +76,7 @@ export default async function LocaleLayout({
         />
       </head>
       <body>
+        <GoogleAnalytics gaId="G-WPVQNN32N0" />
         <Header />
         <NextIntlClientProvider messages={messages}>
           {children}
