@@ -1,5 +1,5 @@
 import Image from "next/image";
-import logo from "../../img/logo-heritage-magazine.png";
+import logo from "../../img/heritage-magazine-anti-age-innovation.png";
 
 export default function Footer() {
   return (
@@ -9,7 +9,7 @@ export default function Footer() {
           <div className="lg:w-[70%] space-y-4">
             <Image
               src={logo}
-              alt="Illustration esthétique"
+              alt="Logo (H)ERITAGE Magazine"
               className="w-[200px] max-lg:m-auto"
             />
 
@@ -112,10 +112,10 @@ export default function Footer() {
       </div>
 
       <div className="bg-[#131a33] text-white text-center space-y-1 py-4">
-        <p className="text-sm">
+        <p className="text-sm lg:text-base">
           Copyright 2025 | (H)ERITAGE Magazine | Mentions légales
         </p>
-        <p className="text-sm">
+        <p className="text-sm lg:text-base">
           HEALTHCIE | Le créateur digital des professions médicales
         </p>
       </div>

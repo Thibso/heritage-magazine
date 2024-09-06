@@ -28,17 +28,20 @@ export default function Home() {
   const t = useTranslations("HomePage");
   return (
     <main>
-      <section className="myContainer overflow-hidden relative grid items-center bg-headerBlue h-screen max-h-[600px] lg:max-h-[1080px] w-full">
+      <section className="myContainer overflow-hidden relative grid items-center bg-mainBlue h-screen max-h-[600px] lg:max-h-[1080px] w-full">
         <video
-          className="m-auto scale-125"
-          width="100%"
+          className="m-auto"
+          width="75%"
           height="auto"
           autoPlay
           muted
           playsInline
           loop
         >
-          <source src="/motion-logo.mp4" type="video/mp4" />
+          <source
+            src="/magazine-esthetique-heritage-antiage.mp4"
+            type="video/mp4"
+          />
         </video>
         <h2 className="absolute w-[95%] lg:w-fit top-[60%] lg:top-[65%] left-1/2 -translate-x-1/2 header-title text-white text-center font-semibold">
           {t("title")}
@@ -49,7 +52,7 @@ export default function Home() {
         </button>
       </section>
 
-      <section className="max-lg:flex max-lg:flex-col-reverse lg:grid lg:grid-cols-8 max-w-[1920px] m-auto">
+      <section className=" lg:grid lg:grid-cols-8 max-w-[1920px] m-auto">
         <div className="col-span-3 w-full h-full relative">
           <Image
             src={woman}
@@ -101,7 +104,7 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="lg:grid lg:grid-cols-8 max-w-[1920px] m-auto">
+      <section className="max-lg:flex max-lg:flex-col-reverse lg:grid lg:grid-cols-8 max-w-[1920px] m-auto">
         <div className="myContainer bg-mainBlue col-span-3 space-y-8 lg:space-y-16">
           <div>
             <h2 className="h2 text-white">(H)eritage Magazine</h2>

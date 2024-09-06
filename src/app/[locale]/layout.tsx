@@ -2,6 +2,7 @@ import { NextIntlClientProvider } from "next-intl";
 import { getMessages } from "next-intl/server";
 import localFont from "next/font/local";
 import Footer from "../components/layout/Footer";
+import Header from "../components/layout/Header";
 import "./globals.css";
 
 // const mona = localFont({
@@ -42,6 +43,7 @@ export default async function LocaleLayout({
   return (
     <html lang={locale} className={sfPro.variable}>
       <body>
+        <Header />
         <NextIntlClientProvider messages={messages}>
           {children}
         </NextIntlClientProvider>
