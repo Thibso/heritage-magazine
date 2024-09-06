@@ -1,15 +1,38 @@
 import { useTranslations } from "next-intl";
 import Image from "next/image";
 import SliderCards from "../components/SliderCards";
-import logo from "../img/logo-heritage-magazine.png";
 import woman from "../img/magazine-innovation-sante.jpg";
+
+type Params = {
+  params: { locale: string };
+};
+
+export async function generateMetadata({ params }: Params) {
+  const locale = params.locale;
+  if (locale === "en") {
+    return {
+      title: "Titre EN",
+      description: "Description EN",
+    };
+  } else if (locale === "fr") {
+    return {
+      title: "Titre FR",
+      description: "Description FR",
+    };
+  }
+}
 
 export default function Home() {
   const t = useTranslations("HomePage");
   return (
     <main>
-      <section className="myContainer bg-mainBlue h-screen max-h-[1080px] w-full">
-        <h1 className="header-title text-white">{t("title")}</h1>
+      <section className="myContainer relative grid items-center bg-headerBlue h-screen max-h-[1080px] w-full">
+        <video className="m-auto" width="80%" height="auto" autoPlay loop>
+          <source src="/motion-logo.mp4" type="video/mp4" />
+        </video>
+        <h1 className="absolute w-fit top-[60%] left-1/2 -translate-x-1/2 header-title text-white text-center">
+          {t("title")}
+        </h1>
       </section>
 
       <section className="grid grid-cols-8 max-w-[1920px] m-auto">
@@ -30,37 +53,39 @@ export default function Home() {
           </div>
 
           <div className="space-y-4">
-            <p>
-              Nous sommes ravis de vous dévoiler la seconde édition d’HERITAGE
-              Magazine, votre nouveau rendez-vous incontournable dans l’univers
-              vibrant de la médecine esthétique.
+            <p className="font-medium">
+              Qu&apos;est-ce qu&apos;(H)ERITAGE Magazine et en quoi il se
+              distingue
             </p>
 
             <p>
-              Ce magazine annuel a pour objectif de mettre en avant les
-              innovations les plus récentes en matière de produits et de
-              technologies dans le secteur de l’esthétique.
-            </p>
-
-            <p>
-              Pourquoi HERITAGE ? Parce que nous croyons que le passé de la
-              chirurgie et de la médecine esthétique forme les fondations
-              solides sur lesquelles nous bâtissons le présent et l’avenir. En
-              nous appuyant sur les valeurs de la médecine, nous aspirons à
-              sublimer l’avenir de la profession, en alliant tradition et
+              (H)ERITAGE Magazine est bien plus qu&apos;une publication annuelle
+              dans le domaine de la médecine esthétique ; c&apos;est une
+              plateforme unique qui célèbre l&apos;équilibre entre tradition et
               innovation.
             </p>
 
             <p>
-              HERITAGE Magazine s’adresse principalement aux chirurgiens, aux
-              médecins et aux acteurs clés de l’industrie, notamment les
-              laboratoires et les fabricants de dispositifs médicaux.
+              Notre mission est claire : fournir aux professionnels du secteur
+              de l&apos;esthétique (chirurgiens, médecins, dermatologues,
+              laboratoires et fabricants de dispositifs médicaux) une vue
+              d&apos;ensemble des avancées les plus récentes en produits,
+              technologies et pratiques.
             </p>
 
             <p>
-              Nous voulons créer une plateforme unique, print et digitale, où
-              les idées innovantes, les meilleures pratiques et les succès les
-              plus marquants se rencontrent et se célèbrent.
+              Chaque numéro met en avant les innovations disruptives, tout en
+              rendant hommage aux pratiques éprouvées qui façonnent le secteur.
+              Pour les acteurs de l&apos;esthétique médicale, (H)ERITAGE est une
+              source d&apos;inspiration et de réflexion, un carrefour où se
+              rencontrent les esprits créatifs et les solutions de demain.
+            </p>
+
+            <p>
+              (H)ERITAGE Magazine se positionne comme un guide de référence, en
+              phase avec les besoins d&apos;une industrie en perpétuelle
+              évolution, tout en restant fidèle aux valeurs fondatrices de
+              l&apos;excellence médicale.
             </p>
           </div>
         </div>
@@ -75,29 +100,48 @@ export default function Home() {
 
           <div className="space-y-4 text-white">
             <p>
-              HERITAGE offre un support print pour promouvoir vos produits et
-              services auprès des chirurgiens et des médecins français et
-              internationaux.
+              Print & digital : Une double plateforme pour valoriser les marques
             </p>
 
             <p>
-              Notre contenu exclusif explore les dernières tendances,
-              innovations et meilleures pratiques de l’industrie, offrant une
-              visibilité directe à votre marque auprès des professionnels de
-              santé.
+              Avec (H)ERITAGE Magazine, les laboratoires et fabricants de
+              dispositifs médicaux de l&apos;esthétique ont une opportunité
+              unique de renforcer leur visibilité.
             </p>
 
             <p>
-              Ne manquez pas l’opportunité de rejoindre notre communauté et
-              ainsi témoigner de votre engagement envers l’innovation et
-              l’avancement des pratiques médicales.
+              Nous offrons une plateforme double – print et digitale –
+              permettant aux marques de communiquer efficacement auprès
+              d&apos;une audience spécialisée et exigeante. Notre version
+              imprimée, au design raffiné, incarne le prestige et
+              l&apos;expertise de l&apos;industrie, tandis que notre version
+              digitale ouvre un canal interactif et moderne, accessible à tout
+              moment.
+            </p>
+            <p>
+              Que ce soit pour présenter vos dernières innovations en matière de
+              dispositifs médicaux, ou valoriser vos produits phares, (H)ERITAGE
+              est le lieu idéal pour vous connecter avec des chirurgiens,
+              médecins et dermatologues qui sont à la recherche de nouvelles
+              solutions pour optimiser leurs pratiques.
+            </p>
+            <p>
+              Faire partie d&apos;(H)ERITAGE Magazine, c’est s’assurer une
+              visibilité pérenne dans un secteur compétitif et en constante
+              évolution. Rejoignez-nous pour développer la notoriété de votre
+              marque dans un cadre de prestige où l&apos;excellence est à
+              l&apos;honneur.
             </p>
           </div>
 
           <button>Lire l&apos;article</button>
         </div>
 
-        <div className="bg-bgLight col-span-5"></div>
+        <div className="bg-bgLight col-span-5 grid items-center overflow-hidden">
+          <video className="m-auto scale-125 object-cover" autoPlay loop>
+            <source src="/magazine.mp4" type="video/mp4" />
+          </video>
+        </div>
       </section>
 
       <section className="overflow-hidden max-w-[1920px] m-auto">
@@ -110,109 +154,6 @@ export default function Home() {
           <SliderCards />
         </div>
       </section>
-
-      <footer className="myContainer bg-mainBlue text-white grid grid-cols-5">
-        <div className="grid grid-cols-2 gap-6 col-span-2">
-          <div className="space-y-4">
-            <h2 className="h2 text-lg">
-              <a href="">Heritage magazine</a>
-            </h2>
-            <ul>
-              <li>
-                <a href="" className="h3 text-white text-lg">
-                  A propos
-                </a>
-              </li>
-              <li>
-                <a href="" className="h3 text-white text-lg">
-                  Media kit / Prestations
-                </a>
-              </li>
-              <li>
-                <a href="" className="h3 text-white text-lg">
-                  Informations
-                </a>
-              </li>
-              <li>
-                <a href="" className="h3 text-white text-lg">
-                  Articles
-                </a>
-              </li>
-            </ul>
-          </div>
-
-          <div>
-            <h2 className="h2 text-center text-lg">
-              <a href="">Contact</a>
-            </h2>
-          </div>
-        </div>
-
-        <div className="flex gap-8 justify-center col-span-1">
-          {/* instagram */}
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            viewBox="0 0 24 24"
-            fill="none"
-            stroke="currentColor"
-            strokeWidth="2"
-            strokeLinecap="round"
-            strokeLinejoin="round"
-            className="w-10 h-auto"
-          >
-            <rect width="20" height="20" x="2" y="2" rx="5" ry="5" />
-            <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z" />
-            <line x1="17.5" x2="17.51" y1="6.5" y2="6.5" />
-          </svg>
-
-          {/* Facebook */}
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            viewBox="0 0 24 24"
-            fill="#ffffff"
-            stroke="#ffffff"
-            strokeWidth="1"
-            strokeLinecap="round"
-            strokeLinejoin="round"
-            className="w-10 h-auto"
-          >
-            <path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z" />
-          </svg>
-
-          {/* LinkedIn */}
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            viewBox="0 0 24 24"
-            fill="#ffffff"
-            stroke="#ffffff"
-            strokeWidth="0.5"
-            strokeLinecap="round"
-            strokeLinejoin="round"
-            className="w-10 h-auto"
-          >
-            <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z" />
-            <rect width="4" height="12" x="2" y="9" />
-            <circle cx="4" cy="4" r="2" />
-          </svg>
-        </div>
-
-        <div className="col-span-2 flex justify-end">
-          <div className="w-[70%] space-y-4">
-            <Image
-              src={logo}
-              alt="Illustration esthétique"
-              className="w-[200px]"
-            />
-
-            <p className="text-lg">
-              Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-              nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam
-              erat, sed diam voluptua. At vero eos et accusam et justo duo
-              dolores et ea rebum. Stet clita
-            </p>
-          </div>
-        </div>
-      </footer>
     </main>
   );
 }
