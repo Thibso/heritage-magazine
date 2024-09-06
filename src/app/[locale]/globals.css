@@ -8,15 +8,18 @@
   }
 
   .header-title {
-    @apply font-light text-base lg:text-xl uppercase;
+    @apply font-sfPro font-light text-base lg:text-lg uppercase;
+    line-height: 1.25em;
   }
 
   .h2 {
     @apply max-lg:text-center font-sfPro font-bold text-xl lg:text-2xl uppercase;
+    line-height: 1.25em;
   }
 
   .h3 {
     @apply max-lg:text-center font-sfPro font-semibold text-lg lg:text-xl text-orange;
+    line-height: 1.25em;
   }
 
   p {

@@ -9,12 +9,13 @@ type Params = {
 
 export async function generateMetadata({ params }: Params) {
   const locale = params.locale;
-  if (locale === "en") {
-    return {
-      title: "Titre EN",
-      description: "Description EN",
-    };
-  } else if (locale === "fr") {
+  // if (locale === "en") {
+  //   return {
+  //     title: "Titre EN",
+  //     description: "Description EN",
+  //   };
+  // } else
+  if (locale === "fr") {
     return {
       title:
         "(H)ERITAGE Magazine | Innovations en médecine esthétique & anti-âge",
@@ -53,11 +54,11 @@ export default function Home() {
             type="video/mp4"
           />
         </video>
-        <h2 className="absolute w-[70%] lg:w-fit top-[60%] lg:top-[65%] left-1/2 -translate-x-1/2 header-title text-white text-center font-semibold">
+        <h2 className="absolute w-[70%] lg:w-fit top-[60%] lg:top-[60%] left-1/2 -translate-x-1/2 header-title text-white text-center font-semibold">
           {t("title")}
         </h2>
 
-        <button className="bg-orange px-12 py-2 rounded-3xl absolute w-fit top-[80%] lg:top-[85%] left-1/2 -translate-x-1/2 text-white font-sfPro font-medium leading-none">
+        <button className="bg-orange px-12 py-2 rounded-3xl absolute w-fit top-[80%] lg:top-[80%] left-1/2 -translate-x-1/2 text-white font-sfPro font-medium leading-none">
           Découvrir
         </button>
       </section>

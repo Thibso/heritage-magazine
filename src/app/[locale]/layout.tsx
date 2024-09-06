@@ -3,6 +3,7 @@ import { getMessages } from "next-intl/server";
 import localFont from "next/font/local";
 import Footer from "../components/layout/Footer";
 import Header from "../components/layout/Header";
+import favicon from "../favicon.png";
 import "./globals.css";
 
 // const mona = localFont({
@@ -42,6 +43,9 @@ export default async function LocaleLayout({
 
   return (
     <html lang={locale} className={sfPro.variable}>
+      <head>
+        <link rel="shortcut icon" href={favicon.src} sizes="any" />
+      </head>
       <body>
         <Header />
         <NextIntlClientProvider messages={messages}>
