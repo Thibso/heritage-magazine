@@ -45,10 +45,12 @@ export default async function LocaleLayout({
     <html lang={locale} className={sfPro.variable}>
       <head>
         <link rel="shortcut icon" href={favicon.src} sizes="any" />
+        <meta property="og:type" content="website" />
         <meta
           property="og:title"
           content="(H)ERITAGE Magazine | Innovations en médecine esthétique & anti-âge"
         />
+        <meta property="og:site_name" content="(H)ERITAGE Magazine" />
         <meta
           property="og:description"
           content="(H)ERITAGE Magazine. Média premium dédié à l'innovation en chirurgie, médecine et dermatologie esthétique. Découvrez (H)ERITAGE Magazine"
@@ -57,6 +59,7 @@ export default async function LocaleLayout({
           property="og:image"
           content="https://magazine-heritage.com/magazine-innovation-sante.jpg"
         />
+        <meta property="og:url" content="https://magazine-heritage.com/fr" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
