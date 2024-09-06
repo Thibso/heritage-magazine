@@ -35,6 +35,7 @@ export default function Home() {
           height="auto"
           autoPlay
           muted
+          playsInline
           loop
         >
           <source src="/motion-logo.mp4" type="video/mp4" />
@@ -129,22 +130,8 @@ export default function Home() {
         </div>
 
         <div className="bg-bgLight col-span-5 grid items-center overflow-hidden">
-          {/* <div
-            dangerouslySetInnerHTML={{
-              __html: `
-        <video
-          loop
-          muted
-          autoplay
-          playsinline
-          src="/magazine.mp4"
-          class="m-auto scale-[1.5] lg:scale-[2] object-cover"
-        />,
-      `,
-            }}
-          ></div> */}
           <video
-            className="m-auto scale-[1.5] lg:scale-[2] object-cover"
+            className="m-auto scale-[1.85] lg:scale-[2] object-cover"
             autoPlay
             muted
             loop
