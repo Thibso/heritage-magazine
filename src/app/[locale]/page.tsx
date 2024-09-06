@@ -30,7 +30,7 @@ export default function Home() {
     <main>
       <section className="myContainer relative overflow-hidden grid items-center bg-headerBlue h-screen max-h-[500px] lg:max-h-[1080px] w-full">
         <video
-          className="absolute h-full top-0 left-0 right-0 bottom-0"
+          className="absolute h-full top-0 left-1/2 -translate-x-1/2 right-0 bottom-0 max-w-[2550px]"
           autoPlay
           muted
           playsInline
