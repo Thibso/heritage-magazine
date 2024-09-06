@@ -45,6 +45,10 @@ export default async function LocaleLayout({
   return (
     <html lang={locale} className={sfPro.variable}>
       <head>
+        <meta
+          name="google-site-verification"
+          content="-QKRvd7-p6MLOV-f9k66HH_c-pyIvALPTOPKHD2Sghk"
+        />
         <link rel="shortcut icon" href={favicon.src} sizes="any" />
         <meta property="og:type" content="website" />
         <meta
