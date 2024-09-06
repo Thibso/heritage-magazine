@@ -30,7 +30,19 @@ export default function Home() {
     <main>
       <section className="myContainer relative overflow-hidden grid items-center bg-headerBlue h-screen max-h-[500px] lg:max-h-[1080px] w-full">
         <video
-          className="absolute h-full top-0 left-1/2 -translate-x-1/2 right-0 bottom-0 max-w-[2550px]"
+          className="max-lg:hidden absolute h-full top-0 left-1/2 -translate-x-1/2 right-0 bottom-0 max-w-[2550px]"
+          autoPlay
+          muted
+          playsInline
+          loop
+        >
+          <source
+            src="/magazine-esthetique-heritage-antiage-3.mp4"
+            type="video/mp4"
+          />
+        </video>
+        <video
+          className="lg:hidden absolute h-full top-0 left-1/2 -translate-x-1/2 right-0 bottom-0 max-w-[2550px]"
           autoPlay
           muted
           playsInline
@@ -147,7 +159,7 @@ export default function Home() {
       </section>
 
       <section className="overflow-hidden max-w-[1920px] m-auto">
-        <div className="myContainer max-w-screen-xl m-auto space-y-8 lg:space-y-16">
+        <div className="myContainer max-w-screen-xl m-auto space-y-8 lg:space-y-16 lg:pb-[70px]">
           <div className="text-center">
             <h2 className="h2 text-mainBlue">
               (H)eritage un Magazine dédié aux acteurs de l&apos;esthétique
