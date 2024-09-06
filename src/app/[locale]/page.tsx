@@ -28,17 +28,16 @@ export default function Home() {
   const t = useTranslations("HomePage");
   return (
     <main>
-      <section className="myContainer overflow-hidden relative grid items-center bg-headerBlue h-screen max-h-[500px] lg:max-h-[1080px] w-full">
+      <section className="myContainer relative overflow-hidden grid items-center bg-headerBlue h-screen max-h-[500px] lg:max-h-[1080px] w-full">
         <video
-          className="m-auto w-[70%] lg:w-[60%]"
-          height="auto"
+          className="absolute h-full top-0 left-0 right-0 bottom-0"
           autoPlay
           muted
           playsInline
           loop
         >
           <source
-            src="/magazine-esthetique-heritage-antiage.mp4"
+            src="/magazine-esthetique-heritage-antiage-2.mp4"
             type="video/mp4"
           />
         </video>

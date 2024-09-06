@@ -3,15 +3,17 @@ import logo from "../../img/heritage-antiage-magazine-innovation-sante.png";
 
 export default function Header() {
   return (
-    <header className="bg-mainBlue shadow fixed top-0 w-full left-1/2 -translate-x-1/2 m-auto z-[99] px-5 py-3 lg:px-16 lg:py-5 flex justify-between max-w-[1920px] items-center">
-      <Image
-        src={logo}
-        alt="Logo (H)ERITAGE Magazine"
-        className="h-[30px] object-contain w-fit"
-      />
+    <header className="bg-mainBlue fixed top-0 w-full left-1/2 -translate-x-1/2 m-auto z-[99] px-5 py-3 lg:px-16 lg:py-5 flex justify-between max-w-[1920px] items-center">
+      <a href="/">
+        <Image
+          src={logo}
+          alt="Logo (H)ERITAGE Magazine"
+          className="h-[20px] object-contain w-fit"
+        />
+      </a>
 
       {/* MOBILE */}
-      <svg
+      {/* <svg
         xmlns="http://www.w3.org/2000/svg"
         width="32"
         height="32"
@@ -25,10 +27,10 @@ export default function Header() {
         <line x1="4" x2="20" y1="12" y2="12" />
         <line x1="4" x2="20" y1="6" y2="6" />
         <line x1="4" x2="20" y1="18" y2="18" />
-      </svg>
+      </svg> */}
 
       {/* DESKTOP */}
-      <ul className="flex gap-4 text-white">
+      <ul className="hidden gap-4 text-white">
         <li>
           <a href="" className="font-sfPro font-light uppercase">
             A propos
