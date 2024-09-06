@@ -14,8 +14,8 @@ export default function Footer() {
             />
 
             <p className="text-lg">
-              Votre nouveau rendez-vous incontournable dans l'univers vibrant de
-              l'innovation en chirurgie et médecine esthétique.
+              Votre nouveau rendez-vous incontournable dans l&apos;univers
+              vibrant de l&apos;innovation en chirurgie et médecine esthétique.
             </p>
           </div>
         </div>
