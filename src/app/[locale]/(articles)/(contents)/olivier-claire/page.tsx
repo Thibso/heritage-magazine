@@ -55,7 +55,7 @@ export default function Test() {
             </div>
 
             <div className="space-y-2">
-              <h1 className="text-left font-sfPro font-bold text-3xl lg:text-6xl xl:text-7xl uppercase">
+              <h1 className="text-left font-sfPro font-bold text-3xl lg:text-5xl xl:text-7xl uppercase">
                 {t("h1")}
               </h1>
               <h2 className="text-left font-sfPro font-semibold text-sm lg:text-xl uppercase">
@@ -68,7 +68,7 @@ export default function Test() {
             </div>
           </div>
 
-          <p className="text-left font-sfPro font-bold text-3xl lg:text-6xl xl:text-7xl">
+          <p className="text-left font-sfPro font-bold text-3xl lg:text-4xl xl:text-7xl">
             &quot;{t("abstract")}&quot;
           </p>
         </div>
