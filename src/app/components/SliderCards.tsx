@@ -15,6 +15,7 @@ import "swiper/css/pagination";
 
 // import required modules
 import { Pagination } from "swiper/modules";
+import Button from "./buttons/Button";
 
 export default function SliderCards() {
   const sliders = [
@@ -79,19 +80,14 @@ export default function SliderCards() {
       >
         {sliders.map((slide) => (
           <SwiperSlide key={slide.title}>
-            <a href={slide.link}>
-              <Image
-                src={slide.img}
-                alt={slide.alt}
-                className="w-full h-auto"
-              />
-              <div className="flex justify-between mt-4">
-                <h4 className="uppercase text-base lg:text-xl font-sfPro font-light">
-                  {slide.title}
-                </h4>
-                {/* <button>Lire l&apos;article</button> */}
-              </div>
-            </a>
+            <Image src={slide.img} alt={slide.alt} />
+            <div className="flex justify-between mt-4">
+              <h4 className="uppercase text-base lg:text-xl font-sfPro font-light">
+                {slide.title}
+              </h4>
+
+              <Button link={slide.link}>Lire l&apos;article</Button>
+            </div>
           </SwiperSlide>
         ))}
       </Swiper>
