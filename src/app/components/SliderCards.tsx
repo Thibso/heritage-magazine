@@ -80,7 +80,11 @@ export default function SliderCards() {
         {sliders.map((slide) => (
           <SwiperSlide key={slide.title}>
             <a href={slide.link}>
-              <Image src={slide.img} alt={slide.alt} />
+              <Image
+                src={slide.img}
+                alt={slide.alt}
+                className="w-full h-auto"
+              />
               <div className="flex justify-between mt-4">
                 <h4 className="uppercase text-base lg:text-xl font-sfPro font-light">
                   {slide.title}
