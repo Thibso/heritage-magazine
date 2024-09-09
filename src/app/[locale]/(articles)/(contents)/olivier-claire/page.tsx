@@ -36,7 +36,7 @@ export default function Test() {
             src={header}
             alt={t("img_alt")}
             title={t("img_alt")}
-            className="size-full max-lg:h-[400px] object-cover object-top"
+            className="size-full max-md:h-[400px] max-lg:h-[550px] object-cover object-top max-lg:m-auto"
           />
         </div>
 
@@ -55,7 +55,7 @@ export default function Test() {
             </div>
 
             <div className="space-y-2">
-              <h1 className="text-left font-sfPro font-bold text-3xl lg:text-7xl uppercase">
+              <h1 className="text-left font-sfPro font-bold text-3xl lg:text-6xl xl:text-7xl uppercase">
                 {t("h1")}
               </h1>
               <h2 className="text-left font-sfPro font-semibold text-sm lg:text-xl uppercase">
@@ -68,7 +68,7 @@ export default function Test() {
             </div>
           </div>
 
-          <p className="text-left font-sfPro font-bold text-3xl lg:text-7xl">
+          <p className="text-left font-sfPro font-bold text-3xl lg:text-6xl xl:text-7xl">
             &quot;{t("abstract")}&quot;
           </p>
         </div>
@@ -87,7 +87,7 @@ export default function Test() {
               src={logo}
               alt="Logo Olivier Claire"
               title="Logo Olivier Claire"
-              className="size-full max-lg:max-h-[350px] object-contain m-auto"
+              className="size-full max-lg:max-h-[350px] max-lg:max-w-[450px] object-contain m-auto"
             />
             <span className="lg:hidden text-orange uppercase font-sfPro font-light">
               Découvrir la marque +
