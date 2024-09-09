@@ -18,8 +18,9 @@ export async function generateMetadata({ params }: Params) {
   // } else
   if (locale === "fr") {
     return {
-      title: "Dr Adda",
-      description: "Articles description",
+      title: "Dr Adda | Interview sur le Laser Neo ELITE Aerolase | (H)ERITAGE",
+      description:
+        "Découvrez en exclusivité l’interview du Dr Adda sur le laser NEO Elite, le nouveau dispositif d’Aerolase. (H)ERITAGE Magazine",
     };
   }
 }
@@ -55,7 +56,7 @@ export default function Test() {
             </div>
 
             <div className="space-y-2">
-              <h1 className="text-left font-sfPro font-bold text-3xl lg:text-5xl xl:text-7xl uppercase">
+              <h1 className="text-left font-sfPro font-bold text-3xl lg:text-5xl xl:text-6xl uppercase">
                 {t("h1")}
               </h1>
               <h2 className="text-left font-sfPro font-semibold text-sm lg:text-xl uppercase">
@@ -64,11 +65,13 @@ export default function Test() {
             </div>
 
             <div>
-              <Button link="#">{t("cta_text")}</Button>
+              <Button link="https://aerolase.com/fr/" target="_blank">
+                {t("cta_text")}
+              </Button>
             </div>
           </div>
 
-          <p className="text-left font-sfPro font-bold text-3xl lg:text-5xl xl:text-7xl uppercase">
+          <p className="text-left font-sfPro font-bold text-3xl lg:text-5xl xl:text-6xl uppercase">
             &quot;{t("abstract")}&quot;
           </p>
         </div>
@@ -78,7 +81,7 @@ export default function Test() {
         {/* Pub */}
         <div className="col-span-2">
           <a
-            href="#"
+            href="https://aerolase.com/fr/"
             target="_blank"
             title="La marque Olivier Claire"
             className="lg:sticky lg:top-[35%] flex flex-col items-center gap-4"

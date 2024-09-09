@@ -8,12 +8,27 @@ export const routing = defineRouting({
   // Used when no locale matches
   defaultLocale: "fr",
 
-  // pathnames: {
-  //   "/": "/",
-  //   "/olivier-claire": {
-  //     fr: "/test",
-  //   },
-  // },
+  pathnames: {
+    "/": "/",
+    "/olivier-claire": {
+      fr: "/interview-couraud-olivier-claire-histoire-marque",
+    },
+    "/benjamin-ascher": {
+      fr: "/interview-docteur-ascher-benjamin-thinkin-medical-aesthetic-injectable-summit",
+    },
+    "/dr-adda": {
+      fr: "/interview-docteur-adda-jean-marc-aerolase-laser-neo-elite",
+    },
+    "/barbara-hersant": {
+      fr: "/interview-professeur-hersant-barbara-aime-communication-digitale-medecins",
+    },
+    "/julien-vervel": {
+      fr: "/dossier-vervel-julien-consultant-e-reputation-medicale",
+    },
+    "/hugo-nivault": {
+      fr: "/dossier-nivault-hugo-healthcie-preparer-son-projet-digital-sante",
+    },
+  },
 });
 
 // Lightweight wrappers around Next.js' navigation APIs
