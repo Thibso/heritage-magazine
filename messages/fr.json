@@ -1,5 +1,48 @@
 {
   "HomePage": {
     "title": "Dédié à l'innovation en chirurgie & médecine esthétique"
+  },
+  "Articles": {
+    "Olivier_Claire": {
+      "h1": "Olivier Claire, l’histoire",
+      "abstract": "NOTRE OFFRE EST PARTICULIÈREMENT DIFFÉRENCIANTE",
+      "author": "par Olivier Couraud",
+      "tags": {
+        "t1": {
+          "title": "cosmétique"
+        },
+        "t2": {
+          "title": "esthétique"
+        },
+        "t3": {
+          "title": "médecine"
+        }
+      },
+      "img_alt": "Olivier Claire portrait",
+      "p1": {
+        "title": "Votre parcours est fascinant et unique, de Santiago du Chili à la création d’Olivier Claire. Comment ces différentes étapes de votre vie ont-elles influencé votre vision et votre approche en cosmétique ?",
+        "content": "Un raccourci rapide. Oui, je suis né au Chili. J’y ai passé ma toute petite enfance. Je garde de ce pays des souvenirs flous, mais colorés, olfactifs, des impressions qui m’ont, sans doute, inconsciemment marqué. Je conserve davantage de sensations, d’émotions, de souvenirs, du Maroc où j’ai vécu enfant. Mais surtout, j’ai gravé en mémoire les gestes quotidiens de ma mère devant son miroir, son sillage très Guerlain, lorsqu’elle se parfumait. Ces images, ces instants, m’ont habité et m’habitent, encore. Ce sont eux qui ont forgé ma passion pour les cosmétiques, qui m’ont invité à me préoccuper de la beauté au féminin, comme au masculin"
+      },
+      "p2": {
+        "title": "Vous avez commencé à composer vos premières crèmes à l’âge de 8 ans. Quelles étaient vos inspirations à cet âge-là et comment cette passion pour les plantes s’est-elle développée au fil des années ?",
+        "content": "J’ai toujours été fasciné par les plantes et leurs pouvoirs. J’ai aussi eu la chance d’évoluer entre jardins fleuris, dunes, et rivages où des centaines de plantes, certaines très résistantes, s’épanouissaient. Gamin, dès lors, je n’ai eu qu’une envie, me consacrer à ce monde de la beauté pour rendre les femmes heureuses, guetter cette petite étincelle qui s’allume dans leur regard, lorsque la glace leur renvoie l’image d’un visage, d’une peau magnifiée. Il est vrai que j’ai élaboré mes premières crèmes à l’âge ou les garçons préfé"
+      },
+      "p3": {
+        "title": "Après donc, une carrière dans l’industrie pharmaceutique, qu’est-ce qui vous a poussé à créer votre propre marque de cosmétiques ?",
+        "content": "J’ai eu la chance de faire mes premières armes dans l’industrie pharmaceutique chez Pierre Fabre, véritable précurseur en Dermo-cosmétique et Phytothérapie, j’ai beaucoup appris tant auprès des médecins que des méthodes et de la rigueur afférentes à cet univers. Après 10 ans dans l’industrie pharmaceutique puis l’ouverture d’un hôtel, le monde de l’hospitalité me séduisait et me séduit toujours, j’ai souhaité consacrer toute mon énergie à la création de la marque Olivier Claire, qui restait une idée forte. Je mets aujourd’hui à profit toutes ces connaissances acquises dans les secteurs de la pharmacie et de l’hôtellerie, comme la notion de service qui est pour moi un critère clé de succès. Pionnier, en ce qu’on nomme aujourd’hui « la clean beauty », j’ai eu l’intuition et l’envie, fort de mes réflexions, de mes observations et de mon expérience, de développer ma propre marque, autour de deux axes forts : l’efficacité et l’écoresponsabilité en utilisant des ingrédients naturels, 100% français. La nature m’inspire. J’y puise tous les précieux actifs de ma gamme. Trois mots-clés, définissent l’univers d’Olivier Claire : naturalité, efficacité, authenticité. Depuis 10 ans, je ne déroge pas à cette règle. C’est ainsi que dans l’univers très concurrentiel de la cosmétique, Olivier Claire a tracé son sillon, rectiligne, sans concession, s’imposant comme une marque premium, à base d’actifs hautement concentrés. Notre gamme évolue, aux rythmes des recherches menées pour Olivier Claire, par des experts, des scientifiques, des médecins et en étroite collaboration avec le Docteur Aurélie Furiga, notre responsable scientifique."
+      },
+      "p4": {
+        "title": "Votre marque, Olivier Claire se distingue par des actifs végétaux hautement concentrés. Pouvez-vous nous expliquer le processus de sélection et d’intégration de ces actifs dans vos produits ?",
+        "content": "Chez Olivier Claire, nous privilégions l’efficacité, l’originalité, la rareté des actifs. Nous sélectionnons, avec rigueur, les meilleurs actifs végétaux, issus de l’agriculture biologique et de la biotechnologie, en respectant la biodiversité. Et en ne faisant aucun test sur les animaux. C’est notre force pour proposer des produits anti-âge éthiques, réellement efficaces. Chacun des soins de la gamme se compose d’un ou de plusieurs actifs agissant sur un ou plusieurs des facteurs capables de lutter contre le vieillissement cutané : l’hydratation, la régénération cellulaire, le stress oxydatif, la prévention des taches brunes. Leur alliance, explique les résultats visibles immédiatement, qui se prolongent, amplifiés, dans le temps. Nos produits faciles à appliquer, reflètent les ingrédients qui les composent. Nos actifs s’expriment librement. Ils produisent des textures actives qui s’adaptent à chaque type de peau pour une efficacité optimale et une expérience personnelle, exclusive tant sur le plan olfactif que sensoriel."
+      },
+      "p5": {
+        "title": "Les innovations technologiques jouent un rôle clé dans le développement de vos produits. Pouvez-vous nous parler des technologies spécifiques que vous utilisez et de leur impact sur l’efficacité de vos crèmes ?",
+        "content": "Dès la création de nos premiers soins majeurs de beauté, avec les experts, les équipes qui collaborent avec Olivier Claire, nous avons mis un point d’honneur à sélectionner des actifs obtenus par biotechnologie comme les cellules souches végétales de Criste-marine. Cette plante qui se développe sur les côtes ouest de la France, principalement en Bretagne, au bord de la mer, dans les dunes, les rochers, résiste aux embruns, à l’iode, au vent, à la sécheresse, au soleil, aux variations de température. Ses propriétés de défense et de régénération sont dues, en majorité, à ses cellules natives, responsables de chaque formation d’organes. Elles assurent une croissance harmonieuse. L’ensemble du règne végétal et animal, homme compris, dispose de cellules souches. Quant aux cellules natives végétales, ce sont des cellules indifférenciées qui, grâce à leur capacité à s’autorenouveler à l’infini, à se différencier en différents types cellulaires constituent des ingrédients innovants de premier choix. Ainsi les propriétés uniques des cellules natives de Criste-marine exercent chez l’homme des effets bénéfiques, notamment une stimulation significative de la régénération de l’épiderme. "
+      },
+      "p6": {
+        "title": "Quels sont les futurs projets pour Olivier Claire en termes d’innovation produit et d’expansion de la marque ?",
+        "content": "Notre développement et nos innovations sont le fruit d’une écoute attentive des attentes et besoins des client – e – s et de nos partenaires. Notre offre est particulièrement différenciante tant par la qualité de nos produits et de nos protocoles cabines. Notre distribution hypersélective correspond totalement aux besoins des Spécialistes de l’Anti-Age. Notre dernier lancement : ULTRA - Anti-Age Buvable, un grand succès, s’inscrit dans cette démarche innovante : offrir un Complément Alimentaire agissant sur les signes de l’âge mais également sur la vitalité ! La Gamme Anti-Age Olivier Claire est courte mais permet de couvrir les besoins de la prévention à la prise en charge des peaux matures… L’idée est de proposer uniquement des produits particulièrement innovants et/ou répondants à une réelle demande. Nous pouvons d’ores et déjà vous annoncer que notre team R&D finalise la crème ULTRA. Elle sera commercialisée très prochainement. Comme son nom l’indique, cette crème est plus qu’un soin, c’est l’assurance d’une véritable renaissance cellulaire de la peau et avant cet hiver nous allons lancer le Baume Lèvres Haute Performance aux propriétés nourrissantes et réparatrices. Nous sommes dans un cycle de vie de la marque très vertueux. Ainsi, en matière de distribution nous nous concentrons, en priorité, sur le développement de nos partenariats en France en veillant à la spécificité de chaque canal pour un accompagnement sur mesure. Nous partons à la conquête de l’Europe. L’Asie aussi s’intéresse de près à notre marque. Je garde également une ligne directrice : garantir l’efficacité et la qualité de nos produits."
+      }
+    }
   }
 }

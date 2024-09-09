@@ -7,30 +7,9 @@ import Header from "../components/layout/Header";
 import favicon from "../favicon.png";
 import "./globals.css";
 
-// const mona = localFont({
-//   src: [
-//     {
-//       path: "./Mona-Sans-LightWide.ttf",
-//       weight: "300",
-//       style: "normal",
-//     },
-//     {
-//       path: "./Mona-Sans-MediumWide.ttf",
-//       weight: "500",
-//       style: "normal",
-//     },
-//     {
-//       path: "./Mona-Sans-BoldWide.ttf",
-//       weight: "700",
-//       style: "normal",
-//     },
-//   ],
-//   variable: "--font-mona",
-// });
-
 const sfPro = localFont({
   src: "./SF-Pro.ttf",
-  variable: "--font-mona",
+  variable: "--font-sfPro",
 });
 
 export default async function LocaleLayout({
