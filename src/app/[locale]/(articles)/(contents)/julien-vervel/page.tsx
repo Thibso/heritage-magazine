@@ -1,6 +1,6 @@
 import Button from "@/app/components/buttons/Button";
-import logo from "@/app/img/articles/olivier_claire/logo-olivier-claire-esthetique-haut-de-gamme.jpg";
-import header from "@/app/img/articles/olivier_claire/portrait-olivier-claire.jpg";
+import header from "@/app/img/articles/julien_vervel/Julien-vervel-consultant-médical-laboratoires.jpg";
+import logo from "@/app/img/articles/julien_vervel/agence-web-communicationmedecin-paris.png";
 import { useTranslations } from "next-intl";
 import Image from "next/image";
 
@@ -18,25 +18,25 @@ export async function generateMetadata({ params }: Params) {
   // } else
   if (locale === "fr") {
     return {
-      title: "Olivier Claire",
+      title: "Hugo Nivault",
       description: "Articles description",
     };
   }
 }
 
 export default function Test() {
-  const t = useTranslations("Articles.Olivier_Claire");
+  const t = useTranslations("Articles.Julien_Vervel");
   const tags = ["t1", "t2", "t3"] as const;
-  const contents = ["p1", "p2", "p3", "p4", "p5", "p6"] as const;
+  const contents = ["p1", "p2", "p3"] as const;
   return (
     <>
       <section className="myContainer lg:space-x-16 full-screen max-lg:flex max-lg:flex-col-reverse max-lg:gap-10 lg:grid lg:grid-cols-5 text-mainBlue">
-        <div className="lg:col-span-2">
+        <div className="lg:col-span-2 max-h-full">
           <Image
             src={header}
             alt={t("img_alt")}
             title={t("img_alt")}
-            className="size-full max-md:h-[400px] max-lg:h-[550px] object-cover lg:object-right max-lg:m-auto"
+            className="max-md:h-[400px] max-lg:h-[550px] size-full object-cover max-lg:m-auto"
           />
         </div>
 
@@ -80,14 +80,14 @@ export default function Test() {
           <a
             href="#"
             target="_blank"
-            title="La marque Olivier Claire"
+            title="L'agence Healthcie"
             className="lg:sticky lg:top-[35%] flex flex-col items-center gap-4"
           >
             <Image
               src={logo}
-              alt="Logo Olivier Claire"
-              title="Logo Olivier Claire"
-              className="size-full max-lg:max-h-[350px] max-lg:max-w-[450px] object-contain m-auto"
+              alt="Logo HEALTHCIE"
+              title="Logo HEALTHCIE"
+              className="size-full max-h-[350px] max-lg:max-w-[450px] object-contain m-auto"
             />
             <span className="lg:hidden text-orange uppercase font-sfPro font-light">
               {t("cta_text")} +

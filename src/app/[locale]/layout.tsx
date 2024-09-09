@@ -4,7 +4,6 @@ import { getMessages } from "next-intl/server";
 import localFont from "next/font/local";
 import Footer from "../components/layout/Footer";
 import Header from "../components/layout/Header";
-import favicon from "../favicon.png";
 import "./globals.css";
 
 const sfPro = localFont({
@@ -28,7 +27,12 @@ export default async function LocaleLayout({
           name="google-site-verification"
           content="-QKRvd7-p6MLOV-f9k66HH_c-pyIvALPTOPKHD2Sghk"
         />
-        <link rel="shortcut icon" href={favicon.src} sizes="any" />
+        <link
+          rel="icon"
+          href="/icon?<generated>"
+          type="image/<generated>"
+          sizes="<generated>"
+        />
         <meta property="og:type" content="website" />
         <meta
           property="og:title"

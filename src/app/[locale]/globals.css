@@ -8,7 +8,7 @@
 
 @layer base {
   .myContainer {
-    @apply px-4 py-12 md:px-10 md:py-12 xl:px-24 xl:py-20 max-w-[1920px] m-auto;
+    @apply relative px-4 py-12 md:px-10 md:py-12 xl:px-24 xl:py-20 max-w-[1920px] m-auto;
   }
 
   .header-title {
@@ -89,7 +89,8 @@
 
 @media screen and (min-width: 1024px) {
   .full-screen {
-    height: calc(100vh - 60px);
+    height: 100vh;
+    max-height: calc(100vh - 60px);
     margin-top: 60px;
   }
 }

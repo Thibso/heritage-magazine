@@ -1,6 +1,6 @@
 import Button from "@/app/components/buttons/Button";
-import logo from "@/app/img/articles/olivier_claire/logo-olivier-claire-esthetique-haut-de-gamme.jpg";
-import header from "@/app/img/articles/olivier_claire/portrait-olivier-claire.jpg";
+import header from "@/app/img/articles/benjamin_ascher/dr-benjamin-ascher-thinkin.jpg";
+import logo from "@/app/img/articles/benjamin_ascher/logo-thinkin-dr-ascher.webp";
 import { useTranslations } from "next-intl";
 import Image from "next/image";
 
@@ -18,16 +18,16 @@ export async function generateMetadata({ params }: Params) {
   // } else
   if (locale === "fr") {
     return {
-      title: "Olivier Claire",
+      title: "Hugo Nivault",
       description: "Articles description",
     };
   }
 }
 
 export default function Test() {
-  const t = useTranslations("Articles.Olivier_Claire");
+  const t = useTranslations("Articles.Benjamin_Asher");
   const tags = ["t1", "t2", "t3"] as const;
-  const contents = ["p1", "p2", "p3", "p4", "p5", "p6"] as const;
+  const contents = ["p1", "p2", "p3", "p4", "p5", "p6", "p7"] as const;
   return (
     <>
       <section className="myContainer lg:space-x-16 full-screen max-lg:flex max-lg:flex-col-reverse max-lg:gap-10 lg:grid lg:grid-cols-5 text-mainBlue">
@@ -36,7 +36,7 @@ export default function Test() {
             src={header}
             alt={t("img_alt")}
             title={t("img_alt")}
-            className="size-full max-md:h-[400px] max-lg:h-[550px] object-cover lg:object-right max-lg:m-auto"
+            className="size-full max-md:h-[400px] max-lg:h-[550px] object-cover object-top max-lg:m-auto"
           />
         </div>
 

@@ -22,37 +22,37 @@ export default function SliderCards() {
       img: ascher,
       alt: "Dr Ascher Benjamin - (H)ERITAGE Magazine",
       title: "Dr Benjamin Ascher",
-      link: "",
+      link: "/fr/benjamin-ascher",
     },
     {
       img: claire,
       alt: "Olivier Claire - (H)ERITAGE Magazine",
       title: "Olivier Claire",
-      link: "",
+      link: "/fr/olivier-claire",
     },
     {
       img: aerolase,
       alt: "Dr Adda - (H)ERITAGE Magazine",
       title: "Dr Adda",
-      link: "",
+      link: "/fr/dr-adda",
     },
     {
       img: barbara,
       alt: "Pr Hersant - (H)ERITAGE Magazine",
       title: "Pr Hersant Barbara",
-      link: "",
+      link: "/fr/barbara-hersant",
     },
     {
       img: julien,
       alt: "Julien Vervel - (H)ERITAGE Magazine",
       title: "Julien Vervel",
-      link: "",
+      link: "/fr/julien-vervel",
     },
     {
       img: hugo,
       alt: "Hugo Nivault - (H)ERITAGE Magazine",
       title: "Hugo Nivault",
-      link: "",
+      link: "/fr/hugo-nivault",
     },
   ];
 
@@ -79,13 +79,15 @@ export default function SliderCards() {
       >
         {sliders.map((slide) => (
           <SwiperSlide key={slide.title}>
-            <Image src={slide.img} alt={slide.alt} />
-            <div className="flex justify-between mt-4">
-              <h4 className="uppercase text-base lg:text-xl font-sfPro font-light">
-                {slide.title}
-              </h4>
-              {/* <button>Lire l&apos;article</button> */}
-            </div>
+            <a href={slide.link}>
+              <Image src={slide.img} alt={slide.alt} />
+              <div className="flex justify-between mt-4">
+                <h4 className="uppercase text-base lg:text-xl font-sfPro font-light">
+                  {slide.title}
+                </h4>
+                {/* <button>Lire l&apos;article</button> */}
+              </div>
+            </a>
           </SwiperSlide>
         ))}
       </Swiper>
