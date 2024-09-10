@@ -1,11 +1,11 @@
 import Button from "@/app/components/buttons/Button";
-import hugo from "@/app/img/antiage-magazine-heritage-sante-innovation.jpg";
-import adda from "@/app/img/article-heritage-magazine-aerolase.jpg";
-import ascher from "@/app/img/article-heritage-magazine-benjamin-ascher.jpg";
-import olivier from "@/app/img/article-heritage-magazine-olivier-claire.jpg";
+import barbara from "@/app/img/articles/barbara_hersant/pr-hersant-barabara-chirurgie-esthetique-paris.jpg";
+import ascher from "@/app/img/articles/benjamin_ascher/dr-benjamin-ascher-thinkin.jpg";
+import adda from "@/app/img/articles/dr_adda/dr-adda-aerolase-laser-elite.jpg";
+import hugo from "@/app/img/articles/hugo_nivault/hugo-nivault-chef-projet-digital-healthcie.jpg";
+import julien from "@/app/img/articles/julien_vervel/Julien-vervel-consultant-médical-laboratoires.jpg";
+import olivier from "@/app/img/articles/olivier_claire/portrait-olivier-claire.jpg";
 import logo from "@/app/img/heritage-magazine-anti-age-innovation.png";
-import julien from "@/app/img/magazine-heritage-innovation-sante.jpg";
-import barbara from "@/app/img/pr-hersant-barbara-magazine-heritage.jpg";
 import Image from "next/image";
 
 type Params = {
@@ -106,7 +106,7 @@ export default function Articles() {
                 src={olivier}
                 alt="Olivier Claire HERITAGE Magazine"
                 title="Olivier Claire HERITAGE Magazine"
-                className="w-full h-auto object-contain lg:h-[370px] lg:object-cover"
+                className="w-full h-auto object-contain lg:h-[370px] lg:object-cover object-top"
               />
             </div>
           </div>
@@ -117,7 +117,7 @@ export default function Articles() {
                 src={adda}
                 alt="Aerolase HERITAGE Magazine"
                 title="Aerolase HERITAGE Magazine"
-                className="w-full h-auto object-contain lg:h-[370px] lg:object-cover"
+                className="w-full h-auto object-contain lg:h-[370px] lg:object-cover object-top"
               />
             </div>
 
@@ -187,7 +187,7 @@ export default function Articles() {
                 src={julien}
                 alt="Julien Vervel HERITAGE Magazine"
                 title="Julien Vervel HERITAGE Magazine"
-                className="w-full h-auto object-contain lg:h-[370px] lg:object-cover"
+                className="w-full h-auto object-contain lg:h-[370px] lg:object-cover object-top"
               />
             </div>
 
@@ -242,7 +242,7 @@ export default function Articles() {
                 src={hugo}
                 alt="Hugo Nivault HERITAGE Magazine"
                 title="Hugo Nivault HERITAGE Magazine"
-                className="w-full h-auto object-contain lg:h-[370px] lg:object-cover"
+                className="w-full h-auto object-contain lg:h-[370px] lg:object-cover object-top"
               />
             </div>
           </div>
