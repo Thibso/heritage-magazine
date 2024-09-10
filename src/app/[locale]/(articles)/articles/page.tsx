@@ -22,8 +22,9 @@ export async function generateMetadata({ params }: Params) {
   // } else
   if (locale === "fr") {
     return {
-      title: "Barbara Hersant",
-      description: "Articles description",
+      title: "Innovations en chirurgie & médecine esthétique | Articles",
+      description:
+        "Découvrz toutes les dernières innovations en chirurgie esthétique & médecine anti-âge. Articles & interview (H)ERITAGE.",
     };
   }
 }
@@ -31,28 +32,33 @@ export async function generateMetadata({ params }: Params) {
 export default function Articles() {
   return (
     <>
-      <section className="myContainer bg-mainBlue mt-[44px] lg:mt-[60px]">
-        <Image src={logo} alt="" title="" className="" />
-        <h1 className="header-title text-white">
+      <section className="myContainer bg-mainBlue mt-[44px] lg:mt-[60px] space-y-6">
+        <Image
+          src={logo}
+          alt="Logo (H)RITAGE Magazine"
+          title="Logo (H)RITAGE Magazine"
+          className="m-auto"
+        />
+        <h1 className="header-title text-white text-center">
           LE MÉDIA DÉDIÉ À L’INNOVATION EN SANTÉ
         </h1>
       </section>
 
       <section className="myContainer text-mainBlue">
         <div className="space-y-20 max-w-screen-xl m-auto">
-          <div className="max-lg:flex max-lg:flex-col max-lg:gap-6 lg:grid lg:grid-cols-5 space-x-12 ">
+          <div className="max-lg:flex max-lg:flex-col max-lg:gap-6 lg:grid lg:grid-cols-5 lg:space-x-12 ">
             <div className="col-span-2">
               <Image
                 src={ascher}
-                alt=""
-                title=""
-                className="w-full h-[370px] object-cover"
+                alt="Dr Benjamin Ascher HERITAGE Magazine"
+                title="Dr Benjamin Ascher HERITAGE Magazine"
+                className="w-full h-auto object-contain lg:h-[370px] lg:object-cover"
               />
             </div>
 
             <div className="col-span-3 space-y-6 flex flex-col justify-center">
               <div>
-                <h2 className="font-sfPro font-bold text-4xl uppercase">
+                <h2 className="font-sfPro font-bold text-2xl lg:text-4xl uppercase">
                   The medical aesthetic injectable summit
                 </h2>
                 <h3 className="font-sfPro font-normal text-sm lg:text-xl uppercase">
@@ -74,10 +80,10 @@ export default function Articles() {
             </div>
           </div>
 
-          <div className="max-lg:flex max-lg:flex-col-reverse max-lg:gap-6 lg:grid lg:grid-cols-5 space-x-12 ">
+          <div className="max-lg:flex max-lg:flex-col-reverse max-lg:gap-6 lg:grid lg:grid-cols-5 lg:space-x-12 ">
             <div className="col-span-3 space-y-6 flex flex-col justify-center">
               <div>
-                <h2 className="font-sfPro font-bold text-4xl uppercase">
+                <h2 className="font-sfPro font-bold text-2xl lg:text-4xl uppercase">
                   Olivier Claire, l’histoire
                 </h2>
                 <h3 className="font-sfPro font-normal text-sm lg:text-xl uppercase">
@@ -98,26 +104,26 @@ export default function Articles() {
             <div className="col-span-2">
               <Image
                 src={olivier}
-                alt=""
-                title=""
-                className="w-full h-[370px] object-cover"
+                alt="Olivier Claire HERITAGE Magazine"
+                title="Olivier Claire HERITAGE Magazine"
+                className="w-full h-auto object-contain lg:h-[370px] lg:object-cover"
               />
             </div>
           </div>
 
-          <div className="max-lg:flex max-lg:flex-col max-lg:gap-6 lg:grid lg:grid-cols-5 space-x-12 ">
+          <div className="max-lg:flex max-lg:flex-col max-lg:gap-6 lg:grid lg:grid-cols-5 lg:space-x-12 ">
             <div className="col-span-2">
               <Image
                 src={adda}
-                alt=""
-                title=""
-                className="w-full h-[370px] object-cover"
+                alt="Aerolase HERITAGE Magazine"
+                title="Aerolase HERITAGE Magazine"
+                className="w-full h-auto object-contain lg:h-[370px] lg:object-cover"
               />
             </div>
 
             <div className="col-span-3 space-y-6 flex flex-col justify-center">
               <div>
-                <h2 className="font-sfPro font-bold text-4xl uppercase">
+                <h2 className="font-sfPro font-bold text-2xl lg:text-4xl uppercase">
                   Entretien avec Dr Adda
                 </h2>
                 <h3 className="font-sfPro font-normal text-sm lg:text-xl uppercase">
@@ -140,10 +146,10 @@ export default function Articles() {
             </div>
           </div>
 
-          <div className="max-lg:flex max-lg:flex-col-reverse max-lg:gap-6 lg:grid lg:grid-cols-5 space-x-12 ">
+          <div className="max-lg:flex max-lg:flex-col-reverse max-lg:gap-6 lg:grid lg:grid-cols-5 lg:space-x-12 ">
             <div className="col-span-3 space-y-6 flex flex-col justify-center">
               <div>
-                <h2 className="font-sfPro font-bold text-4xl uppercase">
+                <h2 className="font-sfPro font-bold text-2xl lg:text-4xl uppercase">
                   L&apos;information digitale en santé
                 </h2>
                 <h3 className="font-sfPro font-normal text-sm lg:text-xl uppercase">
@@ -168,26 +174,26 @@ export default function Articles() {
             <div className="col-span-2">
               <Image
                 src={barbara}
-                alt=""
-                title=""
-                className="w-full h-[370px] object-cover"
+                alt="Pr Barbara Hersant HERITAGE Magazine"
+                title="Pr Barbara Hersant HERITAGE Magazine"
+                className="w-full h-auto object-contain lg:h-[370px] lg:object-cover"
               />
             </div>
           </div>
 
-          <div className="max-lg:flex max-lg:flex-col max-lg:gap-6 lg:grid lg:grid-cols-5 space-x-12 ">
+          <div className="max-lg:flex max-lg:flex-col max-lg:gap-6 lg:grid lg:grid-cols-5 lg:space-x-12 ">
             <div className="col-span-2">
               <Image
                 src={julien}
-                alt=""
-                title=""
-                className="w-full h-[370px] object-cover"
+                alt="Julien Vervel HERITAGE Magazine"
+                title="Julien Vervel HERITAGE Magazine"
+                className="w-full h-auto object-contain lg:h-[370px] lg:object-cover"
               />
             </div>
 
             <div className="col-span-3 space-y-6 flex flex-col justify-center">
               <div>
-                <h2 className="font-sfPro font-bold text-4xl uppercase">
+                <h2 className="font-sfPro font-bold text-2xl lg:text-4xl uppercase">
                   Dossier E-Réputation
                 </h2>
                 <h3 className="font-sfPro font-normal text-sm lg:text-xl uppercase">
@@ -209,10 +215,10 @@ export default function Articles() {
             </div>
           </div>
 
-          <div className="max-lg:flex max-lg:flex-col-reverse max-lg:gap-6 lg:grid lg:grid-cols-5 space-x-12 ">
+          <div className="max-lg:flex max-lg:flex-col-reverse max-lg:gap-6 lg:grid lg:grid-cols-5 lg:space-x-12 ">
             <div className="col-span-3 space-y-6 flex flex-col justify-center">
               <div>
-                <h2 className="font-sfPro font-bold text-4xl uppercase">
+                <h2 className="font-sfPro font-bold text-2xl lg:text-4xl uppercase">
                   Préparer son projet digital
                 </h2>
                 <h3 className="font-sfPro font-normal text-sm lg:text-xl uppercase">
@@ -234,9 +240,9 @@ export default function Articles() {
             <div className="col-span-2">
               <Image
                 src={hugo}
-                alt=""
-                title=""
-                className="w-full h-[370px] object-cover"
+                alt="Hugo Nivault HERITAGE Magazine"
+                title="Hugo Nivault HERITAGE Magazine"
+                className="w-full h-auto object-contain lg:h-[370px] lg:object-cover"
               />
             </div>
           </div>

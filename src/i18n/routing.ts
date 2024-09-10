@@ -26,7 +26,10 @@ export const routing = defineRouting({
       fr: "/dossier-vervel-julien-consultant-e-reputation-medicale",
     },
     "/hugo-nivault": {
-      fr: "/dossier-nivault-hugo-healthcie-preparer-son-projet-digital-sante",
+      fr: "/dossier-nivault-hugo-healthcie-preparer-projet-digital-sante",
+    },
+    "/articles": {
+      fr: "/articles-innovations-chirurgie-esthetique-medecine-anti-age-interviews",
     },
   },
 });

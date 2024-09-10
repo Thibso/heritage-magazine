@@ -42,7 +42,10 @@ export default function Footer() {
                 </a>
               </li>
               <li>
-                <a href="" className="h3 text-white text-lg">
+                <a
+                  href="/articles-innovations-chirurgie-esthetique-medecine-anti-age-interviews"
+                  className="h3 text-white text-lg"
+                >
                   Articles
                 </a>
               </li>

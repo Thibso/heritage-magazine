@@ -23,37 +23,37 @@ export default function SliderCards() {
       img: ascher,
       alt: "Dr Ascher Benjamin - (H)ERITAGE Magazine",
       title: "Dr Benjamin Ascher",
-      link: "/fr/benjamin-ascher",
+      link: "/fr/interview-docteur-ascher-benjamin-thinkin-medical-aesthetic-injectable-summit",
     },
     {
       img: claire,
       alt: "Olivier Claire - (H)ERITAGE Magazine",
       title: "Olivier Claire",
-      link: "/fr/olivier-claire",
+      link: "/fr/interview-couraud-olivier-claire-histoire-marque",
     },
     {
       img: aerolase,
       alt: "Dr Adda - (H)ERITAGE Magazine",
       title: "Dr Adda",
-      link: "/fr/dr-adda",
+      link: "/fr/interview-docteur-adda-jean-marc-aerolase-laser-neo-elite",
     },
     {
       img: barbara,
       alt: "Pr Hersant - (H)ERITAGE Magazine",
       title: "Pr Hersant Barbara",
-      link: "/fr/barbara-hersant",
+      link: "/fr/interview-professeur-hersant-barbara-aime-communication-digitale-medecins",
     },
     {
       img: julien,
       alt: "Julien Vervel - (H)ERITAGE Magazine",
       title: "Julien Vervel",
-      link: "/fr/julien-vervel",
+      link: "/fr/dossier-vervel-julien-consultant-e-reputation-medicale",
     },
     {
       img: hugo,
       alt: "Hugo Nivault - (H)ERITAGE Magazine",
       title: "Hugo Nivault",
-      link: "/fr/hugo-nivault",
+      link: "/fr/dossier-nivault-hugo-healthcie-preparer-projet-digital-sante",
     },
   ];
 
