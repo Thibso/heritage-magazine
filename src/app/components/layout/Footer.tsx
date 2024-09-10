@@ -43,7 +43,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="/articles-innovations-chirurgie-esthetique-medecine-anti-age-interviews"
+                  href="/fr/articles-innovations-chirurgie-esthetique-medecine-anti-age-interviews"
                   className="h3 text-white text-lg"
                 >
                   Articles
