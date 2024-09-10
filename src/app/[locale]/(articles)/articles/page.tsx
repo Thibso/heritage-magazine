@@ -181,13 +181,13 @@ export default function Articles() {
             </div>
           </div>
 
-          <div className="max-lg:flex max-lg:flex-col max-lg:gap-6 lg:grid lg:grid-cols-5 lg:space-x-12 ">
+          <div className="flex flex-col max-lg:gap-6 lg:grid lg:grid-cols-5 lg:space-x-12 ">
             <div className="col-span-2">
               <Image
                 src={julien}
                 alt="Julien Vervel HERITAGE Magazine"
                 title="Julien Vervel HERITAGE Magazine"
-                className="w-full h-auto object-contain lg:h-[370px] lg:object-cover object-top"
+                className="w-full h-auto object-contain max-h-[370px] lg:object-cover object-top"
               />
             </div>
 
