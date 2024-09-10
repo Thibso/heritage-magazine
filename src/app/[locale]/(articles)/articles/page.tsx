@@ -32,14 +32,14 @@ export async function generateMetadata({ params }: Params) {
 export default function Articles() {
   return (
     <>
-      <section className="myContainer bg-mainBlue mt-[44px] lg:mt-[60px] space-y-6">
+      <section className="myContainer bg-mainBlue mt-[44px] lg:mt-[60px]">
         <Image
           src={logo}
           alt="Logo (H)RITAGE Magazine"
           title="Logo (H)RITAGE Magazine"
           className="m-auto"
         />
-        <h1 className="header-title text-white text-center">
+        <h1 className="header-title text-white text-center mt-6">
           LE MÉDIA DÉDIÉ À L’INNOVATION EN SANTÉ
         </h1>
       </section>
