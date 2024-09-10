@@ -1,7 +1,6 @@
 import { useTranslations } from "next-intl";
 import Image from "next/image";
 import Button from "../components/buttons/Button";
-import SliderCards from "../components/SliderCards";
 import woman from "../img/magazine-innovation-sante.jpg";
 
 type Params = {
@@ -163,21 +162,6 @@ export default function Home() {
               type="video/mp4"
             />
           </video>
-        </div>
-      </section>
-
-      <section className="overflow-hidden max-w-[1920px] m-auto">
-        <div className="myContainer max-w-screen-xl m-auto space-y-8 lg:space-y-16 lg:pb-[70px]">
-          <div className="text-center">
-            <h2 className="h2 text-mainBlue">
-              (H)eritage un Magazine dédié aux acteurs de l&apos;esthétique
-            </h2>
-            <h3 className="h3 mt-2 lg:mt-4">
-              L&apos;innovation au service de l&apos;excellence médicale
-            </h3>
-          </div>
-
-          <SliderCards />
         </div>
       </section>
     </main>

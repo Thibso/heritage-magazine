@@ -4,6 +4,7 @@ import { getMessages } from "next-intl/server";
 import localFont from "next/font/local";
 import Footer from "../components/layout/Footer";
 import Header from "../components/layout/Header";
+import SliderCards from "../components/SliderCards";
 import "./globals.css";
 
 const sfPro = localFont({
@@ -68,6 +69,23 @@ export default async function LocaleLayout({
         <NextIntlClientProvider messages={messages}>
           {children}
         </NextIntlClientProvider>
+
+        {/* Slider */}
+        <section className="overflow-hidden max-w-[1920px] m-auto bg-bgLight">
+          <div className="myContainer max-w-screen-xl m-auto space-y-8 lg:space-y-16 lg:pb-[70px]">
+            <div className="text-center">
+              <h2 className="h2 text-mainBlue">
+                (H)eritage un Magazine dédié aux acteurs de l&apos;esthétique
+              </h2>
+              <h3 className="h3 mt-2 lg:mt-4">
+                L&apos;innovation au service de l&apos;excellence médicale
+              </h3>
+            </div>
+
+            <SliderCards />
+          </div>
+        </section>
+
         <Footer />
       </body>
     </html>
