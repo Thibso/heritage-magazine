@@ -46,7 +46,7 @@ export default function Articles() {
 
       <section className="myContainer text-mainBlue">
         <div className="space-y-20 max-w-screen-xl m-auto">
-          <div className="max-lg:flex max-lg:flex-col max-lg:gap-6 lg:grid lg:grid-cols-5 md:space-x-16 ">
+          <div className="max-lg:flex max-lg:flex-col max-lg:gap-6 lg:grid lg:grid-cols-5 md:space-x-12 lg:space-x-20 ">
             <div className="col-span-2">
               <Image
                 src={ascher}
