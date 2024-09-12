@@ -20,8 +20,8 @@ export default function Footer() {
           </div>
         </div>
 
-        <div className="lg:grid lg:grid-cols-2 gap-6 col-span-2 max-lg:space-y-4">
-          <div className="space-y-4">
+        <div className="lg:grid lg:grid-cols-2 gap-6 col-span-2 max-lg:space-y-4 items-center">
+          {/* <div className="space-y-4">
             <h2 className="h2 text-lg text-left">
               <a href="">(H)eritage magazine</a>
             </h2>
@@ -50,9 +50,9 @@ export default function Footer() {
                 </a>
               </li>
             </ul>
-          </div>
+          </div> */}
 
-          <div className="space-y-4">
+          <div className="space-y-4 col-span-1 col-start-2">
             <h2 className="h2 text-left lg:text-center text-lg ">
               <a href="">Contact</a>
             </h2>
