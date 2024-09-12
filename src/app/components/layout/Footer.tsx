@@ -52,7 +52,7 @@ export default function Footer() {
             </ul>
           </div> */}
 
-          <div className="space-y-4 col-span-1 col-start-2">
+          <div className="space-y-4 col-span-2">
             <h2 className="h2 text-left lg:text-center text-lg ">
               <a href="">Contact</a>
             </h2>
