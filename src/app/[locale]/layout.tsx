@@ -1,4 +1,3 @@
-import "@/app/[locale]/globals.css";
 import { GoogleAnalytics } from "@next/third-parties/google";
 import { NextIntlClientProvider } from "next-intl";
 import { getMessages } from "next-intl/server";
@@ -6,6 +5,7 @@ import localFont from "next/font/local";
 import Footer from "../components/layout/Footer";
 import Header from "../components/layout/Header";
 import SliderCards from "../components/SliderCards";
+import "./globals.css";
 
 const sfPro = localFont({
   src: "./SF-Pro.ttf",
