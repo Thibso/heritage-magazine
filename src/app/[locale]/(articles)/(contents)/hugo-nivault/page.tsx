@@ -32,12 +32,12 @@ export default function Test() {
   return (
     <>
       <section className="myContainer lg:space-x-16 full-screen max-lg:flex max-lg:flex-col-reverse max-lg:gap-10 lg:grid lg:grid-cols-5 text-mainBlue">
-        <div className="lg:col-span-2">
+        <div className="lg:col-span-2 relative size-full">
           <Image
             src={header}
             alt={t("img_alt")}
             title={t("img_alt")}
-            className="size-full max-md:h-[400px] max-lg:h-[550px] object-cover object-top max-lg:m-auto"
+            className="lg:absolute lg:top-0 lg:left-0 size-full max-md:h-[400px] max-lg:h-[550px] object-cover object-top max-lg:m-auto"
           />
         </div>
 

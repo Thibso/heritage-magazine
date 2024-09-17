@@ -1,7 +1,8 @@
 import { useTranslations } from "next-intl";
 import Image from "next/image";
 import Button from "../components/buttons/Button";
-import woman from "../img/magazine-innovation-sante.jpg";
+import magMobile from "../img/magazine-innovation-sante-mobile.jpg";
+import mag from "../img/magazine-innovation-sante.jpg";
 
 type Params = {
   params: { locale: string };
@@ -42,6 +43,20 @@ export default function Home() {
             type="video/mp4"
           />
         </video>
+
+        <video
+          className="lg:hidden absolute h-full top-0 left-1/2 -translate-x-1/2 right-0 bottom-0 max-w-[2550px]"
+          autoPlay
+          muted
+          playsInline
+          loop
+        >
+          <source
+            src="/magazine-esthetique-heritage-antiage-2.mp4"
+            type="video/mp4"
+          />
+        </video>
+
         <h2 className="absolute w-[70%] lg:w-fit top-[60%] lg:top-[60%] left-1/2 -translate-x-1/2 header-title text-white text-center font-semibold">
           {t("title")}
         </h2>
@@ -57,9 +72,14 @@ export default function Home() {
       <section className="lg:grid lg:grid-cols-8 max-w-[1920px] m-auto max-lg:bg-bgLight">
         <div className="col-span-3 w-full h-full relative">
           <Image
-            src={woman}
-            alt="Illustration esthétique"
-            className="lg:absolute w-full h-full object-cover max-lg:max-h-[350px] object-center"
+            src={mag}
+            alt="Illustration (H)ERITAGE magazine"
+            className="max-lg:hidden absolute w-full h-full object-cover object-center"
+          />
+          <Image
+            src={magMobile}
+            alt="Illustration (H)ERITAGE magazine"
+            className="lg:hidden h-80 object-cover object-center"
           />
         </div>
 
