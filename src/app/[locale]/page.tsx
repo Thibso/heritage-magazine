@@ -1,7 +1,7 @@
 import { useTranslations } from "next-intl";
 import Image from "next/image";
 import Button from "../components/buttons/Button";
-import magMobile from "../img/magazine-innovation-sante-mobile.JPG";
+import magMobile from "../img/magazine-innovation-sante-mobile.jpg";
 import mag from "../img/magazine-innovation-sante.jpg";
 
 type Params = {
