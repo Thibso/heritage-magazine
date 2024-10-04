@@ -1,7 +1,7 @@
 "use client";
 // Import Swiper React components
 import Image from "next/image";
-import { Swiper, SwiperSlide } from "swiper/react";
+import { Swiper, SwiperSlide, useSwiper } from "swiper/react";
 import hugo from "../img/antiage-magazine-heritage-sante-innovation.jpg";
 import aerolase from "../img/article-heritage-magazine-aerolase.jpg";
 import ascher from "../img/article-heritage-magazine-benjamin-ascher.jpg";
@@ -57,6 +57,8 @@ export default function SliderCards() {
     },
   ];
 
+  const swiper = useSwiper();
+
   return (
     <Swiper
       slidesPerView={1}
@@ -75,8 +77,34 @@ export default function SliderCards() {
         },
       }}
       modules={[Pagination]}
-      className="mySwiper cursor-pointer"
+      className="mySwiper cursor-pointer relative"
     >
+      {/* <svg
+        xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="#ed731b"
+        strokeWidth="2"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        className="absolute size-20 top-1/2 -translate-y-1/2 -left-[10%] z-40"
+        onClick={() => swiper.slidePrev()}
+      >
+        <path d="m15 18-6-6 6-6" />
+      </svg>
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="#ed731b"
+        strokeWidth="2"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        className="absolute size-20 top-1/2 -translate-y-1/2 -right-[10%] z-40"
+        onClick={() => swiper.slideNext()}
+      >
+        <path d="m15 18-6-6 6-6" />
+      </svg> */}
       {sliders.map((slide) => (
         <SwiperSlide key={slide.title}>
           <Image src={slide.img} alt={slide.alt} />

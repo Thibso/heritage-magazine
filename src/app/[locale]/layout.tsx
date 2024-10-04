@@ -83,12 +83,12 @@ export default async function LocaleLayout({
               <h2 className="h2 text-mainBlue">
                 {locale === "fr"
                   ? "Heritage un Magazine dédié aux acteurs de l'esthétique"
-                  : "Heritage un Magazine dédié aux acteurs de l'esthétique"}
+                  : "Heritage a Magazine dedicated to the beauty industry"}
               </h2>
               <h3 className="h3 mt-2 lg:mt-4">
                 {locale === "fr"
                   ? "L'innovation au service de l'excellence médicale"
-                  : "L'innovation au service de l'excellence médicale"}
+                  : "Innovation at the service of medical excellence"}
               </h3>
             </div>
 
