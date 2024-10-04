@@ -12,7 +12,7 @@ export async function generateMetadata({ params }: Params) {
   const locale = params.locale;
   if (locale === "en") {
     return {
-      title: "Nivault Hugo | Dossier Preparing your digital project | HERITAGE",
+      title: "Nivault Hugo | Preparing your digital project | HERITAGE",
       description:
         "Discover Hugo Nivault's exclusive feature on “how to prepare your digital project as a doctor?” (H)ERITAGE Magazine",
     };
