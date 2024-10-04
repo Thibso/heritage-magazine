@@ -1,7 +1,7 @@
 "use client";
 // Import Swiper React components
 import Image from "next/image";
-import { Swiper, SwiperSlide, useSwiper } from "swiper/react";
+import { Swiper, SwiperSlide } from "swiper/react";
 import hugo from "../img/antiage-magazine-heritage-sante-innovation.jpg";
 import aerolase from "../img/article-heritage-magazine-aerolase.jpg";
 import ascher from "../img/article-heritage-magazine-benjamin-ascher.jpg";
@@ -57,7 +57,7 @@ export default function SliderCards() {
     },
   ];
 
-  const swiper = useSwiper();
+  // const swiper = useSwiper();
 
   return (
     <Swiper
