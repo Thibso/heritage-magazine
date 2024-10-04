@@ -10,27 +10,27 @@ type Params = {
 
 export async function generateMetadata({ params }: Params) {
   const locale = params.locale;
-  // if (locale === "en") {
-  //   return {
-  //     title: "Titre EN",
-  //     description: "Description EN",
-  //   };
-  // } else
-  if (locale === "fr") {
+  if (locale === "en") {
     return {
-      title: "Nivault Hugo | Dossier Préparer son projet digital | (H)ERITAGE",
+      title: "Nivault Hugo | Dossier Preparing your digital project | HERITAGE",
+      description:
+        "Discover Hugo Nivault's exclusive feature on “how to prepare your digital project as a doctor?” (H)ERITAGE Magazine",
+    };
+  } else if (locale === "fr") {
+    return {
+      title: "Nivault Hugo | Dossier Préparer son projet digital | HERITAGE",
       description:
         "Découvrez en exclusivité le dossier d’Hugo Nivault sur “comment préparer son projet digital en tant que médecin ?” (H)ERITAGE Magazine",
     };
   }
 }
 
-export default function Test() {
+export default function Article() {
   const t = useTranslations("Articles.Hugo_Nivault");
   const tags = ["t1", "t2", "t3"] as const;
   const contents = ["p1", "p2"] as const;
   return (
-    <>
+    <div>
       <section className="myContainer lg:space-x-16 full-screen max-lg:flex max-lg:flex-col-reverse max-lg:gap-10 lg:grid lg:grid-cols-5 text-mainBlue">
         <div className="lg:col-span-2 relative size-full">
           <Image
@@ -114,6 +114,6 @@ export default function Test() {
           ))}
         </div>
       </section>
-    </>
+    </div>
   );
 }

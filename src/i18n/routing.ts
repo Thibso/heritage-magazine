@@ -3,7 +3,7 @@ import { defineRouting } from "next-intl/routing";
 
 export const routing = defineRouting({
   // A list of all locales that are supported
-  locales: ["fr"],
+  locales: ["fr", "en"],
 
   // Used when no locale matches
   defaultLocale: "fr",
@@ -12,24 +12,31 @@ export const routing = defineRouting({
     "/": "/",
     "/olivier-claire": {
       fr: "/interview-couraud-olivier-claire-histoire-marque",
+      en: "/interview-couraud-olivier-claire-brand-history",
     },
     "/benjamin-ascher": {
       fr: "/interview-docteur-ascher-benjamin-thinkin-medical-aesthetic-injectable-summit",
+      en: "/interview-doctor-ascher-benjamin-thinkin-medical-aesthetic-injectable-summit",
     },
     "/dr-adda": {
       fr: "/interview-docteur-adda-jean-marc-aerolase-laser-neo-elite",
+      en: "/interview-doctor-adda-jean-marc-aerolase-laser-neo-elite",
     },
     "/barbara-hersant": {
       fr: "/interview-professeur-hersant-barbara-aime-communication-digitale-medecins",
+      en: "/interview-professor-hersant-barbara-aime-physicians-digital-communication",
     },
     "/julien-vervel": {
       fr: "/dossier-vervel-julien-consultant-e-reputation-medicale",
+      en: "/focus-vervel-julien-consultant-medical-e-reputation",
     },
     "/hugo-nivault": {
       fr: "/dossier-nivault-hugo-healthcie-preparer-projet-digital-sante",
+      en: "/focus-nivault-hugo-healthcie-prepare-digital-healthcare-project",
     },
     "/articles": {
       fr: "/articles-innovations-chirurgie-esthetique-medecine-anti-age-interviews",
+      en: "/articles-innovations-aesthetic-surgery-anti-age-medicine-interviews",
     },
   },
 });

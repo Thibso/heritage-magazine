@@ -20,6 +20,20 @@ module.exports = {
       fontFamily: {
         sfPro: ["var(--font-sfPro)"],
       },
+      animation: {
+        "infinite-scroll": "infinite-scroll 11s linear infinite",
+        "infinite-scroll-1": "infinite-scroll 35s linear infinite",
+      },
+      keyframes: {
+        "infinite-scroll": {
+          from: { transform: "translateX(0)" },
+          to: { transform: "translateX(-100%)" },
+        },
+        "infinite-scroll-1": {
+          from: { transform: "translateX(0)" },
+          to: { transform: "translateX(-100%)" },
+        },
+      },
     },
   },
   plugins: [],

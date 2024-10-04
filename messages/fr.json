@@ -1,6 +1,55 @@
 {
   "HomePage": {
-    "title": "Dédié à l'innovation en chirurgie & médecine esthétique"
+    "title": "Dédié à l'innovation en chirurgie & médecine esthétique",
+    "cta": "Découvrir",
+    "p1": {
+      "h1": "Heritage Magazine",
+      "h2": "Le média dédié à l'innovation en chirurgie, médecine et dermatologie esthétique",
+      "content": "<p> (H)ERITAGE Magazine est bien plus qu'une publication annuelle dans le domaine de la médecine esthétique ; c'est une plateforme unique qui célèbre l'équilibre entre tradition et innovation. </p> <p> Notre mission est claire : fournir aux professionnels du secteur de l'esthétique (chirurgiens, médecins, dermatologues, laboratoires et fabricants de dispositifs médicaux) une vue d'ensemble des avancées les plus récentes en produits, technologies et pratiques. </p> <p> Chaque numéro met en avant les innovations disruptives, tout en rendant hommage aux pratiques éprouvées qui façonnent le secteur. Pour les acteurs de l'esthétique médicale, (H)ERITAGE est une source d'inspiration et de réflexion, un carrefour où se rencontrent les esprits créatifs et les solutions de demain. </p> <p> (H)ERITAGE Magazine se positionne comme un guide de référence, en phase avec les besoins d'une industrie en perpétuelle évolution, tout en restant fidèle aux valeurs fondatrices de l'excellence médicale. </p>"
+    },
+    "p2": {
+      "h2": "Heritage Magazine",
+      "h3": "Une plateforme print & digitale",
+      "content": "<p> Avec (H)ERITAGE Magazine, les laboratoires et fabricants de dispositifs médicaux de l'esthétique ont une opportunité unique de renforcer leur visibilité. </p><p> Nous offrons une plateforme double – print et digitale – permettant aux marques de communiquer efficacement auprès d'une audience spécialisée et exigeante. Notre version imprimée, au design raffiné, incarne le prestige et l'expertise de l'industrie, tandis que notre version digitale ouvre un canal interactif et moderne, accessible à tout moment. </p>",
+      "cta": "A propos"
+    }
+  },
+  "Footer": {
+    "abstract": "Votre nouveau rendez-vous incontournable dans l'univers vibrant de l'innovation en chirurgie et médecine esthétique.",
+    "copyright": "Copyright 2025 | (H)ERITAGE Magazine",
+    "legals": "Mentions légales",
+    "healthcie": "HEALTHCIE | Le créateur digital des professions médicales"
+  },
+  "Articles_base": {
+    "title": "LE MÉDIA DÉDIÉ À L’INNOVATION EN SANTÉ",
+    "ascher": {
+      "h2": "The medical aesthetic injectable summit",
+      "h3": "Avec le Dr Benjamain Ascher",
+      "content": "Benjamin Ascher, MD, est un chirurgien plasticien certifié, membre des sociétés françaises, américaines et internationales de chirurgie plastique, reconstructrice et esthétique (SOFCPRE, SOFCEP, ASPS, ISAPS). <br></br> Il a été Chef Résident, Assistant des Hôpitaux de Paris et Président et Chef de la Clinique de Chirurgie Esthétique IENA à Paris - France.",
+      "cta_link": "/fr/benjamin-ascher",
+      "cta": "Lire l'article"
+    },
+    "olivier": {
+      "h2": "Olivier Claire, l’histoire",
+      "h3": "par Olivier Couraud",
+      "content": "Un raccourci rapide. Oui, je suis né au Chili. J’y ai passé ma toute petite enfance. Je garde de ce pays des souvenirs flous, mais colorés, olfactifs, des impressions qui m’ont, sans doute, inconsciemment marqué. Je conserve davantage de sensations, d’émotions, de souvenirs, du Maroc où j’ai vécu enfant.",
+      "cta_link": "/fr/olivier-claire",
+      "cta": "Lire l'article"
+    },
+    "adda": {
+      "h2": "Entretien avec Dr Adda",
+      "h3": "Laser Neo Elite® d’Aerolase",
+      "content": "L’innovation joue un rôle crucial dans l’évolution de la dermatologie et de la médecine esthétique. Les avancées technologiques, comme celles d’Aerolase, transforment les soins prodigués aux patients en les rendant plus efficaces, plus confortables et plus accessibles. <br></br> Aujourd’hui, présenter le laser Neo Elite® d’Aerolase, c’est présenter un dispositif révolutionnaire qui redéfinit les traitements dermatologiques.",
+      "cta_link": "/fr/dr-adda",
+      "cta": "Lire l'article"
+    },
+    "barbara": {
+      "h2": "L'information digitale en santé",
+      "h3": "avec le Pr Barbara Hersant",
+      "content": "Le Professeur Barbara Hersant est une éminente chirurgienne exerçant à l’Hôpital Henri Mondor à Créteil. Son expertise et son dévouement dans le domaine de la chirurgie en font une figure respectée au sein de la communauté médicale. Spécialisée dans plusieurs branches de la chirurgie, notamment la chirurgie esthétique et reconstructrice, le Professeur Hersant est reconnue pour sa précision chirurgicale, sa compassion envers ses patients et son engagement à fournir des soins de la plus haute qualité.",
+      "cta_link": "/fr/dr-adda",
+      "cta": "Lire l'article"
+    }
   },
   "Articles": {
     "Olivier_Claire": {
@@ -190,7 +239,7 @@
       },
       "p2": {
         "title": "Qu’est-ce que The Medical Aesthetic Injectable Summit (MAIS) et en quoi se distingue-t-il des autres événements dans le domaine de l’esthétique médicale ?",
-        "content": "Le Medical Aesthetic Injectable Summit se distingue en étant spécifiquement dédié à l’ecosystème des injectables dans le domaine de l’esthétique médicale. Cette spécificité lui confère une importance particulière, mais ce n’est pas l’élément central de ce sommet. L’essence même de ce rassemblement réside dans son caractère inédit et son objectif de promouvoir l’acquisition de connaissances économiques et scientifiques de très haute valeur, bien distinctes des informations de vulgarisation typiques des grands congrès comme l’IMCAS ou encore Monaco (AMWC).<br></br><br></br> Un autre aspect fondamental est son orientation résolument pratique. Grâce aux moyens déployés, ce sommet offre une opportunité exceptionnelle de mise en pratique, de networking, et de prise de rendezvous sur une période de 48 heures, ce qui en fait un événement véritablement unique en son genre.<br></br><br></br> Enfin, ce qui distingue vraiment le MAIS, c’est l’aspect « business et science » : le Summit couvre tous les processus par lesquels passe un produit injectable (de la recherche clinique à la réglementation) avant d’arriver dans les cliniques. Il présente également les nouveautés innovantes des start-ups et les produits en cours de développement."
+        "content": "Le Medical Aesthetic Injectable Summit se distingue en étant spécifiquement dédié à l’ecosystème des injectables dans le domaine de l’esthétique médicale. Cette spécificité lui confère une importance particulière, mais ce n’est pas l’élément central de ce sommet. L’essence même de ce rassemblement réside dans son caractère inédit et son objectif de promouvoir l’acquisition de connaissances économiques et scientifiques de très haut niveau alliée à un puissant networking, distinct des évènements et de la logistique des congrès majeurs qui réunissent les plus grandes populations de notre profession comme l’IMCAS. <br></br><br></br> Un autre aspect fondamental est son orientation résolument pratique. Grâce aux moyens déployés, ce sommet offre une opportunité exceptionnelle de mise en pratique, de networking, et de prise de rendezvous sur une période de 48 heures, ce qui en fait un événement véritablement unique en son genre.<br></br><br></br> Enfin, ce qui distingue vraiment le MAIS, c’est l’aspect « business et science » : le Summit couvre tous les processus par lesquels passe un produit injectable (de la recherche clinique à la réglementation) avant d’arriver dans les cliniques. Il présente également les nouveautés innovantes des start-ups et les produits en cours de développement."
       },
       "p3": {
         "title": "À qui s’adresse principalement le MAIS et quels sont les principaux objectifs de cet événement ?",

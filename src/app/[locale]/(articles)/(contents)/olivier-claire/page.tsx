@@ -10,28 +10,29 @@ type Params = {
 
 export async function generateMetadata({ params }: Params) {
   const locale = params.locale;
-  // if (locale === "en") {
-  //   return {
-  //     title: "Titre EN",
-  //     description: "Description EN",
-  //   };
-  // } else
-  if (locale === "fr") {
+  if (locale === "en") {
     return {
       title:
-        "Couraud Olivier | Interview sur l’histoire d’Oliver Claire | (H)ERITAGE",
+        "Couraud Olivier | Interview on the history of Oliver Claire | HERITAGE",
+      description:
+        "Discover an exclusive interview with Olivier Couraud on the history and creation of the Olivier Claire brand. (H)ERITAGE Magazine",
+    };
+  } else if (locale === "fr") {
+    return {
+      title:
+        "Couraud Olivier | Interview sur l’histoire d’Oliver Claire | HERITAGE",
       description:
         "Découvrez en exclusivité l’interview d’Olivier Couraud sur l’histoire et la création de la marque Olivier Claire. (H)ERITAGE Magazine",
     };
   }
 }
 
-export default function Test() {
+export default function Aricle() {
   const t = useTranslations("Articles.Olivier_Claire");
   const tags = ["t1", "t2", "t3"] as const;
   const contents = ["p1", "p2", "p3", "p4", "p5", "p6"] as const;
   return (
-    <>
+    <div>
       <section className="myContainer lg:space-x-16 full-screen max-lg:flex max-lg:flex-col-reverse max-lg:gap-10 lg:grid lg:grid-cols-5 text-mainBlue">
         <div className="lg:col-span-2">
           <Image
@@ -115,6 +116,6 @@ export default function Test() {
           ))}
         </div>
       </section>
-    </>
+    </div>
   );
 }

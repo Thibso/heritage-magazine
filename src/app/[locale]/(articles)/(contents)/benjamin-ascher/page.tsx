@@ -10,27 +10,27 @@ type Params = {
 
 export async function generateMetadata({ params }: Params) {
   const locale = params.locale;
-  // if (locale === "en") {
-  //   return {
-  //     title: "Titre EN",
-  //     description: "Description EN",
-  //   };
-  // } else
-  if (locale === "fr") {
+  if (locale === "en") {
     return {
-      title: "Dr Ascher | Interview MAIS by Thinkin | (H)ERITAGE Magazine",
+      title: "Dr Ascher | Interview MAIS by Thinkin | HERITAGE Magazine",
+      description:
+        "Découvrez en exclusivité l’interview du Dr Ascher sur le Medical Aesthetic Injectable Summit (MAIS) créé par Thinkin. (H)ERITAGE Magazine",
+    };
+  } else if (locale === "fr") {
+    return {
+      title: "Dr Ascher | Interview MAIS by Thinkin | HERITAGE Magazine",
       description:
         "Découvrez en exclusivité l’interview du Dr Ascher sur le Medical Aesthetic Injectable Summit (MAIS) créé par Thinkin. (H)ERITAGE Magazine",
     };
   }
 }
 
-export default function Test() {
+export default function Article() {
   const t = useTranslations("Articles.Benjamin_Asher");
   const tags = ["t1", "t2", "t3"] as const;
   const contents = ["p1", "p2", "p3", "p4", "p5", "p6", "p7"] as const;
   return (
-    <>
+    <div>
       <section className="myContainer lg:space-x-16 full-screen max-lg:flex max-lg:flex-col-reverse max-lg:gap-10 lg:grid lg:grid-cols-5 text-mainBlue">
         <div className="lg:col-span-2">
           <Image
@@ -114,6 +114,6 @@ export default function Test() {
           ))}
         </div>
       </section>
-    </>
+    </div>
   );
 }

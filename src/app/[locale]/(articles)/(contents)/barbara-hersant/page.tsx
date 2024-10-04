@@ -10,23 +10,22 @@ type Params = {
 
 export async function generateMetadata({ params }: Params) {
   const locale = params.locale;
-  // if (locale === "en") {
-  //   return {
-  //     title: "Titre EN",
-  //     description: "Description EN",
-  //   };
-  // } else
-  if (locale === "fr") {
+  if (locale === "en") {
     return {
-      title:
-        "Pr Hersant | Interview sur la Communication digitale | (H)ERITAGE",
+      title: "Pr. Hersant | Interview on digital communication | HERITAGE",
+      description:
+        "Découvrez en exclusivité l’interview du Pr Hersant sur la communication digitale des médecins et chirurgiens. (H)ERITAGE Magazine",
+    };
+  } else if (locale === "fr") {
+    return {
+      title: "Pr Hersant | Interview sur la Communication digitale | HERITAGE",
       description:
         "Découvrez en exclusivité l’interview du Pr Hersant sur la communication digitale des médecins et chirurgiens. (H)ERITAGE Magazine",
     };
   }
 }
 
-export default function Test() {
+export default function Article() {
   const t = useTranslations("Articles.Barbara_Hersant");
   const tags = ["t1", "t2", "t3"] as const;
   const contents = [
@@ -42,7 +41,7 @@ export default function Test() {
     "p10",
   ] as const;
   return (
-    <>
+    <div>
       <section className="myContainer lg:space-x-16 full-screen max-lg:flex max-lg:flex-col-reverse max-lg:gap-10 lg:grid lg:grid-cols-5 text-mainBlue">
         <div className="lg:col-span-2">
           <Image
@@ -126,6 +125,6 @@ export default function Test() {
           ))}
         </div>
       </section>
-    </>
+    </div>
   );
 }

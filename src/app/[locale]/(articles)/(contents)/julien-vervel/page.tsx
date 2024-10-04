@@ -10,27 +10,27 @@ type Params = {
 
 export async function generateMetadata({ params }: Params) {
   const locale = params.locale;
-  // if (locale === "en") {
-  //   return {
-  //     title: "Titre EN",
-  //     description: "Description EN",
-  //   };
-  // } else
-  if (locale === "fr") {
+  if (locale === "en") {
     return {
-      title: "Vervel Julien | Dossier sur l'E-réputation Médicale | (H)ERITAGE",
+      title: "Vervel Julien | Focus on medical E-réputation | HERITAGE",
+      description:
+        "Discover Julien Vervel's exclusive report on the foundations of medical e-reputation. (H)ERITAGE Magazine",
+    };
+  } else if (locale === "fr") {
+    return {
+      title: "Vervel Julien | Dossier sur l'E-réputation Médicale | HERITAGE",
       description:
         "Découvrez en exclusivité le dossier de Julien Vervel sur les fondements de l’e-réputation médicale. (H)ERITAGE Magazine",
     };
   }
 }
 
-export default function Test() {
+export default function Article() {
   const t = useTranslations("Articles.Julien_Vervel");
   const tags = ["t1", "t2", "t3"] as const;
   const contents = ["p1", "p2", "p3"] as const;
   return (
-    <>
+    <div>
       <section className="myContainer lg:space-x-16 full-screen max-lg:flex max-lg:flex-col-reverse max-lg:gap-10 lg:grid lg:grid-cols-5 text-mainBlue">
         <div className="lg:col-span-2 relative size-full">
           <Image
@@ -114,6 +114,6 @@ export default function Test() {
           ))}
         </div>
       </section>
-    </>
+    </div>
   );
 }

@@ -6,6 +6,7 @@ import hugo from "@/app/img/articles/hugo_nivault/hugo-nivault-chef-projet-digit
 import julien from "@/app/img/articles/julien_vervel/Julien-vervel-consultant-médical-laboratoires.jpg";
 import olivier from "@/app/img/articles/olivier_claire/portrait-olivier-claire.jpg";
 import logo from "@/app/img/heritage-magazine-anti-age-innovation.png";
+import { useTranslations } from "next-intl";
 import Image from "next/image";
 
 type Params = {
@@ -14,33 +15,35 @@ type Params = {
 
 export async function generateMetadata({ params }: Params) {
   const locale = params.locale;
-  // if (locale === "en") {
-  //   return {
-  //     title: "Titre EN",
-  //     description: "Description EN",
-  //   };
-  // } else
-  if (locale === "fr") {
+  if (locale === "en") {
+    return {
+      title: "Innovations in surgery and aesthetic medicine | Articles",
+      description:
+        "Discover all the latest innovations in cosmetic surgery & anti-ageing medicine. Articles & interview (H)ERITAGE.",
+    };
+  } else if (locale === "fr") {
     return {
       title: "Innovations en chirurgie & médecine esthétique | Articles",
       description:
-        "Découvrz toutes les dernières innovations en chirurgie esthétique & médecine anti-âge. Articles & interview (H)ERITAGE.",
+        "Découvrez toutes les dernières innovations en chirurgie esthétique & médecine anti-âge. Articles & interview (H)ERITAGE.",
     };
   }
 }
 
 export default function Articles() {
+  const t = useTranslations("Articles_base");
+
   return (
-    <>
+    <div>
       <section className="myContainer bg-mainBlue mt-[44px] lg:mt-[60px]">
         <Image
           src={logo}
-          alt="Logo (H)RITAGE Magazine"
-          title="Logo (H)RITAGE Magazine"
-          className="m-auto"
+          alt="Logo (H)ERITAGE Magazine"
+          title="Logo (H)ERITAGE Magazine"
+          className="m-auto max-w-[80%]"
         />
         <h1 className="header-title text-white text-center mt-6">
-          LE MÉDIA DÉDIÉ À L’INNOVATION EN SANTÉ
+          {t("title")}
         </h1>
       </section>
 
@@ -52,31 +55,26 @@ export default function Articles() {
                 src={ascher}
                 alt="Dr Benjamin Ascher HERITAGE Magazine"
                 title="Dr Benjamin Ascher HERITAGE Magazine"
-                className="w-full h-auto object-contain lg:h-[370px] lg:object-cover"
+                className="w-full h-[350px] object-cover lg:h-[370px] lg:object-cover"
               />
             </div>
 
             <div className="col-span-3 space-y-6 flex flex-col justify-center">
               <div>
                 <h2 className="font-sfPro font-bold text-2xl lg:text-4xl uppercase">
-                  The medical aesthetic injectable summit
+                  {t("ascher.h2")}
                 </h2>
                 <h3 className="font-sfPro font-normal text-sm lg:text-xl uppercase">
-                  Avec le Dr Benjamain Ascher
+                  {t("ascher.h3")}
                 </h3>
               </div>
 
               <p className="text-base">
-                Benjamin Ascher, MD, est un chirurgien plasticien certifié,
-                membre des sociétés françaises, américaines et internationales
-                de chirurgie plastique, reconstructrice et esthétique (SOFCPRE,
-                SOFCEP, ASPS, ISAPS).
-                <br />
-                Il a été Chef Résident, Assistant des Hôpitaux de Paris et
-                Président et Chef de la Clinique de Chirurgie Esthétique IENA à
-                Paris - France.
+                {t.rich("ascher.content", {
+                  br: () => <br />,
+                })}
               </p>
-              <Button link="/fr/benjamin-ascher">Lire l&apos;article</Button>
+              <Button link={t("ascher.cta_link")}>{t("ascher.cta")}</Button>
             </div>
           </div>
 
@@ -84,21 +82,19 @@ export default function Articles() {
             <div className="col-span-3 space-y-6 flex flex-col justify-center">
               <div>
                 <h2 className="font-sfPro font-bold text-2xl lg:text-4xl uppercase">
-                  Olivier Claire, l’histoire
+                  {t("olivier.h2")}
                 </h2>
                 <h3 className="font-sfPro font-normal text-sm lg:text-xl uppercase">
-                  par Olivier Couraud
+                  {t("olivier.h3")}
                 </h3>
               </div>
 
               <p className="text-base">
-                Un raccourci rapide. Oui, je suis né au Chili. J’y ai passé ma
-                toute petite enfance. Je garde de ce pays des souvenirs flous,
-                mais colorés, olfactifs, des impressions qui m’ont, sans doute,
-                inconsciemment marqué. Je conserve davantage de sensations,
-                d’émotions, de souvenirs, du Maroc où j’ai vécu enfant.
+                {t.rich("olivier.content", {
+                  br: () => <br />,
+                })}
               </p>
-              <Button link="/fr/olivier-claire">Lire l&apos;article</Button>
+              <Button link={t("olivier.cta_link")}>{t("olivier.cta")}</Button>
             </div>
 
             <div className="col-span-2">
@@ -124,25 +120,19 @@ export default function Articles() {
             <div className="col-span-3 space-y-6 flex flex-col justify-center">
               <div>
                 <h2 className="font-sfPro font-bold text-2xl lg:text-4xl uppercase">
-                  Entretien avec Dr Adda
+                  {t("adda.h2")}
                 </h2>
                 <h3 className="font-sfPro font-normal text-sm lg:text-xl uppercase">
-                  Laser Neo Elite® d’Aerolase
+                  {t("adda.h3")}
                 </h3>
               </div>
 
               <p className="text-base">
-                L’innovation joue un rôle crucial dans l’évolution de la
-                dermatologie et de la médecine esthétique. Les avancées
-                technologiques, comme celles d’Aerolase, transforment les soins
-                prodigués aux patients en les rendant plus efficaces, plus
-                confortables et plus accessibles.
-                <br />
-                Aujourd’hui, présenter le laser Neo Elite® d’Aerolase, c’est
-                présenter un dispositif révolutionnaire qui redéfinit les
-                traitements dermatologiques.
+                {t.rich("adda.content", {
+                  br: () => <br />,
+                })}
               </p>
-              <Button link="/fr/dr-adda">Lire l&apos;article</Button>
+              <Button link={t("adda.cta_link")}>{t("adda.cta")}</Button>
             </div>
           </div>
 
@@ -248,6 +238,6 @@ export default function Articles() {
           </div>
         </div>
       </section>
-    </>
+    </div>
   );
 }

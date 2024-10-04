@@ -10,27 +10,27 @@ type Params = {
 
 export async function generateMetadata({ params }: Params) {
   const locale = params.locale;
-  // if (locale === "en") {
-  //   return {
-  //     title: "Titre EN",
-  //     description: "Description EN",
-  //   };
-  // } else
-  if (locale === "fr") {
+  if (locale === "en") {
     return {
-      title: "Dr Adda | Interview sur le Laser Neo ELITE Aerolase | (H)ERITAGE",
+      title: "Dr. Adda | Interview on the Neo ELITE Aerolase Laser | HERITAGE",
+      description:
+        "Discover Dr. Adda's exclusive interview on the NEO Elite laser, Aerolase's new device. (H)ERITAGE Magazine",
+    };
+  } else if (locale === "fr") {
+    return {
+      title: "Dr Adda | Interview sur le Laser Neo ELITE Aerolase | HERITAGE",
       description:
         "Découvrez en exclusivité l’interview du Dr Adda sur le laser NEO Elite, le nouveau dispositif d’Aerolase. (H)ERITAGE Magazine",
     };
   }
 }
 
-export default function Test() {
+export default function Article() {
   const t = useTranslations("Articles.Dr_Adda");
   const tags = ["t1", "t2", "t3"] as const;
   const contents = ["p1", "p2", "p3", "p4", "p5"] as const;
   return (
-    <>
+    <div>
       <section className="myContainer lg:space-x-16 full-screen max-lg:flex max-lg:flex-col-reverse max-lg:gap-10 lg:grid lg:grid-cols-5 text-mainBlue">
         <div className="lg:col-span-2">
           <Image
@@ -114,6 +114,6 @@ export default function Test() {
           ))}
         </div>
       </section>
-    </>
+    </div>
   );
 }

@@ -1,7 +1,10 @@
+import { useTranslations } from "next-intl";
 import Image from "next/image";
 import logo from "../../img/heritage-magazine-anti-age-innovation.png";
 
 export default function Footer() {
+  const t = useTranslations("Footer");
+
   return (
     <footer>
       <div className="myContainer bg-mainBlue text-white lg:grid lg:grid-cols-4 max-lg:space-y-4">
@@ -13,10 +16,7 @@ export default function Footer() {
               className="w-[200px] max-lg:m-auto"
             />
 
-            <p className="text-lg">
-              Votre nouveau rendez-vous incontournable dans l&apos;univers
-              vibrant de l&apos;innovation en chirurgie et médecine esthétique.
-            </p>
+            <p className="text-lg">{t("abstract")}</p>
           </div>
         </div>
 
@@ -125,11 +125,9 @@ export default function Footer() {
 
       <div className="bg-[#131a33] text-white text-center space-y-1 py-4">
         <p className="text-sm lg:text-base">
-          Copyright 2025 | (H)ERITAGE Magazine | Mentions légales
+          {t("copyright")} | {t("legals")}
         </p>
-        <p className="text-sm lg:text-base">
-          HEALTHCIE | Le créateur digital des professions médicales
-        </p>
+        <p className="text-sm lg:text-base">{t("healthcie")}</p>
       </div>
     </footer>
   );

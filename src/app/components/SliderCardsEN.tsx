@@ -22,38 +22,38 @@ export default function SliderCards() {
     {
       img: ascher,
       alt: "Dr Ascher Benjamin - (H)ERITAGE Magazine",
-      title: "Dr Benjamin Ascher",
-      link: "/fr/interview-docteur-ascher-benjamin-thinkin-medical-aesthetic-injectable-summit",
+      title: "Dr. Benjamin Ascher",
+      link: "/en/interview-doctor-ascher-benjamin-thinkin-medical-aesthetic-injectable-summit",
     },
     {
       img: claire,
       alt: "Olivier Claire - (H)ERITAGE Magazine",
       title: "Olivier Claire",
-      link: "/fr/interview-couraud-olivier-claire-histoire-marque",
+      link: "/en/interview-couraud-olivier-claire-brand-history",
     },
     {
       img: aerolase,
       alt: "Dr Adda - (H)ERITAGE Magazine",
-      title: "Dr Adda",
-      link: "/fr/interview-docteur-adda-jean-marc-aerolase-laser-neo-elite",
+      title: "Dr. Adda",
+      link: "/en/interview-doctor-adda-jean-marc-aerolase-laser-neo-elite",
     },
     {
       img: barbara,
       alt: "Pr Hersant - (H)ERITAGE Magazine",
-      title: "Pr Hersant Barbara",
-      link: "/fr/interview-professeur-hersant-barbara-aime-communication-digitale-medecins",
+      title: "Pr. Hersant Barbara",
+      link: "/en/interview-professor-hersant-barbara-aime-physicians-digital-communication",
     },
     {
       img: julien,
       alt: "Julien Vervel - (H)ERITAGE Magazine",
       title: "Julien Vervel",
-      link: "/fr/dossier-vervel-julien-consultant-e-reputation-medicale",
+      link: "/en/focus-vervel-julien-consultant-medical-e-reputation",
     },
     {
       img: hugo,
       alt: "Hugo Nivault - (H)ERITAGE Magazine",
       title: "Hugo Nivault",
-      link: "/fr/dossier-nivault-hugo-healthcie-preparer-projet-digital-sante",
+      link: "/en/focus-nivault-hugo-healthcie-prepare-digital-healthcare-project",
     },
   ];
 
@@ -85,7 +85,7 @@ export default function SliderCards() {
               {slide.title}
             </h4>
 
-            <Button link={slide.link}>Lire l&apos;article</Button>
+            <Button link={slide.link}>Read article</Button>
           </div>
         </SwiperSlide>
       ))}

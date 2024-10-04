@@ -1,5 +1,265 @@
 {
   "HomePage": {
-    "title": "Heritage magazine EN"
+    "title": "Dédié à l'innovation en chirurgie & médecine esthétique",
+    "cta": "Discover",
+    "p1": {
+      "h1": "Heritage Magazine",
+      "h2": "Le média dédié à l'innovation en chirurgie, médecine et dermatologie esthétique",
+      "content": "<p> (H)ERITAGE Magazine est bien plus qu'une publication annuelle dans le domaine de la médecine esthétique ; c'est une plateforme unique qui célèbre l'équilibre entre tradition et innovation. </p> <p> Notre mission est claire : fournir aux professionnels du secteur de l'esthétique (chirurgiens, médecins, dermatologues, laboratoires et fabricants de dispositifs médicaux) une vue d'ensemble des avancées les plus récentes en produits, technologies et pratiques. </p> <p> Chaque numéro met en avant les innovations disruptives, tout en rendant hommage aux pratiques éprouvées qui façonnent le secteur. Pour les acteurs de l'esthétique médicale, (H)ERITAGE est une source d'inspiration et de réflexion, un carrefour où se rencontrent les esprits créatifs et les solutions de demain. </p> <p> (H)ERITAGE Magazine se positionne comme un guide de référence, en phase avec les besoins d'une industrie en perpétuelle évolution, tout en restant fidèle aux valeurs fondatrices de l'excellence médicale. </p>"
+    },
+    "p2": {
+      "h2": "Heritage Magazine",
+      "h3": "Une plateforme print & digitale",
+      "content": "<p> Avec (H)ERITAGE Magazine, les laboratoires et fabricants de dispositifs médicaux de l'esthétique ont une opportunité unique de renforcer leur visibilité. </p><p> Nous offrons une plateforme double – print et digitale – permettant aux marques de communiquer efficacement auprès d'une audience spécialisée et exigeante. Notre version imprimée, au design raffiné, incarne le prestige et l'expertise de l'industrie, tandis que notre version digitale ouvre un canal interactif et moderne, accessible à tout moment. </p>",
+      "cta": "A propos"
+    }
+  },
+  "Footer": {
+    "abstract": "Your new rendez-vous in the vibrant world of innovation in surgery and aesthetic medicine.",
+    "copyright": "Copyright 2025 | (H)ERITAGE Magazine",
+    "legals": "Legal notices",
+    "healthcie": "HEALTHCIE | Le créateur digital des professions médicales"
+  },
+  "Articles": {
+    "Olivier_Claire": {
+      "h1": "Olivier Claire, the story",
+      "abstract": "OUR OFFER IS PARTICULARLY DIFFERENTIATING",
+      "author": "by Olivier Couraud",
+      "cta_text": "Discover the brand",
+      "tags": {
+        "t1": {
+          "title": "cosmétique"
+        },
+        "t2": {
+          "title": "esthétique"
+        },
+        "t3": {
+          "title": "médecine"
+        }
+      },
+      "img_alt": "Olivier Claire portrait",
+      "p1": {
+        "title": "You’ve had a fascinating and unique career, from Santiago de Chile to the creation of Olivier Claire. How have these different stages of your life influenced your vision and approach to cosmetics?",
+        "content": "A quick shortcut. Yes, I was born in Chile. I spent my early childhood there. I have vague, but colourful, olfactory memories of that country, impressions that no doubt left an unconscious mark on me. I have more sensations, emotions and memories of Morocco, where I lived as a child. But above all, I remember my mother’s daily gestures in front of the mirror, her very Guerlain fragrance, when she used to wear perfume. These images, these moments, lived in me and still do. They forged my passion for cosmetics, and encouraged me to think about beauty for men and women alike."
+      },
+      "p2": {
+        "title": "You started making your first creams at the age of 8. What were your inspirations at that age, and how has your passion for plants developed over the years?",
+        "content": "I’ve always been fascinated by plants and their powers. I was also lucky enough to grow up in flower gardens, on dunes and on shores where hundreds of plants, some very hardy, flourished. Ever since I was a kid, I’ve wanted nothing more than to devote myself to the world of beauty, to make women happy, to watch for that little sparkle in their eyes when the mirror reflects back to them the image of a face, of skin magnified. It’s true that I developed my first creams at an age when boys preferred to play football or play with toy cars!"
+      },
+      "p3": {
+        "title": "So, after a career in the pharmaceutical industry, what prompted you to create your own cosmetics brand? ",
+        "content": "I was lucky enough to start my career in the pharmaceutical industry with Pierre Fabre, a real pioneer in dermocosmetics and phytotherapy, and I learned a lot from the doctors as well as from the methods and rigour associated with this world. After 10 years in the pharmaceutical industry, followed by the opening of a hotel, the world of hospitality appealed to me and still does. I decided to devote all my energy to creating the Olivier Claire brand, which good use all the knowledge I’ve acquired in the pharmaceutical and hotel sectors, as well as the notion of service, which for me is a key criterion for success. As a pioneer in what is now known as ‘clean beauty’, I had the intuition and the desire, based on my reflections, observations and experience, to develop my own brand around two key principles: effectiveness and eco-responsibility, using natural, 100% French ingredients. Nature inspires me. I draw on it for all the precious active ingredients in my range. Three key words define the world of Olivier Claire: naturalness, effectiveness and authenticity. For the last 10 years, I’ve been following this rule. And so, in the highly competitive world of cosmetics, Olivier Claire has carved out its own path, straight and uncompromising, establishing itself as a premium brand based on highly concentrated active ingredients. Our range evolves in line with the research carried out for Olivier Claire by experts, scientists and doctors, in close collaboration with Dr Aurélie Furiga, our scientific manager"
+      },
+      "p4": {
+        "title": "Your brand, Olivier Claire, stands out for its highly concentrated plant-based active ingredients. Can you tell us how these active ingredients are selected and incorporated into your products?",
+        "content": "At Olivier Claire, we focus on the effectiveness, originality and rarity of the active ingredients. We rigorously select the best active plant ingredients from organic farming and biotechnology, respecting biodiversity. And we don’t test on animals. This is our strength in offering ethical anti-ageing products that are truly effective. Each of the skincare products in the range is made up of one or more active ingredients that act on one or more of the factors capable of combating skin ageing: hydration, cell regeneration, oxidative stress and the prevention of brown spots. Their combination explains the results which are immediately visible, and which are prolonged and amplified over time. Our easy-to-apply products reflect their ingredients. Our active ingredients express themselves freely. They produce active textures that adapt to each skin type for optimum efficacy and a personal experience that is exclusive in both olfactory and sensory terms."
+      },
+      "p5": {
+        "title": "Technological innovations play a key role in the development of your products. Can you tell us about the specific technologies you use and their impact on the effectiveness of your creams?",
+        "content": "Right from the creation of our first major beauty care products, with the experts and teams who work with Olivier Claire, we made a point of selecting active ingredients obtained through biotechnology, such as plant stem cells from Criste-marine. This plant, which grows on the west coast of France, mainly in Brittany, by the sea, in dunes and on rocks, is resistant to sea spray, iodine, wind, drought, sun and temperature variations. Its defence and regeneration properties are mainly due to its native cells, which are responsible for every organ formation. They ensure harmonious growth. All plants and animals, including humans, have stem cells. As for native plant cells, these are undifferentiated cells which, thanks to their capacity for infinite self-renewal and differentiation into different cell types, are innovative ingredients of the first choice. The unique properties of native seabuckthorn cells have beneficial effects on humans, including significant stimulation of regeneration of the epidermis"
+      },
+      "p6": {
+        "title": "What are Olivier Claire’s future plans in terms of product innovation and brand expansion?",
+        "content": "Our development and innovations are the result of listening carefully to the expectations and needs of our customers and partners. Our offer is particularly differentiating in terms of the quality of our products and our cabin protocols. Our hyperselective distribution fully meets the needs of antiageing specialists. Our latest launch: ULTRA - Anti-Ageing Drinkable, a great success, is part of this innovative approach: offering a Food Supplement that acts on the signs of ageing but also on vitality! The Olivier Claire Anti-Ageing range is short, but covers needs from prevention to the care of mature skin... The idea is to offer only products that are particularly innovative and/or meet a real demand.<br></br><br></br> We can already announce that our R&D team is finalising the ULTRA cream. It will be on the market very soon. As its name suggests, this cream is more than a skincare product, it’s the guarantee of a genuine cellular rebirth of the skin. Before this winter, we’ll be launching the High Performance Lip Balm with its nourishing and repairing properties.<br></br><br></br> We are in a very virtuous brand life cycle. As far as distribution is concerned, our priority is to focus on developing our partnerships in France, taking care to ensure that each channel has its own specific characteristics, so that we can provide “made-to-measure” support. We’re setting out to conquer Europe. Asia is also taking a close interest in our brand. I’m also keeping to one guideline: guaranteeing the effectiveness and quality of our products."
+      }
+    },
+    "Barbara_Hersant": {
+      "h1": "DIGITAL INFORMATION IN HEALTHCARE",
+      "abstract": "DO NOT CONFUSE ADVERTISING WITH EDUCATION OR INFORMATION",
+      "author": "By Pr. Barbara Hersant",
+      "cta_text": "Discover Pr. Hersant",
+      "tags": {
+        "t1": {
+          "title": "cosmétique"
+        },
+        "t2": {
+          "title": "esthétique"
+        },
+        "t3": {
+          "title": "médecine"
+        }
+      },
+      "img_alt": "Pr. Barbara portrait",
+      "p1": {
+        "title": "Pr. Barbara Hersant",
+        "content": "Professor Barbara Hersant is an eminent surgeon practicing at the Henri Mondor Hospital in Créteil. Her expertise and dedication to surgery have made her a respected figure in the medical community.<br></br><br></br> Specialising in several branches of surgery, including cosmetic and reconstructive surgery, Professor Hersant is renowned for her surgical precision, her compassion for her patients and her commitment to providing the highest quality of care.<br></br><br></br> As a dedicated professional, she continues to push the boundaries of surgery, while focusing on the well-being and satisfaction of her patients.<br></br><br></br> Professor Barbara Hersant also enjoys a strong online reputation, thanks to her educational contributions and active presence on digital platforms.<br></br><br></br> Her commitment to sharing her knowledge and experience on medical forums, professional social networks and her own website has helped to raise her profile and strengthen her proximity to her patients."
+      },
+      "p2": {
+        "title": "What role do you see for digital communication in the field of plastic, aesthetic and reconstructive surgery? ",
+        "content": "On the one hand, digital communication allows us to educate and inform. Through the content they distribute, surgeons can educate or provide medical information to their patients, the general public, plastic surgery students, their peers, doctors’ and patients’ associations, manufacturers, etc. Information is not synonymous with advertising.<br></br> This communication can have other impacts, particularly in the field of research and industry.<br></br><br></br> This visibility can lead to “win-win” exchanges with worlds other than that of surgery. On a personal level, my digital communication allows me to “let people know” about my surgical skills, my research and my commitments in the field of teaching and in patient associations. I also like to share technological innovations with my virtual community.<br></br><br></br> As well as increasing patient recruitment, this digital communication allows me to be invited to numerous international and national scientific conferences, and to find partnerships with industry for my research."
+      },
+      "p3": {
+        "title": "Do you think that digital platforms have changed the relationship between doctors and their patients? ",
+        "content": "There is perhaps more proximity. Surgeons are becoming more accessible. I’ve noticed that my patients are interested in the content I’ve published and often come to my consultations already knowing my protocols. The consultation is made easier and the time freed up is better spent on personalised, holistic care.<br></br><br></br> On the other hand, there can be negative effects, such as confusion between the virtual space and the consultation space, which is medical time. For example, some patients may report a complication or an abnormal situation in messages left on platforms instead of contacting the hospital or practice directly."
+      },
+      "p4": {
+        "title": "Do you think that digital communication has an impact on trust in the doctor-patient relationship? ",
+        "content": "Yes, that’s why we need to keep professional digital communication separate from personal communication, which should remain private. In fact, communication that is too personal can alter the patient’s trust in their practitioner or the quality of the relationship. "
+      },
+      "p5": {
+        "title": "Which digital channels do you use for your communication? ",
+        "content": "I use LinkedIn, Instagram, Facebook, TikTok and various learned society WhatsApp groups. I also have a personalised website with the option of interacting via a form."
+      },
+      "p6": {
+        "title": "Why did you choose a digital agency specialising in healthcare?",
+        "content": "To promote medical and scientific events such as conferences, scientific and grey literature publications, to spread the word about the surgical methods I use and to promote teaching.<br></br> These days, I feel it’s vital to work on our Ereputation, by highlighting all the controlled and validated information about us. If you don’t control your own communication, you run the risk of being exposed to that of others."
+      },
+      "p7": {
+        "title": "How long have you been working with HEALTHCIE? Has your E-reputation improved since we started managing your online presence? ",
+        "content": "Over the last 3 years. Yes, my website appears on the first Google page dedicated to me (with the query Barbara Hersant). So when someone searches for my name, it’s easy to find my site.<br></br> I’m also better referenced on the themes that interest me."
+      },
+      "p8": {
+        "title": "What specific aspects of our collaboration have contributed most to strengthening your online presence and improving your reputation as a healthcare professional?",
+        "content": "The fact that we had several interviews, including an annual one, meant that we could take time out (in our fast-paced lives) to focus on our communication and the important points we needed to defend.<br></br><br></br> Together we came up with a directing line and a personal digital signature, which enabled me to strengthen my digital strategy. The SEO work we carried out was a key element in the succes of the project."
+      },
+      "p9": {
+        "title": "Would you recommend HEALTHCIE to your colleagues? If so, why? ",
+        "content": "Yes, because of the form and content work that is done. Even if it’s the doctor who has to create the content, the agency helps with referencing it and setting up a communication strategy. It also helps them to find their digital signature: logo, graphics, etc. There is also a reactivity in the event of modifications or additions to the content."
+      },
+      "p10": {
+        "title": "What advice would you give to young healthcare professionals on how to integrate digital communication into their practice?",
+        "content": "Don’t confuse advertising with education or information. Avoid ethical errors, such as not responding to patient’s medical questions in public (risk of breaching medical confidentiality), or posting comments or photos of patients without their consent.<br></br><br></br> it is important to produce quality content without plagiarising your peers. Take time to focus on your objectives. You need to establish a clear communication strategy to avoid engaging in messy communication, which can have negative effects. "
+      }
+    },
+    "Dr_Adda": {
+      "h1": "INTERVIEW WITH DR ADDA",
+      "abstract": "The laser is distinguished by several key innovations",
+      "author": "THE AEROLASE NEO ELITE® LASER",
+      "cta_text": "Discover Aerolase",
+      "tags": {
+        "t1": {
+          "title": "cosmétique"
+        },
+        "t2": {
+          "title": "esthétique"
+        },
+        "t3": {
+          "title": "médecine"
+        }
+      },
+      "img_alt": "Dr Adda portrait",
+      "p1": {
+        "title": "Introduction",
+        "content": "Innovation plays a crucial role in the evolution of dermatology and aesthetic medicine. Technological advancements, such as those from Aerolase, are transforming patient care by making treatments more effective, comfortable, and accessible. Today, presenting Aerolase’s Neo Elite® laser is about introducing a revolutionary device that is redefining dermatological treatments."
+      },
+      "p2": {
+        "title": "Focus on innovation",
+        "content": "The Neo Elite® laser from Aerolase stands out due to several key innovations:<br></br><br></br> Its meticulously chosen wavelength:<br></br> Neo Elite® is an Nd:YAG laser with a wavelength of 1064 nm. This allows the energy to penetrate deeply into the skin, precisely targeting three chromophores (water, melanin, hemoglobin) while minimizing its impact on surrounding tissues.<br></br><br></br> 650 microsecond technology:<br></br> Its short pulses pass through the epidermis 30 to 50 times faster than conventional YAG lasers. This technology enables the laser to operate below the thermal relaxation time (800 microseconds), thus eliminating the overheating of epidermal melanin and potential issues of pain and pigmentation. This allows for quick and comfortable treatments for patients, without the need for anesthesia and without social downtime.<br></br><br></br> Unique versatility:<br></br> Capable of treating more than 36 different indications, Neo Elite® offers solutions for a wide range of skin issues: vascular, inflammatory, pigmented conditions, skin rejuvenation, and more. It enables personalized and effective treatment for each patient, meeting their specific needs.<br></br><br></br> Suitable for all skin types:<br></br> One of Neo Elite®’s major strengths is its safety and effectiveness on all skin types, year-round. It can safely treat phototypes I to VI (Fitzpatrick) and tanned skin.<br></br><br></br> Effectiveness and modern design:<br></br> Neo Elite® is distinguished not only by its innovative clinical applications but also by its design. Compact and designed for easy use in clinics, it integrates perfectly into various care environments. Moreover, its design, inspired by aerospace technologies, offers great practicality and advanced ergonomics that facilitate its daily use."
+      },
+      "p3": {
+        "title": "Clinical Applications",
+        "content": "The Neo Elite® laser is designed to treat a multitude of dermatological conditions, offering targeted solutions tailored to the specific needs of each patient. Among the main indications it treats:<br></br><br></br> Vascular lesions:<br></br> It effectively targets hemoglobin in dilated blood vessels, significantly reducing redness. It safely and comfortably treats conditions such as rosacea, telangiectasias, erythema, angiomas.<br></br><br></br> Inflammatory indications:<br></br> Neo Elite® is particularly effective in treating inflammatory conditions like acne. It directly targets sebaceous glands and the bacteria responsible for inflammations. After several sessions, inflammatory and non-inflammatory lesions are considerably reduced.<br></br><br></br> Skin rejuvenation:<br></br> By stimulating collagen production, the laser improves skin texture and firmness. It visibly reduces wrinkles and signs of aging, providing younger and revitalized skin.<br></br><br></br> Pigmented lesions:<br></br> Neo Elite® allows the treatment of pigmentary disorders such as melasma or sunspots by targeting melanin located on the skin’s surface and deeper layers. It evens out skin tone, reducing the appearance of pigmented spots and giving a more radiant and homogeneous complexion over the long term"
+      },
+      "p4": {
+        "title": "Personal Experience of Dr. Adda",
+        "content": "When I sought to integrate a new laser into my clinic, I compared several options. The Neo Elite® stood out due to its advanced technology, which allows for comfortable treatments and its versatility, offering a wide range of care to my patients. The short pulse duration used by this laser is a real revolution in my opinion as it significantly reduces the risks of pain, burns, and adverse effects. It is truly a new laser that significantly enhances the capabilities of the 1064nm wavelength.<br></br><br></br> Moreover, patients particularly appreciate being able to resume their daily activities immediately after the session. This allows them to undergo effective treatment without disrupting their schedule. Additionally, the Neo Elite® laser offers the possibility to treat patients all year round (even in summer). Aerolase also provides excellent technical support and comprehensive training to ensure optimal use of the laser by practitioners. This adds an extra dimension of confidence and safety for us, the physicians.<br></br> The integration of Neo Elite® has also optimized time management within my practice. With treatments being faster and requiring less post-procedure follow-up, we can welcome and treat more patients while maintaining a high level of care."
+      },
+      "p5": {
+        "title": "Conclusion",
+        "content": "Innovation in aesthetic dermatology is essential to meet the growing expectations of patients. The Neo Elite® laser from Aerolase embodies this evolution with its cutting-edge technologies, versatility, and adaptability to all skin types. Thanks to this technology, patients benefit from safer, more effective, and more comfortable treatments, paving the way for a promising future in aesthetic medicine."
+      }
+    },
+    "Hugo_Nivault": {
+      "h1": "HOW TO PREPARE YOUR DIGITAL PROJECT",
+      "abstract": "EVERYTHING STARTS WITH AN AUDIT",
+      "author": "with Hugo Nivault, Digital Project Manager",
+      "cta_text": "Discover HEALTHCIE Agency",
+      "tags": {
+        "t1": {
+          "title": "cosmétique"
+        },
+        "t2": {
+          "title": "esthétique"
+        },
+        "t3": {
+          "title": "médecine"
+        }
+      },
+      "img_alt": "Hugo Nivault portrait",
+      "p1": {
+        "title": "Digital communication: your business partner",
+        "content": "To start getting to grips with the digital world and to ensure that you are visible, it is essential to build a website. It is the cornerstone of any digital communications strategy. The aim is not simply to have an online presence, but to be visible and engaging to potential patients.<br></br><br></br> Your website allows you to showcase your expertise, provide an overview of your practice and, above all, establish a warm image thanks to high-quality visual content and an optimal user experience.<br></br><br></br> More than just a website, it’s a digital shop window that will allow you to get closer to your patients. Increasingly, they need to know more about you and your practice to be convinced to book an appointment. The challenge is to reassure your patients by giving them all the information they need about you and your team.<br></br><br></br> We also recommend using Google My Business, a powerful tool. When properly optimised, this listing provides local visibility, offering patients all the information they need, from opening times to patient reviews. This listing needs to be optimised because it is very often the first way to find you in local search results. This free tool is one of the vectors of your E-reputation, but it alone cannot represent your online visibility.<br></br><br></br> On the other hand, search engine optimisation (SEO) is essential. It’s the most important aspect of your digital presence. What’s the point of having a website if it can’t be seen? The aim of a search engine optimisation (SEO) strategy is to appear on the first page of search results (SERPs) from engines like Google. Today we know that the click-through rate on the first page is around 92%, which means that those who rank for keywords that are highly sought after by users generate a huge amount of traffic. Achieving excellent positions in the search results naturally encourages appointments to be made at your practice and contributes to the development of your business.<br></br><br></br> Search engine optimisation (SEO) is a complex discipline that evolves over time. It requires rigorous commitment in order to maintain a strategic position in the search results.<br></br><br></br> As an aesthetic doctor, positioning yourself on local search queries such as “lip injections Créteil”, “laser hair removal Paris 8» or «breast reduction Paris 7” gives you the opportunity to expand your practice via the web. To consolidate this referencing, it is essential to produce and integrate relevant, wellstructured content. Publishing blog articles or new pages can increase the number of keywords positioned in Google results. Google’s algorithms are keen on fresh, unique content. It is also necessary to weave links between sites (netlinking strategies) to satisfy the expectations of Google’s PageRank algorithm, which is one of the most important today.<br></br><br></br> In addition to a website, social networks are powerful tools for engaging and retaining patients. Platforms such as Instagram, Facebook and LinkedIn allow practitioners to share informative content, photos and videos of the practice, treatments and patient testimonials.<br></br><br></br> Today, we are seeing the advent of TikTok, a platform on which doctors are increasingly present. It’s a good way of increasing the visibility of the practitioner, but this digital medium has not been identified as the most relevant for patient conversion. This is partly explained by the fact that the public is very young and does not necessarily have the budget to access aesthetic medical treatments."
+      },
+      "p2": {
+        "title": "Digital practice management: optimising operational efficiency",
+        "content": "In addition to external communication, digitalisation also offers numerous opportunities to improve the internal management of a medical practice. Customer Relationship Management (CRM) systems have become essential tools for tracking patient information, scheduling appointments and ensuring effective patient follow-up.<br></br><br></br> A CRM allows seamless integration with Doctolib to synchronise diaries and streamline online appointment booking. Storing and tracking before/after photos directly in patients’ medical records makes it easier to monitor the progress of their treatment accurately. CRM can also include certified financial management, with the ability to create quotes and invoices incorporating VAT, as well as simplified payment management.<br></br><br></br> Rapid editing of documents such as prescriptions, consents and estimates at the click of a button facilitates the overall management of your practice and your patients. As a doctor, you can control the financial management of your practice and also benefit from complete accounting tracking, including expenses and income, as well as secure data that complies with HDS and RGPD standards, with automatic back-ups.<br></br> An activity dashboard provides an overview of your medical practice, and integrated teletransmission facilitates exchanges with healthcare organisations, allowing you to concentrate fully on your patients.<br></br><br></br> Finally, digitising the waiting room can improve the overall patient experience. Interactive information screens or tablets can entertain and educate patients while they wait, while providing useful information about the aesthetic treatments available and the safety measures in place.<br></br><br></br> Wait Marketing is a strategy that uses patients’ waiting time to distribute informative content, particularly about the range of treatments on offer, or educational content. It is possible to offer an interactive experience using tools such as tablets or QR codes to enhance the patient experience and engage them constructively.<br></br><br></br> In conclusion, digitalisation offers you a great way to improve both patient communication and the operational efficiency of your practice. By taking advantage of the digital tools available, you can offer a high-quality patient care pathway while remaining at the forefront of your constantly evolving field."
+      }
+    },
+    "Benjamin_Asher": {
+      "h1": "The medical aesthetic injectable summit",
+      "abstract": "JOIN THE LEADERS OF AESTHETIC INJECTABLES",
+      "author": "With Dr. Benjamin Ascher",
+      "cta_text": "Discover ThinkIn",
+      "tags": {
+        "t1": {
+          "title": "cosmétique"
+        },
+        "t2": {
+          "title": "esthétique"
+        },
+        "t3": {
+          "title": "médecine"
+        }
+      },
+      "img_alt": "Dr. Benjamin Ascher portrait",
+      "p1": {
+        "title": "Dr. Benjamin Ascher",
+        "content": "Benjamin Ascher, MD, is a board-certified plastic surgeon, member of the French, American, and International Societies of Plastic, Reconstructive and Aesthetic Surgery (SOFCPRE, SOFCEP, ASPS, ISAPS).<br></br><br></br> A former chief resident, Hospitals of Paris assistant and Chairman & Head of the “IENA Aesthetic Surgery Clinique” in Paris, France.<br></br><br></br> He is the Founder and President of:<br></br> IMCAS company, a world leader in medical conferences (Paris, Bangkok, Bali, Cancun, Cartagena, Mumbai, Goa, Shanghai), dealing with the interface between Plastic Surgery, Cosmetic Dermatology and Aesthetic Medicine.<br></br><br></br> ThinkIn company: leader with VIP hands-on classes dedicated to anatomy, minimal invasive live treatments, injection and threads simulator, and ultrasound-guided injections.<br></br><br></br> He is a member of the International Editorial Board of the Aesthetic Surgery Journal (ASJ), Section Editor of the Aesthetic Plastic Surgery Journal (APSJ) and member of the Editorial Board for Journal of Cosmetic and Laser Therapy, as well as author of 200 original articles published in referenced journals, and peer-reviewed articles.<br></br><br></br> He works extensively in research and clinical studies related to aesthetic surgical & medical procedures (toxins, fillers, anatomy, ultrasonography, regenerative medicine, lasers & energy-based devices for skin tightening and lipolysis, threads, fat grafting, facelift and eyelid surgery)."
+      },
+      "p2": {
+        "title": "What is The Medical Aesthetic Injectable Summit (MAIS) and how does it differ from other events in the field of medical aesthetics? ",
+        "content": "The Medical Aesthetic Injectable Summit sets itself apart by being specifically dedicated to injectables ecosystem in the field of medical aesthetics. This specificity gives it a particular importance, but it is not the central element of this summit. The very essence of this gathering lies in its unique nature and in its objective to promote the acquisition of highlevel economic & scientific knowledge, allied with powerful networking, distinct from the events and logistics of the major congresses that bring together the largest populations in our profession, such as IMCAS.<br></br><br></br> Another fundamental aspect is its resolutely practical orientation. Thanks to the resources deployed, this summit offers an exceptional opportunity for practical application, networking and making appointments over a 48-hour period, making it a truly unique event.<br></br><br></br> Finally, what really sets MAIS appart is the whole “business & science together” aspect. The summit covers all the processes an injectable goes through (from clinical research to regulations) before hitting the clinics. It also introduces innovative novelties from startups and products in the pipeline."
+      },
+      "p3": {
+        "title": "Who is MAIS primarily aimed at and what are the main objectives of this event?",
+        "content": "The originality of this summit lies in the diversity of the three target populations, unlike traditional congresses, which attract a homogeneous audience. The first group is made up of doctors, leaders in their field, whose main role is to disseminate information. They are not product creators, but the users and teachers of the techniques derived from these products.<br></br><br></br> The second group is made up of PhDs working in research laboratories, the real inventors of patents and creators of the majority of essential products in the field of injectables, toxins and fillers. These researchers are rarely present at our usual conferences.<br></br><br></br> The third population is an alliance between the usual companies present at these events and other key players. This time, the companies will play a different role, working in practical collaboration with regulators, financiers (funds, private equity, banks), start-ups seeking to attract investors for their development, as well as distributors and regulatory experts. Regulation will be approached in a novel way, with companies explaining the specific challenges associated with European, American, Chinese and Korean commissions.<br></br><br></br> In addition, a platform called Speed Matching will be launched at the beginning of September, enabling participants to identify themselves, present their biographies and specify their expectations, thus facilitating effective interaction and collaboration."
+      },
+      "p4": {
+        "title": "What are the main themes and topics that will be discussed at this year’s MAIS?",
+        "content": "For this Medical Aesthetic Injectable Summit (MAIS), we have chosen to concentrate our efforts on the two major pillars of toxins and fillers. As far as fillers are concerned, our approach encompasses a vast range of products, including hyaluronic acid, nonhyaluronic acid fillers, as well as everything to do with injectable regenerative medicine, artificial intelligence and gene therapy.<br></br><br></br> Together, they form a microcosm of very high-level information and data. The second essential aspect of the summit concerns economic information, provided by companies specialising in market analysis such as BCG, Cetas HealthCare, Wall Street, etc."
+      },
+      "p5": {
+        "title": "Can you introduce the KOLs, the Summit’s Board members, and explain how each one of them contributes to the event?",
+        "content": "The originality of this event lies in its multidisciplinary nature, going beyond a simple gathering of doctors. It has been conceived and organised by four entities with complementary and distinct profiles.<br></br><br></br> Firstly, we have a plastic surgeon, Dr Ascher. Secondly, an internationally renowned dermatologist in the field of aesthetic and medical dermatology, Marina Landau. Thirdly, Humberto Antunes, former CEO of Galderma and currently head of the Gore Range Capital fund, who will also be taking part in the summit. Lastly, Fauad Hassan, PhD and product developer, who is renowned for having sold a fast-acting toxin to ABBVIE, bringing indepth expertise in toxin development. "
+      },
+      "p6": {
+        "title": "Could you tell us more about the very innovative concept of speed matching, that will be introduced during the Summit, and how the participants will benefit from it?",
+        "content": "The speed matching concept is unprecedented in our profession. This innovative platform is based on the use of artificial intelligence algorithms, making it much easier to organise appointments. Thanks to this system, participants know well in advance the list of people they will be meeting, optimising interactions and exchanges."
+      },
+      "p7": {
+        "title": "MAIS is partly focused on disruptive innovations in the pipeline as well as artificial intelligence application; What role do you think AI will play in the technical progress of injectables?",
+        "content": "Generally speaking, tackling the issue of artificial intelligence means thinking about the challenges it poses. AI represents a form of intelligence that is far superior to our own. The major challenge is to determine how to control it and ensure that doctors are not left behind, but remain at the heart of development. This challenge is immense and concerns the entire medical sector, including plastic surgeons, dermatologists and aesthetic doctors, as well as our flagship areas.<br></br><br></br> We need to consider the impact of AI on all applications used before, during and after treatment, as well as on robotics related to surgery and, in the near future, injections. Simulation and augmented reality, integrated with AI, offer excellent opportunities to strengthen teaching functions and provide numerous assets for doctors, who will thus become “augmented doctors”.<br></br><br></br> All these aspects will be addressed, while always keeping in mind the need to refocus the debate on the development of injectables."
+      }
+    },
+    "Julien_Vervel": {
+      "h1": "FOCUS ON E-REPUTATION",
+      "abstract": "MEDICAL E-REPUTATION IS A PROFESSION",
+      "author": "BY JULIEN VERVEL",
+      "cta_text": "Discover HEALTHCIE Agency",
+      "tags": {
+        "t1": {
+          "title": "cosmétique"
+        },
+        "t2": {
+          "title": "esthétique"
+        },
+        "t3": {
+          "title": "médecine"
+        }
+      },
+      "img_alt": "Julien Vervel portrait",
+      "p1": {
+        "title": "Definition & Scope of E-reputation",
+        "content": "With the advent of digital technology, it is natural to turn to Internet to obtain information about a healthcare professional, company or brand in order to assess what is commonly known as their online reputation, or E-reputation.<br></br><br></br> I often hear doctors say, whether at an agency or at university: “Medical E-reputation is the rate on Google”.<br></br><br></br> To be precise, it’s one of the vectors of your online reputation, but the scope of E-reputation is much wider. It is based on the perception that patients and the public have of your medical practice as a whole.<br></br><br></br> We can define E-reputation as the image that Internet reflects of a person, whether physical or moral. E-notoriety is made up of all the online information about an individual or a brand.<br></br><br></br> It encompasses everything that is said, shared or written about you online, whether on Google my Business, on social networks such as LinkedIn, Instagram, Facebook or Tiktok, on your website, on forums or even in the traditional media."
+      },
+      "p2": {
+        "title": "E-reputation is a precious asset in our digital age.",
+        "content": "Managing your online reputation is more important than ever because it is a powerful vector for developing your career. By building a positive E-reputation based on ethical and deontological principles, you can strengthen patient trust, develop your patient base and contribute to a thriving medical practice.<br></br><br></br> Developing your active file:<br></br> Before choosing a new practitioner, more and more patients are consulting online reviews, websites, testimonials and recommendations. A positive E-reputation will boost confidence in the practitioner and inevitably make it easier to book an appointment! A positive E-reputation helps you attract a steady stream of new patients looking for quality care and a practitioner who listens.<br></br><br></br> Stand out from the crowd:<br></br> A positive E-reputation can be a powerful differentiating factor. A well-managed digital identity, through your website and a good search engine optimisation (SEO) strategy, for example, can help you showcase your expertise to the general public.<br></br> The website is an excellent tool for sharing information about yourself. By highlighting your background, expertise and patient satisfaction, you can set yourself apart from other specialists in the field.<br></br><br></br> Collaboration and networking:<br></br> E-reputation can play a key role in collaborations with medical device companies, participation in congresses or projects with peers. Colleagues are naturally more inclined to work with professionals who have a positive reputation.  This can open up opportunities for collaboration that will benefit your patients and your practice.<br></br><br></br> Communication is a business partner not to be neglected. Investing in your E-reputation will pay off for your career in the medium and long term. A positive E-reputation is an invaluable asset for building patient confidence, developing your business and facilitating collaboration with industry and peers."
+      },
+      "p3": {
+        "title": "3 Key points for managing your E-reputation:",
+        "content": "In a world where information is easily accessible online, patients often turn to Internet to search for medical information and opinions on healthcare professionals. A solid E-reputation, based on positive reviews and a professional online presence, can boost patient confidence and encourage them to choose your practice.<br></br><br></br> 1) Monitoring: keep an eye on what’s being said about you<br></br> The first step in managing your e-reputation is to actively monitor what is being said about you online. This includes patient reviews, mentions on social networks and press articles. Online monitoring tools can help you stay informed about what is being said about your practice.<br></br><br></br> 2) Transparency and responsiveness<br></br> Transparency is essential in managing your E-reputation. Be prepared to respond to patients’ opinions, whether positive or negative, always respecting professional confidentiality. Adopting a listening stance in your responses will show that you are taking patients’ concerns into account and that you are open to communication.<br></br><br></br> 3) Creating positive content<br></br> Whether it’s to liven up your social networks or your website, creating positive content online is a poweful way of managing your E-reputation in the medium and long term. Publish articles, videos and high value-added medical information to promote therapeutic patient education. This will reinforce your expertise while highlighting your practice. By providing useful and relevant information, you can develop your influence in your speciality.<br></br><br></br> E-reputation management is clearly a new deal for healthcare professionals. In our ultraconnected world, it has a direct impact on patient confidence, their choice of healthcare professional and the development of your career."
+      }
+    }
   }
 }
