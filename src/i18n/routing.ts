@@ -35,8 +35,8 @@ export const routing = defineRouting({
       en: "/focus-nivault-hugo-healthcie-prepare-digital-healthcare-project",
     },
     "/articles": {
-      fr: "/articles-innovations-chirurgie-esthetique-medecine-anti-age-interviews",
-      en: "/articles-innovations-aesthetic-surgery-anti-age-medicine-interviews",
+      fr: "/publications-innovations-medecine-esthetique",
+      en: "/publications-aesthetic-medicine-innovations",
     },
   },
 });

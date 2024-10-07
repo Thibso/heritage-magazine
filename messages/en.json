@@ -14,6 +14,19 @@
       "cta": "About us"
     }
   },
+  "About": {
+    "h1": "About",
+    "first": {
+      "h2": "Media dedicated to aesthetic medicine",
+      "h3": "HERITAGE Magazine, the story",
+      "content": "<p>(H)ERITAGE Magazine was born of a very specific vision: to celebrate the subtle balance between tradition and innovation in the field of aesthetic surgery, medicine and dermatology. </p> <p>Conceived by the <healthcie>HEALTHCIE</healthcie> agency, which specializes in digital communications strategy for those involved in medicine and surgery, (H)ERITAGE is a unique approach, at the crossroads of technological avant-garde and timeless refinement.</p> <p>Founded in 2019 by <julien>Julien Vervel</julien>, HEALTHCIE draws its inspiration from the world of haute couture to shape tailor-made digital solutions, supporting aesthetic surgeons and doctors in their online visibility and E-reputation management.</p>"
+    },
+    "follow": {
+      "h2": "A digital platform & premium print support for doctors and medical device manufacturers",
+      "h3": "HERITAGE Magazine",
+      "content": "<p>This expertise gave rise to the idea of a complete ecosystem, where the premium print version meets an innovative digital platform, rich in exclusive content and accessible to a global audience.</p> <p>The HERITAGE Magazine team is determined to offer readers original content with high added value. You'll find in-depth articles, interviews with KOLs and focus on the latest product and technological advances. </p> <p>Enjoy continuous access to innovation both in the pages of the magazine and through our digital platform.</p>"
+    }
+  },
   "Footer": {
     "abstract": "Your new rendez-vous in the vibrant world of innovation in surgery and aesthetic medicine.",
     "copyright": "Copyright 2025 | (H)ERITAGE Magazine",
@@ -39,7 +52,7 @@
     "adda": {
       "h2": "INTERVIEW WITH DR ADDA",
       "h3": "THE AEROLASE NEO ELITE® LASER",
-      "content": "L’innovation joue un rôle crucial dans l’évolution de la dermatologie et de la médecine esthétique. Les avancées technologiques, comme celles d’Aerolase, transforment les soins prodigués aux patients en les rendant plus efficaces, plus confortables et plus accessibles. <br></br> Aujourd’hui, présenter le laser Neo Elite® d’Aerolase, c’est présenter un dispositif révolutionnaire qui redéfinit les traitements dermatologiques.",
+      "content": "Innovation plays a crucial role in the evolution of dermatology and aesthetic medicine. Technological advances, like those made by Aerolase, are transforming patient care, making it more effective, more comfortable and more accessible. Today, presenting Aerolase's Neo Elite® laser means presenting a revolutionary device that redefines dermatological treatments.",
       "cta_link": "/en/interview-doctor-adda-jean-marc-aerolase-laser-neo-elite",
       "cta": "Read article"
     },

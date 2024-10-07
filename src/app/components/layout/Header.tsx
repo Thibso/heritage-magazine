@@ -34,8 +34,6 @@ export default function Header(props: Props) {
         <line x1="4" x2="20" y1="18" y2="18" />
       </svg> */}
 
-      <SwitchLang locale={props.locale} />
-
       {/* <Link
         href="https://vivacy.com"
         className="w-[15%] inline-flex flex-nowrap overflow-hidden [mask-image:_linear-gradient(to_right,transparent_0,_black_28px,_black_calc(100%-28px),transparent_100%)]"
@@ -59,28 +57,25 @@ export default function Header(props: Props) {
       </Link> */}
 
       {/* DESKTOP */}
-      {/* <ul className="hidden gap-4 text-white">
+      <ul className="gap-10 text-white flex">
         <li>
-          <a href="" className="font-sfPro font-light uppercase">
+          <a href="/fr/about" className="font-sfPro font-medium uppercase">
             A propos
           </a>
         </li>
         <li>
-          <a href="" className="font-sfPro font-light uppercase">
-            Media kit / Prestations
+          <a href="" className="font-sfPro font-medium uppercase">
+            Publications
           </a>
         </li>
         <li>
-          <a href="" className="font-sfPro font-light uppercase">
-            Articles
-          </a>
-        </li>
-        <li>
-          <a href="" className="font-sfPro font-light uppercase">
+          <a href="" className="font-sfPro font-medium uppercase">
             Contact
           </a>
         </li>
-      </ul> */}
+      </ul>
+
+      <SwitchLang locale={props.locale} />
     </header>
   );
 }
