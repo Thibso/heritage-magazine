@@ -34,10 +34,12 @@
     "healthcie": "HEALTHCIE | Le créateur digital des professions médicales"
   },
   "Articles_base": {
-    "title": "LE MÉDIA DÉDIÉ À L’INNOVATION EN SANTÉ",
+    "title": "Publications",
+    "h1": "News & innovations in aesthetic medicine",
+    "h2": "Opinion leaders speak out",
     "ascher": {
       "h2": "The medical aesthetic injectable summit",
-      "h3": "Avec le Dr Benjamain Ascher",
+      "h3": "Avec le Dr Benjamin Ascher",
       "content": "Benjamin Ascher, MD, est un chirurgien plasticien certifié, membre des sociétés françaises, américaines et internationales de chirurgie plastique, reconstructrice et esthétique (SOFCPRE, SOFCEP, ASPS, ISAPS). <br></br> Il a été Chef Résident, Assistant des Hôpitaux de Paris et Président et Chef de la Clinique de Chirurgie Esthétique IENA à Paris - France.",
       "cta_link": "/en/interview-doctor-ascher-benjamin-thinkin-medical-aesthetic-injectable-summit",
       "cta": "Read article"

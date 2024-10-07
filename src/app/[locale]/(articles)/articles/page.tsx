@@ -1,11 +1,11 @@
 import Button from "@/app/components/buttons/Button";
-import barbara from "@/app/img/articles/barbara_hersant/pr-hersant-barabara-chirurgie-esthetique-paris.jpg";
-import ascher from "@/app/img/articles/benjamin_ascher/dr-benjamin-ascher-thinkin.jpg";
-import adda from "@/app/img/articles/dr_adda/dr-adda-aerolase-laser-elite.jpg";
-import hugo from "@/app/img/articles/hugo_nivault/hugo-nivault-chef-projet-digital-healthcie.jpg";
-import julien from "@/app/img/articles/julien_vervel/Julien-vervel-consultant-médical-laboratoires.jpg";
-import olivier from "@/app/img/articles/olivier_claire/portrait-olivier-claire.jpg";
-import logo from "@/app/img/heritage-magazine-anti-age-innovation.png";
+import adda from "@/app/img/doctor-adda-jean-marc-heritage-magazine.jpg";
+import ascher from "@/app/img/doctor-ascher-benjamin-heritage-magazine.jpg";
+import header from "@/app/img/heritage-magazine-publication-kol.jpg";
+import hugo from "@/app/img/nivault-hugo-heritage-magazine.jpg";
+import olivier from "@/app/img/olivier-claire-couraud-heritage-magazine.jpg";
+import barbara from "@/app/img/professor-hersant-barbara-heritage-magazine.jpg";
+import julien from "@/app/img/vervel-julien-heritage-magazine.jpg";
 import { useTranslations } from "next-intl";
 import Image from "next/image";
 
@@ -35,27 +35,33 @@ export default function Articles() {
 
   return (
     <div>
-      <section className="myContainer bg-mainBlue mt-[44px] lg:mt-[60px]">
-        <Image
-          src={logo}
-          alt="Logo (H)ERITAGE Magazine"
-          title="Logo (H)ERITAGE Magazine"
-          className="m-auto max-w-[80%]"
-        />
-        <h1 className="header-title text-white text-center mt-6">
-          {t("title")}
-        </h1>
+      <section>
+        <div className="px-5 py-4 max-lg:h-[500px] lg:h-screen max-h-[1200px] grid items-end relative lg:px-7 lg:py-4">
+          <span className="text-white uppercase text-3xl lg:text-8xl">
+            {t("title")}
+          </span>
+          <Image
+            src={header}
+            alt=""
+            className="absolute lg:fixed size-full top-0 left-0 object-cover -z-[1] opacity-85"
+          />
+        </div>
       </section>
 
-      <section className="myContainer text-mainBlue">
-        <div className="space-y-20 max-w-screen-xl m-auto">
+      <section className="myContainer text-mainBlue bg-white">
+        <div className="space-y-28 max-w-screen-xl m-auto">
+          <div className="text-center">
+            <h1 className="h2 text-mainBlue">{t("h1")}</h1>
+            <h2 className="h3 mt-2 lg:mt-4">{t("h2")}</h2>
+          </div>
+
           <div className="max-lg:flex max-lg:flex-col max-lg:gap-6 lg:grid lg:grid-cols-5">
             <div className="col-span-2">
               <Image
                 src={ascher}
                 alt="Dr Benjamin Ascher HERITAGE Magazine"
                 title="Dr Benjamin Ascher HERITAGE Magazine"
-                className="w-full h-[350px] object-cover lg:h-[370px] lg:object-cover"
+                className="max-lg:m-auto w-full max-lg:max-w-[400px] object-contain rounded-sm"
               />
             </div>
 
@@ -102,7 +108,7 @@ export default function Articles() {
                 src={olivier}
                 alt="Olivier Claire HERITAGE Magazine"
                 title="Olivier Claire HERITAGE Magazine"
-                className="w-full h-[350px] object-cover lg:h-[370px] lg:object-cover object-top"
+                className="max-lg:m-auto w-full max-lg:max-w-[400px] object-contain rounded-sm"
               />
             </div>
           </div>
@@ -113,7 +119,7 @@ export default function Articles() {
                 src={adda}
                 alt="Aerolase HERITAGE Magazine"
                 title="Aerolase HERITAGE Magazine"
-                className="w-full h-auto object-contain lg:h-[370px] lg:object-cover object-top"
+                className="max-lg:m-auto w-full max-lg:max-w-[400px] object-contain rounded-sm"
               />
             </div>
 
@@ -160,7 +166,7 @@ export default function Articles() {
                 src={barbara}
                 alt="Pr Barbara Hersant HERITAGE Magazine"
                 title="Pr Barbara Hersant HERITAGE Magazine"
-                className="w-full h-auto object-contain lg:h-[370px] lg:object-cover"
+                className="max-lg:m-auto w-full max-lg:max-w-[400px] object-contain rounded-sm"
               />
             </div>
           </div>
@@ -171,7 +177,7 @@ export default function Articles() {
                 src={julien}
                 alt="Julien Vervel HERITAGE Magazine"
                 title="Julien Vervel HERITAGE Magazine"
-                className="w-full h-auto object-contain max-h-[370px] lg:object-cover object-top"
+                className="max-lg:m-auto w-full max-lg:max-w-[400px] object-contain rounded-sm"
               />
             </div>
 
@@ -218,7 +224,7 @@ export default function Articles() {
                 src={hugo}
                 alt="Hugo Nivault HERITAGE Magazine"
                 title="Hugo Nivault HERITAGE Magazine"
-                className="w-full h-auto object-contain lg:h-[370px] lg:object-cover object-perso-hugo"
+                className="max-lg:m-auto w-full max-lg:max-w-[400px] object-contain rounded-sm"
               />
             </div>
           </div>

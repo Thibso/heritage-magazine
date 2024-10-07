@@ -1,6 +1,7 @@
 import Image from "next/image";
 import logo from "../../img/heritage-antiage-magazine-innovation-sante.png";
 import SwitchLang from "./SwitchLang";
+import MenuMobile from "./menuMobile";
 
 type Props = {
   locale: string;
@@ -18,67 +19,38 @@ export default function Header(props: Props) {
       </a>
 
       {/* MOBILE */}
-      {/* <svg
-        xmlns="http://www.w3.org/2000/svg"
-        width="32"
-        height="32"
-        viewBox="0 0 24 24"
-        fill="none"
-        stroke="currentColor"
-        stroke-width="1.5"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-      >
-        <line x1="4" x2="20" y1="12" y2="12" />
-        <line x1="4" x2="20" y1="6" y2="6" />
-        <line x1="4" x2="20" y1="18" y2="18" />
-      </svg> */}
-
-      {/* <Link
-        href="https://vivacy.com"
-        className="w-[15%] inline-flex flex-nowrap overflow-hidden [mask-image:_linear-gradient(to_right,transparent_0,_black_28px,_black_calc(100%-28px),transparent_100%)]"
-      >
-        <ul className="flex items-center justify-center md:justify-start [&_img]:max-w-[200px] animate-infinite-scroll">
-          <li>
-            <Image className=" h-[24px] object-contain" src={vivacy} alt="" />
-          </li>
-          <li>
-            <Image className=" h-[24px] object-contain" src={vivacy} alt="" />
-          </li>
-        </ul>
-        <ul className="flex items-center justify-center md:justify-start [&_img]:max-w-[200px] animate-infinite-scroll">
-          <li>
-            <Image className=" h-[24px] object-contain" src={vivacy} alt="" />
-          </li>
-          <li>
-            <Image className=" h-[24px] object-contain" src={vivacy} alt="" />
-          </li>
-        </ul>
-      </Link> */}
+      <MenuMobile locale={props.locale} />
 
       {/* DESKTOP */}
-      <ul className="gap-10 text-white flex">
+      <ul className="max-lg:hidden gap-10 flex">
         <li>
-          <a href="/fr/about" className="font-sfPro font-medium uppercase">
+          <a
+            href="/fr/about"
+            className="font-sfPro font-medium uppercase text-white transition hover:text-orange"
+          >
             A propos
           </a>
         </li>
         <li>
           <a
             href="/fr/publications-innovations-medecine-esthetique"
-            className="font-sfPro font-medium uppercase"
+            className="font-sfPro font-medium uppercase text-white transition hover:text-orange"
           >
             Publications
           </a>
         </li>
         <li>
-          <a href="" className="font-sfPro font-medium uppercase">
+          <a
+            href=""
+            className="font-sfPro font-medium uppercase text-white transition hover:text-orange"
+          >
             Contact
           </a>
         </li>
       </ul>
-
-      <SwitchLang locale={props.locale} />
+      <span className="max-lg:hidden">
+        <SwitchLang locale={props.locale} />
+      </span>
     </header>
   );
 }

@@ -18,11 +18,19 @@ export default function SwitchLang(props: Props) {
     <div>
       {props.locale === "en" ? (
         <Link href={"/fr/" + pathname}>
-          <Image className=" h-[24px] object-contain" src={fr} alt="" />
+          <Image
+            className="max-lg:max-h-[32px] max-lg:w-fit lg:h-[24px] object-contain"
+            src={fr}
+            alt=""
+          />
         </Link>
       ) : (
         <Link href={"/en/" + pathname}>
-          <Image className=" h-[24px] object-contain" src={en} alt="" />
+          <Image
+            className="max-lg:max-h-[32px] max-lg:w-fit lg:h-[24px] object-contain"
+            src={en}
+            alt=""
+          />
         </Link>
       )}
     </div>
