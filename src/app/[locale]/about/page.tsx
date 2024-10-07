@@ -5,6 +5,28 @@ import { useTranslations } from "next-intl";
 import Image from "next/image";
 import Link from "next/link";
 
+type Params = {
+  params: { locale: string };
+};
+
+export async function generateMetadata({ params }: Params) {
+  const locale = params.locale;
+  if (locale === "en") {
+    return {
+      title:
+        "Media dedicated to plastic surgery and aesthetic medicine | HERITAGE",
+      description:
+        "Media dedicated to plastic surgery and aesthetic medicine. Discover the latest innovations in plastic surgery and anti-aging medicine. (H)ERITAGE Magazine",
+    };
+  } else if (locale === "fr") {
+    return {
+      title: "Média dédié à la chirurgie & la médecine esthétique | HERITAGE",
+      description:
+        "Média dédié à la chirurgie & la médecine esthétique. Découvrez les dernières innovations en chirurgie esthétique & médecine anti-âge. (H)ERITAGE Magazine",
+    };
+  }
+}
+
 export default function About() {
   const t = useTranslations("About");
 
@@ -36,7 +58,7 @@ export default function About() {
               healthcie: (chunks) => (
                 <Link
                   href="https://www.healthcie.fr"
-                  className=" underline"
+                  className="text-orange"
                   target="_blank"
                 >
                   {chunks}
@@ -45,7 +67,16 @@ export default function About() {
               julien: (chunks) => (
                 <Link
                   href="https://medical-reputation-consulting.com"
-                  className=" underline"
+                  className="text-orange"
+                  target="_blank"
+                >
+                  {chunks}
+                </Link>
+              ),
+              julienEn: (chunks) => (
+                <Link
+                  href="https://medical-reputation-consulting.com/en"
+                  className="text-orange"
                   target="_blank"
                 >
                   {chunks}

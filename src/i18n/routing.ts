@@ -38,6 +38,10 @@ export const routing = defineRouting({
       fr: "/publications-innovations-medecine-esthetique",
       en: "/publications-aesthetic-medicine-innovations",
     },
+    "/about": {
+      fr: "/media-chirurgie-esthetique-medecine-antiage",
+      en: "/media-plastic-surgery-antiaging-medicine",
+    },
   },
 });
 

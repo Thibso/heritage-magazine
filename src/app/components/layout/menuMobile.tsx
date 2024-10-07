@@ -24,32 +24,61 @@ export default function MenuMobile(props: Props) {
           open ? "left-[0%] opacity-100" : "left-[100%] opacity-30"
         } transition-all duration-300 bg-mainBlue px-6 py-12 space-y-12`}
       >
-        <ul className="flex flex-col gap-6">
-          <li>
-            <a
-              href="/fr/about"
-              className="font-sfPro font-medium uppercase text-white transition hover:text-orange"
-            >
-              A propos
-            </a>
-          </li>
-          <li>
-            <a
-              href="/fr/publications-innovations-medecine-esthetique"
-              className="font-sfPro font-medium uppercase text-white transition hover:text-orange"
-            >
-              Publications
-            </a>
-          </li>
-          <li>
-            <a
-              href=""
-              className="font-sfPro font-medium uppercase text-white transition hover:text-orange"
-            >
-              Contact
-            </a>
-          </li>
-        </ul>
+        {props.locale === "fr" ? (
+          <ul className="flex flex-col gap-6 pt-12">
+            <li>
+              <a
+                href="/fr/about"
+                className="font-sfPro text-xl font-medium uppercase text-white transition hover:text-orange"
+              >
+                A propos
+              </a>
+            </li>
+            <li>
+              <a
+                href="/fr/publications-innovations-medecine-esthetique"
+                className="font-sfPro text-xl font-medium uppercase text-white transition hover:text-orange"
+              >
+                Publications
+              </a>
+            </li>
+            <li>
+              <a
+                href=""
+                className="font-sfPro text-xl font-medium uppercase text-white transition hover:text-orange"
+              >
+                Contact
+              </a>
+            </li>
+          </ul>
+        ) : (
+          <ul className="flex flex-col gap-6 pt-12">
+            <li>
+              <a
+                href="/en/about"
+                className="font-sfPro text-xl font-medium uppercase text-white transition hover:text-orange"
+              >
+                About
+              </a>
+            </li>
+            <li>
+              <a
+                href="/en/publications-aesthetic-medicine-innovations"
+                className="font-sfPro font-medium text-xl uppercase text-white transition hover:text-orange"
+              >
+                Publications
+              </a>
+            </li>
+            <li>
+              <a
+                href=""
+                className="font-sfPro font-medium text-xl uppercase text-white transition hover:text-orange"
+              >
+                Contact
+              </a>
+            </li>
+          </ul>
+        )}
 
         <SwitchLang locale={props.locale} />
       </section>

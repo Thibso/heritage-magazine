@@ -24,32 +24,62 @@ export default function Header(props: Props) {
       </span>
 
       {/* DESKTOP */}
-      <ul className="max-lg:hidden gap-10 flex">
-        <li>
-          <a
-            href="/fr/about"
-            className="font-sfPro font-medium uppercase text-white transition hover:text-orange"
-          >
-            A propos
-          </a>
-        </li>
-        <li>
-          <a
-            href="/fr/publications-innovations-medecine-esthetique"
-            className="font-sfPro font-medium uppercase text-white transition hover:text-orange"
-          >
-            Publications
-          </a>
-        </li>
-        <li>
-          <a
-            href=""
-            className="font-sfPro font-medium uppercase text-white transition hover:text-orange"
-          >
-            Contact
-          </a>
-        </li>
-      </ul>
+      {props.locale === "fr" ? (
+        <ul className="max-lg:hidden gap-10 flex">
+          <li>
+            <a
+              href="/fr/media-chirurgie-esthetique-medecine-antiage"
+              className="font-sfPro font-medium uppercase text-white transition hover:text-orange"
+            >
+              A propos
+            </a>
+          </li>
+          <li>
+            <a
+              href="/fr/publications-innovations-medecine-esthetique"
+              className="font-sfPro font-medium uppercase text-white transition hover:text-orange"
+            >
+              Publications
+            </a>
+          </li>
+          <li>
+            <a
+              href=""
+              className="font-sfPro font-medium uppercase text-white transition hover:text-orange"
+            >
+              Contact
+            </a>
+          </li>
+        </ul>
+      ) : (
+        <ul className="max-lg:hidden gap-10 flex">
+          <li>
+            <a
+              href="/en/media-plastic-surgery-antiaging-medicine"
+              className="font-sfPro font-medium uppercase text-white transition hover:text-orange"
+            >
+              About
+            </a>
+          </li>
+          <li>
+            <a
+              href="/en/media-plastic-surgery-antiaging-medicine"
+              className="font-sfPro font-medium uppercase text-white transition hover:text-orange"
+            >
+              Publications
+            </a>
+          </li>
+          <li>
+            <a
+              href=""
+              className="font-sfPro font-medium uppercase text-white transition hover:text-orange"
+            >
+              Contact
+            </a>
+          </li>
+        </ul>
+      )}
+
       <span className="max-lg:hidden">
         <SwitchLang locale={props.locale} />
       </span>
