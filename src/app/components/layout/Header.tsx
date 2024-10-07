@@ -63,7 +63,7 @@ export default function Header(props: Props) {
           </li>
           <li>
             <a
-              href="/en/media-plastic-surgery-antiaging-medicine"
+              href="/en/publications-aesthetic-medicine-innovations"
               className="font-sfPro font-medium uppercase text-white transition hover:text-orange"
             >
               Publications

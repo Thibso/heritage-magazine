@@ -187,7 +187,7 @@ export default function Articles() {
                   {t("julien.h2")}
                 </h2>
                 <h3 className="font-sfPro font-normal text-sm lg:text-xl uppercase">
-                  {t("barbara.h3")}
+                  {t("julien.h3")}
                 </h3>
               </div>
 

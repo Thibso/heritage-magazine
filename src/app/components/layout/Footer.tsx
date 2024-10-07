@@ -123,7 +123,7 @@ export default function Footer() {
         </div>
       </div>
 
-      <div className="bg-[#131a33] text-white text-center space-y-1 py-4">
+      <div className="bg-[#131a33] text-white text-center space-y-1 py-4 px-4">
         <p className="text-sm lg:text-base">
           {t("copyright")} | {t("legals")}
         </p>
