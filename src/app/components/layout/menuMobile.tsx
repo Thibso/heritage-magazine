@@ -1,6 +1,6 @@
 "use client";
 
-import { Menu } from "lucide-react";
+import { AlignRight } from "lucide-react";
 import { useState } from "react";
 import SwitchLang from "./SwitchLang";
 
@@ -13,8 +13,8 @@ export default function MenuMobile(props: Props) {
 
   return (
     <div>
-      <Menu
-        className={open ? "text-orange" : "text-white"}
+      <AlignRight
+        className={`size-8 ${open ? "text-orange" : "text-white"}`}
         onClick={() => {
           setOpen(!open);
         }}

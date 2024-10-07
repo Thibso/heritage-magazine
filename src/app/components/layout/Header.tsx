@@ -19,7 +19,9 @@ export default function Header(props: Props) {
       </a>
 
       {/* MOBILE */}
-      <MenuMobile locale={props.locale} />
+      <span className="lg:hidden">
+        <MenuMobile locale={props.locale} />
+      </span>
 
       {/* DESKTOP */}
       <ul className="max-lg:hidden gap-10 flex">
