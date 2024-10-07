@@ -33,6 +33,10 @@
   a {
     @apply inline-block;
   }
+
+  .object-perso-hugo {
+    object-position: 50% 10%;
+  }
 }
 
 /* Swiper Library */

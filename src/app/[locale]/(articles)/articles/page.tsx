@@ -49,7 +49,7 @@ export default function Articles() {
 
       <section className="myContainer text-mainBlue">
         <div className="space-y-20 max-w-screen-xl m-auto">
-          <div className="max-lg:flex max-lg:flex-col max-lg:gap-6 lg:grid lg:grid-cols-5 md:space-x-12 lg:space-x-20 ">
+          <div className="max-lg:flex max-lg:flex-col max-lg:gap-6 lg:grid lg:grid-cols-5">
             <div className="col-span-2">
               <Image
                 src={ascher}
@@ -59,7 +59,7 @@ export default function Articles() {
               />
             </div>
 
-            <div className="col-span-3 space-y-6 flex flex-col justify-center">
+            <div className="col-span-3 space-y-6 flex flex-col justify-center md:ml-12 lg:ml-20">
               <div>
                 <h2 className="font-sfPro font-bold text-2xl lg:text-4xl uppercase">
                   {t("ascher.h2")}
@@ -78,8 +78,8 @@ export default function Articles() {
             </div>
           </div>
 
-          <div className="max-lg:flex max-lg:flex-col-reverse max-lg:gap-6 lg:grid lg:grid-cols-5 lg:space-x-12 ">
-            <div className="col-span-3 space-y-6 flex flex-col justify-center">
+          <div className="max-lg:flex max-lg:flex-col-reverse max-lg:gap-6 lg:grid lg:grid-cols-5">
+            <div className="col-span-3 space-y-6 flex flex-col justify-center md:mr-12 lg:mr-20">
               <div>
                 <h2 className="font-sfPro font-bold text-2xl lg:text-4xl uppercase">
                   {t("olivier.h2")}
@@ -102,12 +102,12 @@ export default function Articles() {
                 src={olivier}
                 alt="Olivier Claire HERITAGE Magazine"
                 title="Olivier Claire HERITAGE Magazine"
-                className="w-full h-auto object-contain lg:h-[370px] lg:object-cover object-top"
+                className="w-full h-[350px] object-cover lg:h-[370px] lg:object-cover object-top"
               />
             </div>
           </div>
 
-          <div className="max-lg:flex max-lg:flex-col max-lg:gap-6 lg:grid lg:grid-cols-5 lg:space-x-12 ">
+          <div className="max-lg:flex max-lg:flex-col max-lg:gap-6 lg:grid lg:grid-cols-5">
             <div className="col-span-2">
               <Image
                 src={adda}
@@ -117,7 +117,7 @@ export default function Articles() {
               />
             </div>
 
-            <div className="col-span-3 space-y-6 flex flex-col justify-center">
+            <div className="col-span-3 space-y-6 flex flex-col justify-center md:ml-12 lg:ml-20">
               <div>
                 <h2 className="font-sfPro font-bold text-2xl lg:text-4xl uppercase">
                   {t("adda.h2")}
@@ -136,29 +136,23 @@ export default function Articles() {
             </div>
           </div>
 
-          <div className="max-lg:flex max-lg:flex-col-reverse max-lg:gap-6 lg:grid lg:grid-cols-5 lg:space-x-12 ">
-            <div className="col-span-3 space-y-6 flex flex-col justify-center">
+          <div className="max-lg:flex max-lg:flex-col-reverse max-lg:gap-6 lg:grid lg:grid-cols-5">
+            <div className="col-span-3 space-y-6 flex flex-col justify-center md:mr-12 lg:mr-20">
               <div>
                 <h2 className="font-sfPro font-bold text-2xl lg:text-4xl uppercase">
-                  L&apos;information digitale en santé
+                  {t("barbara.h2")}
                 </h2>
                 <h3 className="font-sfPro font-normal text-sm lg:text-xl uppercase">
-                  avec le Pr Barbara Hersant
+                  {t("barbara.h3")}
                 </h3>
               </div>
 
               <p className="text-base">
-                Le Professeur Barbara Hersant est une éminente chirurgienne
-                exerçant à l’Hôpital Henri Mondor à Créteil. Son expertise et
-                son dévouement dans le domaine de la chirurgie en font une
-                figure respectée au sein de la communauté médicale. Spécialisée
-                dans plusieurs branches de la chirurgie, notamment la chirurgie
-                esthétique et reconstructrice, le Professeur Hersant est
-                reconnue pour sa précision chirurgicale, sa compassion envers
-                ses patients et son engagement à fournir des soins de la plus
-                haute qualité.
+                {t.rich("barbara.content", {
+                  br: () => <br />,
+                })}
               </p>
-              <Button link="/fr/barbara-hersant">Lire l&apos;article</Button>
+              <Button link={t("barbara.cta_link")}>{t("barbara.cta")}</Button>
             </div>
 
             <div className="col-span-2">
@@ -171,7 +165,7 @@ export default function Articles() {
             </div>
           </div>
 
-          <div className="flex flex-col max-lg:gap-6 lg:grid lg:grid-cols-5 lg:space-x-12 ">
+          <div className="flex flex-col max-lg:gap-6 lg:grid lg:grid-cols-5">
             <div className="col-span-2">
               <Image
                 src={julien}
@@ -181,50 +175,42 @@ export default function Articles() {
               />
             </div>
 
-            <div className="col-span-3 space-y-6 flex flex-col justify-center">
+            <div className="col-span-3 space-y-6 flex flex-col justify-center md:ml-12 lg:ml-20">
               <div>
                 <h2 className="font-sfPro font-bold text-2xl lg:text-4xl uppercase">
-                  Dossier E-Réputation
+                  {t("julien.h2")}
                 </h2>
                 <h3 className="font-sfPro font-normal text-sm lg:text-xl uppercase">
-                  Par Julien Vervel
+                  {t("barbara.h3")}
                 </h3>
               </div>
 
               <p className="text-base">
-                Avec l’avènement du digital, il est naturel de se tourner vers
-                Internet pour obtenir des informations sur un professionnel, une
-                entreprise ou une marque afin d’évaluer ce que l’on appelle
-                communément leur réputation en ligne, ou E-réputation.
-                <br />
-                J’entends souvent dire de la part des médecins que ce soit à
-                l’agence ou à la Faculté : «l’E-réputation médicale c’est la
-                note sur Google».
+                {t.rich("julien.content", {
+                  br: () => <br />,
+                })}
               </p>
-              <Button link="/fr/julien-vervel">Lire l&apos;article</Button>
+              <Button link={t("julien.cta_link")}>{t("julien.cta")}</Button>
             </div>
           </div>
 
-          <div className="max-lg:flex max-lg:flex-col-reverse max-lg:gap-6 lg:grid lg:grid-cols-5 lg:space-x-12 ">
-            <div className="col-span-3 space-y-6 flex flex-col justify-center">
+          <div className="max-lg:flex max-lg:flex-col-reverse max-lg:gap-6 lg:grid lg:grid-cols-5">
+            <div className="col-span-3 space-y-6 flex flex-col justify-center md:mr-12 lg:mr-20">
               <div>
                 <h2 className="font-sfPro font-bold text-2xl lg:text-4xl uppercase">
-                  Préparer son projet digital
+                  {t("hugo.h2")}
                 </h2>
                 <h3 className="font-sfPro font-normal text-sm lg:text-xl uppercase">
-                  Avec Hugo Nivault, chef de projet digital
+                  {t("hugo.h3")}
                 </h3>
               </div>
 
               <p className="text-base">
-                Pour commencer à se familiariser au domaine du digital et pour
-                s’assurer d’être visible, il est essentiel de construire un site
-                Internet. Il représente la pierre angulaire de toute stratégie
-                de communication digitale. L’objectif n’est pas simplement
-                d’avoir une présence en ligne, mais d’être visible et engageant
-                pour les patients potentiels.
+                {t.rich("hugo.content", {
+                  br: () => <br />,
+                })}
               </p>
-              <Button link="/fr/hugo-nivault">Lire l&apos;article</Button>
+              <Button link={t("hugo.cta_link")}>{t("hugo.cta")}</Button>
             </div>
 
             <div className="col-span-2">
@@ -232,7 +218,7 @@ export default function Articles() {
                 src={hugo}
                 alt="Hugo Nivault HERITAGE Magazine"
                 title="Hugo Nivault HERITAGE Magazine"
-                className="w-full h-auto object-contain lg:h-[370px] lg:object-cover object-top"
+                className="w-full h-auto object-contain lg:h-[370px] lg:object-cover object-perso-hugo"
               />
             </div>
           </div>

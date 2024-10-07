@@ -21,8 +21,7 @@ module.exports = {
         sfPro: ["var(--font-sfPro)"],
       },
       animation: {
-        "infinite-scroll": "infinite-scroll 11s linear infinite",
-        "infinite-scroll-1": "infinite-scroll 35s linear infinite",
+        "infinite-scroll": "infinite-scroll 20s linear infinite",
       },
       keyframes: {
         "infinite-scroll": {

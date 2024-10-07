@@ -1,8 +1,6 @@
-import en from "@/app/img/en.png";
-import fr from "@/app/img/fr.png";
 import Image from "next/image";
-import Link from "next/link";
 import logo from "../../img/heritage-antiage-magazine-innovation-sante.png";
+import SwitchLang from "./SwitchLang";
 
 type Props = {
   locale: string;
@@ -36,15 +34,7 @@ export default function Header(props: Props) {
         <line x1="4" x2="20" y1="18" y2="18" />
       </svg> */}
 
-      {props.locale === "en" ? (
-        <Link href="/fr">
-          <Image className=" h-[24px] object-contain" src={fr} alt="" />
-        </Link>
-      ) : (
-        <Link href="/en">
-          <Image className=" h-[24px] object-contain" src={en} alt="" />
-        </Link>
-      )}
+      <SwitchLang locale={props.locale} />
 
       {/* <Link
         href="https://vivacy.com"

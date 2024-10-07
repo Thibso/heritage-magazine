@@ -26,28 +26,42 @@
       "h2": "The medical aesthetic injectable summit",
       "h3": "Avec le Dr Benjamain Ascher",
       "content": "Benjamin Ascher, MD, est un chirurgien plasticien certifié, membre des sociétés françaises, américaines et internationales de chirurgie plastique, reconstructrice et esthétique (SOFCPRE, SOFCEP, ASPS, ISAPS). <br></br> Il a été Chef Résident, Assistant des Hôpitaux de Paris et Président et Chef de la Clinique de Chirurgie Esthétique IENA à Paris - France.",
-      "cta_link": "/fr/benjamin-ascher",
+      "cta_link": "/fr/interview-docteur-ascher-benjamin-thinkin-medical-aesthetic-injectable-summit",
       "cta": "Lire l'article"
     },
     "olivier": {
       "h2": "Olivier Claire, l’histoire",
       "h3": "par Olivier Couraud",
       "content": "Un raccourci rapide. Oui, je suis né au Chili. J’y ai passé ma toute petite enfance. Je garde de ce pays des souvenirs flous, mais colorés, olfactifs, des impressions qui m’ont, sans doute, inconsciemment marqué. Je conserve davantage de sensations, d’émotions, de souvenirs, du Maroc où j’ai vécu enfant.",
-      "cta_link": "/fr/olivier-claire",
+      "cta_link": "/fr/interview-couraud-olivier-claire-histoire-marque",
       "cta": "Lire l'article"
     },
     "adda": {
       "h2": "Entretien avec Dr Adda",
       "h3": "Laser Neo Elite® d’Aerolase",
       "content": "L’innovation joue un rôle crucial dans l’évolution de la dermatologie et de la médecine esthétique. Les avancées technologiques, comme celles d’Aerolase, transforment les soins prodigués aux patients en les rendant plus efficaces, plus confortables et plus accessibles. <br></br> Aujourd’hui, présenter le laser Neo Elite® d’Aerolase, c’est présenter un dispositif révolutionnaire qui redéfinit les traitements dermatologiques.",
-      "cta_link": "/fr/dr-adda",
+      "cta_link": "/fr/interview-docteur-adda-jean-marc-aerolase-laser-neo-elite",
       "cta": "Lire l'article"
     },
     "barbara": {
       "h2": "L'information digitale en santé",
       "h3": "avec le Pr Barbara Hersant",
       "content": "Le Professeur Barbara Hersant est une éminente chirurgienne exerçant à l’Hôpital Henri Mondor à Créteil. Son expertise et son dévouement dans le domaine de la chirurgie en font une figure respectée au sein de la communauté médicale. Spécialisée dans plusieurs branches de la chirurgie, notamment la chirurgie esthétique et reconstructrice, le Professeur Hersant est reconnue pour sa précision chirurgicale, sa compassion envers ses patients et son engagement à fournir des soins de la plus haute qualité.",
-      "cta_link": "/fr/dr-adda",
+      "cta_link": "/fr/interview-professeur-hersant-barbara-aime-communication-digitale-medecins",
+      "cta": "Lire l'article"
+    },
+    "julien": {
+      "h2": "Dossier E-Réputation",
+      "h3": "Par Julien Vervel",
+      "content": "Avec l’avènement du digital, il est naturel de se tourner vers Internet pour obtenir des informations sur un professionnel, une entreprise ou une marque afin d’évaluer ce que l’on appelle communément leur réputation en ligne, ou E-réputation. J’entends souvent dire de la part des médecins que ce soit à l’agence ou à la Faculté : «l’E-réputation médicale c’est la note sur Google».",
+      "cta_link": "/fr/dossier-vervel-julien-consultant-e-reputation-medicale",
+      "cta": "Lire l'article"
+    },
+    "hugo": {
+      "h2": "Préparer son projet digital",
+      "h3": "Avec Hugo Nivault, chef de projet digital",
+      "content": "Pour commencer à se familiariser au domaine du digital et pour s’assurer d’être visible, il est essentiel de construire un site Internet. Il représente la pierre angulaire de toute stratégie de communication digitale. L’objectif n’est pas simplement d’avoir une présence en ligne, mais d’être visible et engageant pour les patients potentiels.",
+      "cta_link": "/fr/dossier-nivault-hugo-healthcie-preparer-projet-digital-sante",
       "cta": "Lire l'article"
     }
   },
