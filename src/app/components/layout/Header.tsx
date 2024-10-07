@@ -64,7 +64,10 @@ export default function Header(props: Props) {
           </a>
         </li>
         <li>
-          <a href="" className="font-sfPro font-medium uppercase">
+          <a
+            href="/fr/publications-innovations-medecine-esthetique"
+            className="font-sfPro font-medium uppercase"
+          >
             Publications
           </a>
         </li>

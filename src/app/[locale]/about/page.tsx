@@ -11,18 +11,20 @@ export default function About() {
   return (
     <main>
       <section>
-        <div className=" h-screen max-h-[1200px] grid items-end relative px-7 py-4">
-          <span className="text-white uppercase text-8xl">{t("h1")}</span>
+        <div className="px-5 py-4 max-lg:h-[500px] lg:h-screen max-h-[1200px] grid items-end relative lg:px-7 lg:py-4">
+          <span className="text-white uppercase text-3xl lg:text-8xl">
+            {t("h1")}
+          </span>
           <Image
             src={header}
             alt=""
-            className="fixed size-full top-0 left0 object-cover -z-[1] opacity-85"
+            className="absolute lg:fixed size-full top-0 left-0 object-cover -z-[1] opacity-85"
           />
         </div>
       </section>
 
-      <section className="grid grid-cols-2 bg-mainBlue text-white">
-        <div className="px-44 py-32 space-y-16">
+      <section className="lg:grid lg:grid-cols-2 bg-mainBlue text-white">
+        <div className="px-4 py-12 lg:px-44 lg:py-32 lg:space-y-16 space-y-8">
           <div>
             <h1 className="h2 text-white">{t("first.h2")}</h1>
             <h2 className="h3 mt-2 lg:mt-4">{t("first.h3")}</h2>
@@ -53,7 +55,7 @@ export default function About() {
           </div>
         </div>
 
-        <div className="relative">
+        <div className="relative max-lg:h-[350px]">
           <Image
             src={miror}
             alt=""
@@ -62,15 +64,15 @@ export default function About() {
         </div>
       </section>
 
-      <section className="grid grid-cols-8 bg-white">
-        <div className="col-span-3 relative">
+      <section className="max-lg:flex max-lg:flex-col-reverse lg:grid lg:grid-cols-8 bg-white">
+        <div className="col-span-3 relative max-lg:h-[350px]">
           <Image
             src={follow}
             alt=""
             className="absolute size-full top-0 left-0 object-cover"
           />
         </div>
-        <div className="col-span-5 px-44 py-32 space-y-16">
+        <div className="col-span-5 px-4 py-12 lg:px-44 lg:py-32 space-y-8 lg:space-y-16">
           <div>
             <h2 className="h2 text-mainBlue">{t("follow.h2")}</h2>
             <h3 className="h3 mt-2 lg:mt-4">{t("follow.h3")}</h3>
