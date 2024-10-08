@@ -17,12 +17,12 @@
   }
 
   .h2 {
-    @apply max-lg:text-center font-sfPro font-bold text-xl lg:text-2xl uppercase;
+    @apply max-lg:text-center font-sfPro font-semibold text-xl lg:text-2xl uppercase;
     line-height: 1.25em;
   }
 
   .h3 {
-    @apply max-lg:text-center font-sfPro font-semibold text-lg lg:text-xl text-orange;
+    @apply max-lg:text-center font-sfPro font-medium text-lg lg:text-xl text-orange;
     line-height: 1.25em;
   }
 

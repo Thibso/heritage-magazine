@@ -1,6 +1,6 @@
-import header from "@/app/img/heritage-magazine-by-healthcie.jpg";
+import header from "@/app/img/heritage-innovation-sante-magazine-specialiste.jpg";
+import follow from "@/app/img/heritage-magazine-innovation-sante-revue-specialisee.jpg";
 import miror from "@/app/img/heritage-magazine-sante.png";
-import follow from "@/app/img/magazine-innovation-sante.jpg";
 import { useTranslations } from "next-intl";
 import Image from "next/image";
 import Link from "next/link";

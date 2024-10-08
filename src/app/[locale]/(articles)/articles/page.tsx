@@ -1,10 +1,10 @@
 import Button from "@/app/components/buttons/Button";
 import adda from "@/app/img/doctor-adda-jean-marc-heritage-magazine.jpg";
 import ascher from "@/app/img/doctor-ascher-benjamin-heritage-magazine.jpg";
-import header from "@/app/img/heritage-magazine-publication-kol.jpg";
 import hugo from "@/app/img/nivault-hugo-heritage-magazine.jpg";
 import olivier from "@/app/img/olivier-claire-couraud-heritage-magazine.jpg";
 import barbara from "@/app/img/professor-hersant-barbara-heritage-magazine.jpg";
+import header from "@/app/img/publications-magazine-heritage-esthetique-1.jpg";
 import julien from "@/app/img/vervel-julien-heritage-magazine.jpg";
 import { useTranslations } from "next-intl";
 import Image from "next/image";
