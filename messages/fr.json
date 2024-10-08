@@ -27,6 +27,45 @@
       "content": "<p>De cette expertise est née l’idée d’un écosystème complet, où la version imprimée premium rencontre une plateforme digitale innovante, riche en contenu exclusif et accessible à une audience mondiale.</p> <p>L’équipe d’HERITAGE Magazine a la volonté de proposer un contenu inédit et à forte valeur ajoutée pour ses lecteurs. Vous y retrouvez des articles de fond, des interviews de KOLs et des focus sur les dernières avancées produits et technologiques. </p> <p>Bénéficiez d’un accès continu à l’innovation aussi bien dans les pages du magazine qu’à travers notre plateforme digitale. </p>"
     }
   },
+  "Congres": {
+    "sfme": {
+      "h2": "Titre H2",
+      "h3": "Titre H3",
+      "content": "Nous sommes ravis de vous dévoiler la seconde édition d’HERITAGE Magazine, votre nouveau rendez-vous incontournable dans l’univers vibrant de la médecine esthétique. Ce magazine annuel a pour objectif de mettre en avant les innovations les plus récentes en matière de produits et de technologies dans le secteur de l’esthétique. Pourquoi HERITAGE ? Parce que nous croyons que le passé de la chirurgie et de la médecine esthétique forme les fondations solides sur lesquelles nous bâtissons le présent et l’avenir. En nous appuyant sur les valeurs de la médecine, nous aspirons à sublimer l’avenir de la profession, en alliant tradition et innovation."
+    },
+    "imcas": {
+      "h2": "Titre H2",
+      "h3": "Titre H3",
+      "content": "Nous sommes ravis de vous dévoiler la seconde édition d’HERITAGE Magazine, votre nouveau rendez-vous incontournable dans l’univers vibrant de la médecine esthétique. Ce magazine annuel a pour objectif de mettre en avant les innovations les plus récentes en matière de produits et de technologies dans le secteur de l’esthétique. Pourquoi HERITAGE ? Parce que nous croyons que le passé de la chirurgie et de la médecine esthétique forme les fondations solides sur lesquelles nous bâtissons le présent et l’avenir. En nous appuyant sur les valeurs de la médecine, nous aspirons à sublimer l’avenir de la profession, en alliant tradition et innovation."
+    },
+    "aime": {
+      "h2": "Titre H2",
+      "h3": "Titre H3",
+      "content": "Nous sommes ravis de vous dévoiler la seconde édition d’HERITAGE Magazine, votre nouveau rendez-vous incontournable dans l’univers vibrant de la médecine esthétique. Ce magazine annuel a pour objectif de mettre en avant les innovations les plus récentes en matière de produits et de technologies dans le secteur de l’esthétique. Pourquoi HERITAGE ? Parce que nous croyons que le passé de la chirurgie et de la médecine esthétique forme les fondations solides sur lesquelles nous bâtissons le présent et l’avenir. En nous appuyant sur les valeurs de la médecine, nous aspirons à sublimer l’avenir de la profession, en alliant tradition et innovation."
+    }
+  },
+  "Contact": {
+    "h1": "Contact",
+    "form": {
+      "displayDoctors": "Vous êtes un médecin ?",
+      "displayManufacturers": "Vous êtes un industriel ?",
+      "h2Doc": "Vous êtes un médecin",
+      "h3": "Vous souhaitez rédiger un article ?",
+      "h2Manu": "Vous êtes un industriel",
+      "firstname": "Prénom",
+      "lastname": "Nom",
+      "mail": "E-mail",
+      "phone": "Téléphone",
+      "speciality": "Specialité",
+      "manufacturer": "Nom du laboratoire",
+      "message": "Message",
+      "submit": "Envoyer"
+    },
+    "toast": {
+      "title": "Formulaire envoyé avec succès",
+      "description": "Nous reviendrons vers vous dans les plus brefs délais."
+    }
+  },
   "Footer": {
     "abstract": "Votre nouveau rendez-vous incontournable dans l'univers vibrant de l'innovation en chirurgie et médecine esthétique.",
     "copyright": "Copyright 2025",

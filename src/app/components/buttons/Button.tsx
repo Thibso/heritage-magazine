@@ -1,7 +1,8 @@
 type Props = {
-  link: string;
+  link?: string;
   target?: string;
   children: string;
+  type?: string;
 };
 
 export default function Button(props: Props) {
@@ -10,6 +11,7 @@ export default function Button(props: Props) {
       href={props.link}
       target={props.target ? props.target : ""}
       className="text-orange uppercase font-sfPro font-light cursor-pointer text-base lg:text-lg"
+      type={props.type ? props.type : ""}
     >
       {props.children} +
     </a>

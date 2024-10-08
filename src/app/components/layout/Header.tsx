@@ -44,7 +44,7 @@ export default function Header(props: Props) {
           </li>
           <li>
             <a
-              href=""
+              href="/fr/contact"
               className="font-sfPro font-medium uppercase text-white transition hover:text-orange"
             >
               Contact
@@ -71,7 +71,7 @@ export default function Header(props: Props) {
           </li>
           <li>
             <a
-              href=""
+              href="/en/contact"
               className="font-sfPro font-medium uppercase text-white transition hover:text-orange"
             >
               Contact

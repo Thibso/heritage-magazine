@@ -27,6 +27,28 @@
       "content": "<p>This expertise gave rise to the idea of a complete ecosystem, where the premium print version meets an innovative digital platform, rich in exclusive content and accessible to a global audience.</p> <p>The HERITAGE Magazine team is determined to offer readers original content with high added value. You'll find in-depth articles, interviews with KOLs and focus on the latest product and technological advances. </p> <p>Enjoy continuous access to innovation both in the pages of the magazine and through our digital platform.</p>"
     }
   },
+  "Contact": {
+    "h1": "Contact",
+    "form": {
+      "displayDoctors": "Are you a doctor?",
+      "displayManufacturers": "Are you a manufacturer?",
+      "h2Doc": "You are a doctor",
+      "h3": "Would you like to write an article?",
+      "h2Manu": "You are a manufacturer",
+      "firstname": "Firstname",
+      "lastname": "Lastname",
+      "mail": "Email",
+      "phone": "Phone",
+      "speciality": "Speciality",
+      "manufacturer": "Laboratory name",
+      "message": "Message",
+      "submit": "Send"
+    },
+    "toast": {
+      "title": "Form sent successfully",
+      "description": "We'll get back to you as soon as possible."
+    }
+  },
   "Footer": {
     "abstract": "Your new rendez-vous in the vibrant world of innovation in surgery and aesthetic medicine.",
     "copyright": "Copyright 2025",
