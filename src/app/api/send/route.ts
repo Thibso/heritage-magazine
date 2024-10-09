@@ -14,54 +14,48 @@ export async function POST(request: Request) {
       speciality = "",
       manufacturerName = "",
       message,
-      token,
+      // token,
     } = await request.json();
 
-    console.log(process.env.NEXT_SECRET_RECAPTCHA_SITE_KEY);
+    // const captcha = await fetch(
+    //   "https://www.google.com/recaptcha/api/siteverify",
+    //   {
+    //     method: "POST",
+    //     headers: {
+    //       "Content-Type": "application/json",
+    //     },
+    //     body: JSON.stringify({
+    //       secret: process.env.NEXT_SECRET_RECAPTCHA_SITE_KEY,
+    //       response: token,
+    //     }),
+    //   }
+    // );
 
-    const captcha = await fetch(
-      "https://www.google.com/recaptcha/api/siteverify",
-      {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({
-          secret: process.env.NEXT_SECRET_RECAPTCHA_SITE_KEY,
-          response: token,
-        }),
-      }
-    );
+    // const captchajson = await captcha.json();
 
-    const captchajson = await captcha.json();
+    // console.log(captchajson);
 
-    console.log(captchajson);
+    const { data, error } = await resend.emails.send({
+      from: "magazine-heritage.com <contact@magazine-heritage.com>",
+      // to: ["healthcie.sas@gmail.com"],
+      to: ["jvervel.pro@gmail.com", "hugo.nivault@healthcie.fr"],
+      subject: "Contact d'un " + type,
+      react: EmailTemplate({
+        firstname,
+        lastname,
+        email,
+        phone,
+        speciality,
+        manufacturerName,
+        message,
+      }),
+    });
 
-    if (captchajson.success === true) {
-      const { data, error } = await resend.emails.send({
-        from: "magazine-heritage.com <contact@magazine-heritage.com>",
-        to: ["healthcie.sas@gmail.com"],
-        // to: ["jvervel.pro@gmail.com", "hugo.nivault@healthcie.fr"],
-        subject: "Contact d'un " + type,
-        react: EmailTemplate({
-          firstname,
-          lastname,
-          email,
-          phone,
-          speciality,
-          manufacturerName,
-          message,
-        }),
-      });
-
-      if (error) {
-        return Response.json({ error }, { status: 500 });
-      }
-
-      return Response.json(data);
-    } else {
-      throw new Error();
+    if (error) {
+      return Response.json({ error }, { status: 500 });
     }
+
+    return Response.json(data);
   } catch (error) {
     return Response.json({ error }, { status: 500 });
   }

@@ -2,7 +2,6 @@
 
 import { Input } from "@/components/ui/input";
 import { zodResolver } from "@hookform/resolvers/zod";
-import { useReCaptcha } from "next-recaptcha-v3";
 import { useForm } from "react-hook-form";
 import * as z from "zod";
 
@@ -40,7 +39,7 @@ const FormSchema = z.object({
 type FormData = z.infer<typeof FormSchema>;
 
 export default function DoctorsForm() {
-  const { executeRecaptcha } = useReCaptcha();
+  // const { executeRecaptcha } = useReCaptcha();
   const { toast } = useToast();
   const t = useTranslations("Contact");
 
@@ -58,7 +57,7 @@ export default function DoctorsForm() {
 
   async function onSubmit(data: FormData) {
     const { firstname, lastname, email, phone, speciality, message } = data;
-    const token = await executeRecaptcha("form_submit");
+    // const token = await executeRecaptcha("form_submit");
 
     const response = await fetch("/api/send", {
       method: "POST",
@@ -73,7 +72,7 @@ export default function DoctorsForm() {
         phone,
         speciality,
         message,
-        token: token,
+        // token: token,
       }),
     });
 
