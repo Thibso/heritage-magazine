@@ -31,22 +31,30 @@ export default function Home() {
   const t = useTranslations("HomePage");
   return (
     <main>
-      <section className="myContainer relative overflow-hidden grid items-center bg-headerBlue h-screen max-h-[500px] lg:max-h-[1080px] w-full">
+      <section className="max-lg:hidden relative h-screen max-h-[1080px]">
         <video
-          className="max-lg:hidden absolute h-full top-0 left-1/2 -translate-x-1/2 right-0 bottom-0 max-w-[2550px]"
+          className="size-full object-cover"
           autoPlay
           muted
           playsInline
           loop
         >
           <source
-            src="/magazine-esthetique-heritage-antiage.mp4"
+            src="/HERITAGE-MAGAZINE-AESTHETIC-MEDICINE.mp4"
             type="video/mp4"
           />
         </video>
 
+        <a
+          href="#discover"
+          className="bg-orange px-12 py-2 rounded-3xl absolute w-fit bottom-[15px] lg:bottom-[35px] left-1/2 -translate-x-1/2 text-white font-sfPro font-medium leading-none"
+        >
+          {t("cta")}
+        </a>
+      </section>
+      <section className="lg:hidden myContainer relative overflow-hidden grid items-center bg-headerBlue h-screen max-h-[500px] lg:max-h-[1080px] w-full">
         <video
-          className="lg:hidden absolute h-full top-0 left-1/2 -translate-x-1/2 right-0 bottom-0 max-w-[2550px]"
+          className="absolute h-full top-0 left-1/2 -translate-x-1/2 right-0 bottom-0 max-w-[2550px]"
           autoPlay
           muted
           playsInline
@@ -96,15 +104,6 @@ export default function Home() {
             })}
           </div>
         </div>
-      </section>
-
-      <section className="max-lg:hidden">
-        <video className="" autoPlay muted playsInline loop>
-          <source
-            src="/HERITAGE-MAGAZINE-AESTHETIC-MEDICINE.mp4"
-            type="video/mp4"
-          />
-        </video>
       </section>
 
       <section
