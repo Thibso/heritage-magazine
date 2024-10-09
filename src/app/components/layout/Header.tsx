@@ -9,7 +9,7 @@ type Props = {
 
 export default function Header(props: Props) {
   return (
-    <header className="bg-mainBlue fixed top-0 w-full left-0 z-[99] px-5 py-3 lg:px-16 lg:py-5 flex justify-between max-w-[1920px] items-center">
+    <header className="bg-mainBlue fixed top-0 w-full left-0 z-[99] px-5 py-3 lg:px-16 lg:py-5 flex justify-between items-center">
       <a href={"/" + props.locale}>
         <Image
           src={logo}

@@ -70,7 +70,7 @@ export default function Home() {
         </a>
       </section>
 
-      <section className="lg:grid lg:grid-cols-8 max-w-[1920px] m-auto max-lg:bg-bgLight">
+      <section className="lg:grid lg:grid-cols-8  m-auto max-lg:bg-bgLight">
         <div className="col-span-3 w-full h-full relative">
           <Image
             src={mag}
@@ -100,9 +100,9 @@ export default function Home() {
 
       <section
         id="discover"
-        className="max-lg:flex max-lg:flex-col-reverse lg:grid lg:grid-cols-8 max-w-[1920px] m-auto"
+        className="max-lg:flex max-lg:flex-col-reverse lg:grid lg:grid-cols-8 m-auto"
       >
-        <div className="myContainer bg-mainBlue col-span-3 space-y-8 lg:space-y-16">
+        <div className="myContainer bg-mainBlue col-span-3 space-y-8 lg:space-y-16 h-full flex flex-col justify-center">
           <div>
             <h2 className="h2 text-white">{t("p2.h2")}</h2>
             <h3 className="h3 mt-2 lg:mt-4">{t("p2.h3")}</h3>

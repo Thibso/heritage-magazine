@@ -3,8 +3,8 @@ import adda from "@/app/img/doctor-adda-jean-marc-heritage-magazine.jpg";
 import ascher from "@/app/img/doctor-ascher-benjamin-heritage-magazine.jpg";
 import hugo from "@/app/img/nivault-hugo-heritage-magazine.jpg";
 import olivier from "@/app/img/olivier-claire-couraud-heritage-magazine.jpg";
+import header from "@/app/img/plastic-surgeons-best-magazine.jpg";
 import barbara from "@/app/img/professor-hersant-barbara-heritage-magazine.jpg";
-import header from "@/app/img/publications-magazine-heritage-esthetique-1.jpg";
 import julien from "@/app/img/vervel-julien-heritage-magazine.jpg";
 import { useTranslations } from "next-intl";
 import Image from "next/image";
@@ -43,7 +43,7 @@ export default function Articles() {
           <Image
             src={header}
             alt=""
-            className="absolute lg:fixed size-full top-0 left-0 object-cover -z-[1] opacity-85"
+            className="absolute lg:fixed size-full top-0 left-0 object-cover -z-[1]"
           />
         </div>
       </section>

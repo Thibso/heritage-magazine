@@ -42,6 +42,10 @@ export const routing = defineRouting({
       fr: "/media-chirurgie-esthetique-medecine-antiage",
       en: "/media-plastic-surgery-antiaging-medicine",
     },
+    "/legals": {
+      fr: "/mentions-legales",
+      en: "/legal-notices",
+    },
   },
 });
 

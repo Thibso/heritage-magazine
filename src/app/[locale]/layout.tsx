@@ -79,7 +79,7 @@ export default async function LocaleLayout({
         </NextIntlClientProvider>
 
         {/* Slider */}
-        <section className="overflow-hidden max-w-[1920px] m-auto bg-bgLight">
+        <section className="overflow-hidden  m-auto bg-bgLight">
           <div className="myContainer max-w-screen-xl m-auto space-y-8 lg:space-y-16 lg:pb-[70px]">
             <div className="text-center">
               <h2 className="h2 text-mainBlue">

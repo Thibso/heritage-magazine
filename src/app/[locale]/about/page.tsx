@@ -40,7 +40,7 @@ export default function About() {
           <Image
             src={header}
             alt=""
-            className="absolute lg:fixed size-full top-0 left-0 object-cover -z-[1] opacity-85"
+            className="absolute lg:fixed size-full top-0 left-0 object-cover -z-[1]"
           />
         </div>
       </section>

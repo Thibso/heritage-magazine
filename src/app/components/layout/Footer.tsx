@@ -54,7 +54,7 @@ export default function Footer() {
 
           <div className="space-y-4 col-span-2">
             <h2 className="h2 text-left lg:text-center text-lg ">
-              <a href="">Contact</a>
+              <a href={t("contact_link")}>Contact</a>
             </h2>
 
             <div className="flex gap-4 justify-center col-span-1">
@@ -62,6 +62,7 @@ export default function Footer() {
               <a
                 href="https://www.instagram.com/magazine_heritage/"
                 target="_blank"
+                title="Intagram (H)ERITAGE Magazine"
               >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -83,6 +84,7 @@ export default function Footer() {
               <a
                 href="https://www.facebook.com/profile.php?id=61564632284607"
                 target="_blank"
+                title="Facebook (H)ERITAGE Magazine"
               >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -102,6 +104,7 @@ export default function Footer() {
               <a
                 href="https://www.linkedin.com/company/magazine-heritage/"
                 target="_blank"
+                title="Linkedin (H)ERITAGE Magazine"
               >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -125,7 +128,7 @@ export default function Footer() {
 
       <div className="bg-[#131a33] text-white text-center space-y-1 py-4 px-4">
         <p className="text-sm lg:text-base">
-          {t("copyright")} | {t("legals")}
+          {t("copyright")} | <a href={t("legals_link")}>{t("legals")}</a>
         </p>
         <p className="text-sm lg:text-base">{t("healthcie")}</p>
       </div>
