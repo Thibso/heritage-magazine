@@ -22,12 +22,16 @@
     "first": {
       "h2": "Média dédié à la médecine esthétique",
       "h3": "HERITAGE Magazine, l'histoire",
-      "content": "<p>HERITAGE Magazine est né d’une vision bien précise : célébrer l’équilibre subtil entre tradition et innovation dans le domaine de la chirurgie, médecine et dermatologie esthétique. </p> <p>Conçu par l’agence <healthcie>HEALTHCIE</healthcie>, spécialisée en stratégie de communication digitale pour les acteurs de la médecine et de la chirurgie, HERITAGE s’inscrit dans une démarche unique, à la croisée de l’avant-garde technologique et du raffinement intemporel.</p> <p>Fondée en 2019 par <julien>Julien Vervel</julien>, HEALTHCIE s’inspire de l’univers de la haute couture pour façonner des solutions digitales sur-mesure, en accompagnant les chirurgiens et médecins esthétiques dans leur visibilité en ligne et la gestion de leur E-réputation.</p>"
+      "content": "<p>HERITAGE Magazine est né d’une vision bien précise : célébrer l’équilibre subtil entre tradition et innovation dans le domaine de la chirurgie, médecine et dermatologie esthétique. </p> <p>Conçu par l’agence <healthcie>HEALTHCIE</healthcie>, spécialisée en stratégie de communication digitale pour les acteurs de la médecine et de la chirurgie, HERITAGE s’inscrit dans une démarche unique, à la croisée de l’avant-garde technologique et du raffinement intemporel.</p> <p>Fondée en 2019 par <julien>Julien Vervel</julien>, HEALTHCIE s’inspire de l’univers de la haute couture pour façonner des solutions digitales sur-mesure, en accompagnant les chirurgiens et médecins esthétiques dans leur visibilité en ligne et la gestion de leur E-réputation.</p>",
+      "cta_link": "/fr/contact",
+      "cta": "Contact"
     },
     "follow": {
       "h2": "Une plateforme digitale & un support print premium pour les médecins et les industriels",
       "h3": "HERITAGE Magazine",
-      "content": "<p>De cette expertise est née l’idée d’un écosystème complet, où la version imprimée premium rencontre une plateforme digitale innovante, riche en contenu exclusif et accessible à une audience mondiale.</p> <p>L’équipe d’HERITAGE Magazine a la volonté de proposer un contenu inédit et à forte valeur ajoutée pour ses lecteurs. Vous y retrouvez des articles de fond, des interviews de KOLs et des focus sur les dernières avancées produits et technologiques. </p> <p>Bénéficiez d’un accès continu à l’innovation aussi bien dans les pages du magazine qu’à travers notre plateforme digitale. </p>"
+      "content": "<p>De cette expertise est née l’idée d’un écosystème complet, où la version imprimée premium rencontre une plateforme digitale innovante, riche en contenu exclusif et accessible à une audience mondiale.</p> <p>L’équipe d’HERITAGE Magazine a la volonté de proposer un contenu inédit et à forte valeur ajoutée pour ses lecteurs. Vous y retrouvez des articles de fond, des interviews de KOLs et des focus sur les dernières avancées produits et technologiques. </p> <p>Bénéficiez d’un accès continu à l’innovation aussi bien dans les pages du magazine qu’à travers notre plateforme digitale. </p>",
+      "cta_link": "/fr/partenaires-chirurgie-esthetique-medecine-anti-age",
+      "cta": "Partenaires"
     }
   },
   "Congres": {

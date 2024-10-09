@@ -22,12 +22,16 @@
     "first": {
       "h2": "Media dedicated to aesthetic medicine",
       "h3": "HERITAGE Magazine, the story",
-      "content": "<p>(H)ERITAGE Magazine was born of a very specific vision: to celebrate the subtle balance between tradition and innovation in the field of aesthetic surgery, medicine and dermatology. </p> <p>Conceived by the <healthcie>HEALTHCIE</healthcie> agency, which specializes in digital communications strategy for those involved in medicine and surgery, (H)ERITAGE is a unique approach, at the crossroads of technological avant-garde and timeless refinement.</p> <p>Founded in 2019 by <julienEn>Julien Vervel</julienEn>, HEALTHCIE draws its inspiration from the world of haute couture to shape tailor-made digital solutions, supporting aesthetic surgeons and doctors in their online visibility and E-reputation management.</p>"
+      "content": "<p>(H)ERITAGE Magazine was born of a very specific vision: to celebrate the subtle balance between tradition and innovation in the field of aesthetic surgery, medicine and dermatology. </p> <p>Conceived by the <healthcie>HEALTHCIE</healthcie> agency, which specializes in digital communications strategy for those involved in medicine and surgery, (H)ERITAGE is a unique approach, at the crossroads of technological avant-garde and timeless refinement.</p> <p>Founded in 2019 by <julienEn>Julien Vervel</julienEn>, HEALTHCIE draws its inspiration from the world of haute couture to shape tailor-made digital solutions, supporting aesthetic surgeons and doctors in their online visibility and E-reputation management.</p>",
+      "cta_link": "/en/contact",
+      "cta": "Contact"
     },
     "follow": {
       "h2": "A digital platform & premium print support for doctors and medical device manufacturers",
       "h3": "HERITAGE Magazine",
-      "content": "<p>This expertise gave rise to the idea of a complete ecosystem, where the premium print version meets an innovative digital platform, rich in exclusive content and accessible to a global audience.</p> <p>The HERITAGE Magazine team is determined to offer readers original content with high added value. You'll find in-depth articles, interviews with KOLs and focus on the latest product and technological advances. </p> <p>Enjoy continuous access to innovation both in the pages of the magazine and through our digital platform.</p>"
+      "content": "<p>This expertise gave rise to the idea of a complete ecosystem, where the premium print version meets an innovative digital platform, rich in exclusive content and accessible to a global audience.</p> <p>The HERITAGE Magazine team is determined to offer readers original content with high added value. You'll find in-depth articles, interviews with KOLs and focus on the latest product and technological advances. </p> <p>Enjoy continuous access to innovation both in the pages of the magazine and through our digital platform.</p>",
+      "cta_link": "/en/partners-plastic-surgery-anti-aging-medicine",
+      "cta": "Partners"
     }
   },
   "Partners": {

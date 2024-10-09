@@ -1,3 +1,4 @@
+import Button from "@/app/components/buttons/Button";
 import header from "@/app/img/heritage-innovation-sante-magazine-specialiste.jpg";
 import follow from "@/app/img/heritage-magazine-innovation-sante-revue-specialisee.jpg";
 import miror from "@/app/img/heritage-magazine-sante.png";
@@ -84,6 +85,8 @@ export default function About() {
               ),
             })}
           </div>
+
+          <Button link={t("first.cta_link")}>{t("first.cta")}</Button>
         </div>
 
         <div className="relative max-lg:h-[350px]">
@@ -114,6 +117,7 @@ export default function About() {
               p: (chunks) => <p>{chunks}</p>,
             })}
           </div>
+          <Button link={t("follow.cta_link")}>{t("follow.cta")}</Button>
         </div>
       </section>
     </main>
