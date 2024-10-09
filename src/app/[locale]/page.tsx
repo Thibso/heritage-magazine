@@ -114,7 +114,7 @@ export default function Home() {
             })}
           </div>
 
-          <Button link="/">{t("p2.cta")}</Button>
+          <Button link={t("p2.cta_link")}>{t("p2.cta")}</Button>
         </div>
 
         <div className="bg-bgLight max-lg:pb-12 col-span-5 grid items-center overflow-hidden">

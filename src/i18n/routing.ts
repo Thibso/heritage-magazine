@@ -46,6 +46,10 @@ export const routing = defineRouting({
       fr: "/mentions-legales",
       en: "/legal-notices",
     },
+    "/partners": {
+      fr: "/partenaires-chirurgie-esthetique-medecine-anti-age",
+      en: "/partners-plastic-surgery-anti-aging-medicine",
+    },
   },
 });
 

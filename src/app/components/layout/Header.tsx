@@ -36,12 +36,21 @@ export default function Header(props: Props) {
           </li>
           <li>
             <a
+              href="/fr/partenaires-chirurgie-esthetique-medecine-anti-age"
+              className="font-sfPro font-medium uppercase text-white transition hover:text-orange"
+            >
+              Partenaires
+            </a>
+          </li>
+          <li>
+            <a
               href="/fr/publications-innovations-medecine-esthetique"
               className="font-sfPro font-medium uppercase text-white transition hover:text-orange"
             >
               Publications
             </a>
           </li>
+
           <li>
             <a
               href="/fr/contact"
@@ -59,6 +68,14 @@ export default function Header(props: Props) {
               className="font-sfPro font-medium uppercase text-white transition hover:text-orange"
             >
               About
+            </a>
+          </li>
+          <li>
+            <a
+              href="/en/partners-plastic-surgery-anti-aging-medicine"
+              className="font-sfPro font-medium uppercase text-white transition hover:text-orange"
+            >
+              Partners
             </a>
           </li>
           <li>

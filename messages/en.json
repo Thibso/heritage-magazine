@@ -11,7 +11,8 @@
       "h2": "Heritage Magazine",
       "h3": "A print and digital platform",
       "content": "<p> With (H)ERITAGE Magazine, aesthetic medical device laboratories and manufacturers have a unique opportunity to boost their visibility. </p><p> We offer a dual platform - print and digital - enabling brands to communicate effectively with a specialised and demanding audience. Our beautifully designed print version embodies the prestige and expertise of the industry, while our digital version opens up a modern, interactive channel that can be accessed at any time. </p>",
-      "cta": "About us"
+      "cta": "About us",
+      "cta_link": "/en/media-plastic-surgery-antiaging-medicine"
     }
   },
   "About": {
@@ -26,6 +27,12 @@
       "h3": "HERITAGE Magazine",
       "content": "<p>This expertise gave rise to the idea of a complete ecosystem, where the premium print version meets an innovative digital platform, rich in exclusive content and accessible to a global audience.</p> <p>The HERITAGE Magazine team is determined to offer readers original content with high added value. You'll find in-depth articles, interviews with KOLs and focus on the latest product and technological advances. </p> <p>Enjoy continuous access to innovation both in the pages of the magazine and through our digital platform.</p>"
     }
+  },
+  "Partners": {
+    "h1": "Partners",
+    "h2": "Distribution network & partners",
+    "h3": "They trust us",
+    "p": "* Our distribution and partner network is constantly evolving."
   },
   "Contact": {
     "h1": "Contact",
@@ -46,7 +53,9 @@
     },
     "toast": {
       "title": "Form sent successfully",
-      "description": "We'll get back to you as soon as possible."
+      "error_title": "An error has occurred.",
+      "description": "We'll get back to you as soon as possible.",
+      "error_description": "An error occurred while sending the form."
     }
   },
   "Footer": {

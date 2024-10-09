@@ -36,6 +36,14 @@ export default function MenuMobile(props: Props) {
             </li>
             <li>
               <a
+                href="/fr/partenaires-chirurgie-esthetique-medecine-anti-age"
+                className="font-sfPro text-xl font-medium uppercase text-white transition hover:text-orange"
+              >
+                Partenaires
+              </a>
+            </li>
+            <li>
+              <a
                 href="/fr/publications-innovations-medecine-esthetique"
                 className="font-sfPro text-xl font-medium uppercase text-white transition hover:text-orange"
               >
@@ -59,6 +67,14 @@ export default function MenuMobile(props: Props) {
                 className="font-sfPro text-xl font-medium uppercase text-white transition hover:text-orange"
               >
                 About
+              </a>
+            </li>
+            <li>
+              <a
+                href="/en/partners-plastic-surgery-anti-aging-medicine"
+                className="font-sfPro font-medium text-xl uppercase text-white transition hover:text-orange"
+              >
+                Partners
               </a>
             </li>
             <li>

@@ -11,7 +11,8 @@
       "h2": "Heritage Magazine",
       "h3": "Une plateforme print & digitale",
       "content": "<p> Avec (H)ERITAGE Magazine, les laboratoires et fabricants de dispositifs médicaux de l'esthétique ont une opportunité unique de renforcer leur visibilité. </p><p> Nous offrons une plateforme double – print et digitale – permettant aux marques de communiquer efficacement auprès d'une audience spécialisée et exigeante. Notre version imprimée, au design raffiné, incarne le prestige et l'expertise de l'industrie, tandis que notre version digitale ouvre un canal interactif et moderne, accessible à tout moment. </p>",
-      "cta": "A propos"
+      "cta": "A propos",
+      "cta_link": "/fr/media-chirurgie-esthetique-medecine-antiage"
     }
   },
   "About": {
@@ -44,6 +45,12 @@
       "content": "Nous sommes ravis de vous dévoiler la seconde édition d’HERITAGE Magazine, votre nouveau rendez-vous incontournable dans l’univers vibrant de la médecine esthétique. Ce magazine annuel a pour objectif de mettre en avant les innovations les plus récentes en matière de produits et de technologies dans le secteur de l’esthétique. Pourquoi HERITAGE ? Parce que nous croyons que le passé de la chirurgie et de la médecine esthétique forme les fondations solides sur lesquelles nous bâtissons le présent et l’avenir. En nous appuyant sur les valeurs de la médecine, nous aspirons à sublimer l’avenir de la profession, en alliant tradition et innovation."
     }
   },
+  "Partners": {
+    "h1": "Partenaires",
+    "h2": "Réseau de distribution & partenaires",
+    "h3": "Ils nous font confiance",
+    "p": "* Notre réseau de distribution et de partenaires évolue en permanence."
+  },
   "Contact": {
     "h1": "Contact",
     "form": {
@@ -63,7 +70,9 @@
     },
     "toast": {
       "title": "Formulaire envoyé avec succès",
-      "description": "Nous reviendrons vers vous dans les plus brefs délais."
+      "error_title": "Une erreur est survenue.",
+      "description": "Nous reviendrons vers vous dans les plus brefs délais.",
+      "error_description": "Une erreur est survenue lors de l'envoie du formulaire."
     }
   },
   "Footer": {
