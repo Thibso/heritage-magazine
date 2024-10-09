@@ -103,6 +103,8 @@ export default function Home() {
               p: (chunks) => <p>{chunks}</p>,
             })}
           </div>
+
+          <Button link={t("p1.cta_link")}>{t("p1.cta")}</Button>
         </div>
       </section>
 
