@@ -98,6 +98,15 @@ export default function Home() {
         </div>
       </section>
 
+      <section className="max-lg:hidden">
+        <video className="" autoPlay muted playsInline loop>
+          <source
+            src="/HERITAGE-MAGAZINE-AESTHETIC-MEDICINE.mp4"
+            type="video/mp4"
+          />
+        </video>
+      </section>
+
       <section
         id="discover"
         className="max-lg:flex max-lg:flex-col-reverse lg:grid lg:grid-cols-8 m-auto"
