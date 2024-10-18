@@ -14,7 +14,7 @@ export async function generateMetadata({ params }: Params) {
     return {
       title: "Dr Ascher | Interview MAIS by Thinkin | HERITAGE Magazine",
       description:
-        "Découvrez en exclusivité l’interview du Dr Ascher sur le Medical Aesthetic Injectable Summit (MAIS) créé par Thinkin. (H)ERITAGE Magazine",
+        "Discover Dr Ascher's exclusive interview on the Medical Aesthetic Injectable Summit (MAIS) created by Thinkin. (H)ERITAGE Magazine",
     };
   } else if (locale === "fr") {
     return {
