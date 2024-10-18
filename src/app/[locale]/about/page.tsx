@@ -35,9 +35,6 @@ export default function About() {
     <main>
       <section>
         <div className="px-5 py-4 max-lg:h-[500px] lg:h-screen max-h-[1200px] grid items-end relative lg:px-7 lg:py-4">
-          <span className="text-white uppercase text-3xl lg:text-8xl">
-            {t("h1")}
-          </span>
           <Image
             priority
             placeholder="blur"
@@ -45,6 +42,9 @@ export default function About() {
             alt=""
             className="max-lg:h-[500px] max-lg:w-[1024px] absolute lg:fixed size-full top-0 left-0 object-cover -z-[1]"
           />
+          <span className="text-white uppercase text-3xl lg:text-8xl">
+            {t("h1")}
+          </span>
         </div>
       </section>
 
