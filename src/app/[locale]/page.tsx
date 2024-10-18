@@ -83,12 +83,15 @@ export default function Home() {
           <Image
             src={mag}
             alt="Illustration (H)ERITAGE magazine"
+            quality={100}
             className="max-lg:hidden absolute w-full h-full object-cover object-center"
           />
           <Image
+            placeholder="blur"
+            loading="eager" // {lazy} | {eager}
             src={magMobile}
             alt="Illustration (H)ERITAGE magazine"
-            className="lg:hidden h-80 object-cover object-center"
+            className="lg:hidden h-80 w-full object-cover object-center"
           />
         </div>
 
