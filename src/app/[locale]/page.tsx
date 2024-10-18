@@ -87,8 +87,7 @@ export default function Home() {
             className="max-lg:hidden absolute w-full h-full object-cover object-center"
           />
           <Image
-            placeholder="blur"
-            loading="eager" // {lazy} | {eager}
+            priority
             src={magMobile}
             alt="Illustration (H)ERITAGE magazine"
             className="lg:hidden h-80 w-full object-cover object-center"

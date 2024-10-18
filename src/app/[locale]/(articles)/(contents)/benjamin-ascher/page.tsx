@@ -34,6 +34,8 @@ export default function Article() {
       <section className="myContainer lg:space-x-16 full-screen max-lg:flex max-lg:flex-col-reverse max-lg:gap-10 lg:grid lg:grid-cols-5 text-mainBlue">
         <div className="lg:col-span-2">
           <Image
+            priority
+            placeholder="blur"
             src={header}
             alt={t("img_alt")}
             title={t("img_alt")}

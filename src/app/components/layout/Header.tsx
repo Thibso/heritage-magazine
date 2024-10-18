@@ -12,8 +12,7 @@ export default function Header(props: Props) {
     <header className="bg-mainBlue fixed top-0 w-full left-0 z-[99] px-5 py-3 lg:px-16 lg:py-5 flex justify-between items-center">
       <a href={"/" + props.locale}>
         <Image
-          placeholder="blur"
-          loading="eager" // {lazy} | {eager}
+          priority
           src={logo}
           alt="Logo (H)ERITAGE Magazine"
           className="h-[20px] object-contain w-fit"

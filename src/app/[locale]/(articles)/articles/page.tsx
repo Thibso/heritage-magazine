@@ -41,6 +41,8 @@ export default function Articles() {
             {t("title")}
           </span>
           <Image
+            priority
+            placeholder="blur"
             src={header}
             alt=""
             className="absolute lg:fixed size-full top-0 left-0 object-cover -z-[1]"

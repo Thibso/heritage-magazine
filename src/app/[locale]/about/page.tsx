@@ -39,9 +39,11 @@ export default function About() {
             {t("h1")}
           </span>
           <Image
+            priority
+            placeholder="blur"
             src={header}
             alt=""
-            className="absolute lg:fixed size-full top-0 left-0 object-cover -z-[1]"
+            className="max-lg:h-[500px] max-lg:w-[1024px] absolute lg:fixed size-full top-0 left-0 object-cover -z-[1]"
           />
         </div>
       </section>
