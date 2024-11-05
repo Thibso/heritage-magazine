@@ -11,7 +11,10 @@ import SliderCardsEN from "../components/SliderCardsEN";
 
 import BrandOfTheMonth from "../components/brandOfTheMonth";
 import Button from "../components/buttons/Button";
+import PopUpValidation from "../components/layout/popUpValidation";
 import "./globals.css";
+
+import { cookies } from "next/headers";
 
 const sfPro = localFont({
   src: "./SF-Pro.ttf",
@@ -26,6 +29,9 @@ export default async function LocaleLayout({
   params: { locale: string };
 }) {
   const messages = await getMessages();
+
+  const cookieStore = await cookies();
+  const hasCookie = cookieStore.has("popup");
 
   return (
     <html lang={locale} className={sfPro.variable}>
@@ -71,6 +77,8 @@ export default async function LocaleLayout({
       </head>
       <body>
         <GoogleAnalytics gaId="G-WPVQNN32N0" />
+        {hasCookie ? null : <PopUpValidation locale={locale} />}
+
         <Header locale={locale} />
         <BrandOfTheMonth />
 
