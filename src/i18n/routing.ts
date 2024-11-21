@@ -50,6 +50,10 @@ export const routing = defineRouting({
       fr: "/partenaires-chirurgie-esthetique-medecine-anti-age",
       en: "/partners-plastic-surgery-anti-aging-medicine",
     },
+    "/congres": {
+      fr: "/meilleurs-congres-medecine-esthetique-chirurgie-plastique",
+      en: "/top-aesthetic-medicine-plastic-surgery-congresses",
+    },
   },
 });
 

@@ -52,6 +52,14 @@ export default function MenuMobile(props: Props) {
             </li>
             <li>
               <a
+                href="/fr/meilleurs-congres-medecine-esthetique-chirurgie-plastique"
+                className="font-sfPro text-xl font-medium uppercase text-white transition hover:text-orange"
+              >
+                Congrès
+              </a>
+            </li>
+            <li>
+              <a
                 href="/fr/contact"
                 className="font-sfPro text-xl font-medium uppercase text-white transition hover:text-orange"
               >
@@ -83,6 +91,14 @@ export default function MenuMobile(props: Props) {
                 className="font-sfPro font-medium text-xl uppercase text-white transition hover:text-orange"
               >
                 Publications
+              </a>
+            </li>
+            <li>
+              <a
+                href="/en/top-aesthetic-medicine-plastic-surgery-congresses"
+                className="font-sfPro font-medium text-xl uppercase text-white transition hover:text-orange"
+              >
+                Congresses
               </a>
             </li>
             <li>

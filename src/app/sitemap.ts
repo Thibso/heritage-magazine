@@ -134,5 +134,16 @@ export default function sitemap(): MetadataRoute.Sitemap {
         },
       },
     },
+    {
+      url: "https://magazine-heritage.com/congres",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/",
+          en: "https://magazine-heritage.com/en/",
+        },
+      },
+    },
   ];
 }

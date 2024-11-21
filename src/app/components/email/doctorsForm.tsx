@@ -95,7 +95,7 @@ export default function DoctorsForm() {
     <div className="space-y-12">
       <div>
         <h2 className="h2 text-white">{t("form.h2Doc")}</h2>
-        <h3 className="h3 mt-2 lg:mt-4">{t("form.h3")}</h3>
+        <h3 className="h3 mt-2 lg:mt-4">{t("form.h3Doc")}</h3>
       </div>
       <Form {...form}>
         <form

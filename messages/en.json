@@ -34,6 +34,119 @@
       "cta": "Partners"
     }
   },
+  "Congres": {
+    "h1": "Aesthetic medicine congresses",
+    "h2": "Major international events",
+    "h3": "Surgery and aesthetic medicine congresses calendar",
+    "europe": {
+      "seme": {
+        "title": "SEME in Malaga",
+        "h3": "Congress dedicated to innovations in aesthetic medicine",
+        "content": "<p>The SEME Congress, organised by the Spanish Society of Aesthetic Medicine, is one of the major events for professionals in the sector. Held in Malaga, the event brings together international experts to explore the latest innovations in aesthetic medicine. The programme includes high-level conferences, practical workshops and discussions on the technological and scientific advances that are shaping the future of aesthetic medicine. A valuable opportunity to exchange ideas and expand your professional network in a dynamic and inspiring setting.</p><p><b>National Scientific Committee:</b> Dr. Juan Antonio López, Dra. Petra Mª Vega, Prof. José R. Cabo, Prof. Andreu Palou, Dra. Mª Carmen López, Dr. José Folch, Dra. Paloma Tejero, Prof. Joaquín Fernández-Crehuet, Dr. José Serres, Dr. Julián Conejo MIr, Dra. Virginia Benítez, Dra. Sofía Ruiz Del Cueto, Dr. Justo Alcolea, Dra. Maya Gracia, Dr. Eduardo Gil, Dr. Hernán Pinto, Dr. José A. Flórez, Dra. Rosa del Río, Dr. Jesús Benito, Dr. Alfredo Fernández, Dr. Álvaro Moreno, Dra. Cristina Ruiz, Dr. Carlos Fajardo, Dr. Gorka Martínez</p><p><b>International Scientific Committee:</b> Dra. Blanca Miller, Dr. Alberto Elbaum, Dr. Emanuele Bartoletti, Dr. Michael Delune, Dr. Jean Jacques Legrand, Dr. Jean J. Hèbrant, Dr. Joao Vale</p>"
+      },
+      "bts": {
+        "title": "BTS in Stockholm",
+        "h3": "Congress dedicated to aesthetic medicine and plastic surgery",
+        "content": "<p>BTS (Beauty Through Science), held in Stockholm, is one of the leading congresses in aesthetic medicine and plastic surgery. Founded by Dr Per Heden, the event brings together specialists from all over the world to discuss the latest techniques and innovations in the field of aesthetics. Participants have the opportunity to attend cutting-edge scientific sessions, live demonstrations and in-depth discussions on emerging trends. A must-attend event for professionals looking to enhance their knowledge and expand their network in a setting of excellence.</p><p>Scientific Committee: Dr Per Hedén, Dr Brad Calobrace, Dr Bill Adams, Dr Shino Bay, Dr Patricia Ogilvie, Dr Ofir Artzi, Mme Alona Gellerman, M Miguel Pierre</p>"
+      },
+      "pragueLab": {
+        "title": "Prague Lab in Prague",
+        "h3": "Congress dedicated to innovation in aesthetic medicine",
+        "content": "<p>The Prague Lab is a leading congress dedicated to innovation in aesthetic medicine, taking place in Prague. Founded by Professor Sebastien Cotofana, the event brings together internationally renowned practitioners and researchers to explore the latest discoveries and best practices in the field, offering Cadaver Masterclasses as well as sessions dedicated to anatomy and injection techniques, providing participants with in-depth practical training in these areas. Prague Lab offers a unique opportunity to deepen your technical skills, while developing your professional network in an atmosphere conducive to learning. </p><p>Speakers: Dr Tapan Patel, Dr Lee Walker, Dr Kristina Davidovic, Dr Jani van Loghem, Dr Konstantin Frank, Dr Leonie Schelke, Dr Monika Kavková, Dr Michael Alfertshofer, Dr Roshan Ravindran, Dr Jeff Downie, Dr Carlos Bravo, Dr Herve Raspaldo, Dr Wael Seoudy, Dr Katinka Pónyai, Prof. David Kachlík, Dr Victor Munoz, Dr Kerstin Ortlechner, Dr Sahar Ghannam, Prof. Sebastian Cotofana</p>"
+      },
+      "faceUk": {
+        "title": "FACE UK in London",
+        "h3": "Congress dedicated to facial aesthetic medicine",
+        "content": "<p>FACE UK is one of the most prestigious events in aesthetic medicine, taking place in London. The conference attracts experts and opinion leaders from around the world to share the latest advances in aesthetic techniques and medical technologies. Attendees can discover innovative presentations, watch live demonstrations and take part in interactive discussions on current challenges and future trends in the sector. It's an essential meeting place for professionals looking to enhance their expertise in a setting of excellence.</p><p>Scientific Committee: Dr Uliana GOUT, Dr Ali PIRAYESH, Dr Todd SCHLESINGER, Dr Raul CETTO, Dr Syed HAQ, Dr Simon RAVICHANDRAN, Dr Greg WILLIAMS</p>"
+      },
+      "ccr": {
+        "title": "CCR in London",
+        "h3": "Congress dedicated to aesthetic and regenerative medicine",
+        "content": "<p>The CCR (Clinical + Cosmetic + Regenerative) is a major conference on aesthetic and regenerative medicine, held annually in London. The event brings together healthcare professionals, researchers and industry experts to present the latest innovations in aesthetic care and regenerative medicine. The programme includes educational sessions, practical demonstrations and debates on emerging techniques, enabling attendees to enhance their skills and stay at the forefront of advances in the sector.</p>"
+      },
+      "mais": {
+        "title": "MAIS in Marbella",
+        "h3": "Summit dedicated to injectables",
+        "content": "<p>The MAIS (Medical Aesthetic Injectable Summit), founded by Dr Benjamin Ascher, is a new benchmark conference dedicated to injectable techniques in aesthetic medicine. Taking place in Marbella, this event brings together the best international experts to share their knowledge of the latest advances in the field of injectables. The MAIS (Medical Aesthetic Injectable Summit) in Marbella is an event for industry leaders, biotechs and medical device manufacturers. This high-level congress offers a unique platform for networking and developing business opportunities. With a format focused on strategic exchanges, MAIS emphasises speed matching, facilitating targeted and effective meetings between decision-makers. It's the perfect opportunity to forge key partnerships and strengthen your presence in the international medical aesthetic technologies market.</p><p>Scientific Director: Dr Ascher Benjamin, M Antunes Humberto, M Fouad Hasan, Dr Landau Marina</p><p>Scientific Committee: Dr Dayan Steven, Dr Gold Michael, Dr Green Jeremy, Dr Heden Per, Dr Hoepffner Natalene, Dr Lim Ting Song, Dr Nestor Mark, Dr Ogilvie Patricia, Dr Picaut Philippe, Dr Prestwich Glenn, Dr Rappl Thomas, Dr Singh Balram</p>"
+      },
+      "sies": {
+        "title": "SIES in Bologna",
+        "h3": "Congress dedicated to aesthetic medicine",
+        "content": "<p>The SIES (International Congress of the Italian Society of Aesthetic Medicine and Surgery) is a major event in aesthetic medicine, taking place in Bologna. The congress brings together practitioners and researchers from all over the world to discuss the latest advances in aesthetic techniques, from anti-ageing medicine to innovations in cosmetic surgery. With a rich programme of scientific conferences, practical workshops and live demonstrations, SIES is a valuable opportunity for professionals wishing to deepen their skills and discover new trends in the sector.</p><p>Chairman: Dr Maurizio Priori</p>"
+      },
+      "aime": {
+        "title": "AIME in Paris",
+        "h3": "Congress dedicated to aesthetic, anti-aging and regenerative medicine",
+        "content": "<p>The AIME conference in Paris is a not-to-be-missed event for specialists in aesthetic, anti-ageing and regenerative medicine. Founded by Professor Jean-Paul Meningaud, the congress brings together opinion leaders and professionals from the sector to discuss the latest scientific advances, innovative technologies and aesthetic treatments. With interactive sessions, expert panels and a dedicated area for exhibitors, AIME offers a prime platform for expanding your network and exploring new trends.</p><p>Scientific Committee: Professor Jean-Paul Meningaud; Professor Barbara Hersant </p>"
+      },
+      "sfme": {
+        "title": "SFME in Paris",
+        "h3": "French Congress on Aesthetic Medicine",
+        "content": "<p>The SFME (Société Française de Médecine Esthétique) congress is an essential event for French practitioners and experts in aesthetic medicine. Founded by Dr Jean-Jacques Legrand, the event brings together professionals from the sector to discuss the latest innovations, share research and expand knowledge of aesthetic treatments. With a programme of conferences, interactive workshops and round tables, the SFME congress is a privileged platform for networking and exchanging expertise in a dynamic and inspiring environment.</p><p>Scientific Committee: Dr Alain BUTNARU, Dr Hugues CARTIER, Dr Jean Jacques DEUTSCH, Dr Jean Jacques LEGRAND, Dr Yvon PERRILLAT</p>"
+      },
+      "imcas": {
+        "title": "IMCAS World Congress in Paris",
+        "h3": "Congress dedicated to aesthetic medicine, dermatology and plastic surgery",
+        "content": "<p>The IMCAS World Congress is one of the world's leading events dedicated to aesthetic medicine, dermatology and plastic surgery. Held in Paris, the Congress brings together internationally renowned experts, healthcare professionals and opinion leaders to share the latest advances in medical aesthetics. With a programme of scientific conferences, practical workshops and innovative demonstrations, IMCAS is a unique opportunity to broaden your expertise and network. </p><p>Scientific Directors: Dr Hugues CARTIER, Dr Sebastien GARSON</p><p>Scientific Committee : M Doug ABEL, Dr Hertsel ADHOUTE, Dr Rubina ALVES, M Humberto ANTUNES, Dr Ofir ARTZI, Dr Michael BENZAQUEN, M Laurent BRONES, Dr Jay CALVERT, Dr Victor Gabriel CLATICI, Dr John COLE, Dr Muriel CREUSOT, Prof Haiyan CUI, Dr Serge DAHAN, Dr Giovanni DAMIANI, Dr Ashish DAVALBHAKTA, Dr Viral Ramesh DESAI, Dr Diane Irvine DUNCAN, Dr Sergio Omar ESCOBAR, Dr Ronald FEINER, Dr Manuel Dario FRANCO, Prof Hassan GALADARI, Dr Lilit GARIBYAN, Dr Michael GOLD, Prof Andy GOREN, Dr Meelad HABIB, Dr Diala HAYKAL, Prof Barbara HERSANT, Dr Po Han Patrick HUANG, Dr Aimilios LALLAS, Dr Hans Joachim LAUBACH, Dr Jeremy MAGALON, Prof Serge MORDON, Prof Maurice Y NAHABEDIAN, Dr Sebastian NISCHWITZ, Dr Alessio REDAELLI, Dr Frank ROSENGAUS, Dr Anthony M ROSSI, Dr Paisal RUMMANEETHORN, Prof Berthold RZANY, Dr Ahmed SADEK, Prof Neil S SADICK, Dr Giovanni SALTI, Prof Raphael SINNA, Dr Atchima SUWANCHINDA, Dr Luiz Eduardo TOLEDO AVELAR, Dr Patrick J TREACY, Dr Sergio VANO GALVAN</p>"
+      },
+      "sofcep": {
+        "title": "SOFCEP",
+        "h3": "Congress dedicated to aesthetic, plastic and reconstructive surgery",
+        "content": "<p>The SOFCEP congress (Société Française des Chirurgiens Esthétiques Plasticiens) is a key event for aesthetic surgeons in France. This event brings together specialists in aesthetic surgery to discuss the latest technical advances and innovations in the field. With a programme focused on scientific conferences, live demonstrations and discussions between experts, the congress offers a privileged platform to deepen skills and strengthen professional collaborations within the surgical community.</p><p>Steering Committee: Dr Bérengère CHIGNON-SICARD, Dr Flore DELAUNAY, Dr Aurélie FABIE-BOULARD, Dr Jonathan FERNANDEZ, Dr Jean-Pascal FYAD, Dr Nicolas GEORGIEU, Dr Vincent HUNSINGER, Dr Jean-Luc JAUFFRET, Dr Sylvie POIGNONEC, Dr Nathaniel STROUMZA-ESCOFFIER, Dr Gilbert VITALE </p>"
+      }
+    },
+    "latam": {
+      "baas": {
+        "title": "BAAS in Buenos Aires",
+        "h3": "Congress dedicated to aesthetic medicine",
+        "content": "<p>The BAAS (Beauty and Anti-Aging Congress), organised by Dr Escobar, is a key event in aesthetic medicine held in Buenos Aires. The congress attracts aesthetic professionals from all over the world, providing a platform to explore the latest innovations and techniques in anti-ageing treatments. With expert lectures, practical workshops and live demonstrations, BAAS enables participants to deepen their knowledge and stay at the forefront of emerging trends in the beauty sector.</p><p>Directors: Dr Sergio Escobar, Dra María José Pelli</p>"
+      },
+      "imcas": {
+        "title": "IMCAS Americas in São Paulo",
+        "h3": "Congress dedicated to aesthetic medicine",
+        "content": "<p>IMCAS Americas is a leading congress in aesthetic medicine, taking place in São Paulo. The event brings together international healthcare professionals and experts to share the latest advances and techniques in cosmetic surgery, aesthetic medicine and dermatology. Participants can look forward to a rich programme of conferences, practical workshops and demonstration sessions, offering a unique opportunity to deepen their knowledge and discover emerging trends in the sector. An ideal platform for strengthening your professional network in a dynamic and inspiring setting.</p><p>Scientific Directors: Dr Hugues CARTIER, Dr Sebastien GARSON</p><p>Scientific Committee : Dr Gustavo Gualberto ABRILE, Dr Valeria CAMPOS, Dr Pier Luigi CANTA, Dr Sergio Omar ESCOBAR, Dr Andre FERRAO VARGAS, Dr Raul FRANCO GONZALEZ, Prof Cesar GONZALEZ ARDILA, Dr Alexandra MORA HERNANDEZ, Dr Carlos ROBERTO ANTONIO, Prof Renato SALTZ, Dr Sergio TALARICO</p>"
+      },
+      "radla": {
+        "title": "RADLA in Punta del Este",
+        "h3": "Congress dedicated to dermatology and aesthetic medicine",
+        "content": "<p>The RADLA (Congress of the Recent Society of Dermatology and Aesthetic Medicine) is taking place in Punta del Este, Uruguay. This renowned event brings together experts and practitioners from the sector to discuss the latest advances in dermatology and aesthetic medicine. Attendees can look forward to a packed programme of conferences, practical workshops and interactive sessions, providing an ideal platform to expand their knowledge and exchange ideas. A unique opportunity to keep abreast of innovations and strengthen your professional network in an inspiring setting.</p><p>Scientific Committee: Dr Mercedes Laporte, Dra Camila Otero, Dra Patricia Levrero</p><p>Organising Committee: Dr Néstor Macedo, Dra Alejandra Larre Borges, Dra Sofía Nicoletti, Dr Carlos Carmona</p>"
+      }
+    },
+    "middleEast": {
+      "icce": {
+        "title": "ICCE in Egypt",
+        "h3": "Congress dedicated to aesthetic dermatology",
+        "content": "<p>The ICCE (International Congress on Cosmetic and Clinical Dermatology) is a major congress in aesthetic dermatology, held in Egypt. This prestigious event brings together health professionals, researchers and opinion leaders from the sector to explore the latest innovations and techniques in dermatology and aesthetics. Participants will have the opportunity to attend inspiring lectures, practical workshops and in-depth discussions, encouraging the exchange of knowledge and the sharing of expertise. An essential platform for keeping abreast of emerging trends and expanding your professional network in a unique setting.</p><p>Founding members: Dr Yasser Hamed, Dr Yasser Gohary, Dr Maha Ezzat, Dr Shady Mahmoud</p><p>Scientific Committee: Dr Mohamed Abozeid, Dr Wael Seoudy, Dr Amr Elnaggary, Dr Amira Salem, Dr Sara Mohy, Dr Shady Ismail, Dr Mahmoud Rageh</p>"
+      },
+      "meidam": {
+        "title": "MEIDAM in Dubai",
+        "h3": "Congress dedicated to aesthetic medicine and dermatology",
+        "content": "<p>MEIDAM (Middle East International Dermatology and Aesthetic Medicine) is a leading congress in aesthetic medicine and dermatology, held in Dubai. The event attracts healthcare professionals from all over the world to discuss the latest advances and innovations in the field of medical aesthetics. Participants will have the opportunity to attend lectures by renowned experts, take part in practical workshops and exchange ideas in interactive sessions. A valuable opportunity to expand your professional network and deepen your knowledge in a dynamic, cosmopolitan setting.</p><p>Scientific Committee: Dr Seemal Desai, Prof Henry W. Lim, Prof Menno De Rie, Dr Nellie Konnikov, Prof Stephen Shumack, Dr Atlal Al lafi, Dr Maria-Angeliki Gkini, Dr Iltifat Hamzawi, Prof Jorge Ocampo-Candiani, Prof Aleksandra Lesiak, Dr Homidov Muzzafar Fayzalievich, Asst. Prof Saad Al Talhaab, Dr Sami AlSuwaidan, Dr Maya Muallem, Prof Eslam Tawfik El-Baroudy, Dr Zbigniew Ruszczak, Dr Fathi Al Kasah, Dr Fatimata LY, Dr Hangrae CHO, Dr Shaden Abdelhadi, Dr Shimelis Nigusse Doni, Assoc. Prof. Henry Foong Boon Bee, Dr Tahir T Mohammed, Assoc. Prof. Thamer Fahad Al Mubki, Dr Adil Hamid Hassan Bashir, Dr Akhmed Rakhimov, Dr Zaidoon Mohamed Hussein Abdelhadi, Dr Hangrae Cho </p>"
+      },
+      "dubaiDerma": {
+        "title": "Dubai Derma in Dubai",
+        "h3": "Congress dedicated to dermatology and aesthetic medicine",
+        "content": "<p>Dubai Derma is one of the leading dermatology and aesthetic medicine conferences in the Middle East, taking place in Dubai. The event brings together a wide range of professionals, from dermatologists to aesthetic practitioners, to discover the latest research and innovations in the field. The programme includes captivating presentations, relevant case studies and specialised workshops, enabling participants to hone their skills and stay at the forefront of developments in the sector. It's a prime platform for making contacts, sharing experiences and exploring collaboration opportunities within a dynamic international community.</p><p>Scientific Committee: Dr Ibrahim GALADARI, Dr Hassan Galadari, Dr Abdul Wahab Al Fouzan, Dr Abdullah Al Eisa, Dr Ahmed Al Waily, Dr Ahmed Al Dhaheri, Dr Ahmed Al Qahtani, Dr Ali Singel, Dr Alia Al Mualla, Dr Amani Abdulla Alfalasi, Dr Ameen Alawadhi, Dr Andre Mattos, Dr Assem Farag, Dr Dhaifallah Alghowairi, Dr Fahad Al Ajmi, Dr Minal Patwardhan, Dr Nawaf Al-Mutairi, Dr Qassim Ahli, Dr Riad Mashal, Dr Salah Al Rubaie, Dr Shaden Abdelhadi, Dr Simil Ahari, Dr Yusra Al Ali, Dr Zbigniew Ruszczak</p>"
+      },
+      "sharmDerma": {
+        "title": "Sharm Derma in Cairo",
+        "h3": "Congress dedicated to dermatology and aesthetic medicine",
+        "content": "<p>Sharm Derma is an essential event in dermatology and aesthetic medicine, held in Cairo, Egypt. The congress attracts experts, researchers and practitioners from diverse backgrounds to examine the latest trends and innovations in the field of dermatology. With a rich programme of lectures, interactive workshops and case studies, Sharm Derma offers a valuable opportunity to share knowledge and explore new techniques. It is also an ideal time to make professional connections and strengthen your network within an engaged community, in a fascinating historical and cultural setting.</p><p>Scientific Committee: Prof. Assem Farag, Dr Marwa Abdallah, Dr Yehia El-Garem, Dr Hoda Moneib, Khaled Gado, Dr Mahmoud Abdalla, Prof. Mahira El-Sayed, Dr Rehab Hegazy, Dr Shady Mahmoud, Dr Nevine Dorgham, Dr Amin Sharobim, Prof. Heba Gawdet, Dr Hany Aboelwafa, Dr Ahmed Afifi, Dr Mohamed Hussien, Dr Ahmed Elattar, Inas Tadros</p>"
+      }
+    },
+    "asia": {
+      "imcasAsia": {
+        "title": "IMCAS Asia in Bangkok",
+        "h3": "Congress dedicated to aesthetic medicine and dermatology",
+        "content": "<p>IMCAS Asia is a leading congress in aesthetic medicine and dermatology, taking place in Bangkok. The event brings together practitioners, researchers and opinion leaders from Asia and beyond to share the latest advances and innovations in the field. With a varied programme including high-level lectures, practical demonstrations and interactive workshops, participants will have the opportunity to deepen their knowledge and discover new techniques. The conference provides a dynamic platform for making professional connections, exchanging ideas and learning about emerging trends in a stimulating environment.</p>"
+      },
+      "imcasChina": {
+        "title": "IMCAS China in Shanghai",
+        "h3": "Congress dedicated to aesthetic medicine and dermatology",
+        "content": "<p>IMCAS China is a major event in aesthetic medicine and dermatology, held in Shanghai. The conference brings together leading experts, practitioners and researchers to explore the latest innovations and advances in the field. Participants will enjoy a rich programme of inspiring lectures, practical workshops and interactive discussions, encouraging the exchange of knowledge and practice. It's a valuable opportunity to keep abreast of current trends and expand your professional network within a dynamic and growing community in a unique cultural environment.</p>"
+      }
+    }
+  },
   "Partners": {
     "h1": "Partners",
     "h2": "Distribution network & partners",
@@ -46,7 +159,8 @@
       "displayDoctors": "Are you a doctor?",
       "displayManufacturers": "Are you a medical device company?",
       "h2Doc": "You are a doctor",
-      "h3": "Would you like to write an article?",
+      "h3Doc": "Would you like to write an article?",
+      "h3Manu": "Would you like to promote an innovation?",
       "h2Manu": "You are a medical device company",
       "firstname": "Firstname",
       "lastname": "Lastname",

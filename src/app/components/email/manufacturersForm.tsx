@@ -87,7 +87,7 @@ export default function ManufacturersForm() {
     <div className="space-y-12">
       <div>
         <h2 className="h2 text-white">{t("form.h2Manu")}</h2>
-        <h3 className="h3 mt-2 lg:mt-4">{t("form.h3")}</h3>
+        <h3 className="h3 mt-2 lg:mt-4">{t("form.h3Manu")}</h3>
       </div>
       <Form {...form}>
         <form

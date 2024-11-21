@@ -35,20 +35,116 @@
     }
   },
   "Congres": {
-    "sfme": {
-      "h2": "Titre H2",
-      "h3": "Titre H3",
-      "content": "Nous sommes ravis de vous dévoiler la seconde édition d’HERITAGE Magazine, votre nouveau rendez-vous incontournable dans l’univers vibrant de la médecine esthétique. Ce magazine annuel a pour objectif de mettre en avant les innovations les plus récentes en matière de produits et de technologies dans le secteur de l’esthétique. Pourquoi HERITAGE ? Parce que nous croyons que le passé de la chirurgie et de la médecine esthétique forme les fondations solides sur lesquelles nous bâtissons le présent et l’avenir. En nous appuyant sur les valeurs de la médecine, nous aspirons à sublimer l’avenir de la profession, en alliant tradition et innovation."
+    "h1": "Congrès de médecine esthétique",
+    "h2": "Événements internationnaux majeurs",
+    "h3": "Calendrier des congrès de chirurgie et de médecine esthétique",
+    "europe": {
+      "seme": {
+        "title": "SEME à Malaga",
+        "h3": "Congrès dédié aux innovations en médecine esthétique",
+        "content": "<p>Le <b>Congrès SEME</b>, organisé par la Société Espagnole de Médecine Esthétique, est l’un des rendez-vous majeurs pour les professionnels du secteur. Se déroulant à <b>Malaga</b>, cet événement rassemble des experts internationaux pour explorer les dernières innovations en médecine esthétique. Au programme : des conférences de haut niveau, des ateliers pratiques, et des discussions sur les avancées technologiques et scientifiques qui façonnent l’avenir de la médecine esthétique. Une opportunité précieuse pour échanger et élargir son réseau professionnel dans un cadre dynamique et inspirant.</p><p>Comité scientifique national : Dr. Juan Antonio López, Dra. Petra Mª Vega, Prof. José R. Cabo, Prof. Andreu Palou, Dra. Mª Carmen López, Dr. José Folch, Dra. Paloma Tejero, Prof. Joaquín Fernández-Crehuet, Dr. José Serres, Dr. Julián Conejo MIr, Dra. Virginia Benítez, Dra. Sofía Ruiz Del Cueto, Dr. Justo Alcolea, Dra. Maya Gracia, Dr. Eduardo Gil, Dr. Hernán Pinto, Dr. José A. Flórez, Dra. Rosa del Río, Dr. Jesús Benito, Dr. Alfredo Fernández, Dr. Álvaro Moreno, Dra. Cristina Ruiz, Dr. Carlos Fajardo, Dr. Gorka Martínez</p><p>Comité scientifique international : Dra. Blanca Miller, Dr. Alberto Elbaum, Dr. Emanuele Bartoletti, Dr. Michael Delune, Dr. Jean Jacques Legrand, Dr. Jean J. Hèbrant, Dr. Joao Vale</p>"
+      },
+      "bts": {
+        "title": "BTS à Stockholm",
+        "h3": "Congrès dédié à la médecine esthétique et à la chirurgie plastique",
+        "content": "<p>Le <b>BTS (Beauty Through Science)</b>, qui se tient à <b>Stockholm</b>, est l’un des congrès de référence en médecine esthétique et chirurgie plastique. Fondé par le Docteur Per Heden, cet événement réunit des spécialistes venus du monde entier pour échanger autour des dernières techniques et innovations dans le domaine de l’esthétique. Les participants ont l'occasion d'assister à des sessions scientifiques pointues, des démonstrations en direct, et des discussions approfondies sur les tendances émergentes. Un rendez-vous incontournable pour les professionnels souhaitant enrichir leurs connaissances et élargir leur réseau dans un cadre d'excellence.</p><p>Comité scientifique : Dr Per Hedén, Dr Brad Calobrace, Dr Bill Adams, Dr Shino Bay, Dr Patricia Ogilvie, Dr Ofir Artzi, Mme Alona Gellerman, M Miguel Pierre</p>"
+      },
+      "pragueLab": {
+        "title": "Prague Lab à Prague",
+        "h3": "Congrès dédié à l'innovation en médecine esthétique",
+        "content": "<p>Le <b>Prague Lab</b> est un congrès de premier plan dédié à l'innovation en médecine esthétique, se déroulant à <b>Prague</b>. Fondé par le Professeur Sebastien Cotofana, cet événement rassemble des praticiens et des chercheurs de renommée internationale pour explorer les découvertes les plus récentes et les meilleures pratiques dans le domaine.Il propose des <b>Cadaver Masterclass</b> ainsi que des sessions dédiées à l'anatomie et aux techniques d'injection, offrant aux participants une formation pratique approfondie dans ces domaines. Prague Lab offre une opportunité unique d’approfondir ses compétences techniques, tout en développant son réseau professionnel dans une atmosphère propice à l'apprentissage. </p><p>Speakers : Dr Tapan Patel, Dr Lee Walker, Dr Kristina Davidovic, Dr Jani van Loghem, Dr Konstantin Frank, Dr Leonie Schelke, Dr Monika Kavková, Dr Michael Alfertshofer, Dr Roshan Ravindran, Dr Jeff Downie, Dr Carlos Bravo, Dr Herve Raspaldo, Dr Wael Seoudy, Dr Katinka Pónyai, Prof. David Kachlík, Dr Victor Munoz, Dr Kerstin Ortlechner, Dr Sahar Ghannam, Prof. Sebastian Cotofana</p>"
+      },
+      "faceUk": {
+        "title": "FACE UK à Londres",
+        "h3": "Congrès dédié à la médecine esthétique du visage",
+        "content": "<p>Le <b>FACE UK</b> est l’un des événements les plus prestigieux en médecine esthétique, ayant lieu à <b>Londres</b>. Ce congrès attire des experts et leaders d'opinion du monde entier pour partager les toutes dernières avancées en techniques esthétiques et technologies médicales. Les participants peuvent y découvrir des présentations innovantes, assister à des démonstrations en direct et participer à des discussions interactives sur les défis actuels et les futures tendances du secteur. Un rendez-vous essentiel pour les professionnels souhaitant enrichir leur expertise dans un cadre d'excellence.</p><p>Comité scientifique : Dr Uliana GOUT, Dr Ali PIRAYESH, Dr Todd SCHLESINGER, Dr Raul CETTO, Dr Syed HAQ, Dr Simon RAVICHANDRAN, Dr Greg WILLIAMS</p>"
+      },
+      "ccr": {
+        "title": "CCR à Londres",
+        "h3": "Congrès dédié à la médecine esthétique et régénérative",
+        "content": "<p>Le <b>CCR (Clinical + Cosmetic + Regenerative)</b> est un congrès incontournable en médecine esthétique et régénérative, se tenant chaque année à <b>Londres</b>. Cet événement réunit des professionnels de santé, des chercheurs et des experts de l'industrie pour présenter les innovations les plus récentes en matière de soins esthétiques et de médecine régénérative. Au programme, des sessions éducatives, des démonstrations pratiques et des débats sur les techniques émergentes, permettant aux participants d'enrichir leurs compétences et de rester à la pointe des avancées du secteur.</p>"
+      },
+      "mais": {
+        "title": "MAIS à Marbella",
+        "h3": "Summit dédié aux injectables",
+        "content": "<p>Le <b>MAIS (Medical Aesthetic Injectable Summit)</b>, fondé par le <b>Dr. Benjamin Ascher</b>, est un nouveau congrès de référence dédié aux techniques injectables en <b>médecine esthétique</b>. Se déroulant à <b>Marbella</b>, cet événement rassemble les meilleurs experts internationaux pour partager leurs connaissances sur les dernières avancées dans le domaine des injectables. Le <b>MAIS</b> (Medical Aesthetic Injectable Summit) à <b>Marbella</b> est un événement  destiné aux <b>leaders de l'industrie</b>, aux <b>biotechs</b> et aux fabricants des <b>dispositifs médicaux</b>. Ce congrès de haut niveau offre une plateforme unique pour favoriser le <b>networking</b> et développer des <b>opportunités business</b>. Avec un format centré sur les échanges stratégiques, MAIS met l'accent sur le <b>speedmatching</b>, facilitant ainsi des rencontres ciblées et efficaces entre les décideurs. C'est l'occasion parfaite pour nouer des partenariats clés et renforcer sa présence sur le marché international des technologies médicales esthétiques.</p><p>Direction scientifique : Dr Ascher Benjamin, M Antunes Humberto, M Fouad Hasan, Dr Landau Marina</p><p>Comité scientifique : Dr Dayan Steven, Dr Gold Michael, Dr Green Jeremy, Dr Heden Per, Dr Hoepffner Natalene, Dr Lim Ting Song, Dr Nestor Mark, Dr Ogilvie Patricia, Dr Picaut Philippe, Dr Prestwich Glenn, Dr Rappl Thomas, Dr Singh Balram</p>"
+      },
+      "sies": {
+        "title": "SIES à Bologne",
+        "h3": "Congrès dédié à la médecine esthétique",
+        "content": "<p>Le <b>SIES (Congrès International de la Société Italienne de Médecine et Chirurgie Esthétique)</b> est un événement majeur en <b>médecine esthétique</b>, se déroulant à <b>Bologne</b>. Ce congrès réunit des praticiens et chercheurs du monde entier pour échanger sur les dernières avancées en techniques esthétiques, de la médecine anti-âge aux innovations en chirurgie esthétique. Avec un programme riche en conférences scientifiques, ateliers pratiques et démonstrations en direct, le SIES est une opportunité précieuse pour les professionnels souhaitant approfondir leurs compétences et découvrir les nouvelles tendances du secteur.</p><p>Président : Dr Maurizio Priori</p>"
+      },
+      "aime": {
+        "title": "AIME à Paris",
+        "h3": "Congrès dédié à la médecine esthétique, anti-âge et régénérative",
+        "content": "<p>Le congrès <b>AIME à Paris</b> est un événement incontournable pour les <b>spécialistes de la médecine esthétique, anti-âge et régénérative</b>. Fondé par le Professeur Jean-Paul Meningaud, ce congrès rassemble les leaders d'opinion et professionnels du secteur pour échanger autour des dernières avancées scientifiques, technologies innovantes et traitements esthétiques. Avec des sessions interactives, des panels d'experts, et un espace dédié aux exposants, AIME propose une plateforme de choix pour élargir son réseau et explorer les nouvelles tendances.</p><p>Comité scientifique : Professeur Jean-Paul Meningaud ; Professeur Barbara Hersant </p>"
+      },
+      "sfme": {
+        "title": "SFME à Paris",
+        "h3": "Congrès français de Médecine esthétique",
+        "content": "<p>Le congrès de la <b>SFME (Société Française de Médecine Esthétique)</b> est un événement essentiel pour les praticiens et les <b>experts en médecine esthétique français</b>. Fondé par le Docteur Jean-Jacques Legrand, cet événement réunit des professionnels du secteur pour discuter des dernières innovations, partager des recherches et approfondir les connaissances sur les traitements esthétiques. Avec un programme composé de conférences, d'ateliers interactifs et de tables rondes, le congrès de la SFME constitue une plateforme privilégiée pour le networking et l'échange d'expertise dans un environnement dynamique et inspirant.</p><p>Comité scientifique : Dr Alain BUTNARU, Dr Hugues CARTIER, Dr Jean Jacques DEUTSCH, Dr Jean Jacques LEGRAND, Dr Yvon PERRILLAT</p>"
+      },
+      "imcas": {
+        "title": "IMCAS World Congress à Paris",
+        "h3": "Congrès dédié à la médecine esthétique, la dermatologie et la chirurgie plastique",
+        "content": "<p>Le <b>IMCAS World Congress</b> est l'un des plus grands événements mondiaux dédiés à la <b>médecine esthétique, la dermatologie et la chirurgie plastique</b>. Se déroulant à <b>Paris</b>, ce congrès rassemble des experts de renommée internationale, des professionnels de santé et des leaders d’opinion pour partager les avancées les plus récentes en esthétique médicale. Avec un programme de conférences scientifiques, des ateliers pratiques et des démonstrations innovantes, IMCAS est une opportunité unique d'élargir son expertise et son réseau. </p><p>Directeurs scientifiques : Dr Hugues CARTIER, Dr Sebastien GARSON</p><p>Comité scientifique : M Doug ABEL, Dr Hertsel ADHOUTE, Dr Rubina ALVES, M Humberto ANTUNES, Dr Ofir ARTZI, Dr Michael BENZAQUEN, M Laurent BRONES, Dr Jay CALVERT, Dr Victor Gabriel CLATICI, Dr John COLE, Dr Muriel CREUSOT, Prof Haiyan CUI, Dr Serge DAHAN, Dr Giovanni DAMIANI, Dr Ashish DAVALBHAKTA, Dr Viral Ramesh DESAI, Dr Diane Irvine DUNCAN, Dr Sergio Omar ESCOBAR, Dr Ronald FEINER, Dr Manuel Dario FRANCO, Prof Hassan GALADARI, Dr Lilit GARIBYAN, Dr Michael GOLD, Prof Andy GOREN, Dr Meelad HABIB, Dr Diala HAYKAL, Prof Barbara HERSANT, Dr Po Han Patrick HUANG, Dr Aimilios LALLAS, Dr Hans Joachim LAUBACH, Dr Jeremy MAGALON, Prof Serge MORDON, Prof Maurice Y NAHABEDIAN, Dr Sebastian NISCHWITZ, Dr Alessio REDAELLI, Dr Frank ROSENGAUS, Dr Anthony M ROSSI, Dr Paisal RUMMANEETHORN, Prof Berthold RZANY, Dr Ahmed SADEK, Prof Neil S SADICK, Dr Giovanni SALTI, Prof Raphael SINNA, Dr Atchima SUWANCHINDA, Dr Luiz Eduardo TOLEDO AVELAR, Dr Patrick J TREACY, Dr Sergio VANO GALVAN</p>"
+      },
+      "sofcep": {
+        "title": "SOFCEP",
+        "h3": "Congrès dédié à la chirurgie esthétique, plastique et reconstructrice",
+        "content": "<p>Le <b>congrès de la SOFCEP (Société Française des Chirurgiens Esthétiques Plasticiens)</b> est un rendez-vous clé pour les <b>chirurgiens esthétiques en France</b>. Cet événement rassemble des spécialistes de la chirurgie esthétique pour échanger sur les dernières avancées techniques et innovations dans le domaine. Avec un programme axé sur des conférences scientifiques, des démonstrations en direct et des discussions entre experts, le congrès offre une plateforme privilégiée pour approfondir les compétences et renforcer les collaborations professionnelles au sein de la communauté chirurgicale.</p><p>Comité de direction : Dr Bérengère CHIGNON-SICARD, Dr Flore DELAUNAY, Dr Aurélie FABIE-BOULARD, Dr Jonathan FERNANDEZ, Dr Jean-Pascal FYAD, Dr Nicolas GEORGIEU, Dr Vincent HUNSINGER, Dr Jean-Luc JAUFFRET, Dr Sylvie POIGNONEC, Dr Nathaniel STROUMZA-ESCOFFIER, Dr Gilbert VITALE </p>"
+      }
     },
-    "imcas": {
-      "h2": "Titre H2",
-      "h3": "Titre H3",
-      "content": "Nous sommes ravis de vous dévoiler la seconde édition d’HERITAGE Magazine, votre nouveau rendez-vous incontournable dans l’univers vibrant de la médecine esthétique. Ce magazine annuel a pour objectif de mettre en avant les innovations les plus récentes en matière de produits et de technologies dans le secteur de l’esthétique. Pourquoi HERITAGE ? Parce que nous croyons que le passé de la chirurgie et de la médecine esthétique forme les fondations solides sur lesquelles nous bâtissons le présent et l’avenir. En nous appuyant sur les valeurs de la médecine, nous aspirons à sublimer l’avenir de la profession, en alliant tradition et innovation."
+    "latam": {
+      "baas": {
+        "title": "BAAS à Buenos Aires",
+        "h3": "Congrès dédié à la médecine esthétique ",
+        "content": "<p>Le <b>BAAS (Congrès de la Beauté et de l'Anti-Âge)</b>, organisé par le <b>Dr. Escobar</b>, est un événement incontournable en <b>médecine esthétique</b> qui se tient à <b>Buenos Aires</b>. Ce congrès attire des professionnels de l'esthétique du monde entier, offrant une plateforme pour explorer les dernières innovations et techniques en matière de soins anti-âge. Avec des conférences d'experts, des ateliers pratiques et des démonstrations en direct, le BAAS permet aux participants d’approfondir leurs connaissances et de rester à la pointe des tendances émergentes dans le secteur de la beauté.</p><p>Directeurs : Dr. Sergio Escobar, Dra María José Pelli</p>"
+      },
+      "imcas": {
+        "title": "IMCAS Americas à São Paulo",
+        "h3": "Congrès dédié à la médecine esthétique",
+        "content": "<p>L' <b>IMCAS Americas</b> est un congrès de premier plan en <b>médecine esthétique</b>, qui se déroule à <b>São Paulo</b>. Cet événement rassemble des professionnels de la santé et des experts internationaux pour partager les dernières avancées et techniques en chirurgie esthétique, médecine esthétique et dermatologie. Les participants peuvent s'attendre à un programme riche, comprenant des conférences, des ateliers pratiques et des sessions de démonstration, offrant une occasion unique d'approfondir leurs connaissances et de découvrir les tendances émergentes du secteur. Une plateforme idéale pour renforcer son réseau professionnel dans un cadre dynamique et inspirant.</p><p>Directeurs scientifiques : Dr Hugues CARTIER, Dr Sebastien GARSON</p><p>Comité scientifique : Dr Gustavo Gualberto ABRILE, Dr Valeria CAMPOS, Dr Pier Luigi CANTA, Dr Sergio Omar ESCOBAR, Dr Andre FERRAO VARGAS, Dr Raul FRANCO GONZALEZ, Prof Cesar GONZALEZ ARDILA, Dr Alexandra MORA HERNANDEZ, Dr Carlos ROBERTO ANTONIO, Prof Renato SALTZ, Dr Sergio TALARICO</p>"
+      },
+      "radla": {
+        "title": "RADLA à Punta del Este",
+        "h3": "Congrès dédié à la dermatologie et médecine esthétique",
+        "content": "<p>Le <b>RADLA (Congrès de la Société Récente de Dermatologie et de Médecine Esthétique)</b> se déroule à <b>Punta del Este, Uruguay</b>. Cet événement de renom rassemble des experts et praticiens du secteur pour discuter des dernières avancées en dermatologie et en médecine esthétique. Les participants peuvent s'attendre à un programme riche en conférences, ateliers pratiques et sessions interactives, offrant une plateforme idéale pour approfondir leurs connaissances et échanger des idées. Une opportunité unique de se tenir au courant des innovations et de renforcer son réseau professionnel dans un cadre inspirant.</p><p>Comité scientifique : Dr Mercedes Laporte, Dra Camila Otero, Dra Patricia Levrero</p><p>Comité d'organisation : Dr. Néstor Macedo, Dra Alejandra Larre Borges, Dra Sofía Nicoletti, Dr Carlos Carmona</p>"
+      }
     },
-    "aime": {
-      "h2": "Titre H2",
-      "h3": "Titre H3",
-      "content": "Nous sommes ravis de vous dévoiler la seconde édition d’HERITAGE Magazine, votre nouveau rendez-vous incontournable dans l’univers vibrant de la médecine esthétique. Ce magazine annuel a pour objectif de mettre en avant les innovations les plus récentes en matière de produits et de technologies dans le secteur de l’esthétique. Pourquoi HERITAGE ? Parce que nous croyons que le passé de la chirurgie et de la médecine esthétique forme les fondations solides sur lesquelles nous bâtissons le présent et l’avenir. En nous appuyant sur les valeurs de la médecine, nous aspirons à sublimer l’avenir de la profession, en alliant tradition et innovation."
+    "middleEast": {
+      "icce": {
+        "title": "ICCE en Égypte",
+        "h3": "Congrès dédié à la dermatologie esthétique",
+        "content": "<p>L' <b>ICCE (International Congress on Cosmetic and Clinical Dermatology)</b> est un congrès majeur en <b>dermatologie esthétique</b>, se tenant en <b>Égypte</b>. Cet événement prestigieux réunit des professionnels de la santé, des chercheurs et des leaders d'opinion du secteur pour explorer les dernières innovations et techniques en matière de dermatologie et d'esthétique. Les participants auront l'occasion d'assister à des conférences inspirantes, des ateliers pratiques et des discussions approfondies, favorisant ainsi l'échange de connaissances et le partage d'expertise. Une plateforme essentielle pour se tenir informé des tendances émergentes et élargir son réseau professionnel dans un cadre unique.</p><p>Membres fondateurs : Dr Yasser Hamed, Dr Yasser Gohary, Dr Maha Ezzat, Dr Shady Mahmoud</p><p>Comité scientifique : Dr Mohamed Abozeid, Dr Wael Seoudy, Dr Amr Elnaggary, Dr Amira Salem, Dr Sara Mohy, Dr Shady Ismail, Dr Mahmoud Rageh</p>"
+      },
+      "meidam": {
+        "title": "MEIDAM à Dubaï",
+        "h3": "Congrès dédié à la médecine esthétique et dermatologie",
+        "content": "<p>Le <b>MEIDAM (Middle East International Dermatology and Aesthetic Medicine)</b> est un congrès de référence en <b>médecine esthétique et dermatologie</b>, qui se tient à <b>Dubaï</b>. Cet événement attire des professionnels de la santé du monde entier pour discuter des dernières avancées et innovations dans le domaine de l'esthétique médicale. Les participants auront l'occasion d'assister à des conférences d'experts renommés, de participer à des ateliers pratiques et d'échanger des idées lors de sessions interactives. Une occasion précieuse pour élargir son réseau professionnel et approfondir ses connaissances dans un cadre dynamique et cosmopolite.</p><p>Comité scientifique : Dr Seemal Desai, Prof Henry W. Lim, Prof Menno De Rie, Dr Nellie Konnikov, Prof Stephen Shumack, Dr Atlal Al lafi, Dr Maria-Angeliki Gkini, Dr Iltifat Hamzawi, Prof Jorge Ocampo-Candiani, Prof Aleksandra Lesiak, Dr Homidov Muzzafar Fayzalievich, Asst. Prof Saad Al Talhaab, Dr Sami AlSuwaidan, Dr Maya Muallem, Prof Eslam Tawfik El-Baroudy, Dr Zbigniew Ruszczak, Dr Fathi Al Kasah, Dr Fatimata LY, Dr Hangrae CHO, Dr Shaden Abdelhadi, Dr Shimelis Nigusse Doni, Assoc. Prof. Henry Foong Boon Bee, Dr Tahir T Mohammed, Assoc. Prof. Thamer Fahad Al Mubki, Dr Adil Hamid Hassan Bashir, Dr Akhmed Rakhimov, Dr Zaidoon Mohamed Hussein Abdelhadi, Dr Hangrae Cho</p>"
+      },
+      "dubaiDerma": {
+        "title": "Dubai Derma à Dubaï",
+        "h3": "Congrès dédié à la dermatologie et médecine esthétique",
+        "content": "<p><b>Dubai Derma</b> se positionne comme l'un des principaux congrès en <b>dermatologie et médecine esthétique</b> du Moyen-Orient, se tenant à <b>Dubaï</b>. Cet événement rassemble un large éventail de professionnels, allant des dermatologues aux praticiens esthétiques, pour découvrir les dernières recherches et innovations dans le domaine. Au programme, des présentations captivantes, des études de cas pertinentes et des ateliers spécialisés permettent aux participants de se perfectionner et de rester à l’avant-garde des évolutions du secteur. C'est une plateforme privilégiée pour nouer des contacts, partager des expériences et explorer des opportunités de collaboration au sein d'une communauté internationale dynamique.</p><p>Comité scientifique : Dr Ibrahim GALADARI, Dr Hassan Galadari, Dr Abdul Wahab Al Fouzan, Dr Abdullah Al Eisa, Dr Ahmed Al Waily, Dr Ahmed Al Dhaheri, Dr Ahmed Al Qahtani, Dr Ali Singel, Dr Alia Al Mualla, Dr Amani Abdulla Alfalasi, Dr Ameen Alawadhi, Dr Andre Mattos, Dr Assem Farag, Dr Dhaifallah Alghowairi, Dr Fahad Al Ajmi, Dr Minal Patwardhan, Dr Nawaf Al-Mutairi, Dr Qassim Ahli, Dr Riad Mashal, Dr Salah Al Rubaie, Dr Shaden Abdelhadi, Dr Simil Ahari, Dr Yusra Al Ali, Dr Zbigniew Ruszczak</p>"
+      },
+      "sharmDerma": {
+        "title": "Sharm Derma à Le Caire",
+        "h3": "Congrès dédié à la dermatologie et médecine esthétique",
+        "content": "<p><b>Sharm Derma</b> est un événement essentiel en <b>dermatologie et médecine esthétique</b>, se tenant au <b>Caire, en Égypte</b>. Ce congrès attire des experts, chercheurs et praticiens de divers horizons pour examiner les dernières tendances et innovations dans le domaine de la dermatologie. Avec un programme riche en conférences, ateliers interactifs et études de cas, Sharm Derma offre une occasion précieuse de partager des connaissances et d'explorer de nouvelles techniques. C'est également un moment idéal pour établir des connexions professionnelles et renforcer son réseau au sein d'une communauté engagée, dans un cadre historique et culturel fascinant.</p><p>Comité scientifique : Prof. Assem Farag, Dr Marwa Abdallah, Dr Yehia El-Garem, Dr Hoda Moneib, Khaled Gado, Dr Mahmoud Abdalla, Prof. Mahira El-Sayed, Dr Rehab Hegazy, Dr Shady Mahmoud, Dr Nevine Dorgham, Dr Amin Sharobim, Prof. Heba Gawdet, Dr Hany Aboelwafa, Dr Ahmed Afifi, Dr Mohamed Hussien, Dr Ahmed Elattar, Inas Tadros</p>"
+      }
+    },
+    "asia": {
+      "imcasAsia": {
+        "title": "IMCAS Asia à Bangkok",
+        "h3": "Congrès dédié à la médecine esthétique et dermatologie",
+        "content": "<p><b>IMCAS Asia</b> est un congrès de premier plan en <b>médecine esthétique et dermatologie</b>, qui se déroule à <b>Bangkok</b>. Cet événement réunit des praticiens, chercheurs et leaders d'opinion d'Asie et d'ailleurs pour partager les dernières avancées et innovations dans le domaine. Avec un programme varié comprenant des conférences de haut niveau, des démonstrations pratiques et des ateliers interactifs, les participants auront l’opportunité d’approfondir leurs connaissances et de découvrir de nouvelles techniques. Ce congrès constitue une plateforme dynamique pour établir des connexions professionnelles, échanger des idées et s’informer sur les tendances émergentes dans un environnement stimulant.</p>"
+      },
+      "imcasChina": {
+        "title": "IMCAS China à Shanghai",
+        "h3": "Congrès dédié à la médecine esthétique et dermatologie",
+        "content": "<p><b>IMCAS China</b> est un événement incontournable en <b>médecine esthétique et dermatologie</b>, qui se tient à <b>Shanghai</b>. Ce congrès rassemble des experts de premier plan, des praticiens et des chercheurs pour explorer les dernières innovations et avancées dans le domaine. Les participants pourront profiter d'un programme riche en conférences inspirantes, ateliers pratiques et discussions interactives, favorisant ainsi l'échange de connaissances et de pratiques. C'est une occasion précieuse de se tenir informé des tendances actuelles et d'étendre son réseau professionnel au sein d'une communauté dynamique et en pleine croissance dans un environnement culturel unique.</p>"
+      }
     }
   },
   "Partners": {
@@ -63,7 +159,8 @@
       "displayDoctors": "Vous êtes un médecin ?",
       "displayManufacturers": "Vous êtes un industriel ?",
       "h2Doc": "Vous êtes un médecin",
-      "h3": "Vous souhaitez rédiger un article ?",
+      "h3Doc": "Vous souhaitez rédiger un article ?",
+      "h3Manu": "Vous souhaitez promouvoir une innovation ?",
       "h2Manu": "Vous êtes un industriel",
       "firstname": "Prénom",
       "lastname": "Nom",

@@ -54,6 +54,15 @@ export default function Header(props: Props) {
 
           <li>
             <a
+              href="/fr/meilleurs-congres-medecine-esthetique-chirurgie-plastique"
+              className="font-sfPro font-medium uppercase text-white transition hover:text-orange"
+            >
+              Congrès
+            </a>
+          </li>
+
+          <li>
+            <a
               href="/fr/contact"
               className="font-sfPro font-medium uppercase text-white transition hover:text-orange"
             >
@@ -85,6 +94,14 @@ export default function Header(props: Props) {
               className="font-sfPro font-medium uppercase text-white transition hover:text-orange"
             >
               Publications
+            </a>
+          </li>
+          <li>
+            <a
+              href="/en/top-aesthetic-medicine-plastic-surgery-congresses"
+              className="font-sfPro font-medium uppercase text-white transition hover:text-orange"
+            >
+              Congresses
             </a>
           </li>
           <li>
