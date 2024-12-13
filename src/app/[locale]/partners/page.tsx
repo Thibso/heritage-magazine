@@ -3,7 +3,9 @@ import aime from "@/app/img/congres-aime-partenaire-heritage-magazine.png";
 import sfme from "@/app/img/congres-sfme-partenaire-heritage-magazine.png";
 import header from "@/app/img/Formation-marketing-equipe-laboratoire-pharmaceutique.jpg";
 import healthcie from "@/app/img/healthcie-partenaire-heritage-magazine.png";
+import hydra from "@/app/img/hydrafacial-partner-heritage-magazine-aesthetic.png";
 import imcas from "@/app/img/imcas-congres-partner-heritage-magazine.png";
+import mais from "@/app/img/medical-injectable-summit.png";
 import olivier from "@/app/img/olivier-claire-partenaire-heritage-magazine.png";
 import thinkin from "@/app/img/thinkin-partenaire-heritage-magazine.png";
 import josse from "@/app/img/thomas-josse-partenaire-heritage-magazine.png";
@@ -53,30 +55,45 @@ export default function Partners() {
       </section>
       <section className="myContainer bg-white text-center max-lg:space-y-8">
         <div>
-          <h1 className="h2 text-mainBlue">{t("h2")}</h1>
-          <h2 className="h3 mt-2 lg:mt-4">{t("h3")}</h2>
+          <h1 className="h2 text-mainBlue">{t("distribution")}</h1>
+          <h2 className="h3 mt-2 lg:mt-4">{t("distribution_h3")}</h2>
         </div>
 
-        <div className="grid grid-cols-3 items-center max-w-[1200px] m-auto gap-x-8 lg:gap-x-12 gap-y-8 lg:gap-y-16">
-          <Image src={imcas} alt="" className="m-auto" />
-          <Image src={aime} alt="" className="m-auto" />
-          <Image src={sfme} alt="" className="m-auto" />
-          <Image src={olivier} alt="" className="m-auto" />
-          <Image src={vivacy} alt="" className="m-auto" />
-          <Image src={aerolase} alt="" className="m-auto" />
+        <div className="grid md:grid-cols-5 items-center max-w-[1200px] m-auto gap-x-8 md:gap-x-12 gap-y-8 md:gap-y-16">
+          <Image src={aime} alt="" className="m-auto max-lg:max-w-[150px]" />
+          <Image
+            src={thinkin}
+            alt=""
+            className="m-auto  max-lg:max-w-[150px]"
+          />
+          <Image src={imcas} alt="" className="m-auto max-lg:max-w-[150px]" />
+          <Image src={sfme} alt="" className="m-auto max-lg:max-w-[150px]" />
+          <Image src={mais} alt="" className="m-auto max-lg:max-w-[150px]" />
+        </div>
+      </section>
+
+      <section className="myContainer bg-white pt-0 text-center max-lg:space-y-8">
+        <div>
+          <h1 className="h2 text-mainBlue">{t("partners")}</h1>
+          <h2 className="h3 mt-2 lg:mt-4">{t("partners_h3")}</h2>
+        </div>
+
+        <div className="mt-16 grid grid-cols-2 md:grid-cols-3 items-center max-w-[1200px] m-auto gap-x-8 lg:gap-x-12 gap-y-8 lg:gap-y-16">
+          <Image src={olivier} alt="" className="m-auto w-[188px]" />
+          <Image src={vivacy} alt="" className="m-auto w-[188px]" />
+          <Image src={aerolase} alt="" className="m-auto w-[188px]" />
           <Image
             src={josse}
             alt=""
-            className="m-auto max-h-[70%] object-contain"
+            className="m-auto max-h-[60%] object-contain w-[188px]"
           />
           <Image
             src={healthcie}
             alt=""
-            className="m-auto max-h-[80%] object-contain"
+            className="m-auto max-h-[60%] object-contain w-[188px]"
           />
-          <Image src={thinkin} alt="" className="m-auto" />
+          <Image src={hydra} alt="" className="m-auto w-[250px]" />
         </div>
-        <p className="mt-8">{t("p")}</p>
       </section>
     </main>
   );

@@ -149,9 +149,10 @@
   },
   "Partners": {
     "h1": "Partners",
-    "h2": "Distribution network & partners",
-    "h3": "They trust us",
-    "p": "* Our distribution and partner network is constantly evolving."
+    "distribution": "Distribution network",
+    "distribution_h3": "Our distribution network is constantly evolving",
+    "partners": "Medical device companies partners",
+    "partners_h3": "Our partner network is constantly evolving"
   },
   "Contact": {
     "h1": "Contact",

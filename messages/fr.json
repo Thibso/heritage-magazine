@@ -149,9 +149,10 @@
   },
   "Partners": {
     "h1": "Partenaires",
-    "h2": "Réseau de distribution & partenaires",
-    "h3": "Ils nous font confiance",
-    "p": "* Notre réseau de distribution et de partenaires évolue en permanence."
+    "distribution": "Réseau de distribution",
+    "distribution_h3": "Notre réseau de distribution évolue en permanence",
+    "partners": "Partenaires industriels",
+    "partners_h3": "Notre réseau de partenaires évolue en permanence"
   },
   "Contact": {
     "h1": "Contact",
