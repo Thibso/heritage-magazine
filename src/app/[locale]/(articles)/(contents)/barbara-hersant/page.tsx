@@ -96,13 +96,13 @@ export default function Article() {
           <a
             href="https://www.dr-hersant.fr/"
             target="_blank"
-            title="La marque Olivier Claire"
+            title="Assises pour l'innovation en Médecine Esthétique"
             className="lg:sticky lg:top-[35%] flex flex-col items-center gap-4"
           >
             <Image
               src={logo}
-              alt="Logo Olivier Claire"
-              title="Logo Olivier Claire"
+              alt="Assises pour l'innovation en Médecine Esthétique"
+              title="Assises pour l'innovation en Médecine Esthétique"
               className="size-full max-h-[200px] max-lg:max-w-[450px] object-contain m-auto"
             />
             <span className="lg:hidden text-orange uppercase font-sfPro font-light">

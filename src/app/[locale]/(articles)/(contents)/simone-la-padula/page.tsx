@@ -103,13 +103,13 @@ export default function Article() {
           <a
             href="https://windome-banking.com/fr/"
             target="_blank"
-            title="L'agence Healthcie"
+            title="Pr Simone La Padula"
             className="lg:sticky lg:top-[35%] flex flex-col items-center gap-4"
           >
             <Image
               src={logo}
-              alt="Logo HEALTHCIE"
-              title="Logo HEALTHCIE"
+              alt="Pr Simone La Padula"
+              title="Pr Simone La Padula"
               className="size-full max-h-[350px] max-lg:max-w-[450px] object-contain m-auto"
             />
             <span className="lg:hidden text-orange uppercase font-sfPro font-light">

@@ -90,8 +90,8 @@ export default function Article() {
           >
             <Image
               src={logo}
-              alt="Logo HEALTHCIE"
-              title="Logo HEALTHCIE"
+              alt="Agence Healthcie"
+              title="Agence Healthcie"
               className="size-full max-h-[350px] max-lg:max-w-[450px] object-contain m-auto"
             />
             <span className="lg:hidden text-orange uppercase font-sfPro font-light">

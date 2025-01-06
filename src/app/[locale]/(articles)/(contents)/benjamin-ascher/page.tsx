@@ -85,13 +85,13 @@ export default function Article() {
           <a
             href="https://thinkin.fr/"
             target="_blank"
-            title="La marque Olivier Claire"
+            title="Thinkin - Dr Benjamin Ascher"
             className="lg:sticky lg:top-[35%] flex flex-col items-center gap-4"
           >
             <Image
               src={logo}
-              alt="Logo Olivier Claire"
-              title="Logo Olivier Claire"
+              alt="Thinkin - Dr Benjamin Ascher"
+              title="Thinkin - Dr Benjamin Ascher"
               className="size-full max-lg:max-h-[350px] max-lg:max-w-[450px] object-contain m-auto"
             />
             <span className="lg:hidden text-orange uppercase font-sfPro font-light">

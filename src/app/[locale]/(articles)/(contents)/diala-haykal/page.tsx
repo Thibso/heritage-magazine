@@ -85,12 +85,13 @@ export default function Article() {
           <a
             href="https://hydrafacial.fr/"
             target="_blank"
-            title="L'agence Healthcie"
+            title="Hydrafacial"
             className="lg:sticky lg:top-[35%] flex flex-col items-center gap-4"
           >
             <Image
               src={logo}
-              alt="Logo HEALTHCIE"
+              alt="Hydrafacial"
+              title="Hydrafacial"
               className="size-full max-h-[350px] max-lg:max-w-[450px] object-contain m-auto"
             />
             <span className="lg:hidden text-orange uppercase font-sfPro font-light">
