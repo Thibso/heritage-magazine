@@ -34,6 +34,22 @@ export const routing = defineRouting({
       fr: "/dossier-nivault-hugo-healthcie-preparer-projet-digital-sante",
       en: "/focus-nivault-hugo-healthcie-prepare-digital-healthcare-project",
     },
+    "/diala-haykal": {
+      fr: "/interview-docteur-haykal-diala-hydradermabrasion-hydrafacial",
+      en: "/interview-doctor-haykal-diala-hydradermabrasion-hydrafacial",
+    },
+    "/hugues-cartier": {
+      fr: "/interview-docteurs-cartier-hugues-garson-sebastien-imcas-innovation",
+      en: "/interview-doctors-cartier-hugues-garson-sebastien-imcas-innovation",
+    },
+    "/simone-la-padula": {
+      fr: "/technique-professeur-la-padula-simone-rajeunissement-peri-orbitaire",
+      en: "/technique-professor-la-padula-simone-periorbital-rejuvenation",
+    },
+    "/jean-yves-coste": {
+      fr: "/analyse-coste-jean-yves-marche-medecine-esthetique-exosomes-2025",
+      en: "/analysis-coste-jean-yves-aesthetic-medicine-exosomes-market-2025",
+    },
     "/articles": {
       fr: "/publications-innovations-medecine-esthetique",
       en: "/publications-aesthetic-medicine-innovations",

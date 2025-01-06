@@ -1,9 +1,13 @@
 import Button from "@/app/components/buttons/Button";
 import adda from "@/app/img/doctor-adda-jean-marc-heritage-magazine.jpg";
 import ascher from "@/app/img/doctor-ascher-benjamin-heritage-magazine.jpg";
+import cartier from "@/app/img/doctors-cartier-garson-imcas-interview-heritage-magazine.jpg";
+import diala from "@/app/img/dr-haykal-interview-hydrafacial-heritage-magazine.jpg";
+import coste from "@/app/img/jean-yves-coste-focus-market-overview-heritage-magazine.jpg";
 import hugo from "@/app/img/nivault-hugo-heritage-magazine.jpg";
 import olivier from "@/app/img/olivier-claire-couraud-heritage-magazine.jpg";
 import header from "@/app/img/plastic-surgeons-best-magazine.jpg";
+import lapadula from "@/app/img/pr-la-padula-expertise-heritage-magazine.jpg";
 import barbara from "@/app/img/professor-hersant-barbara-heritage-magazine.jpg";
 import julien from "@/app/img/vervel-julien-heritage-magazine.jpg";
 import { useTranslations } from "next-intl";
@@ -226,6 +230,122 @@ export default function Articles() {
                 src={hugo}
                 alt="Hugo Nivault HERITAGE Magazine"
                 title="Hugo Nivault HERITAGE Magazine"
+                className="max-lg:m-auto w-full max-lg:max-w-[400px] object-contain rounded-sm"
+              />
+            </div>
+          </div>
+
+          <div className="flex flex-col max-lg:gap-6 lg:grid lg:grid-cols-5">
+            <div className="col-span-2">
+              <Image
+                src={coste}
+                alt="Jean-Yves Coste HERITAGE Magazine"
+                title="Jean-Yves Coste HERITAGE Magazine"
+                className="max-lg:m-auto w-full max-lg:max-w-[400px] object-contain rounded-sm"
+              />
+            </div>
+
+            <div className="col-span-3 space-y-6 flex flex-col justify-center md:ml-12 lg:ml-20">
+              <div>
+                <h2 className="font-sfPro font-bold text-2xl lg:text-4xl uppercase">
+                  {t("coste.h2")}
+                </h2>
+                <h3 className="font-sfPro font-normal text-sm lg:text-xl uppercase">
+                  {t("coste.h3")}
+                </h3>
+              </div>
+
+              <p className="text-base">
+                {t.rich("coste.content", {
+                  br: () => <br />,
+                })}
+              </p>
+              <Button link={t("coste.cta_link")}>{t("coste.cta")}</Button>
+            </div>
+          </div>
+
+          <div className="max-lg:flex max-lg:flex-col-reverse max-lg:gap-6 lg:grid lg:grid-cols-5">
+            <div className="col-span-3 space-y-6 flex flex-col justify-center md:mr-12 lg:mr-20">
+              <div>
+                <h2 className="font-sfPro font-bold text-2xl lg:text-4xl uppercase">
+                  {t("diala.h2")}
+                </h2>
+                <h3 className="font-sfPro font-normal text-sm lg:text-xl uppercase">
+                  {t("diala.h3")}
+                </h3>
+              </div>
+
+              <p className="text-base">
+                {t.rich("diala.content", {
+                  br: () => <br />,
+                })}
+              </p>
+              <Button link={t("diala.cta_link")}>{t("diala.cta")}</Button>
+            </div>
+
+            <div className="col-span-2">
+              <Image
+                src={diala}
+                alt="Diala haykal HERITAGE Magazine"
+                title="Diala haykal HERITAGE Magazine"
+                className="max-lg:m-auto w-full max-lg:max-w-[400px] object-contain rounded-sm"
+              />
+            </div>
+          </div>
+
+          <div className="flex flex-col max-lg:gap-6 lg:grid lg:grid-cols-5">
+            <div className="col-span-2">
+              <Image
+                src={cartier}
+                alt="Hugues Cartier et Sébastien Garson HERITAGE Magazine"
+                title="Hugues Cartier et Sébastien Garson HERITAGE Magazine"
+                className="max-lg:m-auto w-full max-lg:max-w-[400px] object-contain rounded-sm"
+              />
+            </div>
+
+            <div className="col-span-3 space-y-6 flex flex-col justify-center md:ml-12 lg:ml-20">
+              <div>
+                <h2 className="font-sfPro font-bold text-2xl lg:text-4xl uppercase">
+                  {t("cartier.h2")}
+                </h2>
+                <h3 className="font-sfPro font-normal text-sm lg:text-xl uppercase">
+                  {t("cartier.h3")}
+                </h3>
+              </div>
+
+              <p className="text-base">
+                {t.rich("cartier.content", {
+                  br: () => <br />,
+                })}
+              </p>
+              <Button link={t("cartier.cta_link")}>{t("cartier.cta")}</Button>
+            </div>
+          </div>
+
+          <div className="max-lg:flex max-lg:flex-col-reverse max-lg:gap-6 lg:grid lg:grid-cols-5">
+            <div className="col-span-3 space-y-6 flex flex-col justify-center md:mr-12 lg:mr-20">
+              <div>
+                <h2 className="font-sfPro font-bold text-2xl lg:text-4xl uppercase">
+                  {t("lapadula.h2")}
+                </h2>
+                <h3 className="font-sfPro font-normal text-sm lg:text-xl uppercase">
+                  {t("lapadula.h3")}
+                </h3>
+              </div>
+
+              <p className="text-base">
+                {t.rich("lapadula.content", {
+                  br: () => <br />,
+                })}
+              </p>
+              <Button link={t("lapadula.cta_link")}>{t("lapadula.cta")}</Button>
+            </div>
+
+            <div className="col-span-2">
+              <Image
+                src={lapadula}
+                alt="Simone La Padula HERITAGE Magazine"
+                title="Simone La Padula HERITAGE Magazine"
                 className="max-lg:m-auto w-full max-lg:max-w-[400px] object-contain rounded-sm"
               />
             </div>

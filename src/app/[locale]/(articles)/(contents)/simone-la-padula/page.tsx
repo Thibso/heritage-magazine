@@ -1,6 +1,6 @@
 import Button from "@/app/components/buttons/Button";
-import header from "@/app/img/articles/julien_vervel/Julien-vervel-consultant-médical-laboratoires.jpg";
 import logo from "@/app/img/articles/julien_vervel/agence-web-communicationmedecin-paris.png";
+import header from "@/app/img/articles/simone_lapadula/la-padula-simone-professor-plastic-surgery-heritage.jpg";
 import { useTranslations } from "next-intl";
 import Image from "next/image";
 
@@ -12,23 +12,41 @@ export async function generateMetadata({ params }: Params) {
   const locale = params.locale;
   if (locale === "en") {
     return {
-      title: "Vervel Julien | Focus on medical E-réputation | HERITAGE",
+      title: "Pr La Padula | Periorbital Rejuvenation Technique",
       description:
-        "Discover Julien Vervel's exclusive report on the foundations of medical e-reputation. (H)ERITAGE Magazine",
+        "Discover Professor La Padula's technique for periorbital rejuvenation in plastic surgery. (H)ERITAGE Magazine",
     };
   } else if (locale === "fr") {
     return {
-      title: "Vervel Julien | Dossier sur l'E-réputation Médicale | HERITAGE",
+      title: "Pr La Padula | La Technique du Rajeunissement Péri-orbitaire",
       description:
-        "Découvrez en exclusivité le dossier de Julien Vervel sur les fondements de l’e-réputation médicale. (H)ERITAGE Magazine",
+        "Découvrez la technique du Pr La Padula sur le rajeunissement péri-orbitaire en chirurgie esthétique. (H)ERITAGE Magazine",
     };
   }
 }
 
 export default function Article() {
-  const t = useTranslations("Articles.Julien_Vervel");
+  const t = useTranslations("Articles.Simone_La_Padula");
   const tags = ["t1"] as const;
-  const contents = ["p1", "p2", "p3"] as const;
+  const contents = [
+    "p1",
+    "p2",
+    "p3",
+    "p4",
+    "p5",
+    "p6",
+    "p7",
+    "p8",
+    "p9",
+    "p10",
+    "p11",
+    "p12",
+    "p13",
+    "p14",
+    "p15",
+    "p16",
+    "p17",
+  ] as const;
   return (
     <div>
       <section className="myContainer lg:space-x-16 full-screen max-lg:flex max-lg:flex-col-reverse max-lg:gap-10 lg:grid lg:grid-cols-5 text-mainBlue">
@@ -67,7 +85,7 @@ export default function Article() {
             </div>
 
             <div>
-              <Button link="https://www.healthcie.fr/" target="_blank">
+              <Button link="https://windome-banking.com/fr/" target="_blank">
                 {t("cta_text")}
               </Button>
             </div>
@@ -83,7 +101,7 @@ export default function Article() {
         {/* Pub */}
         <div className="col-span-2">
           <a
-            href="https://www.healthcie.fr/"
+            href="https://windome-banking.com/fr/"
             target="_blank"
             title="L'agence Healthcie"
             className="lg:sticky lg:top-[35%] flex flex-col items-center gap-4"
@@ -107,11 +125,54 @@ export default function Article() {
               <h3 className="font-sfPro font-semibold text-base lg:text-lg">
                 {t(`${key}.title`)}
               </h3>
-              <p className="font-sfPro font-light text-base">
-                {t.rich(`${key}.content`, {
-                  br: () => <br />,
-                })}
-              </p>
+              {t.rich(`${key}.content`, {
+                br: () => <br />,
+                p: (chunk) => (
+                  <p className="font-sfPro font-light text-base">{chunk}</p>
+                ),
+                b: (chunk) => (
+                  <strong className="font-sfPro font-bold text-base">
+                    {chunk}
+                  </strong>
+                ),
+                h4: (chunk) => (
+                  <h4 className="font-sfPro font-bold text-base">{chunk}</h4>
+                ),
+                ul: (chunk) => (
+                  <ul className="font-sfPro font-light text-base list-disc ml-6">
+                    {chunk}
+                  </ul>
+                ),
+                ol: (chunk) => (
+                  <ol className="font-sfPro font-light text-base list-decimal ml-6">
+                    {chunk}
+                  </ol>
+                ),
+                li: (chunk) => <li>{chunk}</li>,
+                imgContainer: (chunk) => (
+                  <div className="grid grid-cols-3 gap-x-4">{chunk}</div>
+                ),
+                divImg: (chunk) => <div className="space-y-4">{chunk}</div>,
+                pImg: (chunk) => (
+                  <p className="font-sfPro font-light text-sm">{chunk}</p>
+                ),
+                img: (chunk) => (
+                  <Image
+                    src={chunk!.toString()}
+                    alt=""
+                    width={250}
+                    height={250}
+                  />
+                ),
+                bigImg: (chunk) => (
+                  <Image
+                    src={chunk!.toString()}
+                    alt=""
+                    width={1080}
+                    height={450}
+                  />
+                ),
+              })}
             </div>
           ))}
         </div>

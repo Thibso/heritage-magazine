@@ -113,6 +113,50 @@ export default function sitemap(): MetadataRoute.Sitemap {
       },
     },
     {
+      url: "https://magazine-heritage.com/jean-yves-coste",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/analyse-coste-jean-yves-marche-medecine-esthetique-exosomes-2025",
+          en: "https://magazine-heritage.com/en/analysis-coste-jean-yves-aesthetic-medicine-exosomes-market-2025",
+        },
+      },
+    },
+    {
+      url: "https://magazine-heritage.com/diala-haykal",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/interview-docteur-haykal-diala-hydradermabrasion-hydrafacial",
+          en: "https://magazine-heritage.com/en/interview-doctor-haykal-diala-hydradermabrasion-hydrafacial",
+        },
+      },
+    },
+    {
+      url: "https://magazine-heritage.com/hugues-cartier",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/interview-docteurs-cartier-hugues-garson-sebastien-imcas-innovation",
+          en: "https://magazine-heritage.com/en/interview-doctors-cartier-hugues-garson-sebastien-imcas-innovation",
+        },
+      },
+    },
+    {
+      url: "https://magazine-heritage.com/simone-la-padula",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/technique-professeur-la-padula-simone-rajeunissement-peri-orbitaire",
+          en: "https://magazine-heritage.com/en/technique-professor-la-padula-simone-periorbital-rejuvenation",
+        },
+      },
+    },
+    {
       url: "https://magazine-heritage.com/articles",
       lastModified: new Date(),
       priority: 0.8,

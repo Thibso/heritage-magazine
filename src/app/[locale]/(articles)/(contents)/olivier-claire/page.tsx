@@ -29,7 +29,7 @@ export async function generateMetadata({ params }: Params) {
 
 export default function Aricle() {
   const t = useTranslations("Articles.Olivier_Claire");
-  const tags = ["t1", "t2", "t3"] as const;
+  const tags = ["t1"] as const;
   const contents = ["p1", "p2", "p3", "p4", "p5", "p6"] as const;
   return (
     <div>

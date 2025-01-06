@@ -27,7 +27,7 @@ export async function generateMetadata({ params }: Params) {
 
 export default function Article() {
   const t = useTranslations("Articles.Barbara_Hersant");
-  const tags = ["t1", "t2", "t3"] as const;
+  const tags = ["t1", "t2"] as const;
   const contents = [
     "p1",
     "p2",

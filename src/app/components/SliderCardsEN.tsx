@@ -5,7 +5,11 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import hugo from "../img/antiage-magazine-heritage-sante-innovation.jpg";
 import aerolase from "../img/article-heritage-magazine-aerolase.jpg";
 import ascher from "../img/article-heritage-magazine-benjamin-ascher.jpg";
+import cartier from "../img/article-heritage-magazine-doctors-cartier-garson-imcas.jpg";
+import coste from "../img/article-heritage-magazine-jean-yves-coste-market-overview.jpg";
 import claire from "../img/article-heritage-magazine-olivier-claire.jpg";
+import lapadula from "../img/article-heritage-magazine-professor-la-padula.jpg";
+import haykal from "../img/doctor-haykal-hydrafacial-article-heritage-magazine.jpg";
 import julien from "../img/magazine-heritage-innovation-sante.jpg";
 import barbara from "../img/pr-hersant-barbara-magazine-heritage.jpg";
 
@@ -54,6 +58,31 @@ export default function SliderCards() {
       alt: "Hugo Nivault - (H)ERITAGE Magazine",
       title: "Hugo Nivault",
       link: "/en/focus-nivault-hugo-healthcie-prepare-digital-healthcare-project",
+    },
+    ,
+    {
+      img: coste,
+      alt: "Jean-Yves Coste - (H)ERITAGE Magazine",
+      title: "Jean-Yves Coste",
+      link: "/en/analysis-coste-jean-yves-aesthetic-medicine-exosomes-market-2025",
+    },
+    {
+      img: haykal,
+      alt: "Dr. Diala Haykal - (H)ERITAGE Magazine",
+      title: "Dr. Diala Haykal",
+      link: "/en/interview-doctor-haykal-diala-hydradermabrasion-hydrafacial",
+    },
+    {
+      img: cartier,
+      alt: "Dr. Cartier et Dr. Garson - (H)ERITAGE Magazine",
+      title: "Dr. Cartier and Dr. Garson",
+      link: "/en/interview-doctors-cartier-hugues-garson-sebastien-imcas-innovation",
+    },
+    {
+      img: lapadula,
+      alt: "Dr. Simone La Padula - (H)ERITAGE Magazine",
+      title: "Dr. Simone La Padula",
+      link: "/en/technique-professor-la-padula-simone-periorbital-rejuvenation",
     },
   ];
 

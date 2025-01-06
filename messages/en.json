@@ -42,7 +42,7 @@
       "seme": {
         "title": "SEME in Malaga",
         "h3": "Congress dedicated to innovations in aesthetic medicine",
-        "content": "<p>The SEME Congress, organised by the Spanish Society of Aesthetic Medicine, is one of the major events for professionals in the sector. Held in Malaga, the event brings together international experts to explore the latest innovations in aesthetic medicine. The programme includes high-level conferences, practical workshops and discussions on the technological and scientific advances that are shaping the future of aesthetic medicine. A valuable opportunity to exchange ideas and expand your professional network in a dynamic and inspiring setting.</p><p><b>National Scientific Committee:</b> Dr. Juan Antonio López, Dra. Petra Mª Vega, Prof. José R. Cabo, Prof. Andreu Palou, Dra. Mª Carmen López, Dr. José Folch, Dra. Paloma Tejero, Prof. Joaquín Fernández-Crehuet, Dr. José Serres, Dr. Julián Conejo MIr, Dra. Virginia Benítez, Dra. Sofía Ruiz Del Cueto, Dr. Justo Alcolea, Dra. Maya Gracia, Dr. Eduardo Gil, Dr. Hernán Pinto, Dr. José A. Flórez, Dra. Rosa del Río, Dr. Jesús Benito, Dr. Alfredo Fernández, Dr. Álvaro Moreno, Dra. Cristina Ruiz, Dr. Carlos Fajardo, Dr. Gorka Martínez</p><p><b>International Scientific Committee:</b> Dra. Blanca Miller, Dr. Alberto Elbaum, Dr. Emanuele Bartoletti, Dr. Michael Delune, Dr. Jean Jacques Legrand, Dr. Jean J. Hèbrant, Dr. Joao Vale</p>"
+        "content": "<p>The SEME Congress, organised by the Spanish Society of Aesthetic Medicine, is one of the major events for professionals in the sector. Held in Malaga, the event brings together international experts to explore the latest innovations in aesthetic medicine. The programme includes high-level conferences, practical workshops and discussions on the technological and scientific advances that are shaping the future of aesthetic medicine. A valuable opportunity to exchange ideas and expand your professional network in a dynamic and inspiring setting.</p><p><p><b>National Scientific Committee:</b> Dr. Juan Antonio López, Dra. Petra Mª Vega, Prof. José R. Cabo, Prof. Andreu Palou, Dra. Mª Carmen López, Dr. José Folch, Dra. Paloma Tejero, Prof. Joaquín Fernández-Crehuet, Dr. José Serres, Dr. Julián Conejo MIr, Dra. Virginia Benítez, Dra. Sofía Ruiz Del Cueto, Dr. Justo Alcolea, Dra. Maya Gracia, Dr. Eduardo Gil, Dr. Hernán Pinto, Dr. José A. Flórez, Dra. Rosa del Río, Dr. Jesús Benito, Dr. Alfredo Fernández, Dr. Álvaro Moreno, Dra. Cristina Ruiz, Dr. Carlos Fajardo, Dr. Gorka Martínez</p><p><b>International Scientific Committee:</b> Dra. Blanca Miller, Dr. Alberto Elbaum, Dr. Emanuele Bartoletti, Dr. Michael Delune, Dr. Jean Jacques Legrand, Dr. Jean J. Hèbrant, Dr. Joao Vale</p>"
       },
       "bts": {
         "title": "BTS in Stockholm",
@@ -228,9 +228,37 @@
     },
     "hugo": {
       "h2": "HOW TO PREPARE YOUR DIGITAL PROJECT",
-      "h3": "with Hugo Nivault, Digital Project Manager",
+      "h3": "With Hugo Nivault, Digital Project Manager",
       "content": "To get started in the digital world, and to make sure you're visible, it's essential to build a website. It's the cornerstone of any digital communications strategy. The aim is not simply to have an online presence, but to be visible and engaging to potential patients.",
       "cta_link": "/en/focus-nivault-hugo-healthcie-prepare-digital-healthcare-project",
+      "cta": "Read article"
+    },
+    "coste": {
+      "h2": "MARKET OVERVIEW",
+      "h3": "BY Jean-Yves Coste",
+      "content": "The global exosomes market reached US$ 500m in 2024, with 60% for diagnostics and 40% for therapeutics with a gradual shift of the center of gravity towards therapeutics with an initial focus on cardiovascular, metabolic, oncological, respiratory and anti-inflammatory areas but are now augmenting their impact on age-related dermatological pathologies. It is scheduled to explode to US$ 3bn by 2030, eg a 28% Compounded Annual Growth Rate.",
+      "cta_link": "/en/analysis-coste-jean-yves-aesthetic-medicine-exosomes-market-2025",
+      "cta": "Read article"
+    },
+    "diala": {
+      "h2": "THE SKINCARE & INNOVATION ALLIANCE",
+      "h3": "By Dr Diala Haykal",
+      "content": "In her daily practice, Dr. Haykal collaborates with renowned experts, integrating innovative treatments that push the boundaries of aesthetic medicine. Her mission? To inspire others by proving that determination and continuous learning are the keys to excellence in this ever-evolving field.",
+      "cta_link": "/en/interview-doctor-haykal-diala-hydradermabrasion-hydrafacial",
+      "cta": "Read article"
+    },
+    "cartier": {
+      "h2": "WORKING TOGETHER TO DRIVE INNOVATION",
+      "h3": "By Dr Hugues Cartier & Dr Sébastien Garson",
+      "content": "Dr Hugues Cartier is a dermatologist at a medical centre with a clinical studies department, assisted by a team of young dermatologists. He is also an Associate Hospital Practitioner at the Centre Hospitalier d’Arras. Dr Sébastien Garson is a plastic surgeon practising in Senlis. A former president of the SOFCEP (Société Française des Chirurgiens Esthétiques Plasticiens), he is currently vice-president of the SNCPRE (Syndicat National de Chirurgie Plastique Reconstructrice et Esthétique) and president of Plastirisq.",
+      "cta_link": "/en/interview-doctors-cartier-hugues-garson-sebastien-imcas-innovation",
+      "cta": "Read article"
+    },
+    "lapadula": {
+      "h2": "A NEW APPROACH TO REJUVENATION",
+      "h3": "By Pr Simone La Padula",
+      "content": "Periorbital rejuvenation is among the most sought-after procedures in cosmetic surgery. Patients often focus their attention on the eyelids, without considering that the aging process of the periorbital region results from a combination of multiple interconnected factors.",
+      "cta_link": "/en/technique-professor-la-padula-simone-periorbital-rejuvenation",
       "cta": "Read article"
     }
   },
@@ -242,13 +270,7 @@
       "cta_text": "Discover the brand",
       "tags": {
         "t1": {
-          "title": "cosmétique"
-        },
-        "t2": {
-          "title": "esthétique"
-        },
-        "t3": {
-          "title": "médecine"
+          "title": "Cosmetology"
         }
       },
       "img_alt": "Olivier Claire portrait",
@@ -284,13 +306,10 @@
       "cta_text": "Discover Pr. Hersant",
       "tags": {
         "t1": {
-          "title": "cosmétique"
+          "title": "Plastic surgery"
         },
         "t2": {
-          "title": "esthétique"
-        },
-        "t3": {
-          "title": "médecine"
+          "title": "Aesthetic medicine"
         }
       },
       "img_alt": "Pr. Barbara portrait",
@@ -342,13 +361,7 @@
       "cta_text": "Discover Aerolase",
       "tags": {
         "t1": {
-          "title": "cosmétique"
-        },
-        "t2": {
-          "title": "esthétique"
-        },
-        "t3": {
-          "title": "médecine"
+          "title": "Aesthetic medicine"
         }
       },
       "img_alt": "Dr Adda portrait",
@@ -380,13 +393,7 @@
       "cta_text": "Discover HEALTHCIE Agency",
       "tags": {
         "t1": {
-          "title": "cosmétique"
-        },
-        "t2": {
-          "title": "esthétique"
-        },
-        "t3": {
-          "title": "médecine"
+          "title": "Practice management"
         }
       },
       "img_alt": "Hugo Nivault portrait",
@@ -406,13 +413,7 @@
       "cta_text": "Discover ThinkIn",
       "tags": {
         "t1": {
-          "title": "cosmétique"
-        },
-        "t2": {
-          "title": "esthétique"
-        },
-        "t3": {
-          "title": "médecine"
+          "title": "Aesthetic medicine"
         }
       },
       "img_alt": "Dr. Benjamin Ascher portrait",
@@ -452,13 +453,7 @@
       "cta_text": "Discover HEALTHCIE Agency",
       "tags": {
         "t1": {
-          "title": "cosmétique"
-        },
-        "t2": {
-          "title": "esthétique"
-        },
-        "t3": {
-          "title": "médecine"
+          "title": "Practice management"
         }
       },
       "img_alt": "Julien Vervel portrait",
@@ -473,6 +468,209 @@
       "p3": {
         "title": "3 Key points for managing your E-reputation:",
         "content": "In a world where information is easily accessible online, patients often turn to Internet to search for medical information and opinions on healthcare professionals. A solid E-reputation, based on positive reviews and a professional online presence, can boost patient confidence and encourage them to choose your practice.<br></br><br></br> 1) Monitoring: keep an eye on what’s being said about you<br></br> The first step in managing your e-reputation is to actively monitor what is being said about you online. This includes patient reviews, mentions on social networks and press articles. Online monitoring tools can help you stay informed about what is being said about your practice.<br></br><br></br> 2) Transparency and responsiveness<br></br> Transparency is essential in managing your E-reputation. Be prepared to respond to patients’ opinions, whether positive or negative, always respecting professional confidentiality. Adopting a listening stance in your responses will show that you are taking patients’ concerns into account and that you are open to communication.<br></br><br></br> 3) Creating positive content<br></br> Whether it’s to liven up your social networks or your website, creating positive content online is a poweful way of managing your E-reputation in the medium and long term. Publish articles, videos and high value-added medical information to promote therapeutic patient education. This will reinforce your expertise while highlighting your practice. By providing useful and relevant information, you can develop your influence in your speciality.<br></br><br></br> E-reputation management is clearly a new deal for healthcare professionals. In our ultraconnected world, it has a direct impact on patient confidence, their choice of healthcare professional and the development of your career."
+      }
+    },
+    "Jean_Yves_Coste": {
+      "h1": "MARKET OVERVIEW",
+      "abstract": "THE EXOSOMES MARKET",
+      "author": "BY Jean-Yves Coste",
+      "cta_text": "Discover WINDOME BANKING PARTNERS",
+      "tags": {
+        "t1": {
+          "title": "Market Analysis"
+        }
+      },
+      "img_alt": "Jean-Yves Coste portrait",
+      "p1": {
+        "title": "Jean-Yves Coste",
+        "content": "<p>Jean-Yves Coste is Co-founder, Partner and Chairman of WINDOME BANKING PARTNERS.<br></br><br></br> He has over 30 years’ experience in healthcare investment banking and in executive positions in corporate environments.<br></br><br></br> Prior to co-founding WINDOME BANKING PARTNERS, he was Senior Healthcare Director at Michel Dyens & Co, a Franco-American investment bank specialising in cross-border M&A, capital raising and partnerships, covering sectors such as specialty generics, biotechnology, prophylactic and therapeutic vaccines, medtech, digital health and regenerative medicine. From 2008 to 2010, he was Senior M&A Adviser at Bryan, Garnier, an investment bank specialising in the healthcare, media, luxury goods and technology sectors. Prior to that, he headed up Cowen’s European healthcare investment banking business in London, strengthening the company’s healthcare franchise in Europe. In 2003, he joined the Big Pharma Boehringer Ingelheim to head up the M&A department, gaining first-hand expertise with the world’s top 20 pharmaceutical companies.<br></br><br></br> His investment banking career began at Deutsche Bank in Frankfurt in 1996, where he specialised in the pharmaceutical and biotech sectors. Between 2000 and 2003, he joined Deutsche Bank Securities in New York, a pioneer in the execution of cross-border M&A transactions in the fields of life sciences, molecular diagnostics, genomics and genetic medicine. He has accumulated recognised expertise in transactions focused on the prevention, therapy and management of age-related chronic degenerative diseases, as well as in aesthetic and regenerative medicine.<br></br><br></br> He worked notably on such major transactions such as BloomageRevitacare, Bridgepoint-Vivacy, MatexLab-Abris Capital, Suisselle-Sihuan Pharma Partnership, Delife-Menarini,  Croma US-JV with Hugel Corp, and MatexLab’s entry into licensing partnership with a Chinese Aesthetics player, as well as co-advising private equity funds in the development of their aesthetic and dermatological care franchises.<br></br><br></br> Since 2012, he is a Speaker at IMCAS’ World Industry Tribune, where he presents M&amp;A and valuation trends in aesthetic medicine, the American Aesthetic Innovation Summit (AIS), the Global Virtual Aesthetic Summit (GVAS), the Assises de l’Innovation en Medecine Esthétique (AIME) as well as the Thinkin Injectable Summit aunched by Dr. Benjamin Ascher in October 2024.<br></br><br></br> A graduate of HEC Paris with a specialisation in Finance, Jean-Yves Coste also holds an MBA from INSEAD, specialising in investment banking.</p>"
+      },
+      "p2": {
+        "title": "Exosomes",
+        "content": "<p>Exosomes, extracellular vesicles that facilitate intercellular communication, are gaining significant traction in regenerative medical aesthetics. Known for their ability to repair tissue, stimulate collagen and elastin synthesis, reconstruct the dermal-epidermal juncture and accelerate the mitochondrial activity of the cell, thus promoting skin rejuvenation, exosomes are becoming a cornerstone of non-invasive aesthetic treatments.<br></br><br></br> Their ultrasmall size (30 to 150 nanometers) facilitates the penetration of the stratum corneum and their targeted delivery as tissular inductors.<br></br><br></br>  Plant Derived Exosomes offer unique morphological and compositional characteristics as natural nanocarriers at the core of intercellular cross-talk. They can exercise a biotherapeutic role by elucidating their immunological modulating, anti-tumor, regenerative, and anti-inflammatory roles.<br></br><br></br> Plant exosomes have superior plasticity enabling them to reengineer nanovesicles into robust, innocuous, and non-immunogenic nanovectors for drug delivery through multiple stringent biological hindrances to various targeted organs such as the intestine and the brain.<br></br><br></br> The global exosomes market reached US$ 500m in 2024, with 60% for diagnostics and 40% for therapeutics with a gradual shift of the center of gravity towards therapeutics with an initial focus on cardiovascular, metabolic, oncological, respiratory and anti-inflammatory areas but are now augmenting their impact on age-related dermatological pathologies. It is scheduled to explode to US$ 3bn by 2030, eg a 28% Compounded Annual Growth Rate.</p>"
+      },
+      "p3": {
+        "title": "Market Breakdown by Regions",
+        "content": "<h4>A. North America</h4> <p>It dominates the exosomes market, thanks to its advanced healthcare infrastructure, robust biotechnology ecosystem, and growing demand for aesthetic treatments. The U.S. leads this region, (ca US$ 250m revenues in 2024) driven by early adoption of innovative technologies and high disposable incomes followed by Canada.</p><h4>B. Europe</h4> <p>Europe represents the second-largest market, fueled by innovation and consumer interest in minimally invasive procedures. Countries such as Germany, the UK, and France are key players, with a strong emphasis on research and development. Southern European nations are benefiting from the rising popularity of medical tourism, although stringent regulatory frameworks can slow market entry for new products.</p><h4>C. Asia-Pacific (APAC) (this is probably the next most important region)</h4> <p>Is experiencing the fastest growth, driven by high demand for aesthetic procedures in South Korea, Japan, and China. South Korea leads the charge with its advanced cosmetic industry and adoption of regenerative treatments, but China is catching up. Chinese National Development and Reform Commission (NDRC) issued the “14th Five-Year Plan for Biological Economy Development”, in which “exosomal therapeutic products” entered the national economic development plan for the first time; exosomes were mentioned again in “Biological Economy Innovation Capability Enhancement Project” and in “Biological Economy Innovation Capability Enhancement Project”, “Exosome Therapeutic Products” and has become a recurrent leitmotiv in the “14th Five-Year Plan for Biological Economy Development” .Growing disposable incomes and the expansion of medical tourism in India, Indonesia and Thailand also support market growth.</p><h4>D. Latin America</h4> <p>Latin America is an emerging market, with Brazil and Mexico leading the way. These countries have a strong culture of aesthetic procedures and attract medical tourists due to affordable treatments. However, economic instability and limited access to advanced technologies may constrain growth in some parts of the region.</p><h4>E. Middle East and Africa (MEA)</h4> <p>The MEA region, particularly Turkey as a medical aesthetic hub and the Gulf Cooperation Council (GCC) countries, is beginning to adopt exosome-based therapies. Investments in healthcare infrastructure and rising interest in medical tourism are driving market growth, especially in the UAE. However, challenges such as limited awareness and underdeveloped medical systems in parts of Africa remain barriers to expansion.</p>"
+      },
+      "p4": {
+        "title": "Growth Drivers",
+        "content": "<ul><li>Demand for Non-Invasive Treatments: Patients increasingly prefer non-surgical aesthetic procedures, and exosome-based therapies offer effective, low-risk solutions for skin rejuvenation.</li><li>Advances in Biotechnology: Innovations in exosome isolation and delivery methods enhance their efficacy and accessibility.</li><li>Aging Population: Fueling demand for regenerative solutions that improve skin quality and appearance.</li><li>Combined therapies with RF Microneedling, High Intensity Focused Ultrasound, or Low Level Laser Devices.</li></ul>"
+      },
+      "p5": {
+        "title": "Opportunities",
+        "content": "<ul><li>Expanding Applications: Exosomes have potential uses beyond skin rejuvenation, including hair restoration and scar revision, offering new revenue streams.</li><li>Medical Tourism: Affordable, high-quality treatments in regions like Asia-Pacific and Latin America can attract international patients.</li><li>Partnerships between biotech firms, clinics, and scientific societies such as the London Regenerative Institutes, Mayo Clinic, or the MIT can accelerate product development and market entry.</li><li>Harnessing the massive upside potential in beauty and regenerative, anti-ageing ingestible as demonstrated in hair regrowth with the explosive success of Nutrafol as a hair regrowth exosome-based product.</li><li>New technologies enabling to improve safety and purity profiles such as hybridization when extracting animal-derived exosomes (e.g., Morphiya).</li></ul>"
+      },
+      "p6": {
+        "title": "Challenges",
+        "content": "<ul><li>High Costs: The complexity of manufacturing exosomes makes treatments expensive, still limiting broad accessibility.</li><li>Regulatory Barriers: Inconsistent and evolving regulations delay approvals and market entry.</li><li>Complexity in designing, developing and scaling up the manufacturing of the next Holy Grail in regenerative medicine synthetic recombinant exosomes.</li><li>Safety and Ethical Concerns: Long-term safety data and ethical sourcing practices are needed to build consumer trust.</li><li>Competition: Exosome therapies face competition from established aesthetic treatments like botulinum toxins and dermal fillers.</li></ul>"
+      },
+      "p7": {
+        "title": "Conclusion",
+        "content": "<p>The exosomes market in regenerative aesthetics promises strong growth, driven by innovation and increasing demand. Despite certain challenges, their combination with technologies such as lasers and radiofrequency paves the way for transformative and personalised results.</p>"
+      }
+    },
+    "Hugues_Cartier": {
+      "h1": "WORKING TOGETHER TO DRIVE INNOVATION",
+      "abstract": "WORKING TOGETHER TO DRIVE INNOVATION",
+      "author": "By Dr Hugues Cartier & Dr Sébastien Garson",
+      "cta_text": "Discover IMCAS congress",
+      "tags": {
+        "t1": {
+          "title": "Plastic surgery"
+        },
+        "t2": {
+          "title": "Aesthetic medicine"
+        }
+      },
+      "img_alt": "Hugues Cartier and Sébastien Garson portrait",
+      "p1": {
+        "title": "Dr Hugues Cartier & Dr Sébastien Garson",
+        "content": "<p>Dr Hugues Cartier is a dermatologist at a medical centre with a clinical studies department, assisted by a team of young dermatologists. He is also an Associate Hospital Practitioner at the Centre Hospitalier d’Arras.</p><p>A former president of the French Society of Lasers in Dermatology, he is currently vice-president of the French Society of Aesthetic Medicine and a member of the EADV and the Royal Society of Medicine. He is also Scientific Director of the IMCAS congresses, a major event in dermatology and aesthetic medicine.</p><p>Dr Sébastien Garson is a plastic surgeon practising in Senlis. A former president of the SOFCEP (Société Française des Chirurgiens Esthétiques Plasticiens), he is currently vice-president of the SNCPRE (Syndicat National de Chirurgie Plastique Reconstructrice et Esthétique) and president of Plastirisq.</p><p>He is a member of ISAPS, ASPS, SOFCEP and SOFCPRE. He is also Scientific Director of IMCAS.</p>"
+      },
+      "p2": {
+        "title": "Could you tell us about the origins of your vocation for your respective specialities? Was there a defining moment or a particular event that triggered this passion?",
+        "content": "<p><b>HC:</b> The combination of a father who is a dermatologist and a founding member of the International Society of Dermatologic Surgery, and a pillar of the SFME from the outset, and a mother who is a doctor of history, gave me the desire to create and the desire to pass on.</p> <p><b>SG:</b> My father was a fighter pilot, so perhaps I had a taste for calculated risks, and my mother was a dentist, for accuracy.</p> <p><b>HC & SG:</b> It’s classic to say that you mustn’t forget your past in order to build your future, but in our respective cases, it makes sense.</p>"
+      },
+      "p3": {
+        "title": "You are now co-scientific directors of IMCAS. What does this mean to you? And how do your specialities (dermatology and plastic surgery) complement each other in your work at IMCAS?",
+        "content": "<p><b>HC:</b> In 2019, when Benjamin Ascher and Sonia Ascher asked me to become scientific coordinator, I was incredulous. Even though I had been president of the laser group (SFLD), then vice-president of the SFME, I remained in the national sphere. I’ve known Benjamin for more than 20 years and he was one of the first to pass me the microphone so that he could work on an international scale. You never forget that.<br></br> For the record, my first presentation was in French and even though IMCAS wasn’t what it is today ... not many people understood me at the time. My English has improved a little and I reassure myself that Frenglish has its charm. I didn’t know Sébastien, I had no idea of his character or his ideas, but I have to say that for almost 5 years there has been respect and friendship. We’ve gone from 9,000 doctors in Paris to almost 20,000, so I guess the chemistry works. But this desire to do well is possible because there’s an IMCAS team that does a crazy job with and for us. The team has been overhauled in recent years, with young, multilingual people who have the desire and the pillars who stabilise the machine.</p> <p><b>SG:</b> I had just left the presidency of SOFCEP to become president of the plastic surgeons’ union. So it was an opportunity to discover new horizons. Twenty years of working alongside Benjamin creates a bond. And I took one of his many pieces of advice and joined the anatomy laboratory at Le Fer à Moulin. When you see the success of the anatomy sessions at the IMCAS congresses, I have no regrets!</p>"
+      },
+      "p4": {
+        "title": "IMCAS is recognised as an international scientific reference in the field of aesthetic medicine. How will the 2025 edition consolidate this reputation and highlight the current and future challenges of aesthetic medicine?",
+        "content": "<p><b>HC:</b> By way of introduction, I’d like to say that IMCAS is a congress by doctors for doctors, an essential event for medical device companies and the entire community involved in dermatology, surgery and aesthetic medicine as a whole. To come up with good ideas, you need to create the right atmosphere. It means forging partnerships with scientific societies from all over the world, and that’s far from easy. It means observing trends, reading articles, seeing what’s being said in the media. It means surrounding yourself with passionate doctors who ensure that the IMCAS team is not just me or Sébastien, but a group of doctors who contribute to its success.<br></br><br></br> I’m a dermatologist and I practise dermatology as a whole, not just lasers and injectables. The fact that I keep one foot in aesthetic dermatology and the other in so-called medical dermatology is an asset, with its areas of interest for the community, which means that I keep (or at least I try to) a broader vision. You have to look at the program: diversity, eclecticism, innovation!</p> <p><b>SG:</b> For Paris, it’s over 1000 speakers and over 300 sessions. It’s absolutely incredible and you often come away frustrated because you have to make choices and time seems to shrink over the 3 days. If you add in the other satellite events, which are smaller than Paris but very dynamic: Bangkok, São Paulo, and in 2025 we’ll be adding Shanghai and Mumbai... It’s easy to understand the dynamics.</p> <p><b>HC:</b> Five events is already a good number so as not to dry up the subjects, repeat the same things or listen to the same speakers. But we have other ideas for development. When you add the IMCAS alert, which has become a must-have for doctors who want to get quick, friendly advice from all over the world in just a few minutes. It’s a real community, a precious asset for everyone, and yet it’s free to use.</p> <p><b>SG:</b> We’re constantly renewing so that we don’t just stick to what’s easy. That’s the hardest part, and it’s not always well understood by regular speakers. But that’s the job! We’re pushing the younger generation of doctors, developing specific sessions and awards for them, because they’re our future too.</p>"
+      },
+      "p5": {
+        "title": "You are also very involved in research. What motivates you to continue exploring and innovating in this area?",
+        "content": "<p><b>HC:</b> I’m a practitioner, so real research is a long way off. But organising sessions, promoting start-ups (Shark Tank or Magic Wand), pushing new technologies such as ultrasound, dermoscopy, optical microscopy, not to mention AI ... We don’t set ourselves any limits except ethical and moral ones. Getting researchers out of their laboratories and into sessions is a challenge. I define a good session as 1/3 pragmatic practice, 1/3 science and 1/3 a surprise that wakes everyone up. The laboratories that organise symposia also have this tendency to go further. Their scientific quality has undeniably improved and it has even become a challenge for us.</p> <p><b>SG:</b> After 25 years of existence, we thought it was time to create a climate conducive to the development of research in our field. That’s what the IMCAS Fund is all about! This donation-foundation was set up by Séverine Dubarry-Bardon (thank you!), based on a long-standing idea by Benjamin and Serge Mordon (thank you!), and we are very proud of it. All doctors and manufacturers can contribute by making donations. We have set up an independent scientific team, which will have to choose from among the more than 80 projects we have received! It’s a success that we need to keep going, and we like that.</p>"
+      },
+      "p6": {
+        "title": "Do you think artificial intelligence could transform the way we diagnose, treat and personalise care for patients?",
+        "content": "<p><b>HC:</b> It’s obvious, we’re not yet measuring the effects of AI in our daily practice. As far as I’m concerned, I’m already using it to help diagnose skin cancers and to date the skin using AI as a diagnostic tool. It makes my patients laugh or, on the contrary, frightens them. There’s still a long way to go between telling the patient bad news and letting the AI decide to «Botox» in the right place. The human relationship with a clear and honest explanation is, I hope, irreplaceable for a long time to come. I’m just a little worried about the data that is going to be sucked up, chewed up and analysed even faster than it is today. I don’t believe in living with an avatar in a uniform world either, at least not right away. People are already creating their own world with social media, but after the addiction, there’s often a return to earth... Paradoxically, I think that if we’re only talking about pure aesthetics, AI could even bring a singular touch to our current practices, which seem to be a little too standardised according to trends, fashion, countries, ages... Big mouth, etc. </p> <p><b>SG:</b> AI, the new challenge.</p> <p>A real societal challenge that does not spare medicine. Under the pretext of a lack of doctors and accessibility to care, our supervisory bodies, lulled by the sirens of start-ups, imagine that they have found the solution to offer real quality of care, believing that the medical community was a serial killer until now.<br></br> This financially driven ecosystem has been totally co-opted by non-doctors. The owners are the players in the future organisation of care, and the promise of helping the medical profession to cope with the difficulties of their work is real, but its use is likely to be more aggressive. Specialities such as radiology and oncology are already on the chopping block, and all that will be left is one doctor to assume medico-legal responsibility.<br></br> Another risk could be the loss of the transmission of knowledge of medicine itself. No need to learn it any more, AI will provide it...</p>"
+      },
+      "p7": {
+        "title": "How do you approach the ethical issues linked to technological innovations and new practices in the field?",
+        "content": "<p><b>SG:</b> ‘’Science without conscience is nothing but the ruin of the soul... ’’<br></br><br></br> In our field, we have witnessed a veritable explosion of technological offerings over the last twenty years, often happily and sometimes not.<br></br><br></br> Often, the very status of a medical device makes our patients the guinea pigs for a treatment. Our patients are not guinea pigs, so it’s best to take a step back, analyse carefully and not rush into things. A purely commercial message, however well-rehearsed, is not always good advice. To another extent, the financial aspect can push us to seek maximum profitability, even if it means pushing certain indications, thereby breaking our true role as therapist and advisor. This aspect is also encouraged by the structures that host these technical platforms. This new trend is accompanied by a significant takeover of technical platforms by financial players, who are turning doctors into care providers and, above all, into medical and legal fuses. To put it plainly, the structure profits from the procedure by reducing the remuneration of the doctor, who nonetheless bears the medical responsibility for practices that are sometimes borderline, encouraging the emergence of claims.<br></br><br></br> On a different note, we are witnessing a distortion in communication, with facilities using social networks to lure patients away from their doctors. The sacrosanct virtue of word of mouth is increasingly under attack from systems that want to do away with this special relationship between patient and doctor.<br></br><br></br> The trend has been well understood, but will the medical profession be able to maintain the excellence of its care? The future will tell.<br></br><br></br></p> <p><b>HC:</b> Rereading Kipling’s ‘If’ from time to time and following our hypocritical oath, it sounds simplistic but it’s still relevant.</p>"
+      }
+    },
+    "Diala_Haykal": {
+      "h1": "THE SKINCARE & INNOVATION ALLIANCE",
+      "abstract": "THE SYNERGY BETWEEN EXFOLIATION AND HYDRATION IS UNIQUE",
+      "author": "By Dr Diala Haykal",
+      "cta_text": "Discover Hydrafacial",
+      "tags": {
+        "t1": {
+          "title": "Aesthetic medicine"
+        }
+      },
+      "img_alt": "Dr. Diala Haykal portrait",
+      "p1": {
+        "title": "Dr. Diala Haykal",
+        "content": "<p>Dr. Diala Haykal is a renowned doctor, specialised in aesthetics and lasers, who is head of a private medical centre in France. </p><p>Driven by insatiable curiosity and a commitment to innovation, she has earned advanced degrees in aesthetic medicine and laser technologies and has been honored three times by the French Society of Laser Dermatology (SFLD), highlighting her passion and expertise.</p><p>Renowned internationally, she regularly speaks at global conferences on aesthetic dermatology, laser technologies, and artificial intelligence applied to health. Additionally, she collaborates with cosmetic companies as a consultant expert. Her research has led to numerous international scientific publications and she serves as an associate editor for the Journal of Cosmetic Dermatology, overseeing groundbreaking studies.</p><p>In her daily practice, Dr. Haykal collaborates with renowned experts, integrating innovative treatments that push the boundaries of aesthetic medicine. Her mission? To inspire others by proving that determination and continuous learning are the keys to excellence in this ever-evolving field.</p>"
+      },
+      "p2": {
+        "title": "Your international experience has allowed you to develop unique protocols combining innovative technologies from around the globe. What is the must-have treatment you most often incorporate into your patient care?",
+        "content": "<p>My approach to aesthetic medicine focuses on holistic skin health care, with hydradermabrasion as the cornerstone of my arsenal, particularly for strengthening the skin barrier. This treatment is integrated into combined treatment protocols, where it is paired with other medical-aesthetic treatments to ensure optimal therapeutic synergy tailored to each patient’s specific needs.</p>"
+      },
+      "p3": {
+        "title": "Can you explain what hydradermabrasion is and how it differs from other skin exfoliation techniques?",
+        "content": "<p>Hydradermabrasion is an advanced, non invasive technique that cleanses, exfoliates, and nourishes the skin in a single session. Unlike traditional exfoliation methods, such  as chemical peels or microdermabrasion, this  technology uses serums infused into the skin  ensuring controlled exfoliation without irritation.  The synergy between exfoliation and hydration  is unique, making it especially beneficial for  patients with sensitive or atopic skin.</p>"
+      },
+      "p4": {
+        "title": "What are the main indications for which you recommend hydradermabrasion in your medical protocols?",
+        "content": "<p>Hydradermabrasion is ideal for addressing the following:</p><ul><li>Uneven texture and dull complexion</li><li>Blackheads and enlarged pores</li><li>Mild to moderate acne</li><li>Skin preparation before a special event</li></ul><p>It is often combined with complementary technologies, such as:</p><ul><li>LED phototherapy</li><li>Hyaluronic acid injections</li><li>Non-ablative and ablative lasers</li></ul><p>A study published in December 2022 in the Journal of Clinical and Aesthetic Dermatology (JCAD) evaluated the effectiveness and tolerability of Hydrafacial® Clarifying treatments for patients with mild to moderate acne. Conducted on 20 participants aged 19 to 48, the study highlighted significant results after a protocol of six sessions performed every two weeks.</p><p>Each session included exfoliation, impurity extraction, and the application of targeted serums, followed by blue LED light therapy targeting acne-causing bacteria. The results showed a notable improvement in acne severity for 100% of participants, with reduced lesions and inflammation. Patient satisfaction and confidence in their appearance rose from 40% after the first session to 100% by the end of the treatment.</p><p>Well-tolerated with no major side effects, this protocol underscores the effectiveness of Hydrafacial® Clarifying as an innovative and safe solution for treating acne while improving patients’ quality of life.</p>"
+      },
+      "p5": {
+        "title": "What hydradermabrasion equipment do you use in your practice, and why?",
+        "content": "<p>I primarily use Hydrafacial®, a device renowned for its precision and efficacy. Its strengths include:</p><ul><li>Patented Vortex-Fusion® technology that combines exfoliation, extraction, and serum infusion in a single step.</li><li>System designed with dual tubing and a unidirectional circuit to eliminate the risk of transmission of microparticles and skin cells from one patient to another.</li><li>Multiple options to personalise the treatment: different peel concentrations and a large range of boosters to target specific needs (anti-aging, glow, acne).</li><li>A pleasant experience for patients.</li></ul>"
+      },
+      "p6": {
+        "title": "And last, but not least, what do your patients think about Hydrafacial®?",
+        "content": "<p>My patients are thrilled! Here are a few recent testimonials:</p><ul><li>Léa, 37: After my first session, I felt an immediate difference. My skin was incredibly smooth and hydrated.</li><li>Sophie, 43: I struggled with enlarged pores and a dull complexion. With Hydrafacial combined with LED therapy, my skin looks so much brighter!</li></ul>"
+      },
+      "p7": {
+        "title": "Effects",
+        "content": "<p>Deep hydration booster with triple HA complex, vitamin B5 and fruit extracts. Our proprietary formula delivers 24-hour moisture and glow, increases hydration by 3X*, and plumps and firms the skin while reducing the appearance of fine lines and wrinkle</p><p>*Based on Corneometer measurements of 38 participants before and 24 hours after treatment in a clinical study. Individual results may vary.</p>"
+      }
+    },
+    "Simone_La_Padula": {
+      "h1": "A NEW APPROACH TO REJUVENATION",
+      "abstract": "PERIORBITAL REJUVENATION IS AMONG THE MOST SOUGHT-AFTER PROCEDURES IN COSMETIC SURGERY",
+      "author": "By Pr Simone La Padula",
+      "cta_text": "Discover Pr. La Padula",
+      "tags": {
+        "t1": {
+          "title": "Plastic surgery"
+        }
+      },
+      "img_alt": "Pr. Simone La Padula portrait",
+      "p1": {
+        "title": "Pr. Simone La Padula",
+        "content": "<p>Professor Simone La Padula is a renowned specialist in Plastic, Reconstructive, and Aesthetic Surgery, practicing at the Federico II University Hospital in Naples, where he is an Associate Professor.</p><p>He is also the Director of the Master’s Degree in Microsurgery, the University Diploma in Breast Surgery, and a lecturer in the Master’s Degree in Aesthetic Medicine.</p><p>After spending eight years at the Henri Mondor University Hospital in Paris, he perfected advanced techniques in facial, breast, and body contouring aesthetic surgery, as well as breast reconstruction using innovative microsurgical methods such as the DIEP flap.</p><p>A dedicated researcher and teacher, Professor La Padula regularly participates in international conferences, publishes in scientific journals, and trains young plastic surgeons.</p><p>With a patient-centered approach, he prioritises natural and harmonious results, tailoring each treatment to individual needs. Highly active on Instagram, he also shares his expertise and stays connected with his audience.</p>"
+      },
+      "p2": {
+        "title": "My experience with a new surgical technique for periorbital, temporal, and brow rejuvenation",
+        "content": "<p>Periorbital rejuvenation is among the most sought-after procedures in cosmetic surgery. Patients often focus their attention on the eyelids, without considering that the aging process of the periorbital region results from a combination of multiple interconnected factors.</p><p>These factors affect not only the eyelids but also the eyebrows, the lateral canthal region, the lid-cheek junction, and the malar area. The role of the orbicularis oculi muscle (OOM), whose progressive weakening and ptosis are significant contributors, is central to these changes. Many authors have emphasised the importance of addressing the OOM in periorbital rejuvenation. Some have proposed various techniques for orbicularis suspension, while others have described partial muscle resections.</p><p>In this article, I present a brow-lifting technique using a subcutaneous temporal approach combined with an OOM flap. This technique, described by Michele Pascali, an Italian surgeon renowned in the field of facial rejuvenation, includes a suborbicular dissection to release the lateral canthal region, the Orbicularis Retaining Ligament (ORL), the Tear Trough Ligament (TTL), and the zygomatic ligament. This method provides significantly better results than a standard temporal lift. I adopted this technique in my practice a few months ago, and the results have been remarkable. More specifically, this is a modified and extended temporal lifting approach, named Temporal MORE (Modified Orbicularis REpositioning) by its creator, Michele Pascali.</p>"
+      },
+      "p3": {
+        "title": "Surgical technique",
+        "content": "<p>Preoperative markings must be performed with the patient standing.</p><ul><li><b>Marking:</b> The region to be lifted is marked with arrows indicating the vector of tissue repositioning. This step is crucial for simulating the final result of the procedure by manually adjusting the targeted area. This technique can also be combined with a deep plane lift without difficulty (as was the case with this patient).</li><li><b>Subcutaneous dissection:</b> Subcutaneous dissection is performed first, confined between the lines drawn during preoperative marking. The incision is placed at the prehairline or slightly posterior for better concealment, ideally in a zigzag pattern.</li><li><b>Subcutaneous & suborbicular dissection:</b> The dissection starts with an electrocautery device and continues with scissors after approximately 1 cm to minimise thermal damage to the frontal branch of the facial nerve, located deeper within the superficial temporal fascia.</li></ul><p>After raising the OOM flap on a preperiosteal plane, the dissection can be extended medially to the lateral orbital rim. This step allows for the complete release of the lateral raphe and the superficial component of the lateral canthal system (canthal ligament).</p><p>The superolateral repositioning of the OOM flap enables an ‘‘indirect’’ dynamic canthopexy, capable of raising the canthus by 2 to 3 mm. Similarly, the dissection continues inferomedially along the lower orbital rim, releasing the ORL. In cases of significant hollowing of the nasojugal groove, the dissection can be extended to the TTL.</p><p>The dissection then proceeds through the prezygomatic space until the zygomaticus major muscle is visualised following the section of the zygomatic retaining ligament. If a deep plane lift is performed simultaneously, this maneuver is included in the initial steps of that procedure.</p>"
+      },
+      "p4": {
+        "title": "Suspension of the Flap",
+        "content": "<p>The Temporal MORE technique necessarily involves the inclusion of the upper portion of the zygomatic SMAS (up to 1.5–2 cm) in the flap, which becomes a combined MOO/SMAS flap. This flap is suspended superolaterally using several sutures (Vicryl 4/0 or PDS 4/0) to anchor it to the deep tissues.</p><p>Three primary sutures are used:</p><ul><li><b>Superior point (11 o’clock):</b> Lifts the tail of the brow.</li><li><b>Middle point (9 o’clock):</b> Repositions the lateral canthus.</li><li><b>Inferior point (7 o’clock):</b> Corrects the lid-cheek junction and the malar region.</li></ul><p>A slight overcorrection is necessary to compensate for the expected relaxation of tissues within 2–3 weeks postoperatively.</p><p>The final step involves managing any excess skin. The subcutaneous layer is approximated with interrupted Monocryl 5/0 sutures, and the skin is closed using a continuous Prolene 6/0 suture. In cases of significant tissue traction, excess skin may appear at the lower part of the incision. If this occurs, the incision can be extended toward the tragal region (similar to a cervicofacial lifting incision) to eliminate any “dog ear” formation.</p><p>At the end of the procedure, I use a hemostatic “NET” with Prolene 4/0 or 5/0 to prevent hematoma formation, employing the same technique used in cervicofacial deep-plane lifts. These nets are removed 48 hours after surgery.</p>"
+      },
+      "p5": {
+        "title": "Upper blepharoplasty: essential precautions",
+        "content": "<p>When an upper blepharoplasty is performed concurrently, it is crucial not to extend the pattern of skin excision too far laterally. The superolateral repositioning of tissues causes a significant shift in the lateral end of the incision. Furthermore, most of the excess skin lateral to the upper eyelid is already addressed by lifting the tail of the brow. Therefore, preoperative marking of the upper lid must be performed with the patient standing, manually suspending the brow to simulate the final result.</p>"
+      },
+      "p6": {
+        "title": "Managing Lower Eyelid Skin Excess",
+        "content": "<p>For the lower eyelid, skin excess can only be accurately assessed after the repositioning of the MOO/SMAS flap. Elevating the lid-cheek junction and reducing the height of the lower eyelid may cause skin accumulation in this area. In such cases, skin excision may be required.</p><p>The management of this excess involves the following steps:</p><ol><li>A subciliary incision is made.</li><li>A skin flap is elevated.</li><li>The excess skin is excised, typically 2–4 mm.</li></ol><p>This procedure is performed safely due to the tension provided by the MOO flap after the release of the ORL/TTL complex, which ensures sufficient stability and support for the lower eyelid.</p>"
+      },
+      "p7": {
+        "title": "Remodeling of the orbicularis muscle and fat bags",
+        "content": "<p>In cases of redundancy or protrusion of the pretarsal portion of the orbicularis muscle, observed in some patients, conservative remodeling of the muscle can be performed to refine the aesthetic outcome. When fat bags are present in the lower eyelid, remodeling may be necessary. In such cases, a transconjunctival approach is preferred and performed before initiating the Temporal MORE technique, ensuring an effective and harmonious correction.</p>"
+      },
+      "p8": {
+        "title": " ",
+        "content": "<imgContainer><divImg><img>/pr_la_padula/before.jpg</img><pImg>Before</pImg></divImg><divImg><img>/pr_la_padula/right-side-treated.jpg</img><pImg>Right side finished & left side untreated</pImg></divImg><divImg><img>/pr_la_padula/after.jpg</img><pImg>After</pImg></divImg></imgContainer>"
+      },
+      "p9": {
+        "title": "A major advantage of the Temporal MORE technique",
+        "content": "<p>One of the key advantages of the Temporal MORE technique is its ability to reposition the lateral canthus without directly addressing the palpebral region. By extending the suborbicular dissection and releasing the superficial component of the lateral canthal system (canthal ligament), the superolateral suspension of the orbicularis flap achieves a dynamic canthopexy effect. This indirect tensioning often eliminates the need for direct suspension of the lateral canthus to the orbital rim.</p><p>However, the stability of the lateral canthus and lower eyelid must always be carefully evaluated using standard tests before performing this technique, particularly if combined with a lower blepharoplasty. In cases of significant laxity in these structures, a direct canthopexy is recommended.</p><p>If a more significant elevation of the lateral canthus (greater than 2–3 mm) is required, the deep component of the lateral canthal system (canthal tendon) must also be released, and a direct canthoplasty performed.</p>"
+      },
+      "p10": {
+        "title": " Three-dimensional mobilisation and rejuvenation",
+        "content": "<p>Dissection extended to the ORL/TTL ligament complex allows mobilisation of the eyelid jowl junction and inner eyelid tissues in a superolateral block. This creates significant tension and vertical shortening of the lower eyelid.</p><p>By extending the dissection into the prezygomatic space to release the zygomatic ligament, superolateral mobilisation of the malar soft tissues is achieved. This approach restores the malar prominence in a three-dimensional manner and extends the benefits of the technique to the midface region.</p>"
+      },
+      "p11": {
+        "title": "Management of skin excess and fat bag remodeling",
+        "content": "<p>If skin excess persists in the lower eyelid, it can be corrected through a subciliary incision without the need to address the palpebral portion of the MOO. Most defects are already corrected through the lateral approach. When the orbital septum remains attached to the orbicularis muscle, the superolateral traction of the muscle also tightens the septum, thereby reducing the protrusion of postseptal fat pads, in accordance with the principle of ‘‘passive septal tightening’’ described by Hester. Moderate fat bags can thus be treated indirectly.</p><p>However, in cases of more pronounced fat bags, a transconjunctival blepharoplasty is preferred and performed prior to initiating the Temporal MORE technique.</p>"
+      },
+      "p12": {
+        "title": "Preservation of facial nerves",
+        "content": "<p>No permanent damage to the frontotemporal or zygomatic branches of the facial nerve was observed in this series. However, it is essential to be aware of their anatomical course:</p><ul><li><b>Frontal branch:</b> Follows Pitanguy’s line, approximately 2.5–3 cm lateral to the orbital rim. Suborbicular dissection always begins 1.5 cm lateral to the rim to maintain a safe distance.</li><li><b>Zygomatic branch:</b> Travels beneath the SMAS, parallel to the zygomatic arch, and beneath the zygomaticus major muscle. During dissection beyond the MOO, it is crucial to stay above the zygomaticus major muscle.</li></ul><p>To minimise the risk of nerve entrapment, resorbable sutures (Vicryl 4/0) are used, and the needle is passed parallel to the nerve trajectory within the superficial temporal fascia.</p>"
+      },
+      "p13": {
+        "title": "Postoperative recovery",
+        "content": "<p>The Temporal MORE technique offers a rapid postoperative recovery. A light compressive dressing is maintained for 24 hours, followed, if necessary, by adhesive strips on the eyelids for one week. Bruising is minimal or absent, allowing patients to quickly return to social activities.</p>"
+      },
+      "p14": {
+        "title": "A Holistic approach",
+        "content": "<p>The Temporal MORE technique goes beyond correcting defects of the brows and temporal region, as in a standard temporal lift. It also addresses the lateral canthal region, eyelids, lid-cheek junction, and malar region, which are considered a functional unit in periorbital rejuvenation.</p>"
+      },
+      "p15": {
+        "title": "Conclusion",
+        "content": "<p>In the hands of experts, this technique has proven to be straightforward, delivering consistent and reproducible results, a rapid postoperative recovery, and a low complication rate. Patient satisfaction has been remarkable, aligning with the assessments of the surgeons involved.</p>"
+      },
+      "p16": {
+        "title": "Bibliography",
+        "content": "<p>Pascali M, Savani L, Gratteri M, Rega U, Marchese G, Persichetti P. ‘‘Temporal MORE (Modified Orbicularis Repositioning): going beyond the limits of temporal lifting’’. Plast Reconstr Surg. 2024 Sep 17. doi: 10.1097/ PRS.0000000000011752. Epub ahead of print. PMID: 39288448</p>"
+      },
+      "p17": {
+        "title": " ",
+        "content": "<bigImg>/pr_la_padula/final-result-prof-simone-la-padula-surgery-expertise.jpg</bigImg>"
       }
     }
   }

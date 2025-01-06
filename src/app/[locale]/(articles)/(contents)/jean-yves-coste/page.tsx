@@ -1,6 +1,8 @@
 import Button from "@/app/components/buttons/Button";
-import logo from "@/app/img/articles/dr_adda/aerolase-logo-laser-elite-dr-adda.png";
-import header from "@/app/img/articles/dr_adda/dr-adda-aerolase-laser-elite.jpg";
+import header from "@/app/img/articles/jean_yves_coste/coste-jean-yves-market-overview-heritage.jpg";
+import mapleft from "@/app/img/articles/jean_yves_coste/market-overview-2025-jean-yves-coste-1.jpg";
+import mapright from "@/app/img/articles/jean_yves_coste/market-overview-2025-jean-yves-coste-2.jpg";
+import logo from "@/app/img/articles/jean_yves_coste/Windome-Banking-Partners-Sas-Logo.jpg";
 import { useTranslations } from "next-intl";
 import Image from "next/image";
 
@@ -12,34 +14,36 @@ export async function generateMetadata({ params }: Params) {
   const locale = params.locale;
   if (locale === "en") {
     return {
-      title: "Dr. Adda | Interview on the Neo ELITE Aerolase Laser | HERITAGE",
+      title:
+        "Coste Jean-Yves | The Aesthetic Medicine & Exosomes Market in 2025",
       description:
-        "Discover Dr. Adda's exclusive interview on the NEO Elite laser, Aerolase's new device. (H)ERITAGE Magazine",
+        "Discover Jean-Yves Coste's report on the aesthetic medicine and exosomes market in 2025. (H)ERITAGE Magazine",
     };
   } else if (locale === "fr") {
     return {
-      title: "Dr Adda | Interview sur le Laser Neo ELITE Aerolase | HERITAGE",
+      title:
+        "Coste Jean-Yves | Le Marché de l’Esthétique & des Exosomes en 2025",
       description:
-        "Découvrez en exclusivité l’interview du Dr Adda sur le laser NEO Elite, le nouveau dispositif d’Aerolase. (H)ERITAGE Magazine",
+        "Découvrez le dossier de Jean-Yves Coste sur le marché de la médecine esthétique et des exosomes en 2025. (H)ERITAGE Magazine",
     };
   }
 }
 
 export default function Article() {
-  const t = useTranslations("Articles.Dr_Adda");
+  const t = useTranslations("Articles.Jean_Yves_Coste");
   const tags = ["t1"] as const;
-  const contents = ["p1", "p2", "p3", "p4", "p5"] as const;
+  const contents = ["p1", "p2", "p3", "p4", "p5", "p6", "p7"] as const;
   return (
     <div>
       <section className="myContainer lg:space-x-16 full-screen max-lg:flex max-lg:flex-col-reverse max-lg:gap-10 lg:grid lg:grid-cols-5 text-mainBlue">
-        <div className="lg:col-span-2">
+        <div className="lg:col-span-2 relative size-full">
           <Image
             priority
             placeholder="blur"
             src={header}
             alt={t("img_alt")}
             title={t("img_alt")}
-            className="size-full max-md:h-[400px] max-lg:h-[550px] object-cover object-top max-lg:m-auto"
+            className="lg:absolute lg:top-0 lg:left-0 size-full max-md:h-[400px] max-lg:h-[550px] object-cover object-top max-lg:m-auto"
           />
         </div>
 
@@ -67,7 +71,7 @@ export default function Article() {
             </div>
 
             <div>
-              <Button link="https://aerolase.com/fr/" target="_blank">
+              <Button link="https://windome-banking.com/" target="_blank">
                 {t("cta_text")}
               </Button>
             </div>
@@ -83,16 +87,16 @@ export default function Article() {
         {/* Pub */}
         <div className="col-span-2">
           <a
-            href="https://aerolase.com/fr/"
+            href="https://windome-banking.com/"
             target="_blank"
-            title="La marque Olivier Claire"
+            title="Windome Banking Partners"
             className="lg:sticky lg:top-[35%] flex flex-col items-center gap-4"
           >
             <Image
               src={logo}
-              alt="Logo Olivier Claire"
-              title="Logo Olivier Claire"
-              className="size-full max-h-[200px] max-lg:max-w-[450px] object-contain m-auto"
+              alt="Windome Banking Partners"
+              title="Windome Banking Partners"
+              className="size-full max-h-[350px] max-lg:max-w-[450px] object-contain m-auto"
             />
             <span className="lg:hidden text-orange uppercase font-sfPro font-light">
               {t("cta_text")} +
@@ -102,16 +106,38 @@ export default function Article() {
 
         {/* Content */}
         <div className="col-span-3 space-y-8 lg:space-y-12">
+          <div className="grid md:grid-cols-2">
+            <Image
+              src={mapleft}
+              alt="Global market overview for aesthetic medicine and surgery in 2025 - first part"
+              quality={100}
+            />
+            <Image
+              src={mapright}
+              alt="Global market overview for aesthetic medicine and surgery in 2025 - second part"
+              quality={100}
+            />
+          </div>
           {contents.map((key) => (
             <div key={key} className="space-y-4">
               <h3 className="font-sfPro font-semibold text-base lg:text-lg">
                 {t(`${key}.title`)}
               </h3>
-              <p className="font-sfPro font-light text-base">
-                {t.rich(`${key}.content`, {
-                  br: () => <br />,
-                })}
-              </p>
+              {t.rich(`${key}.content`, {
+                br: () => <br />,
+                p: (chunk) => (
+                  <p className="font-sfPro font-light text-base">{chunk}</p>
+                ),
+                h4: (chunk) => (
+                  <h4 className="font-sfPro font-bold text-base">{chunk}</h4>
+                ),
+                ul: (chunk) => (
+                  <ul className="font-sfPro font-light text-base list-disc ml-6">
+                    {chunk}
+                  </ul>
+                ),
+                li: (chunk) => <li>{chunk}</li>,
+              })}
             </div>
           ))}
         </div>

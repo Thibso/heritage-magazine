@@ -232,6 +232,34 @@
       "content": "Pour commencer à se familiariser au domaine du digital et pour s’assurer d’être visible, il est essentiel de construire un site Internet. Il représente la pierre angulaire de toute stratégie de communication digitale. L’objectif n’est pas simplement d’avoir une présence en ligne, mais d’être visible et engageant pour les patients potentiels.",
       "cta_link": "/fr/dossier-nivault-hugo-healthcie-preparer-projet-digital-sante",
       "cta": "Lire l'article"
+    },
+    "coste": {
+      "h2": "VUE GLOBALE DU MARCHÉ",
+      "h3": "Par Jean-Yves Coste",
+      "content": "Le marché mondial des exosomes a atteint 500 millions de dollars en 2024, dont 60 % pour le diagnostic et 40 % pour la thérapeutique, avec un déplacement progressif du centre de gravité vers la thérapeutique, en se concentrant initialement sur les domaines cardiovasculaire, métabolique, oncologique, respiratoire et anti-inflammatoire, mais en augmentant maintenant leur impact sur les pathologies dermatologiques liées à l’âge.",
+      "cta_link": "/fr/analyse-coste-jean-yves-marche-medecine-esthetique-exosomes-2025",
+      "cta": "Lire l'article"
+    },
+    "diala": {
+      "h2": "L'ALLIANCE SOIN & INNOVATION",
+      "h3": "Par Dr Diala Haykal",
+      "content": "Dans sa pratique quotidienne, le Dr Haykal s’appuie sur des collaborations avec des experts de renom, intégrant des traitements innovants qui repoussent les limites de la médecine esthétique. Sa mission ? Inspirer les autres en prouvant que la détermination et l’apprentissage continu sont les clés de l’excellence dans ce domaine en constante évolution.",
+      "cta_link": "/fr/interview-docteur-haykal-diala-hydradermabrasion-hydrafacial",
+      "cta": "Lire l'article"
+    },
+    "cartier": {
+      "h2": "UNE COLLABORATION AU SERVICE DE L’INNOVATION",
+      "h3": "Avec le Dr Hugues Cartier & le Dr Sébastien Garson",
+      "content": "Le Dr Hugues Cartier est dermatologue au sein d’un centre médical avec un département d’études cliniques, assisté par une équipe de jeunes dermatologues. Il exerce également comme Praticien Hospitalier Attaché au Centre Hospitalier d’Arras. Le Dr Sébastien Garson est un chirurgien plasticien exerçant à Senlis. Ancien président de la SOFCEP (Société Française des Chirurgiens Esthétiques Plasticiens), il occupe actuellement les fonctions de vice-président de la SNCPRE (Syndicat National de Chirurgie Plastique Reconstructrice et Esthétique) et de président de Plastirisq.",
+      "cta_link": "/fr/interview-docteurs-cartier-hugues-garson-sebastien-imcas-innovation",
+      "cta": "Lire l'article"
+    },
+    "lapadula": {
+      "h2": "Une nouvelle approche du rajeunissement",
+      "h3": "Avec le Pr Simone La Padula",
+      "content": "Le rajeunissement péri-orbitaire figure parmi les interventions les plus prisées en chirurgie esthétique. Les patients concentrent souvent leur attention sur les paupières, sans considérer que le processus de vieillissement de la région péri-orbitaire résulte d’une combinaison de plusieurs facteurs interconnectés.",
+      "cta_link": "/fr/technique-professeur-la-padula-simone-rajeunissement-peri-orbitaire",
+      "cta": "Lire l'article"
     }
   },
   "Articles": {
@@ -242,13 +270,7 @@
       "cta_text": "Découvrir la marque",
       "tags": {
         "t1": {
-          "title": "cosmétique"
-        },
-        "t2": {
-          "title": "esthétique"
-        },
-        "t3": {
-          "title": "médecine"
+          "title": "Cosmétologie"
         }
       },
       "img_alt": "Olivier Claire portrait",
@@ -284,13 +306,10 @@
       "cta_text": "Découvrir le Pr Hersant",
       "tags": {
         "t1": {
-          "title": "cosmétique"
+          "title": "Chirurgie esthétique"
         },
         "t2": {
-          "title": "esthétique"
-        },
-        "t3": {
-          "title": "médecine"
+          "title": "Médecine esthétique"
         }
       },
       "img_alt": "Pr Barbara portrait",
@@ -342,13 +361,7 @@
       "cta_text": "Découvrir Aerolase",
       "tags": {
         "t1": {
-          "title": "cosmétique"
-        },
-        "t2": {
-          "title": "esthétique"
-        },
-        "t3": {
-          "title": "médecine"
+          "title": "Médecine esthétique"
         }
       },
       "img_alt": "Dr Adda portrait",
@@ -380,13 +393,7 @@
       "cta_text": "Découvrir l'agence HEALTHCIE",
       "tags": {
         "t1": {
-          "title": "cosmétique"
-        },
-        "t2": {
-          "title": "esthétique"
-        },
-        "t3": {
-          "title": "médecine"
+          "title": "Gestion du cabinet"
         }
       },
       "img_alt": "Hugo Nivault portrait",
@@ -406,13 +413,7 @@
       "cta_text": "Découvrir ThinkIn",
       "tags": {
         "t1": {
-          "title": "cosmétique"
-        },
-        "t2": {
-          "title": "esthétique"
-        },
-        "t3": {
-          "title": "médecine"
+          "title": "Médecine esthétique"
         }
       },
       "img_alt": "Dr Benjamin Ascher portrait",
@@ -452,13 +453,7 @@
       "cta_text": "Découvrir l'agence HEALTHCIE",
       "tags": {
         "t1": {
-          "title": "cosmétique"
-        },
-        "t2": {
-          "title": "esthétique"
-        },
-        "t3": {
-          "title": "médecine"
+          "title": "Gestion du cabinet"
         }
       },
       "img_alt": "Julien Vervel portrait",
@@ -473,6 +468,209 @@
       "p3": {
         "title": "3 points clés pour la gestion de votre E-réputation :",
         "content": "Dans un monde où l’information est facilement accessible en ligne, les patients se tournent souvent vers Internet pour rechercher des informations médicales et des avis sur les professionnels de santé. Une E-réputation solide, basée sur des avis positifs et une présence professionnelle en ligne, peut renforcer la confiance des patients et les inciter à choisir votre pratique.<br></br><br></br> 1) La veille : Surveillez ce qui est dit sur vous.<br></br> La première étape de la gestion de l’E-réputation consiste à surveiller activement ce qui est dit sur vous en ligne.  Cela inclut les avis de patients, les mentions sur les réseaux sociaux, et les articles de presse. Les outils de surveillance en ligne peuvent vous aider à rester informé de ce qui se dit sur votre pratique.<br></br><br></br> 2) La transparence et la réactivité :<br></br> La transparence est essentielle dans la gestion de l’E-réputation. Soyez prêt à répondre aux avis des patients, qu’ils soient positifs ou négatifs, toujours dans le respect du secret professionnel. Adoptez une position d’écoute dans vos réponses, cela traduira que vous prenez en compte les préoccupations des patients et que vous êtes ouvert à la communication.<br></br><br></br> 3) La création de contenu positif :<br></br> Que ce soit pour animer vos réseaux sociaux ou votre site internet, la création de contenu positif en ligne est un moyen puissant de gérer votre E-réputation à moyen et long terme. Publiez des articles, des vidéos et des informations médicales à forte valeur ajoutée pour favoriser l’éducation thérapeutique du patient. Cela renforcera votre expertise tout en mettant en valeur votre pratique. En fournissant des informations utiles et pertinentes, vous pouvez développer votre influence dans votre spécialité.<br></br><br></br> Pour les professionnels de santé, la gestion de l’E-réputation représente clairement une nouvelle donne. Dans notre monde ultra-connecté, elle a un impact direct sur la confiance des patients, leur choix de professionnel de santé et le développement de votre carrière."
+      }
+    },
+    "Jean_Yves_Coste": {
+      "h1": "VUE GLOBALE DU MARCHÉ",
+      "abstract": "Le marché des exosomes",
+      "author": "Par Jean-Yves Coste",
+      "cta_text": "Découvrir WINDOME BANKING PARTNERS",
+      "tags": {
+        "t1": {
+          "title": "Analyse de marché"
+        }
+      },
+      "img_alt": "Jean-Yves Coste portrait",
+      "p1": {
+        "title": "Jean-Yves Coste",
+        "content": "<p>Jean-Yves Coste est Co-fondateur, Associé et Président de WINDOME BANKING PARTNERS avec Florian PUCHLY, Directeur Général.<br></br><br></br> Il cumule plus de 30 ans d’expérience dans la banque d’investissement en santé ainsi qu’à des postes exécutifs au sein d’environnements corporate.<br></br><br></br> Avant de co-fonder WINDOME BANKING PARTNERS, il était Senior Healthcare Director chez Michel Dyens & Co., une banque d’investissement franco-américaine spécialisée dans les opérations transfrontalières de fusions-acquisitions, levées de capitaux et partenariats, couvrant des secteurs tels que les génériques spécialisés, la biotechnologie, les vaccins prophylactiques et thérapeutiques, la medtech, la santé digitale et la médecine régénérative ainsi que la dermocosmétique.<br></br><br></br> De 2008 à 2010, il fut Senior M&A Adviser chez Bryan, Garnier, une banque d’investissement spécialisée dans les secteurs de la santé, des médias, des énergies renouvelables, du luxe et des technologies.<br></br><br></br> Auparavant, il dirigea le secteur européen de la banque d’investissement santé chez Cowen à Londres, renforçant ainsi la franchise santé de l’entreprise en Europe.<br></br><br></br> En 2003, Jean-Yves avait rejoint Boehringer Ingelheim à son siège allemand pour piloter le département M&A, gagnant une expertise de premier plan au sein du Top 20 mondial de la pharmaceutique.<br></br><br></br> Sa carrière en banque d’investissement a commencé chez Deutsche Bank à Francfort en 1996, où il se spécialise dans les secteurs pharmaceutiques et biotechnologiques.<br></br><br></br> Entre 2000 et 2003, il rejoint Deutsche Bank Securities à New York, pionnier dans l’exécution de transactions M&A transfrontalières dans les domaines des sciences de la vie, diagnostics moléculaires, génomique et médecine génétique.<br></br><br></br> Jean-Yves Coste possède une expertise reconnue dans les transactions axées sur la prévention, la thérapie et la gestion des maladies chroniques dégénératives liées à l’âge, ainsi que dans la médecine esthétique et régénérative.<br></br><br></br> Il a notamment participé en tant que conseil à des opérations majeures telles que Bloomage-Revitacare, MatexLab-Abris Capital, Delife-Menarini, Bridgepoint-Vivacy, Suisselle-Sihuan, Croma US-JV avec Hugel Corp, et le partenariat de MatexLab pour la commercialisation de son portefeuille par un partenaire Chinois tout en accompagnant des fonds de private equity dans le développement de leur franchise en soins esthétiques et dermatologiques.<br></br><br></br> Depuis 2012, il est conférencier à la World Industry Tribune de l’IMCAS, où il présente les tendances en matière de fusions-acquisitions et d’évaluation dans le domaine de la médecine esthétique, à l’American Aesthetic Innovation Summit (AIS), au Global Virtual Aesthetic Summit (GVAS), aux Assises de l’Innovation en Médecine Esthétique (AIME), ainsi qu’au Thinkin Injectable Summit lancé par le Dr. Benjamin Ascher en octobre 2024.<br></br><br></br> Diplômé de HEC Paris en Majeure Finance, Jean-Yves détient également un MBA de l’INSEAD, spécialisé dans la banque d’investissement.</p>"
+      },
+      "p2": {
+        "title": "Exosomes",
+        "content": "<p>Les exosomes, extracellulaires communication vésicules qui facilitent la intercellulaire, sont de plus en plus prisés dans le domaine de l’esthétique médicale régénérative.<br></br><br></br> Connus pour leur capacité à réparer les tissus, à stimuler la synthèse du collagène et de l’élastine, à reconstruire la jonction dermo-épidermique et à accélérer l’activité mitochondriale de la cellule, favorisant ainsi le rajeunissement de la peau, les exosomes sont en train de devenir la pierre angulaire des traitements esthétiques non invasifs. Leur taille ultramince (30 à 150 nanomètres) facilite la pénétration de la couche cornée et leur diffusion en tant qu’inducteurs tissulaires.<br></br><br></br>Les exosomes dérivés de plantes présentent des caractéristiques et compositionnelles morphologiques uniques en tant que nanocarriers naturels au cœur de la communication intercellulaire.<br></br><br></br> Ils peuvent jouer un rôle biothérapeutique en élucidant leurs rôles immunologiques modulateurs, antitumoraux, régénérateurs et anti-inflammatoires.<br></br><br></br> Les exosomes végétaux ont une plasticité supérieure qui permet de transformer les nano vésicules en nanovecteurs robustes, inoffensifs et non immunogènes pour l’administration de médicaments à travers de multiples obstacles biologiques rigoureux à divers organes ciblés tels que l’intestin et le cerveau.<br></br><br></br> Le marché mondial des exosomes a atteint 500 millions de dollars en 2024, dont 60 % pour le diagnostic et 40 % pour la thérapeutique, avec un déplacement progressif du centre de gravité vers la thérapeutique, en se concentrant initialement sur les domaines cardiovasculaire, métabolique, oncologique, respiratoire et anti-inflammatoire, mais en augmentant maintenant leur impact sur les pathologies dermatologiques liées à l’âge.</p>"
+      },
+      "p3": {
+        "title": "Répartition du marché par régions",
+        "content": "<h4>A. Amérique du Nord</h4> <p>L’Amérique du Nord domine le marché des exosomes, grâce à son infrastructure de soins de santé avancée, à son écosystème biotechnologique solide et à la demande croissante de traitements esthétiques. Les États-Unis sont en tête de cette région (environ 250 millions de dollars de recettes en 2024), grâce à l’adoption précoce de technologies innovantes et à des revenus disponibles élevés, suivis par le Canada.</p> <h4>B. Europe</h4> <p>L’Europe représente le deuxième plus grand marché, alimenté par l’innovation et l’intérêt des consommateurs pour les procédures peu invasives. Des pays comme l’Allemagne, le Royaume-Uni et la France sont des acteurs clés, qui mettent l’accent sur la recherche et le développement. Les pays d’Europe du Sud bénéficient de la popularité croissante du tourisme médical, bien que des cadres réglementaires stricts puissent ralentir l’entrée sur le marché de nouveaux produits.</p> <h4>C. Asie-Pacifique (APAC) (Prochainement la région la plus importante)</h4> <p>L’Asie-Pacifique (APAC) connaît la croissance la plus rapide, en raison de la forte demande de procédures esthétiques en Corée du Sud, au Japon et en Chine. La Corée du Sud mène la danse grâce à son industrie cosmétique de pointe et à l’adoption de traitements régénératifs, mais la Chine rattrape son retard. La Commission nationale chinoise pour le développement et la réforme (NDRC) a publié le « 14e plan quinquennal pour le développement de l’économie biologique », dans lequel les « produits thérapeutiques exosomaux » ont été inscrits pour la première fois dans le plan national de développement économique ; les exosomes ont été mentionnés à nouveau dans le « Biological Economy Innovation Capability Enhancement Project » et dans le « Biological Economy Innovation Capability Enhancement Project », « Exosome Therapeutic Products » et sont devenus un leitmotiv récurrent du « 14e plan quinquennal pour le développement de l’économie biologique ». L’augmentation des revenus disponibles et le développement du tourisme médical en Inde, en Indonésie et en Thaïlande soutiennent également la croissance du marché.</p> <h4>D. L’Amérique Latine</h4> <p>L’Amérique Latine est un marché émergent, avec le Brésil et le Mexique en tête. Ces pays ont une forte culture des procédures esthétiques et attirent les touristes médicaux en raison des traitements abordables. Toutefois, l’instabilité économique et l’accès limité aux technologies de pointe peuvent freiner la croissance dans certaines parties de la région.</p> <h4>E. Moyen-Orient et Afrique (MEA)</h4> <p>La région MEA, en particulier la Turquie en tant que centre d’esthétique médicale et les pays du Conseil de coopération du Golfe (CCG), commence à adopter les thérapies à base d’exosomes. Les investissements dans les infrastructures de santé et l’intérêt croissant pour le tourisme médical stimulent la croissance du marché, en particulier dans les Émirats arabes unis. Cependant, des défis tels qu’une sensibilisation limitée et des systèmes médicaux sous-développés dans certaines parties de l’Afrique restent des obstacles à l’expansion.</p>"
+      },
+      "p4": {
+        "title": "Facteurs de croissance",
+        "content": "<ul><li>Demande de traitements non invasifs : Les patients préfèrent de plus en plus les procédures esthétiques non chirurgicales, et les thérapies à base d’exosomes offrent des solutions efficaces et peu risquées pour le rajeunissement de la peau.</li><li>Progrès en biotechnologie : Les innovations en matière d’isolement des exosomes et de méthodes d’administration améliorent leur efficacité et leur accessibilité.</li><li>Le vieillissement de la population : Il alimente la demande de solutions régénératrices qui améliorent la qualité et l’apparence de la peau.</li><li>Thérapies combinées avec le microneedling par radiofréquence, les ultrasons focalisés de haute intensité ou les appareils à laser de faible intensité.</li></ul>"
+      },
+      "p5": {
+        "title": "Opportunités",
+        "content": "<ul><li>Extension des applications : Les exosomes ont des applications potentielles au-delà du rajeunissement de la peau, y compris la restauration des cheveux et la révision des cicatrices, ce qui offre de nouvelles sources de revenus.</li><li>Tourisme médical : Des traitements abordables et de haute qualité dans des régions comme l’Asie-Pacifique et l’Amérique latine peuvent attirer des patients internationaux.</li><li>Les partenariats entre les entreprises de biotechnologie, les cliniques et les sociétés scientifiques telles que le London Regenerative Institutes, la Mayo Clinic ou le MIT peuvent accélérer le développement de produits et la mise sur le marché.</li><li>Exploiter l’énorme potentiel de croissance des produits de beauté et des produits régénérateurs et anti-âge ingérables, comme l’a démontré la repousse des cheveux avec le succès explosif de Nutrafol, un produit à base d’exosomes destiné à la repousse des cheveux.</li><li>Nouvelles technologies permettant d’améliorer les profils de sécurité et de pureté, telles que l’hybridation (ex : Morphiya).</li></ul>"
+      },
+      "p6": {
+        "title": "Les défis",
+        "content": "<ul><li>Coûts élevés : La complexité de la fabrication des exosomes rend les traitements coûteux, ce qui limite encore leur accessibilité.</li><li>Obstacles réglementaires : L’incohérence et l’évolution des réglementations retardent les approbations et l’entrée sur le marché.</li><li>Complexité de la conception, du développement et de la mise à l’échelle de la fabrication du prochain Saint Graal de la médecine régénérative : les exosomes recombinants synthétiques.</li><li>Préoccupations en matière de sécurité et d’éthique : Des données de sécurité à long terme et des pratiques d’approvisionnement éthiques sont nécessaires pour gagner la confiance des consommateurs.</li><li>Concurrence : Les thérapies par exosomes sont confrontées à la concurrence de traitements esthétiques bien établis tels que les toxines botuliques et les produits de comblement dermique.</li></ul>"
+      },
+      "p7": {
+        "title": "Conclusion",
+        "content": "<p>Le marché des exosomes en esthétique régénérative promet une forte croissance, porté par l’innovation et la demande croissante. Malgré certains défis, leur association avec des technologies comme les lasers et la radiofréquence ouvre la voie à des résultats transformateurs et personnalisés.</p>"
+      }
+    },
+    "Hugues_Cartier": {
+      "h1": "UNE COLLABORATION AU SERVICE DE L’INNOVATION ",
+      "abstract": "UNE COLLABORATION AU SERVICE DE L’INNOVATION ",
+      "author": "AVEC LE DR HUGUES CARTIER & LE DR SÉBASTIEN GARSON",
+      "cta_text": "Découvrir le congrès IMCAS",
+      "tags": {
+        "t1": {
+          "title": "Chirurgie esthétique"
+        },
+        "t2": {
+          "title": "Médecine esthétique"
+        }
+      },
+      "img_alt": "Hugues Cartier et Sébastien Garson portrait",
+      "p1": {
+        "title": "Dr Hugues Cartier & Dr Sébastien Garson",
+        "content": "<p>Le Dr Hugues Cartier est dermatologue au sein d’un centre médical avec un département d’études cliniques, assisté par une équipe de jeunes dermatologues. Il exerce également comme Praticien Hospitalier Attaché au Centre Hospitalier d’Arras.</p><p>Ancien président de la Société Française des Lasers en Dermatologie, il est aujourd’hui vice-président de la Société Française de Médecine Esthétique et membre de l’EADV ainsi que de la Royal Society of Medicine. Il est également Directeur Scientifique des congrès IMCAS, un événement majeur en dermatologie et médecine esthétique.</p><p>Le Dr Sébastien Garson est un chirurgien plasticien exerçant à Senlis. Ancien président de la SOFCEP (Société Française des Chirurgiens Esthétiques Plasticiens), il occupe actuellement les fonctions de vice-président de la SNCPRE (Syndicat National de Chirurgie Plastique Reconstructrice et Esthétique) et de président de Plastirisq.</p><p>Reconnu à l’international, il est membre de l’ISAPS, de l’ASPS, de la SOFCEP et de la SOFCPRE. Il assure également le rôle de Directeur Scientifique des congrès IMCAS.</p>"
+      },
+      "p2": {
+        "title": "Pourriez-vous nous faire part des origines de votre vocation pour vos spécialités respectives ? Y a-t-il eu un moment déterminant ou un événement particulier qui a déclenché cette passion ?",
+        "content": "<p><b>HC :</b> La conjonction d’un père dermatologue, membre fondateur de l’International Society of Dermatologic Surgery, pilier de la SFME dès ses débuts, pour l’envie de créer, et une mère docteure en histoire, pour l’envie de transmettre.</p><p> <b>SG :</b> Un père pilote de chasse, donc peut-être le goût du risque, mais calculé, une mère dentiste, pour la précision.</p><p> <b>HC & SG :</b> C’est classique de dire qu’il ne faut pas oublier son passé pour construire son futur, mais dans nos cas respectifs, ça a du sens.</p>"
+      },
+      "p3": {
+        "title": "Vous êtes aujourd’hui co-directeurs scientifiques de l’IMCAS, qu’est-ce que cela signifie pour vous ? Et comment vos spécialités (dermatologie et chirurgie plastique) se complètent-elles dans votre travail au sein de l’IMCAS ?",
+        "content": "<p><b>HC :</b> En 2019, lorsque Benjamin Ascher et Sonia Ascher me demandent de devenir coordinateur scientifique, je suis resté incrédule. Même si j’ai été président du groupe laser (SFLD), puis vice-président de la SFME, je suis resté dans la sphère nationale. Je connais Benjamin depuis plus de 20 ans et il a été un des premiers à me passer le micro pour m’exercer vers une dimension internationale. Ça ne s’oublie pas.<br></br>Pour l’anecdote, ma première présentation, je l’ai faite en français et même si l’IMCAS n’était pas ce qu’il est devenu aujourd’hui… Peu de monde m’a compris à cette époque. Mon anglais s’est un peu amélioré, et je me rassure en me disant que le 'Frenglish' fait son charme. Je ne connaissais pas Sébastien, je n’avais aucune idée de son caractère, de ses idées, mais je dois dire que depuis presque 5 ans, il y a du respect et de l’amitié. On est passés de 9000 médecins à Paris à presque 20 000, donc j’imagine que l’alchimie fonctionne. Mais cette envie de bien faire, c’est possible car il y a une équipe IMCAS qui fait un travail incroyable avec et pour nous. L’équipe a été remaniée ces dernières années avec des jeunes polyglottes qui ont l’envie et des piliers qui stabilisent cette machine.</p><p><b>SG :</b> Je sortais de la présidence de la SOFCEP pour devenir président du Syndicat des chirurgiens plasticiens. C’était une opportunité pour découvrir d’autres horizons. Vingt ans à côtoyer Benjamin, ça noue des liens. Et j’ai écouté un de ses nombreux conseils, intégrer le laboratoire d’anatomie du Fer à Moulin. Quand on voit le succès des sessions d’anatomie aux congrès de l’IMCAS, je n’ai aucun regret !</p>"
+      },
+      "p4": {
+        "title": "L’IMCAS est reconnu comme une référence scientifique internationale dans le domaine de la médecine esthétique. Comment l’édition 2025 va-t-elle consolider cette réputation et mettre en lumière les défis actuels et futurs de la médecine esthétique ?",
+        "content": "<p><b>HC :</b> En préambule, je veux dire que l’IMCAS est un congrès de médecins pour des médecins. C’est un événement indispensable pour les laboratoires et toute la communauté qui porte la dermatologie, la chirurgie et la médecine esthétique dans son ensemble. Pour avoir de bonnes idées, il faut créer l’atmosphère qui va avec. C’est nouer des partenariats avec les sociétés savantes du monde entier, et c’est loin d’être facile. C’est observer les tendances, lire les articles, voir ce qui se dit dans les médias. C’est s’entourer de médecins passionnés qui font que l’équipe IMCAS, ce n’est pas moi ni Sébastien, mais un ensemble de médecins qui contribuent à son succès.<br></br>Je suis dermatologue et je la pratique dans son ensemble, et pas seulement autour des lasers et des injectables. Le fait de garder un pied dans la dermatologie esthétique et l’autre dans la dermatologie dite médicale, est un atout pour la communauté. Cela me permet de garder (enfin, j’essaye) une vision plus large. Il faut regarder le programme : diversité, éclectisme, innovation !</p><p><b>SG :</b> Pour Paris, c’est plus de 1000 orateurs et plus de 300 sessions. C’est absolument incroyable et souvent on en sort frustré car on doit faire des choix, et le temps semble se contracter sur les 3 jours. Si vous ajoutez les autres événements satellites, plus petits que Paris mais très dynamiques : Bangkok, São Paulo, et en 2025, on ajoute Shanghai et Bombay… Il est facile de comprendre la dynamique.</p><p><b>HC :</b> Cinq événements, c’est déjà bien afin de ne pas assécher les sujets, de ne pas répéter les mêmes choses et de ne pas écouter les mêmes orateurs. Mais nous avons d’autres idées de développement. Quand on ajoute l’alerte IMCAS, qui est devenu un must-have pour les médecins qui souhaitent avoir des avis rapides et confraternels du monde entier en quelques minutes. C’est une vraie communauté, un bien précieux pour tous et pourtant gratuit à utiliser.</p>"
+      },
+      "p5": {
+        "title": "Vous êtes également très impliqué dans la recherche. Qu’est-ce qui vous motive à continuer d’explorer et d’innover dans ce domaine ?",
+        "content": "<p><b>HC :</b> Je suis un praticien, alors la vraie recherche, j’en suis loin. Mais faire des sessions, mettre en avant les start-ups (Shark Tank ou Magic Wand), pousser les nouvelles technologies comme l’échographie, la dermoscopie, la microscopie optique, sans parler de l’IA… On ne se donne pas de limites, sauf éthique et morale. Placer en session des chercheurs qu’on fait sortir de leurs laboratoires, c’est une gageure. J’estime une bonne session quand on a 1/3 de pratique pragmatique, 1/3 de science et 1/3 de surprise qui réveille tout le monde. Les laboratoires qui organisent des symposia ont aussi cette tendance à aller plus loin. Leur qualité scientifique s’est indéniablement améliorée et c’est même devenu un challenge pour nous.</p><p><b>SG :</b> Après 25 ans d’existence, on a pensé qu’il était temps de créer un climat propice au développement de la recherche dans notre domaine. C’est l’IMCAS Fund ! Cette fondation portée par Séverine Dubarry-Bardon (merci !) et sur une idée déjà ancienne de Benjamin et Serge Mordon (merci !!), et nous deux, nous en sommes très fiers. Tous médecins et tous laboratoires peuvent y contribuer en faisant des dons. Nous avons monté une équipe scientifique indépendante, qui devra choisir parmi les plus de 80 projets que nous avons reçus ! C’est un succès qu’il faut faire perdurer et on aime ça.</p>"
+      },
+      "p6": {
+        "title": "Pensez-vous que l’intelligence artificielle pourra transformer la façon dont nous diagnostiquons, traitons et personnalisons les soins pour les patients ?",
+        "content": "<p><b>HC :</b> C’est une évidence. Nous ne mesurons pas encore les effets de l’IA dans notre pratique quotidienne. Pour ma part, l’aide au diagnostic des cancers cutanés, la datation de la peau avec l’IA comme aide aux outils diagnostiques, je l’utilise déjà. Ça fait rire ou au contraire peur à mes patients. Annoncer une mauvaise nouvelle au patient ou laisser décider l’IA pour 'Botoxer' au bon endroit, il y a encore un pas à franchir. Le rapport humain avec une explication claire et loyale est, je l’espère, irremplaçable pour encore longtemps. Je suis juste un peu inquiet des données qui vont être aspirées, mâchées, analysées encore plus vite que ce qu’on vit aujourd’hui. Vivre avec un avatar, dans un monde uniforme, je n’y crois pas non plus, en tout cas pas tout de suite. Les gens se font déjà un monde à eux avec les médias sociaux, mais après l’addiction, il y a très souvent un retour sur terre. Paradoxalement, je crois que si on ne parle que d’esthétique pure, l’IA pourrait même apporter un toucher singulier à nos pratiques actuelles qui semblent un peu trop s’uniformiser selon les tendances, la mode, les pays, les âges… (Grosse bouche, etc.) </p><p><b>SG :</b> L’IA, le nouveau défi. Un véritable défi sociétal qui n’épargne pas la médecine. Sous prétexte de manque de médecins, d’accessibilité aux soins, nos tutelles, bercées par les sirènes des start-ups, imaginent avoir trouvé la solution pour offrir une vraie qualité de soin, à croire que la communauté médicale était un serial killer jusqu’à présent. Cet écosystème à forte appétence financière a totalement été coopté par les non-médecins. Les propriétaires sont les acteurs de la future organisation des soins. La promesse d’une aide à la difficulté de travail du corps médical est réelle, mais son utilisation risque d’être plus agressive. Des spécialités sont déjà sur la sellette : la radiologie et l’oncologie. Il restera juste un médecin pour assumer la responsabilité médico-légale. Un autre risque pourrait être la perte de la transmission de la connaissance de la médecine elle-même. Plus besoin de l’apprendre, l’IA y pourvoira…</p>"
+      },
+      "p7": {
+        "title": "Comment abordez-vous les enjeux éthiques liés aux innovations technologiques et aux nouvelles pratiques dans le domaine ?",
+        "content": "<p><b>SG :</b> 'Science sans conscience n’est que ruine de l’âme…'. Nous avons assisté dans notre domaine à une véritable explosion d’offres technologiques ces vingt dernières années, souvent avec bonheur et parfois pas. Souvent, le statut même de dispositif médical rend nos patients les cobayes d’un traitement. Nos patients ne sont pas des cobayes, il est donc préférable de prendre un certain recul, bien analyser et ne pas se précipiter. Le message purement commercial, certes bien rôdé, n’est pas toujours bon conseiller. Dans une autre mesure, l’aspect financier peut pousser à chercher une rentabilité maximale, quitte à pousser certaines indications, rompant par la même notre vrai rôle de thérapeute et de conseil. <br></br><br></br>Cet aspect est également encouragé par les structures qui hébergent ces plateaux techniques. Une tendance significative de rachat par des acteurs financiers des plateaux techniques s’accompagne de cette nouvelle tendance, métamorphosant le médecin en prestataire de soin et surtout en fusible médico-légal. En clair, la structure profite de l’acte en réduisant la rémunération du médecin, qui porte néanmoins la responsabilité médicale de pratiques parfois limites, favorisant l’émergence de la sinistralité. <br></br><br></br>Dans un registre différent, nous assistons à une distorsion de communication où les structures, à coup de réseaux sociaux, rabattent des patients, ces derniers ne connaissant pas leur médecin. Le sacro-saint bouche-à-oreille est de plus en plus attaqué par des systèmes qui veulent s’affranchir de cette relation privilégiée entre un patient et son médecin. La tendance a été bien comprise, le corps médical sera-t-il à même de préserver l’excellence de la prise en charge ? L’avenir nous le dira. </p><p><b>HC :</b> Relire 'If' de Kipling de temps en temps et suivre notre serment d’Hippocrate, ça paraît simpliste mais toujours actuel.</p>"
+      }
+    },
+    "Diala_Haykal": {
+      "h1": "L'ALLIANCE SOIN & INNOVATION",
+      "abstract": "LA SYNERGIE ENTRE EXFOLIATION ET HYDRATATION EST UNIQUE",
+      "author": "Par Dr Diala Haykal",
+      "cta_text": "Découvrir Hydrafacial",
+      "tags": {
+        "t1": {
+          "title": "Médecine esthétique"
+        }
+      },
+      "img_alt": "Dr Diala Haykal portrait",
+      "p1": {
+        "title": "Dr Diala Haykal",
+        "content": "<p>Dr Diala Haykal est une médecin reconnue, spécialisée en esthétique et en lasers, dirigeant un centre médical privé en France.</p><p>Animée par une curiosité insatiable et un engagement envers l’innovation, elle a obtenu des diplômes avancés en médecine esthétique et en technologies laser, et a été distinguée à trois reprises par la Société Française de Dermatologie Laser (SFLD), témoignant de sa passion et de son expertise.</p><p>Reconnue à l’international, elle intervient régulièrement dans des congrès mondiaux sur la dermatologie esthétique, les technologies laser et l’intelligence artificielle appliquée à la santé. En parallèle, elle collabore avec des entreprises cosmétiques en tant qu’experte-conseil. Son travail de recherche est également jalonné de nombreuses publications scientifiques internationales et elle occupe le rôle de rédactrice associée pour le Journal of Cosmetic Dermatology, où elle supervise des études novatrices.</p><p>Dans sa pratique quotidienne, le Dr Haykal s’appuie sur des collaborations avec des experts de renom, intégrant des traitements innovants qui repoussent les limites de la médecine esthétique. Sa mission ? Inspirer les autres en prouvant que la détermination et l’apprentissage continu sont les clés de l’excellence dans ce domaine en constante évolution.</p>"
+      },
+      "p2": {
+        "title": "Votre parcours international vous a permis de développer des protocoles uniques combinant des technologies innovantes venues des quatre coins du monde. Quel est le traitement incontournable que vous intégrez le plus souvent dans votre prise en charge des patients ?",
+        "content": "<p>Mon approche en médecine esthétique s’articule autour de la prise en charge globale de la santé de la peau, avec l’hydradermabrasion comme traitement phare de mon arsenal, notamment pour le renforcement de la barrière cutanée. Ce traitement s’intègre dans des protocoles combinés où il est associé à d’autres soins médico-esthétiques, garantissant ainsi une synergie thérapeutique optimale pour répondre aux besoins spécifiques de chaque patient.</p>"
+      },
+      "p3": {
+        "title": "Pouvez-vous nous expliquer ce qu’est l’hydradermabrasion et en quoi elle se distingue des autres techniques d’exfoliation cutanée ?",
+        "content": "<p>L’hydradermabrasion est une technique avancée et non invasive qui permet de nettoyer, exfolier et nourrir la peau en une seule séance. Contrairement aux méthodes classiques d’exfoliation comme les peelings chimiques ou la microdermabrasion, cette technologie utilise des sérums infusés dans la peau, garantissant une exfoliation contrôlée, sans irritation. La synergie entre exfoliation et hydratation est unique, surtout pour des patients avec des peaux sensibles ou atopiques.</p>"
+      },
+      "p4": {
+        "title": "Quelles sont les principales indications pour lesquelles vous recommandez l’hydradermabrasion dans vos protocoles médicaux ? ",
+        "content": "<p>L’hydradermabrasion est idéale dans les cas suivants :</p> <ul> <li>Texture irrégulière et teint terne</li> <li>Points noirs, pores dilatés</li> <li>Acné légère à modérée</li> <li>Préparation de la peau avant un événement spécial</li> <li>Synergie et combinaison des traitements</li> </ul> <p>Je l’intègre souvent avec des technologies complémentaires :</p> <ul> <li>Photothérapie LED</li> <li>Injections d’acide hyaluronique</li> <li>Lasers non ablatifs et ablatifs</li> </ul> <p>Une étude publiée en décembre 2022 dans le Journal of Clinical and Aesthetic Dermatology (JCAD) a évalué l’efficacité et la tolérabilité des traitements Hydrafacial® Clarifying chez des patients atteints d’acné légère à modérée. Menée sur 20 participants âgés de 19 à 48 ans, l’étude a mis en évidence des résultats significatifs après un protocole de six séances réalisées toutes les deux semaines.</p> <p>Chaque session comprenait une exfoliation, une extraction des impuretés et l’application de sérums spécifiques, suivies d’une thérapie par lumière LED bleue ciblant les bactéries responsables de l’acné. Les résultats ont montré une amélioration notable de la sévérité de l’acné pour 100 % des participants, avec une réduction des lésions et de l’inflammation, tout en augmentant la satisfaction et la confiance des patients dans leur apparence, passant de 40 % après la première séance à 100 % à la fin de la cure. Bien toléré, sans effets secondaires majeurs, ce protocole renforce l’efficacité d’Hydrafacial® Clarifying comme solution innovante et sûre pour traiter l’acné tout en améliorant la qualité de vie des patients.</p>"
+      },
+      "p5": {
+        "title": "Quel équipement d’hydradermabrasion utilisez-vous dans votre pratique et pourquoi ?",
+        "content": "<p>J’utilise principalement l’Hydrafacial®, un dispositif reconnu pour sa précision et son efficacité. Ses points forts incluent :</p> <ul> <li>Technologie brevetée Vortex-Fusion® qui combine exfoliation, extraction et infusion de sérums en un seul geste.</li> <li>Système conçu avec une tubulure double et un circuit unidirectionnel qui permet d’éliminer le risque de transmission des microparticules et des cellules cutanées d’un patient à l’autre.</li> <li>Options personnalisées : peelings aux concentrations ajustables et boosters ciblés pour des besoins spécifiques (anti-âge, éclat, acné).</li> <li>Une expérience agréable pour les patients.</li> </ul>"
+      },
+      "p6": {
+        "title": "Quels sont les retours de vos patients sur les soins Hydrafacial® ?",
+        "content": "<p>Mes patients sont ravis ! Voici quelques exemples de retours que j’ai eu récemment :</p> <ul> <li>Léa, 37 ans : « Après ma première séance, j’ai ressenti une différence immédiate. Ma peau était incroyablement lisse et hydratée. »</li> <li>Sophie, 43 ans : « Je souffrais de pores dilatés et d’un teint terne. Avec Hydrafacial combiné à des LED, ma peau semble plus lumineuse ! »</li> </ul>"
+      },
+      "p7": {
+        "title": " ",
+        "content": " "
+      }
+    },
+    "Simone_La_Padula": {
+      "h1": "Une nouvelle approche du rajeunissement",
+      "abstract": "LE RAJEUNISSEMENT PÉRI-ORBITAIRE FIGURE PARMI LES INTERVENTIONS LES PLUS PRISÉES EN CHIRURGIE ESTHÉTIQUE",
+      "author": "Avec le Pr Simone La Padula",
+      "cta_text": "Découvrir le Pr La Padula",
+      "tags": {
+        "t1": {
+          "title": "Chirurgie esthétique"
+        }
+      },
+      "img_alt": "Pr Simone La Padula portrait",
+      "p1": {
+        "title": "Pr Simone La Padula",
+        "content": "<p>Le Professeur Simone La Padula est un spécialiste renommé en Chirurgie Plastique, Reconstructrice et Esthétique, exerçant au CHU de l’université Federico II de Naples où il est professeur associé. Il est également directeur du Master de Microchirurgie, du Diplôme Universitaire de Chirurgie du Sein et enseigne au Master de Médecine Esthétique.</p><p>Après huit années passées au CHU Henri Mondor à Paris, il a perfectionné des techniques avancées en chirurgie esthétique du visage, du sein et de la silhouette, ainsi qu’en reconstruction mammaire avec des méthodes de microchirurgie innovantes, telles que le lambeau DIEP.</p><p>Chercheur et enseignant engagé, le Professeur La Padula participe régulièrement à des conférences internationales, publie dans des revues scientifiques et forme des jeunes chirurgiens plasticiens.</p><p>Avec une approche centrée sur le patient, il privilégie des résultats naturels et harmonieux, en adaptant chaque soin aux besoins individuels. Très actif sur Instagram, il partage également son expertise et reste proche de son public.</p>"
+      },
+      "p2": {
+        "title": "Mon expérience avec une nouvelle technique chirurgicale de rajeunissement péri-orbitaire-temporale et du sourcil.",
+        "content": "<p>Le rajeunissement péri-orbitaire figure parmi les interventions les plus prisées en chirurgie esthétique. Les patients concentrent souvent leur attention sur les paupières, sans considérer que le processus de vieillissement de la région péri-orbitaire résulte d’une combinaison de plusieurs facteurs interconnectés.</p><p>Ces facteurs affectent non seulement les paupières, mais également les sourcils, la région canthale latérale, la jonction paupière-joue et la zone malaire. Le rôle du muscle orbiculaire de l’œil (MOO), dont l’affaiblissement progressif et la ptôse sont des éléments déterminants, est central dans ces changements. De nombreux auteurs ont souligné l’importance de traiter le MOO dans le cadre du rajeunissement péri-orbitaire. Certains ont proposé diverses techniques de suspension de l’orbiculaire, tandis que d’autres ont décrit des résections partielles du muscle.</p><p>Dans cet article, je vous présente une technique de lifting du sourcil par une approche temporale sous-cutanée combinée à un lambeau du MOO. Cette technique, décrite par Michele Pascali, un chirurgien italien renommé dans le domaine du rajeunissement facial, intègre une dissection sous-orbiculaire permettant de libérer la région canthale latérale, le complexe ligamentaire orbiculaire (Orbicularis Retaining Ligament - ORL), le ligament de la vallée des larmes (Tear Trough Ligament - TTL) et le ligament zygomatique. Cette méthode offre des résultats nettement supérieurs à ceux d’un lifting temporal standard. J’ai intégré cette technique dans ma pratique il y a quelques mois et les résultats obtenus sont impressionnants.</p><p>Plus précisément, il s’agit d’une approche modifiée et étendue du lifting temporal, baptisée Temporal MORE (Modified Orbicularis REpositioning) par son auteur Michele Pascali.</p>"
+      },
+      "p3": {
+        "title": "Technique chirurgicale",
+        "content": "<p>Il est essentiel de réaliser les marquages préopératoires avec le patient debout avant l’intervention.</p><ul><li><b>Marquage :</b> La région à lifter est marquée avec des flèches indiquant le vecteur de repositionnement des tissus. Cette étape est cruciale pour simuler le résultat final de l’intervention en ajustant manuellement la région ciblée. Cette technique peut être combinée à un lifting deep plane sans difficulté (comme dans le cas de cette patiente).</li><li><b>Décollement sous-cutané :</b> Le décollement est préconisé au préalable et limité entre les lignes des marquages préopératoires. L’incision est placée au niveau de la ligne précapillaire ou légèrement postérieure pour être discrète, idéalement en zigzag.</li><li><b>Dissection sous-cutanée & sous-orbiculaire :</b> La dissection commence avec un bistouri électrique, puis se poursuit avec des ciseaux après environ 1 cm pour minimiser les dommages thermiques au rameau frontal du nerf facial, situé plus profondément dans la fascia temporale superficielle. Après avoir soulevé le lambeau du MOO sur un plan prépériosté, la dissection peut être étendue médialement jusqu’au rebord orbitaire latéral. Cette étape permet une libération complète de la raphé latérale et de la composante superficielle du système canthal latéral (ligament canthal).</li></ul><p>Le repositionnement supero-latéral du lambeau du MOO permet une canthopexie dynamique « indirecte », capable de relever le canthus de 2 à 3 mm. De la même manière, la dissection se poursuit inféro-médialement le long du rebord orbitaire inférieur, libérant le ligament orbiculaire (ORL). En cas de creusement marqué du sillon naso-jugal, la dissection peut être étendue au ligament de la vallée des larmes (TTL).</p><p>La dissection se poursuit ensuite à travers l’espace pré-zygomatique jusqu’à la visualisation du muscle zygomatique majeur, après section du ligament de rétention zygomatique (si un lifting deep plane est réalisé simultanément, cette manœuvre est incluse dans les premières étapes de ce lifting).</p>"
+      },
+      "p4": {
+        "title": "Suspension du lambeau",
+        "content": "<p>La technique Temporal MORE implique nécessairement l’inclusion de la portion supérieure du SMAS zygomatique (jusqu’à 1,5-2 cm) dans le lambeau, qui devient ainsi un lambeau combiné MOO/SMAS. Ce lambeau est suspendu supero-latéralement à l’aide de plusieurs points de suture (Vicryl 4/0 ou PDS 4/0) fixant le lambeau aux tissus profonds.</p><ul><li>Point supérieur (11 heures) : soulève la queue du sourcil.</li><li>Point intermédiaire (9 heures) : repositionne le canthus latéral.</li><li>Point inférieur (7 heures) : corrige la jonction paupière-joue et la région malaire.</li></ul><p>Une légère surcorrection est nécessaire pour compenser le relâchement attendu des tissus dans les 2 à 3 semaines suivant l’intervention. La dernière étape consiste à gérer l’excès cutané. La couche sous-cutanée est rapprochée avec des points séparés en Monocryl 5/0. La fermeture cutanée est réalisée avec une suture continue en Prolène 6/0. En cas de traction importante des tissus, un excès cutané peut apparaître dans la partie inférieure de l’incision. Dans ce cas, l’incision peut être prolongée jusqu’à la région tragale (comme pour une incision de lifting cervico-facial) pour éliminer toute formation de « dog ear ».</p><p>À la fin de l’intervention, j’utilise le « NET hémostatique » en Prolène 4/0 ou 5/0 pour prévenir la formation d’hématomes, suivant la même technique que celle utilisée pour le lifting deep plane cervico-facial. Ces filets sont retirés 48 heures après l’intervention.</p>"
+      },
+      "p5": {
+        "title": "Blépharoplastie supérieure : précautions essentielles",
+        "content": "<p>En cas de blépharoplastie supérieure associée, il est primordial de ne pas prolonger excessivement le modèle d’excision cutanée vers l’extérieur. En effet, le repositionnement supero-latéral des tissus engendre un déplacement significatif de l’extrémité latérale de l’incision. De plus, la plupart de l’excès de peau latéral à la paupière supérieure est déjà corrigé par le lifting de la queue du sourcil. Ainsi, le marquage préopératoire doit être effectué avec le patient en position debout, tout en maintenant manuellement le sourcil en suspension pour simuler le résultat final.</p>"
+      },
+      "p6": {
+        "title": "Gestion des excès cutanés de la paupière inférieure",
+        "content": "<p>Pour la paupière inférieure, l’excès cutané ne peut être évalué avec précision qu’après le repositionnement du lambeau MOO/SMAS. En effet, l’élévation de la jonction paupière-joue et la réduction de la hauteur de la paupière inférieure peuvent entraîner une accumulation cutanée dans cette région. Dans de tels cas, une excision cutanée peut être nécessaire. La gestion de cet excès suit les étapes suivantes :</p> <ol><li>Une incision sous-ciliaire est réalisée.</li><li>Un lambeau cutané est soulevé.</li><li>L’excès est retiré, généralement entre 2 et 4 mm.</li></ol><p>Cette procédure est réalisée en toute sécurité grâce à la mise en tension du MOO après la libération des complexes ORL/TTL, qui offre une stabilité et un support suffisants à la paupière inférieure.</p>"
+      },
+      "p7": {
+        "title": "Remodelage du muscle orbiculaire et des poches graisseuses",
+        "content": "<p>En cas de redondance ou de protrusion de la portion prétarsale du muscle orbiculaire, observée chez certains patients, un remodelage conservateur du muscle peut être effectué pour affiner le résultat esthétique.</p><p>Lorsque des poches graisseuses sont présentes au niveau de la paupière inférieure, un remodelage est parfois nécessaire. Dans ces cas, une approche transconjonctivale est privilégiée et réalisée avant le début de la technique Temporal MORE, assurant une correction efficace et harmonieuse.</p><p>L’aspect le plus gratifiant de la technique Temporal MORE est le rajeunissement spectaculaire de la région péri-orbitaire et du tiers supérieur du visage, tout en préservant l’identité naturelle du patient. Cet avantage est particulièrement apprécié, tant par les chirurgiens que par les patients eux-mêmes.</p><p>Comme l’a indiqué le Dr Pascali, en cas de cicatrice temporale hypertrophique post-opératoire, celle-ci peut être efficacement traitée avec des injections de corticostéroïdes et un laser fractionné au CO₂.</p>"
+      },
+      "p8": {
+        "title": " ",
+        "content": "<imgContainer><divImg><img>/pr_la_padula/before.jpg</img><pImg>Avant</pImg></divImg><divImg><img>/pr_la_padula/right-side-treated.jpg</img><pImg>Côté droit terminé & côté gauche non traîté</pImg></divImg><divImg><img>/pr_la_padula/after.jpg</img><pImg>Après</pImg></divImg></imgContainer>"
+      },
+      "p9": {
+        "title": "Un avantage majeur de la technique Temporal MORE",
+        "content": "<p>L’un des principaux atouts de la technique Temporal MORE réside dans la possibilité de repositionner le canthus latéral sans nécessiter une intervention directe sur la région palpébrale.</p><p>En prolongeant la dissection sous-orbiculaire et en libérant la composante superficielle du système canthal latéral (ligament canthal), la suspension supero-latérale du lambeau orbiculaire permet d’obtenir un effet de canthopexie dynamique. Cette mise en tension indirecte élimine souvent la nécessité de suspendre directement le canthus latéral au rebord orbitaire.</p><p>Cependant, la stabilité du canthus latéral et de la paupière inférieure doit toujours être soigneusement évaluée à l’aide de tests standard avant de procéder à cette technique, notamment si elle est associée à une blépharoplastie inférieure. En cas de laxité importante de ces structures, il est recommandé de réaliser une canthopexie directe. Si une élévation plus significative du canthus latéral (supérieure à 2-3 mm) est requise, il est nécessaire de libérer également la composante profonde du système canthal latéral (tendon canthal) et de procéder à une canthoplastie directe.</p>"
+      },
+      "p10": {
+        "title": "Mobilisation et rajeunissement tridimensionnel",
+        "content": "<p>La dissection étendue au complexe ligamentaire ORL/TTL permet une mobilisation en bloc supero-latérale de la jonction paupière-joue ainsi que des tissus de la paupière intérieure. Cela entraîne une mise en tension significative et un raccourcissement vertical de la paupière inférieure.</p><p>En prolongeant la dissection vers l’espace prézygomatique pour libérer le ligament zygomatique, une mobilisation supero-latérale des tissus mous malaires est obtenue. Cette approche restaure la proéminence malaire de manière tridimensionnelle et étend les bénéfices de la technique à la région médio-faciale.</p>"
+      },
+      "p11": {
+        "title": "Gestion des excès cutanés et remodelage des poches graisseuses",
+        "content": "<p>Si un excès cutané persiste au niveau de la paupière inférieure, il peut être corrigé par une incision sous-ciliaire, sans nécessiter d’intervention sur la portion palpébrale du MOO. En effet, la plupart des défauts sont déjà traités par l’approche latérale. Lorsque le septum orbitaire reste attaché au muscle orbiculaire, la traction supero-latérale du muscle tend également le septum, réduisant ainsi la protrusion des poches graisseuses post-septales, conformément au principe de « tension septale passive » décrit par Hester. Les poches graisseuses modérées peuvent donc être traitées de manière indirecte.</p><p>En revanche, en cas de poches graisseuses plus prononcées, une blépharoplastie transconjonctivale est préférée et réalisée avant de commencer la technique Temporal MORE.</p>"
+      },
+      "p12": {
+        "title": " Préservation des nerfs faciaux",
+        "content": "<p>Aucun dommage permanent aux branches frontotemporales ou zygomatiques du nerf facial n’a été observé dans cette série. Néanmoins, il est essentiel de connaître leur trajectoire :</p><ul><li><b>Branche frontale :</b> suit la ligne de Pitanguy, à environ 2,5-3 cm latéralement au rebord orbitaire. La dissection sous-orbiculaire débute toujours à 1,5 cm latéralement au rebord pour rester à une distance sûre.</li><li><b>Branche zygomatique :</b> passe sous le SMAS, parallèlement à l’arcade zygomatique, sous le muscle zygomatique majeur. Lors de la dissection au-delà des limites du MOO, il est crucial de rester au-dessus du muscle zygomatique majeur. Pour minimiser les risques de piégeage nerveux, des points résorbables (Vicryl 4/0) sont utilisés, et l’aiguille est passée parallèlement au trajet du nerf dans la fascia temporale superficielle.</li></ul>"
+      },
+      "p13": {
+        "title": "Récupération postopératoire",
+        "content": "<p>La technique offre une récupération rapide : un pansement compressif léger est maintenu pendant 24 heures, suivi uniquement de bandes adhésives sur les paupières pendant une semaine si nécessaire. Les ecchymoses sont minimes ou absentes, permettant aux patients de reprendre rapidement une vie sociale.</p>"
+      },
+      "p14": {
+        "title": "Une approche holistique",
+        "content": "<p>La technique Temporal MORE ne se limite pas aux défauts des sourcils et de la région temporale, comme dans un lifting temporal standard. Elle traite également les régions canthale latérale, palpébrale, la jonction paupière-joue et la région malaire, considérées comme une unité fonctionnelle dans le rajeunissement péri-orbitaire.</p>"
+      },
+      "p15": {
+        "title": "Conclusion",
+        "content": "<p>Entre des mains expertes, la technique s’est révélée simple, avec des résultats constants et reproductibles, une récupération postopératoire rapide et un faible taux de complications. La satisfaction des patients est remarquable, et les résultats sont en accord avec les évaluations des chirurgiens interrogés.</p>"
+      },
+      "p16": {
+        "title": "Bibliographie",
+        "content": "<p>Pascali M, Savani L, Gratteri M, Rega U, Marchese G, Persichetti P. ‘‘Temporal MORE (Modified Orbicularis Repositioning): going beyond the limits of temporal lifting’’. Plast Reconstr Surg. 2024 Sep 17. doi: 10.1097/ PRS.0000000000011752. Epub ahead of print. PMID: 39288448</p>"
+      },
+      "p17": {
+        "title": " ",
+        "content": "<bigImg>/pr_la_padula/final-result-prof-simone-la-padula-surgery-expertise.jpg</bigImg>"
       }
     }
   }

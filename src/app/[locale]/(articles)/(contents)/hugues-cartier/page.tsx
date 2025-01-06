@@ -1,6 +1,6 @@
 import Button from "@/app/components/buttons/Button";
-import logo from "@/app/img/articles/dr_adda/aerolase-logo-laser-elite-dr-adda.png";
-import header from "@/app/img/articles/dr_adda/dr-adda-aerolase-laser-elite.jpg";
+import header from "@/app/img/articles/hugues_cartier/doctors-cartier-hugues-garson-sebastien-imcas-heritage.jpg";
+import logo from "@/app/img/articles/hugues_cartier/imcas-congres-medecine-esthetique-chirurgie-plastique-dermatologie.png";
 import { useTranslations } from "next-intl";
 import Image from "next/image";
 
@@ -12,34 +12,35 @@ export async function generateMetadata({ params }: Params) {
   const locale = params.locale;
   if (locale === "en") {
     return {
-      title: "Dr. Adda | Interview on the Neo ELITE Aerolase Laser | HERITAGE",
+      title: "Dr Cartier & Dr Garson | IMCAS serves Innovation in Aesthetics",
       description:
-        "Discover Dr. Adda's exclusive interview on the NEO Elite laser, Aerolase's new device. (H)ERITAGE Magazine",
+        "Discover the interview with Doctors Cartier & Garson, scientific co-directors of the IMCAS congress. Working together to drive innovation.",
     };
   } else if (locale === "fr") {
     return {
-      title: "Dr Adda | Interview sur le Laser Neo ELITE Aerolase | HERITAGE",
+      title:
+        "Dr Cartier & Dr Garson | IMCAS au service de l’Innovation en Esthétique",
       description:
-        "Découvrez en exclusivité l’interview du Dr Adda sur le laser NEO Elite, le nouveau dispositif d’Aerolase. (H)ERITAGE Magazine",
+        "Découvrez l’interview des Docteurs Cartier & Garson, co-directeurs scientifiques du congrès IMCAS. Une collaboration au service de l’Innovation.",
     };
   }
 }
 
 export default function Article() {
-  const t = useTranslations("Articles.Dr_Adda");
-  const tags = ["t1"] as const;
-  const contents = ["p1", "p2", "p3", "p4", "p5"] as const;
+  const t = useTranslations("Articles.Hugues_Cartier");
+  const tags = ["t1", "t2"] as const;
+  const contents = ["p1", "p2", "p3", "p4", "p5", "p6", "p7"] as const;
   return (
     <div>
       <section className="myContainer lg:space-x-16 full-screen max-lg:flex max-lg:flex-col-reverse max-lg:gap-10 lg:grid lg:grid-cols-5 text-mainBlue">
-        <div className="lg:col-span-2">
+        <div className="lg:col-span-2 relative size-full">
           <Image
             priority
             placeholder="blur"
             src={header}
             alt={t("img_alt")}
             title={t("img_alt")}
-            className="size-full max-md:h-[400px] max-lg:h-[550px] object-cover object-top max-lg:m-auto"
+            className="lg:absolute lg:top-0 lg:left-0 size-full max-md:h-[400px] max-lg:h-[550px] object-cover object-top max-lg:m-auto"
           />
         </div>
 
@@ -67,7 +68,7 @@ export default function Article() {
             </div>
 
             <div>
-              <Button link="https://aerolase.com/fr/" target="_blank">
+              <Button link="https://www.imcas.com/en" target="_blank">
                 {t("cta_text")}
               </Button>
             </div>
@@ -83,16 +84,16 @@ export default function Article() {
         {/* Pub */}
         <div className="col-span-2">
           <a
-            href="https://aerolase.com/fr/"
+            href="https://www.imcas.com/en"
             target="_blank"
-            title="La marque Olivier Claire"
+            title="IMCAS"
             className="lg:sticky lg:top-[35%] flex flex-col items-center gap-4"
           >
             <Image
               src={logo}
-              alt="Logo Olivier Claire"
-              title="Logo Olivier Claire"
-              className="size-full max-h-[200px] max-lg:max-w-[450px] object-contain m-auto"
+              alt="IMCAS"
+              title="IMCAS"
+              className="size-full max-h-[350px] max-lg:max-w-[450px] object-contain m-auto"
             />
             <span className="lg:hidden text-orange uppercase font-sfPro font-light">
               {t("cta_text")} +
@@ -107,11 +108,26 @@ export default function Article() {
               <h3 className="font-sfPro font-semibold text-base lg:text-lg">
                 {t(`${key}.title`)}
               </h3>
-              <p className="font-sfPro font-light text-base">
-                {t.rich(`${key}.content`, {
-                  br: () => <br />,
-                })}
-              </p>
+              {t.rich(`${key}.content`, {
+                br: () => <br />,
+                p: (chunk) => (
+                  <p className="font-sfPro font-light text-base">{chunk}</p>
+                ),
+                b: (chunk) => (
+                  <strong className="font-sfPro font-bold text-base">
+                    {chunk}
+                  </strong>
+                ),
+                h4: (chunk) => (
+                  <h4 className="font-sfPro font-bold text-base">{chunk}</h4>
+                ),
+                ul: (chunk) => (
+                  <ul className="font-sfPro font-light text-base list-disc ml-6">
+                    {chunk}
+                  </ul>
+                ),
+                li: (chunk) => <li>{chunk}</li>,
+              })}
             </div>
           ))}
         </div>
