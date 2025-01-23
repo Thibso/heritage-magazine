@@ -1,6 +1,6 @@
 import Button from "@/app/components/buttons/Button";
-import logo from "@/app/img/articles/julien_vervel/agence-web-communicationmedecin-paris.png";
 import header from "@/app/img/articles/simone_lapadula/la-padula-simone-professor-plastic-surgery-heritage.jpg";
+import logo from "@/app/img/articles/simone_lapadula/simone-la-padula-plastic-surgery-professor.png";
 import { useTranslations } from "next-intl";
 import Image from "next/image";
 
@@ -85,7 +85,10 @@ export default function Article() {
             </div>
 
             <div>
-              <Button link="https://windome-banking.com/fr/" target="_blank">
+              <Button
+                link="https://www.profsimonelapadula.com/en"
+                target="_blank"
+              >
                 {t("cta_text")}
               </Button>
             </div>
@@ -101,7 +104,7 @@ export default function Article() {
         {/* Pub */}
         <div className="col-span-2">
           <a
-            href="https://windome-banking.com/fr/"
+            href="https://www.profsimonelapadula.com/en"
             target="_blank"
             title="Pr Simone La Padula"
             className="lg:sticky lg:top-[35%] flex flex-col items-center gap-4"
