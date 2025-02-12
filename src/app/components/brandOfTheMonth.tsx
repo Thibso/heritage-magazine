@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import logo from "../img/hydrafacial-partner-heritage-magazine-aesthetic.png";
+import logo from "../img/vivacy-logo-official.webp";
 
 export default function BrandOfTheMonth() {
   return (
@@ -10,23 +10,26 @@ export default function BrandOfTheMonth() {
         <ul className="flex items-center justify-center md:justify-start [&_img]:max-w-[200px] lg:[&_img]:max-w-[400px] animate-infinite-scroll">
           <li>
             <Image
-              className="h-[18px] lg:h-[20px] object-contain"
+              className="h-[18px] lg:h-[24px] object-contain"
               src={logo}
               alt=""
+              quality={100}
             />
           </li>
           <li>
             <Image
-              className="h-[18px] lg:h-[20px] object-contain"
+              className="h-[18px] lg:h-[24px] object-contain"
               src={logo}
               alt=""
+              quality={100}
             />
           </li>
           <li>
             <Image
-              className="h-[18px] lg:h-[20px] object-contain"
+              className="h-[18px] lg:h-[24px] object-contain"
               src={logo}
               alt=""
+              quality={100}
             />
           </li>
         </ul>
@@ -36,23 +39,26 @@ export default function BrandOfTheMonth() {
         >
           <li>
             <Image
-              className="h-[18px] lg:h-[20px] object-contain"
+              className="h-[18px] lg:h-[24px] object-contain"
               src={logo}
               alt=""
+              quality={100}
             />
           </li>
           <li>
             <Image
-              className="h-[18px] lg:h-[20px] object-contain"
+              className="h-[18px] lg:h-[24px] object-contain"
               src={logo}
               alt=""
+              quality={100}
             />
           </li>
           <li>
             <Image
-              className="h-[18px] lg:h-[20px] object-contain"
+              className="h-[18px] lg:h-[24px] object-contain"
               src={logo}
               alt=""
+              quality={100}
             />
           </li>
         </ul>
