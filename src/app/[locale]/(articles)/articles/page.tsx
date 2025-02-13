@@ -17,19 +17,57 @@ type Params = {
   params: { locale: string };
 };
 
+const titleEN = "Innovations in surgery and aesthetic medicine | Articles";
+const descriptionEN =
+  "Discover all the latest innovations in cosmetic surgery & anti-ageing medicine. Articles & interview (H)ERITAGE.";
+
+const titleFR = "Innovations en chirurgie & médecine esthétique | Articles";
+const descriptionFR =
+  "Découvrez toutes les dernières innovations en chirurgie esthétique & médecine anti-âge. Articles & interview (H)ERITAGE.";
+
 export async function generateMetadata({ params }: Params) {
   const locale = params.locale;
   if (locale === "en") {
     return {
-      title: "Innovations in surgery and aesthetic medicine | Articles",
-      description:
-        "Discover all the latest innovations in cosmetic surgery & anti-ageing medicine. Articles & interview (H)ERITAGE.",
+      title: titleEN,
+      description: descriptionEN,
+      authors: [{ name: "HEALTHCIE" }],
+      openGraph: {
+        title: titleEN,
+        description: descriptionEN,
+        url: "https://magazine-heritage.com/",
+        siteName: "(H)ERITAGE Magazine",
+        images: [
+          {
+            url: "https://magazine-heritage.com/magazine-innovation-sante.jpg",
+            width: 800,
+            height: 600,
+          },
+        ],
+        locale: "en_US",
+        type: "website",
+      },
     };
   } else if (locale === "fr") {
     return {
-      title: "Innovations en chirurgie & médecine esthétique | Articles",
-      description:
-        "Découvrez toutes les dernières innovations en chirurgie esthétique & médecine anti-âge. Articles & interview (H)ERITAGE.",
+      title: titleFR,
+      description: descriptionFR,
+      authors: [{ name: "HEALTHCIE" }],
+      openGraph: {
+        title: titleFR,
+        description: descriptionFR,
+        url: "https://magazine-heritage.com/",
+        siteName: "(H)ERITAGE Magazine",
+        images: [
+          {
+            url: "https://magazine-heritage.com/magazine-innovation-sante.jpg",
+            width: 800,
+            height: 600,
+          },
+        ],
+        locale: "fr_FR",
+        type: "website",
+      },
     };
   }
 }

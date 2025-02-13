@@ -10,20 +10,59 @@ type Params = {
   params: { locale: string };
 };
 
+const titleEN =
+  "Media dedicated to plastic surgery and aesthetic medicine | HERITAGE";
+const descriptionEN =
+  "Media dedicated to plastic surgery and aesthetic medicine. Discover the latest innovations in plastic surgery and anti-aging medicine. (H)ERITAGE Magazine";
+
+const titleFR =
+  "Média dédié à la chirurgie & la médecine esthétique | HERITAGE";
+const descriptionFR =
+  "Média dédié à la chirurgie & la médecine esthétique. Découvrez les dernières innovations en chirurgie esthétique & médecine anti-âge. (H)ERITAGE Magazine";
+
 export async function generateMetadata({ params }: Params) {
   const locale = params.locale;
   if (locale === "en") {
     return {
-      title:
-        "Media dedicated to plastic surgery and aesthetic medicine | HERITAGE",
-      description:
-        "Media dedicated to plastic surgery and aesthetic medicine. Discover the latest innovations in plastic surgery and anti-aging medicine. (H)ERITAGE Magazine",
+      title: titleEN,
+      description: descriptionEN,
+      authors: [{ name: "HEALTHCIE" }],
+      openGraph: {
+        title: titleEN,
+        description: descriptionEN,
+        url: "https://magazine-heritage.com/",
+        siteName: "(H)ERITAGE Magazine",
+        images: [
+          {
+            url: "https://magazine-heritage.com/magazine-innovation-sante.jpg",
+            width: 800,
+            height: 600,
+          },
+        ],
+        locale: "en_US",
+        type: "website",
+      },
     };
   } else if (locale === "fr") {
     return {
-      title: "Média dédié à la chirurgie & la médecine esthétique | HERITAGE",
-      description:
-        "Média dédié à la chirurgie & la médecine esthétique. Découvrez les dernières innovations en chirurgie esthétique & médecine anti-âge. (H)ERITAGE Magazine",
+      title: titleFR,
+      description: descriptionFR,
+      authors: [{ name: "HEALTHCIE" }],
+      openGraph: {
+        title: titleFR,
+        description: descriptionFR,
+        url: "https://magazine-heritage.com/",
+        siteName: "(H)ERITAGE Magazine",
+        images: [
+          {
+            url: "https://magazine-heritage.com/magazine-innovation-sante.jpg",
+            width: 800,
+            height: 600,
+          },
+        ],
+        locale: "fr_FR",
+        type: "website",
+      },
     };
   }
 }

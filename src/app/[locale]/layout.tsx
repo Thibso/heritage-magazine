@@ -14,12 +14,21 @@ import Button from "../components/buttons/Button";
 import PopUpValidation from "../components/layout/popUpValidation";
 import "./globals.css";
 
+import { Metadata } from "next";
 import { cookies } from "next/headers";
 
 const sfPro = localFont({
   src: "./SF-Pro.ttf",
   variable: "--font-sfPro",
 });
+
+export const metadata: Metadata = {
+  // robots: "noindex",
+  robots: {
+    index: true,
+    follow: true,
+  },
+};
 
 export default async function LocaleLayout({
   children,
@@ -45,34 +54,6 @@ export default async function LocaleLayout({
           href="/icon?<generated>"
           type="image/<generated>"
           sizes="<generated>"
-        />
-        <meta property="og:type" content="website" />
-        <meta
-          property="og:title"
-          content="(H)ERITAGE Magazine | Innovations en médecine esthétique & anti-âge"
-        />
-        <meta property="og:site_name" content="(H)ERITAGE Magazine" />
-        <meta
-          property="og:description"
-          content="(H)ERITAGE Magazine. Média premium dédié à l'innovation en chirurgie, médecine et dermatologie esthétique. Découvrez (H)ERITAGE Magazine"
-        />
-        <meta
-          property="og:image"
-          content="https://magazine-heritage.com/magazine-innovation-sante.jpg"
-        />
-        <meta property="og:url" content="https://magazine-heritage.com/fr" />
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta
-          name="twitter:title"
-          content="(H)ERITAGE Magazine | Innovations en médecine esthétique & anti-âge"
-        />
-        <meta
-          name="twitter:description"
-          content="(H)ERITAGE Magazine. Média premium dédié à l'innovation en chirurgie, médecine et dermatologie esthétique. Découvrez (H)ERITAGE Magazine"
-        />
-        <meta
-          name="twitter:image"
-          content="https://magazine-heritage.com/magazine-innovation-sante.jpg"
         />
       </head>
       <body>

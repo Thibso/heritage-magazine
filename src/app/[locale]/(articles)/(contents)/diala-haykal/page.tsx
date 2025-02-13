@@ -8,19 +8,57 @@ type Params = {
   params: { locale: string };
 };
 
+const titleEN = "Dr. Haykal | Interview on Hydradermabrasion | Hydrafacial®";
+const descriptionEN =
+  "Discover Dr. Haykal's interview on hydradermabrasion. Hydrafacial® combines skincare and innovation.";
+
+const titleFR = "Dr Haykal | Interview sur l’Hydradermabrasion | Hydrafacial®";
+const descriptionFR =
+  "Découvrez l’interview du Dr Haykal sur l’hydradermabrasion. L’alliance skincare et innovation par Hydrafacial®.";
+
 export async function generateMetadata({ params }: Params) {
   const locale = params.locale;
   if (locale === "en") {
     return {
-      title: "Dr Haykal | Interview on Hydradermabrasion | Hydrafacial®",
-      description:
-        "Discover Dr Haykal's interview on hydradermabrasion. Hydrafacial® combines skincare and innovation.",
+      title: titleEN,
+      description: descriptionEN,
+      authors: [{ name: "HEALTHCIE" }],
+      openGraph: {
+        title: titleEN,
+        description: descriptionEN,
+        url: "https://magazine-heritage.com/",
+        siteName: "(H)ERITAGE Magazine",
+        images: [
+          {
+            url: "https://magazine-heritage.com/magazine-innovation-sante.jpg",
+            width: 800,
+            height: 600,
+          },
+        ],
+        locale: "en_US",
+        type: "website",
+      },
     };
   } else if (locale === "fr") {
     return {
-      title: "Dr Haykal | Interview sur l’Hydradermabrasion | Hydrafacial®",
-      description:
-        "Découvrez l’interview du Dr Haykal sur l’hydradermabrasion. L’alliance skincare et innovation par Hydrafacial®.",
+      title: titleFR,
+      description: descriptionFR,
+      authors: [{ name: "HEALTHCIE" }],
+      openGraph: {
+        title: titleFR,
+        description: descriptionFR,
+        url: "https://magazine-heritage.com/",
+        siteName: "(H)ERITAGE Magazine",
+        images: [
+          {
+            url: "https://magazine-heritage.com/magazine-innovation-sante.jpg",
+            width: 800,
+            height: 600,
+          },
+        ],
+        locale: "fr_FR",
+        type: "website",
+      },
     };
   }
 }

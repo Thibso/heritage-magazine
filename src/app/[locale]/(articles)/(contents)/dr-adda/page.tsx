@@ -8,19 +8,59 @@ type Params = {
   params: { locale: string };
 };
 
+const titleEN =
+  "Dr. Adda | Interview on the Neo ELITE Aerolase Laser | HERITAGE";
+const descriptionEN =
+  "Discover Dr. Adda's exclusive interview on the NEO Elite laser, Aerolase's new device. (H)ERITAGE Magazine";
+
+const titleFR =
+  "Dr Adda | Interview sur le Laser Neo ELITE Aerolase | HERITAGE";
+const descriptionFR =
+  "Découvrez en exclusivité l’interview du Dr Adda sur le laser NEO Elite, le nouveau dispositif d’Aerolase. (H)ERITAGE Magazine";
+
 export async function generateMetadata({ params }: Params) {
   const locale = params.locale;
   if (locale === "en") {
     return {
-      title: "Dr. Adda | Interview on the Neo ELITE Aerolase Laser | HERITAGE",
-      description:
-        "Discover Dr. Adda's exclusive interview on the NEO Elite laser, Aerolase's new device. (H)ERITAGE Magazine",
+      title: titleEN,
+      description: descriptionEN,
+      authors: [{ name: "HEALTHCIE" }],
+      openGraph: {
+        title: titleEN,
+        description: descriptionEN,
+        url: "https://magazine-heritage.com/",
+        siteName: "(H)ERITAGE Magazine",
+        images: [
+          {
+            url: "https://magazine-heritage.com/magazine-innovation-sante.jpg",
+            width: 800,
+            height: 600,
+          },
+        ],
+        locale: "en_US",
+        type: "website",
+      },
     };
   } else if (locale === "fr") {
     return {
-      title: "Dr Adda | Interview sur le Laser Neo ELITE Aerolase | HERITAGE",
-      description:
-        "Découvrez en exclusivité l’interview du Dr Adda sur le laser NEO Elite, le nouveau dispositif d’Aerolase. (H)ERITAGE Magazine",
+      title: titleFR,
+      description: descriptionFR,
+      authors: [{ name: "HEALTHCIE" }],
+      openGraph: {
+        title: titleFR,
+        description: descriptionFR,
+        url: "https://magazine-heritage.com/",
+        siteName: "(H)ERITAGE Magazine",
+        images: [
+          {
+            url: "https://magazine-heritage.com/magazine-innovation-sante.jpg",
+            width: 800,
+            height: 600,
+          },
+        ],
+        locale: "fr_FR",
+        type: "website",
+      },
     };
   }
 }

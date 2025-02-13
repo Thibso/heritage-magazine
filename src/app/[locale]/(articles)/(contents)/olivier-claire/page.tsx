@@ -8,21 +8,59 @@ type Params = {
   params: { locale: string };
 };
 
+const titleEN =
+  "Couraud Olivier | Interview on the history of Oliver Claire | HERITAGE";
+const descriptionEN =
+  "Discover an exclusive interview with Olivier Couraud on the history and creation of the Olivier Claire brand. (H)ERITAGE Magazine";
+
+const titleFR =
+  "Couraud Olivier | Interview sur l’histoire d’Oliver Claire | HERITAGE";
+const descriptionFR =
+  "Découvrez en exclusivité l’interview d’Olivier Couraud sur l’histoire et la création de la marque Olivier Claire. (H)ERITAGE Magazine";
+
 export async function generateMetadata({ params }: Params) {
   const locale = params.locale;
   if (locale === "en") {
     return {
-      title:
-        "Couraud Olivier | Interview on the history of Oliver Claire | HERITAGE",
-      description:
-        "Discover an exclusive interview with Olivier Couraud on the history and creation of the Olivier Claire brand. (H)ERITAGE Magazine",
+      title: titleEN,
+      description: descriptionEN,
+      authors: [{ name: "HEALTHCIE" }],
+      openGraph: {
+        title: titleEN,
+        description: descriptionEN,
+        url: "https://magazine-heritage.com/",
+        siteName: "(H)ERITAGE Magazine",
+        images: [
+          {
+            url: "https://magazine-heritage.com/magazine-innovation-sante.jpg",
+            width: 800,
+            height: 600,
+          },
+        ],
+        locale: "en_US",
+        type: "website",
+      },
     };
   } else if (locale === "fr") {
     return {
-      title:
-        "Couraud Olivier | Interview sur l’histoire d’Oliver Claire | HERITAGE",
-      description:
-        "Découvrez en exclusivité l’interview d’Olivier Couraud sur l’histoire et la création de la marque Olivier Claire. (H)ERITAGE Magazine",
+      title: titleFR,
+      description: descriptionFR,
+      authors: [{ name: "HEALTHCIE" }],
+      openGraph: {
+        title: titleFR,
+        description: descriptionFR,
+        url: "https://magazine-heritage.com/",
+        siteName: "(H)ERITAGE Magazine",
+        images: [
+          {
+            url: "https://magazine-heritage.com/magazine-innovation-sante.jpg",
+            width: 800,
+            height: 600,
+          },
+        ],
+        locale: "fr_FR",
+        type: "website",
+      },
     };
   }
 }

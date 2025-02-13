@@ -7,19 +7,57 @@ type Params = {
   params: { locale: string };
 };
 
+const titleEN = "Aesthetic Medicine & Plastic Surgery Congresses";
+const descriptionEN =
+  "Aesthetic medicine and plastic surgery congresses. Discover the calendar of international events in aesthetic medicine and dermatology.";
+
+const titleFR = "Congrès de Médecine Esthétique & de Chirurgie Plastique";
+const descriptionFR =
+  "Congrès de médecine esthétique et de chirurgie plastique. Découvrez le calendrier des événements internationnaux en médecine esthétique.";
+
 export async function generateMetadata({ params }: Params) {
   const locale = params.locale;
   if (locale === "en") {
     return {
-      title: "Aesthetic Medicine & Plastic Surgery Congresses",
-      description:
-        "Aesthetic medicine and plastic surgery congresses. Discover the calendar of international events in aesthetic medicine and dermatology.",
+      title: titleEN,
+      description: descriptionEN,
+      authors: [{ name: "HEALTHCIE" }],
+      openGraph: {
+        title: titleEN,
+        description: descriptionEN,
+        url: "https://magazine-heritage.com/",
+        siteName: "(H)ERITAGE Magazine",
+        images: [
+          {
+            url: "https://magazine-heritage.com/magazine-innovation-sante.jpg",
+            width: 800,
+            height: 600,
+          },
+        ],
+        locale: "en_US",
+        type: "website",
+      },
     };
   } else if (locale === "fr") {
     return {
-      title: "Congrès de Médecine Esthétique & de Chirurgie Plastique",
-      description:
-        "Congrès de médecine esthétique et de chirurgie plastique. Découvrez le calendrier des événements internationnaux en médecine esthétique.",
+      title: titleFR,
+      description: descriptionFR,
+      authors: [{ name: "HEALTHCIE" }],
+      openGraph: {
+        title: titleFR,
+        description: descriptionFR,
+        url: "https://magazine-heritage.com/",
+        siteName: "(H)ERITAGE Magazine",
+        images: [
+          {
+            url: "https://magazine-heritage.com/magazine-innovation-sante.jpg",
+            width: 800,
+            height: 600,
+          },
+        ],
+        locale: "fr_FR",
+        type: "website",
+      },
     };
   }
 }

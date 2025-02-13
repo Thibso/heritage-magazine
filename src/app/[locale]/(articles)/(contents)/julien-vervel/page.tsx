@@ -8,19 +8,58 @@ type Params = {
   params: { locale: string };
 };
 
+const titleEN = "Vervel Julien | Focus on medical E-réputation | HERITAGE";
+const descriptionEN =
+  "Discover Julien Vervel's exclusive report on the foundations of medical e-reputation. (H)ERITAGE Magazine";
+
+const titleFR =
+  "Vervel Julien | Dossier sur l'E-réputation Médicale | HERITAGE";
+const descriptionFR =
+  "Découvrez en exclusivité le dossier de Julien Vervel sur les fondements de l’e-réputation médicale. (H)ERITAGE Magazine";
+
 export async function generateMetadata({ params }: Params) {
   const locale = params.locale;
   if (locale === "en") {
     return {
-      title: "Vervel Julien | Focus on medical E-réputation | HERITAGE",
-      description:
-        "Discover Julien Vervel's exclusive report on the foundations of medical e-reputation. (H)ERITAGE Magazine",
+      title: titleEN,
+      description: descriptionEN,
+      authors: [{ name: "HEALTHCIE" }],
+      openGraph: {
+        title: titleEN,
+        description: descriptionEN,
+        url: "https://magazine-heritage.com/",
+        siteName: "(H)ERITAGE Magazine",
+        images: [
+          {
+            url: "https://magazine-heritage.com/magazine-innovation-sante.jpg",
+            width: 800,
+            height: 600,
+          },
+        ],
+        locale: "en_US",
+        type: "website",
+      },
     };
   } else if (locale === "fr") {
     return {
-      title: "Vervel Julien | Dossier sur l'E-réputation Médicale | HERITAGE",
-      description:
-        "Découvrez en exclusivité le dossier de Julien Vervel sur les fondements de l’e-réputation médicale. (H)ERITAGE Magazine",
+      title: titleFR,
+      description: descriptionFR,
+      authors: [{ name: "HEALTHCIE" }],
+      openGraph: {
+        title: titleFR,
+        description: descriptionFR,
+        url: "https://magazine-heritage.com/",
+        siteName: "(H)ERITAGE Magazine",
+        images: [
+          {
+            url: "https://magazine-heritage.com/magazine-innovation-sante.jpg",
+            width: 800,
+            height: 600,
+          },
+        ],
+        locale: "fr_FR",
+        type: "website",
+      },
     };
   }
 }

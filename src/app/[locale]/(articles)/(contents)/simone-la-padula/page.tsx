@@ -8,19 +8,57 @@ type Params = {
   params: { locale: string };
 };
 
+const titleEN = "Pr. La Padula | Periorbital Rejuvenation Technique";
+const descriptionEN =
+  "Discover Professor La Padula's technique for periorbital rejuvenation in plastic surgery. (H)ERITAGE Magazine";
+
+const titleFR = "Pr La Padula | La Technique du Rajeunissement Péri-orbitaire";
+const descriptionFR =
+  "Découvrez la technique du Pr La Padula sur le rajeunissement péri-orbitaire en chirurgie esthétique. (H)ERITAGE Magazine";
+
 export async function generateMetadata({ params }: Params) {
   const locale = params.locale;
   if (locale === "en") {
     return {
-      title: "Pr La Padula | Periorbital Rejuvenation Technique",
-      description:
-        "Discover Professor La Padula's technique for periorbital rejuvenation in plastic surgery. (H)ERITAGE Magazine",
+      title: titleEN,
+      description: descriptionEN,
+      authors: [{ name: "HEALTHCIE" }],
+      openGraph: {
+        title: titleEN,
+        description: descriptionEN,
+        url: "https://magazine-heritage.com/",
+        siteName: "(H)ERITAGE Magazine",
+        images: [
+          {
+            url: "https://magazine-heritage.com/magazine-innovation-sante.jpg",
+            width: 800,
+            height: 600,
+          },
+        ],
+        locale: "en_US",
+        type: "website",
+      },
     };
   } else if (locale === "fr") {
     return {
-      title: "Pr La Padula | La Technique du Rajeunissement Péri-orbitaire",
-      description:
-        "Découvrez la technique du Pr La Padula sur le rajeunissement péri-orbitaire en chirurgie esthétique. (H)ERITAGE Magazine",
+      title: titleFR,
+      description: descriptionFR,
+      authors: [{ name: "HEALTHCIE" }],
+      openGraph: {
+        title: titleFR,
+        description: descriptionFR,
+        url: "https://magazine-heritage.com/",
+        siteName: "(H)ERITAGE Magazine",
+        images: [
+          {
+            url: "https://magazine-heritage.com/magazine-innovation-sante.jpg",
+            width: 800,
+            height: 600,
+          },
+        ],
+        locale: "fr_FR",
+        type: "website",
+      },
     };
   }
 }

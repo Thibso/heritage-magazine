@@ -8,20 +8,59 @@ type Params = {
   params: { locale: string };
 };
 
+const titleEN =
+  "Dr. Cartier & Dr. Garson | IMCAS serves Innovation in Aesthetics";
+const descriptionEN =
+  "Discover the interview with Doctors Cartier & Garson, scientific co-directors of the IMCAS congress. Working together to drive innovation.";
+
+const titleFR =
+  "Dr Cartier & Dr Garson | IMCAS au service de l’Innovation en Esthétique";
+const descriptionFR =
+  "Découvrez l’interview des Docteurs Cartier & Garson, co-directeurs scientifiques du congrès IMCAS. Une collaboration au service de l’Innovation.";
+
 export async function generateMetadata({ params }: Params) {
   const locale = params.locale;
   if (locale === "en") {
     return {
-      title: "Dr Cartier & Dr Garson | IMCAS serves Innovation in Aesthetics",
-      description:
-        "Discover the interview with Doctors Cartier & Garson, scientific co-directors of the IMCAS congress. Working together to drive innovation.",
+      title: titleEN,
+      description: descriptionEN,
+      authors: [{ name: "HEALTHCIE" }],
+      openGraph: {
+        title: titleEN,
+        description: descriptionEN,
+        url: "https://magazine-heritage.com/",
+        siteName: "(H)ERITAGE Magazine",
+        images: [
+          {
+            url: "https://magazine-heritage.com/magazine-innovation-sante.jpg",
+            width: 800,
+            height: 600,
+          },
+        ],
+        locale: "en_US",
+        type: "website",
+      },
     };
   } else if (locale === "fr") {
     return {
-      title:
-        "Dr Cartier & Dr Garson | IMCAS au service de l’Innovation en Esthétique",
-      description:
-        "Découvrez l’interview des Docteurs Cartier & Garson, co-directeurs scientifiques du congrès IMCAS. Une collaboration au service de l’Innovation.",
+      title: titleFR,
+      description: descriptionFR,
+      authors: [{ name: "HEALTHCIE" }],
+      openGraph: {
+        title: titleFR,
+        description: descriptionFR,
+        url: "https://magazine-heritage.com/",
+        siteName: "(H)ERITAGE Magazine",
+        images: [
+          {
+            url: "https://magazine-heritage.com/magazine-innovation-sante.jpg",
+            width: 800,
+            height: 600,
+          },
+        ],
+        locale: "fr_FR",
+        type: "website",
+      },
     };
   }
 }

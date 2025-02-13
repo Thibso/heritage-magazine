@@ -8,19 +8,57 @@ type Params = {
   params: { locale: string };
 };
 
+const titleEN = "Dr. Ascher | Interview MAIS by Thinkin | HERITAGE Magazine";
+const descriptionEN =
+  "Discover Dr. Ascher's exclusive interview on the Medical Aesthetic Injectable Summit (MAIS) created by Thinkin. (H)ERITAGE Magazine";
+
+const titleFR = "Dr Ascher | Interview MAIS by Thinkin | HERITAGE Magazine";
+const descriptionFR =
+  "Découvrez en exclusivité l’interview du Dr Ascher sur le Medical Aesthetic Injectable Summit (MAIS) créé par Thinkin. (H)ERITAGE Magazine";
+
 export async function generateMetadata({ params }: Params) {
   const locale = params.locale;
   if (locale === "en") {
     return {
-      title: "Dr Ascher | Interview MAIS by Thinkin | HERITAGE Magazine",
-      description:
-        "Discover Dr Ascher's exclusive interview on the Medical Aesthetic Injectable Summit (MAIS) created by Thinkin. (H)ERITAGE Magazine",
+      title: titleEN,
+      description: descriptionEN,
+      authors: [{ name: "HEALTHCIE" }],
+      openGraph: {
+        title: titleEN,
+        description: descriptionEN,
+        url: "https://magazine-heritage.com/",
+        siteName: "(H)ERITAGE Magazine",
+        images: [
+          {
+            url: "https://magazine-heritage.com/magazine-innovation-sante.jpg",
+            width: 800,
+            height: 600,
+          },
+        ],
+        locale: "en_US",
+        type: "website",
+      },
     };
   } else if (locale === "fr") {
     return {
-      title: "Dr Ascher | Interview MAIS by Thinkin | HERITAGE Magazine",
-      description:
-        "Découvrez en exclusivité l’interview du Dr Ascher sur le Medical Aesthetic Injectable Summit (MAIS) créé par Thinkin. (H)ERITAGE Magazine",
+      title: titleFR,
+      description: descriptionFR,
+      authors: [{ name: "HEALTHCIE" }],
+      openGraph: {
+        title: titleFR,
+        description: descriptionFR,
+        url: "https://magazine-heritage.com/",
+        siteName: "(H)ERITAGE Magazine",
+        images: [
+          {
+            url: "https://magazine-heritage.com/magazine-innovation-sante.jpg",
+            width: 800,
+            height: 600,
+          },
+        ],
+        locale: "fr_FR",
+        type: "website",
+      },
     };
   }
 }

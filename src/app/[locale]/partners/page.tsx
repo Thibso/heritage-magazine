@@ -17,19 +17,57 @@ type Params = {
   params: { locale: string };
 };
 
+const titleEN = "Partners & Distributors | HERITAGE Magazine";
+const descriptionEN =
+  "HERITAGE Magazine partners and distributors. Discover the distribution network of the magazine specialized in plastic surgery and anti-aging medicine.";
+
+const titleFR = "Partenaires & distributeurs | HERITAGE Magazine";
+const descriptionFR =
+  "Partenaires et distributeurs du Magazine HERITAGE. Découvrez le réseau de distribution du magazine spécialisé en chirurgie esthétique et médecine anti-âge.";
+
 export async function generateMetadata({ params }: Params) {
   const locale = params.locale;
   if (locale === "en") {
     return {
-      title: "Partners & Distributors | HERITAGE Magazine",
-      description:
-        "HERITAGE Magazine partners and distributors. Discover the distribution network of the magazine specialized in plastic surgery and anti-aging medicine.",
+      title: titleEN,
+      description: descriptionEN,
+      authors: [{ name: "HEALTHCIE" }],
+      openGraph: {
+        title: titleEN,
+        description: descriptionEN,
+        url: "https://magazine-heritage.com/",
+        siteName: "(H)ERITAGE Magazine",
+        images: [
+          {
+            url: "https://magazine-heritage.com/magazine-innovation-sante.jpg",
+            width: 800,
+            height: 600,
+          },
+        ],
+        locale: "en_US",
+        type: "website",
+      },
     };
   } else if (locale === "fr") {
     return {
-      title: "Partenaires & distributeurs | HERITAGE Magazine",
-      description:
-        "Partenaires et distributeurs du Magazine HERITAGE. Découvrez le réseau de distribution du magazine spécialisé en chirurgie esthétique et médecine anti-âge.",
+      title: titleFR,
+      description: descriptionFR,
+      authors: [{ name: "HEALTHCIE" }],
+      openGraph: {
+        title: titleFR,
+        description: descriptionFR,
+        url: "https://magazine-heritage.com/",
+        siteName: "(H)ERITAGE Magazine",
+        images: [
+          {
+            url: "https://magazine-heritage.com/magazine-innovation-sante.jpg",
+            width: 800,
+            height: 600,
+          },
+        ],
+        locale: "fr_FR",
+        type: "website",
+      },
     };
   }
 }
