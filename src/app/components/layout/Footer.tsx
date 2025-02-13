@@ -87,7 +87,7 @@ export default function Footer() {
           </div>
         </div>
 
-        <div className="flex gap-4 justify-center col-span-1">
+        <div className="flex gap-4 lg:justify-center col-span-1">
           {/* instagram */}
           <a
             href="https://www.instagram.com/magazine_heritage/"
@@ -160,7 +160,7 @@ export default function Footer() {
             href="https://www.healthcie.fr"
             target="_blank"
             rel="nofollow"
-            className="font-normal tracking-[1px] text-[12px] lg:text-base flex items-center gap-1 lg:gap-2 justify-center"
+            className="font-normal tracking-[1px] text-sm lg:text-base flex items-center gap-1 lg:gap-2 justify-center"
           >
             <Image
               src={logoH}
@@ -168,8 +168,8 @@ export default function Footer() {
               className="h-[16px] lg:h-[22px] object-contain size-fit block"
               quality={100}
             />
-
-            {t("healthcie")}
+            {t("healthcie_mobile")}
+            <span className="max-md:hidden">{t("healthcie")}</span>
           </a>
         </div>
       </div>

@@ -185,7 +185,26 @@
     "legals": "Legal notices",
     "contact_link": "/en/contact",
     "legals_link": "/en/legal-notices",
-    "healthcie": "HEALTHCIE | Le créateur digital des professions médicales"
+    "healthcie_mobile": "HEALTHCIE",
+    "healthcie": "| Le créateur digital des professions médicales",
+    "h2": "Écosystème premium pour les leaders de l'industrie esthétique",
+    "h3": "HERITAGE Magazine",
+    "content": {
+      "about": "About",
+      "partners": "Partners",
+      "publications": "Publications",
+      "congresses": "Congresses",
+      "contact": "Contact",
+      "legals": "Legal notices"
+    },
+    "links": {
+      "about": "/en/media-plastic-surgery-antiaging-medicine",
+      "partners": "/en/partners-plastic-surgery-anti-aging-medicine",
+      "publications": "/en/publications-aesthetic-medicine-innovations",
+      "congresses": "/en/top-aesthetic-medicine-plastic-surgery-congresses",
+      "contact": "/en/contact",
+      "legals": "/en/legal-notices"
+    }
   },
   "Articles_base": {
     "title": "Publications",

@@ -185,7 +185,8 @@
     "legals": "Mentions légales",
     "contact_link": "/fr/contact",
     "legals_link": "/fr/mentions-legales",
-    "healthcie": "HEALTHCIE | Le créateur digital des professions médicales",
+    "healthcie_mobile": "HEALTHCIE",
+    "healthcie": "| Le créateur digital des professions médicales",
     "h2": "Écosystème premium pour les leaders de l'industrie esthétique",
     "h3": "HERITAGE Magazine",
     "content": {
@@ -197,12 +198,12 @@
       "legals": "Mentions légales"
     },
     "links": {
-      "about": "A propos",
-      "partners": "Partenaires",
-      "publications": "Publications",
-      "congresses": "Congrès",
-      "contact": "Contact",
-      "legals": "Mentions légales"
+      "about": "/fr/media-chirurgie-esthetique-medecine-antiage",
+      "partners": "/fr/partenaires-chirurgie-esthetique-medecine-anti-age",
+      "publications": "/fr/publications-innovations-medecine-esthetique",
+      "congresses": "/fr/meilleurs-congres-medecine-esthetique-chirurgie-plastique",
+      "contact": "/fr/contact",
+      "legals": "/fr/mentions-legales"
     }
   },
   "Articles_base": {
