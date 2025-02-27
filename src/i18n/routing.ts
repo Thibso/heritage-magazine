@@ -70,6 +70,10 @@ export const routing = defineRouting({
       fr: "/meilleurs-congres-medecine-esthetique-chirurgie-plastique",
       en: "/top-aesthetic-medicine-plastic-surgery-congresses",
     },
+    "/contributors": {
+      fr: "/contributeurs-articles-chirugie-plastique-medecine-esthetique",
+      en: "/contributors-articles-plastic-surgery-aesthetic-medicine",
+    },
   },
 });
 

@@ -52,7 +52,7 @@
       "pragueLab": {
         "title": "Prague Lab à Prague",
         "h3": "Congrès dédié à l'innovation en médecine esthétique",
-        "content": "<p>Le <b>Prague Lab</b> est un congrès de premier plan dédié à l'innovation en médecine esthétique, se déroulant à <b>Prague</b>. Fondé par le Professeur Sebastien Cotofana, cet événement rassemble des praticiens et des chercheurs de renommée internationale pour explorer les découvertes les plus récentes et les meilleures pratiques dans le domaine.Il propose des <b>Cadaver Masterclass</b> ainsi que des sessions dédiées à l'anatomie et aux techniques d'injection, offrant aux participants une formation pratique approfondie dans ces domaines. Prague Lab offre une opportunité unique d’approfondir ses compétences techniques, tout en développant son réseau professionnel dans une atmosphère propice à l'apprentissage. </p><p>Speakers : Dr Tapan Patel, Dr Lee Walker, Dr Kristina Davidovic, Dr Jani van Loghem, Dr Konstantin Frank, Dr Leonie Schelke, Dr Monika Kavková, Dr Michael Alfertshofer, Dr Roshan Ravindran, Dr Jeff Downie, Dr Carlos Bravo, Dr Herve Raspaldo, Dr Wael Seoudy, Dr Katinka Pónyai, Prof. David Kachlík, Dr Victor Munoz, Dr Kerstin Ortlechner, Dr Sahar Ghannam, Prof. Sebastian Cotofana</p>"
+        "content": "<p>Le <b>Prague Lab</b> est un congrès de premier plan dédié à l'innovation en médecine esthétique, se déroulant à <b>Prague</b>. Fondé par le Dr Monika Kavková et par Mme Eva Osvaldová, cet événement rassemble des praticiens et des chercheurs de renommée internationale pour explorer les découvertes les plus récentes et les meilleures pratiques dans le domaine. Il propose des <b>Cadaver Masterclass</b> ainsi que des sessions dédiées à l'anatomie et aux techniques d'injection, offrant aux participants une formation pratique approfondie dans ces domaines. Prague Lab offre une opportunité unique d’approfondir ses compétences techniques, tout en développant son réseau professionnel dans une atmosphère propice à l'apprentissage. </p><p>Speakers : Dr Tapan Patel, Dr Lee Walker, Dr Kristina Davidovic, Dr Jani van Loghem, Dr Konstantin Frank, Dr Leonie Schelke, Dr Monika Kavková, Dr Michael Alfertshofer, Dr Roshan Ravindran, Dr Jeff Downie, Dr Carlos Bravo, Dr Herve Raspaldo, Dr Wael Seoudy, Dr Katinka Pónyai, Prof. David Kachlík, Dr Victor Munoz, Dr Kerstin Ortlechner, Dr Sahar Ghannam, Prof. Sebastian Cotofana</p>"
       },
       "faceUk": {
         "title": "FACE UK à Londres",
@@ -144,6 +144,29 @@
         "title": "IMCAS China à Shanghai",
         "h3": "Congrès dédié à la médecine esthétique et dermatologie",
         "content": "<p><b>IMCAS China</b> est un événement incontournable en <b>médecine esthétique et dermatologie</b>, qui se tient à <b>Shanghai</b>. Ce congrès rassemble des experts de premier plan, des praticiens et des chercheurs pour explorer les dernières innovations et avancées dans le domaine. Les participants pourront profiter d'un programme riche en conférences inspirantes, ateliers pratiques et discussions interactives, favorisant ainsi l'échange de connaissances et de pratiques. C'est une occasion précieuse de se tenir informé des tendances actuelles et d'étendre son réseau professionnel au sein d'une communauté dynamique et en pleine croissance dans un environnement culturel unique.</p>"
+      }
+    }
+  },
+  "Contributors": {
+    "h1": "Contributeurs",
+    "h2": "Contributeurs & rédacteurs scientifiques",
+    "h3": "Les spécialistes de la médecine esthétique & anti-âge prennent la parole",
+    "cta_cards": "Découvrir",
+    "filters": {
+      "specialities": {
+        "title": "Filtrer par spécialité :",
+        "all": "All",
+        "surgery": "Chirurgie esthétique",
+        "medicine": "Médecine esthétique",
+        "dermatology": "Dermatologie",
+        "consulting": "Consultant",
+        "ceo": "CEO",
+        "lawer": "Avocat"
+      },
+      "countries": {
+        "title": "Filter par pays :",
+        "france": "France",
+        "italy": "Italie"
       }
     }
   },

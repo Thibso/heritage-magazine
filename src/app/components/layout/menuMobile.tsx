@@ -42,6 +42,14 @@ export default function MenuMobile(props: Props) {
                 Partenaires
               </a>
             </li>
+            {/* <li>
+              <a
+                href="/fr/contributors"
+                className="font-sfPro text-xl font-medium uppercase text-white transition hover:text-orange"
+              >
+                Contributeurs
+              </a>
+            </li> */}
             <li>
               <a
                 href="/fr/publications-innovations-medecine-esthetique"
@@ -85,6 +93,14 @@ export default function MenuMobile(props: Props) {
                 Partners
               </a>
             </li>
+            {/* <li>
+              <a
+                href="/en/contributors"
+                className="font-sfPro font-medium text-xl uppercase text-white transition hover:text-orange"
+              >
+                Contributors
+              </a>
+            </li> */}
             <li>
               <a
                 href="/en/publications-aesthetic-medicine-innovations"

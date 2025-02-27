@@ -42,7 +42,7 @@
       "seme": {
         "title": "SEME in Malaga",
         "h3": "Congress dedicated to innovations in aesthetic medicine",
-        "content": "<p>The SEME Congress, organised by the Spanish Society of Aesthetic Medicine, is one of the major events for professionals in the sector. Held in Malaga, the event brings together international experts to explore the latest innovations in aesthetic medicine. The programme includes high-level conferences, practical workshops and discussions on the technological and scientific advances that are shaping the future of aesthetic medicine. A valuable opportunity to exchange ideas and expand your professional network in a dynamic and inspiring setting.</p><p><p><b>National Scientific Committee:</b> Dr. Juan Antonio López, Dra. Petra Mª Vega, Prof. José R. Cabo, Prof. Andreu Palou, Dra. Mª Carmen López, Dr. José Folch, Dra. Paloma Tejero, Prof. Joaquín Fernández-Crehuet, Dr. José Serres, Dr. Julián Conejo MIr, Dra. Virginia Benítez, Dra. Sofía Ruiz Del Cueto, Dr. Justo Alcolea, Dra. Maya Gracia, Dr. Eduardo Gil, Dr. Hernán Pinto, Dr. José A. Flórez, Dra. Rosa del Río, Dr. Jesús Benito, Dr. Alfredo Fernández, Dr. Álvaro Moreno, Dra. Cristina Ruiz, Dr. Carlos Fajardo, Dr. Gorka Martínez</p><p><b>International Scientific Committee:</b> Dra. Blanca Miller, Dr. Alberto Elbaum, Dr. Emanuele Bartoletti, Dr. Michael Delune, Dr. Jean Jacques Legrand, Dr. Jean J. Hèbrant, Dr. Joao Vale</p>"
+        "content": "<p>The SEME Congress, organised by the Spanish Society of Aesthetic Medicine, is one of the major events for professionals in the sector. Held in Malaga, the event brings together international experts to explore the latest innovations in aesthetic medicine. The programme includes high-level conferences, practical workshops and discussions on the technological and scientific advances that are shaping the future of aesthetic medicine. A valuable opportunity to exchange ideas and expand your professional network in a dynamic and inspiring setting.</p><p><b>National Scientific Committee:</b> Dr. Juan Antonio López, Dra. Petra Mª Vega, Prof. José R. Cabo, Prof. Andreu Palou, Dra. Mª Carmen López, Dr. José Folch, Dra. Paloma Tejero, Prof. Joaquín Fernández-Crehuet, Dr. José Serres, Dr. Julián Conejo MIr, Dra. Virginia Benítez, Dra. Sofía Ruiz Del Cueto, Dr. Justo Alcolea, Dra. Maya Gracia, Dr. Eduardo Gil, Dr. Hernán Pinto, Dr. José A. Flórez, Dra. Rosa del Río, Dr. Jesús Benito, Dr. Alfredo Fernández, Dr. Álvaro Moreno, Dra. Cristina Ruiz, Dr. Carlos Fajardo, Dr. Gorka Martínez</p><p><b>International Scientific Committee:</b> Dra. Blanca Miller, Dr. Alberto Elbaum, Dr. Emanuele Bartoletti, Dr. Michael Delune, Dr. Jean Jacques Legrand, Dr. Jean J. Hèbrant, Dr. Joao Vale</p>"
       },
       "bts": {
         "title": "BTS in Stockholm",
@@ -52,7 +52,7 @@
       "pragueLab": {
         "title": "Prague Lab in Prague",
         "h3": "Congress dedicated to innovation in aesthetic medicine",
-        "content": "<p>The Prague Lab is a leading congress dedicated to innovation in aesthetic medicine, taking place in Prague. Founded by Professor Sebastien Cotofana, the event brings together internationally renowned practitioners and researchers to explore the latest discoveries and best practices in the field, offering Cadaver Masterclasses as well as sessions dedicated to anatomy and injection techniques, providing participants with in-depth practical training in these areas. Prague Lab offers a unique opportunity to deepen your technical skills, while developing your professional network in an atmosphere conducive to learning. </p><p>Speakers: Dr Tapan Patel, Dr Lee Walker, Dr Kristina Davidovic, Dr Jani van Loghem, Dr Konstantin Frank, Dr Leonie Schelke, Dr Monika Kavková, Dr Michael Alfertshofer, Dr Roshan Ravindran, Dr Jeff Downie, Dr Carlos Bravo, Dr Herve Raspaldo, Dr Wael Seoudy, Dr Katinka Pónyai, Prof. David Kachlík, Dr Victor Munoz, Dr Kerstin Ortlechner, Dr Sahar Ghannam, Prof. Sebastian Cotofana</p>"
+        "content": "<p>The Prague Lab is a leading congress dedicated to innovation in aesthetic medicine, taking place in Prague. Founded by Dr Monika Kavková and Mrs Eva Osvaldová, the event brings together internationally renowned practitioners and researchers to explore the latest discoveries and best practices in the field, offering Cadaver Masterclasses as well as sessions dedicated to anatomy and injection techniques, providing participants with in-depth practical training in these areas. Prague Lab offers a unique opportunity to deepen your technical skills, while developing your professional network in an atmosphere conducive to learning. </p><p>Speakers: Dr Tapan Patel, Dr Lee Walker, Dr Kristina Davidovic, Dr Jani van Loghem, Dr Konstantin Frank, Dr Leonie Schelke, Dr Monika Kavková, Dr Michael Alfertshofer, Dr Roshan Ravindran, Dr Jeff Downie, Dr Carlos Bravo, Dr Herve Raspaldo, Dr Wael Seoudy, Dr Katinka Pónyai, Prof. David Kachlík, Dr Victor Munoz, Dr Kerstin Ortlechner, Dr Sahar Ghannam, Prof. Sebastian Cotofana</p>"
       },
       "faceUk": {
         "title": "FACE UK in London",
@@ -144,6 +144,29 @@
         "title": "IMCAS China in Shanghai",
         "h3": "Congress dedicated to aesthetic medicine and dermatology",
         "content": "<p>IMCAS China is a major event in aesthetic medicine and dermatology, held in Shanghai. The conference brings together leading experts, practitioners and researchers to explore the latest innovations and advances in the field. Participants will enjoy a rich programme of inspiring lectures, practical workshops and interactive discussions, encouraging the exchange of knowledge and practice. It's a valuable opportunity to keep abreast of current trends and expand your professional network within a dynamic and growing community in a unique cultural environment.</p>"
+      }
+    }
+  },
+  "Contributors": {
+    "h1": "Contributors",
+    "h2": "Scientific contributors & editors",
+    "h3": "Specialists in aesthetic and anti-ageing medicine are speaking out",
+    "cta_cards": "Discover",
+    "filters": {
+      "specialities": {
+        "title": "Filter by speciality :",
+        "all": "All",
+        "surgery": "Plastic surgery",
+        "medicine": "Aesthetic medicine",
+        "dermatology": "Dermatology",
+        "consulting": "Consulting",
+        "ceo": "CEO",
+        "lawer": "Lawer"
+      },
+      "countries": {
+        "title": "Filter by country :",
+        "france": "France",
+        "italy": "Italy"
       }
     }
   },
