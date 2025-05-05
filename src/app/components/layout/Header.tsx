@@ -43,14 +43,14 @@ export default function Header(props: Props) {
               Partenaires
             </a>
           </li>
-          {/* <li>
+          <li>
             <a
-              href="/fr/contributors"
+              href="/fr/contributeurs-articles-chirugie-plastique-medecine-esthetique"
               className="font-sfPro font-medium uppercase text-white transition hover:text-orange"
             >
               Contributeurs
             </a>
-          </li> */}
+          </li>
           <li>
             <a
               href="/fr/publications-innovations-medecine-esthetique"
@@ -96,14 +96,14 @@ export default function Header(props: Props) {
               Partners
             </a>
           </li>
-          {/* <li>
+          <li>
             <a
-              href="/en/contributors"
+              href="/en/contributors-articles-plastic-surgery-aesthetic-medicine"
               className="font-sfPro font-medium uppercase text-white transition hover:text-orange"
             >
               Contributors
             </a>
-          </li> */}
+          </li>
           <li>
             <a
               href="/en/publications-aesthetic-medicine-innovations"

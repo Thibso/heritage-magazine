@@ -233,6 +233,13 @@
     "title": "Publications",
     "h1": "News & innovations in aesthetic medicine",
     "h2": "Opinion leaders speak out",
+    "filters": {
+      "plasticSurgery": "Plastic surgery",
+      "aestheticMedicine": "Aesthetic medicine",
+      "cosmetology": "Cosmetology",
+      "practiceManagement": "Practice management",
+      "marketAnalysis": "Market Analysis"
+    },
     "ascher": {
       "h2": "The medical aesthetic injectable summit",
       "h3": "with Dr. Benjamin Ascher",
