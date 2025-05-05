@@ -24,7 +24,11 @@ export default function AllPublications() {
   const [filterActive, setFilterActive] = useState<number>(-1);
 
   function setFilter(filter: number) {
-    setFilterActive(filter);
+    if (filter === filterActive) {
+      setFilter(-1);
+    } else {
+      setFilterActive(filter);
+    }
   }
 
   const filters = [
