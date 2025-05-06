@@ -1,7 +1,9 @@
 import AllPublications from "@/app/components/publications/allPublications";
 import header from "@/app/img/plastic-surgeons-best-magazine.jpg";
+import fs from "fs";
 import { useTranslations } from "next-intl";
 import Image from "next/image";
+import path from "path";
 
 type Params = {
   params: { locale: string };
@@ -62,8 +64,23 @@ export async function generateMetadata({ params }: Params) {
   }
 }
 
+type Item = {
+  image: string;
+  alt: string;
+  h2: string;
+  h3: string;
+  p: string;
+  linkTo: string;
+  linkText: string;
+  tags: string[];
+};
+
 export default function Articles() {
   const t = useTranslations("Articles_base");
+
+  const filePath = path.join(process.cwd(), "src/data/data.json");
+  const jsonData = fs.readFileSync(filePath, "utf-8");
+  const data: Item[] = JSON.parse(jsonData);
 
   return (
     <div>
@@ -89,7 +106,7 @@ export default function Articles() {
             <h2 className="h3 mt-2 lg:mt-4">{t("h2")}</h2>
           </div>
 
-          <AllPublications />
+          <AllPublications data={data} />
         </div>
       </section>
     </div>

@@ -1,0 +1,102 @@
+[
+  {
+    "image": "/publications/doctors-cartier-garson-imcas-interview-heritage-magazine.jpg",
+    "alt": "Hugues Cartier et Sébastien Garson HERITAGE Magazine",
+    "h2": "cartier.h2",
+    "h3": "cartier.h3",
+    "p": "cartier.content",
+    "linkTo": "cartier.cta_link",
+    "linkText": "cartier.cta",
+    "tags": ["Hugues_Cartier.tags.t1.title", "Hugues_Cartier.tags.t2.title"]
+  },
+  {
+    "image": "/publications/pr-la-padula-expertise-heritage-magazine.jpg",
+    "alt": "Simone La Padula HERITAGE Magazine",
+    "h2": "lapadula.h2",
+    "h3": "lapadula.h3",
+    "p": "lapadula.content",
+    "linkTo": "lapadula.cta_link",
+    "linkText": "lapadula.cta",
+    "tags": ["Simone_La_Padula.tags.t1.title"]
+  },
+  {
+    "image": "/publications/jean-yves-coste-focus-market-overview-heritage-magazine.jpg",
+    "alt": "Jean-Yves Coste HERITAGE Magazine",
+    "h2": "coste.h2",
+    "h3": "coste.h3",
+    "p": "coste.content",
+    "linkTo": "coste.cta_link",
+    "linkText": "coste.cta",
+    "tags": ["Jean_Yves_Coste.tags.t1.title"]
+  },
+  {
+    "image": "/publications/dr-haykal-interview-hydrafacial-heritage-magazine.jpg",
+    "alt": "Diala haykal HERITAGE Magazine",
+    "h2": "diala.h2",
+    "h3": "diala.h3",
+    "p": "diala.content",
+    "linkTo": "diala.cta_link",
+    "linkText": "diala.cta",
+    "tags": ["Diala_Haykal.tags.t1.title"]
+  },
+  {
+    "image": "/publications/doctor-ascher-benjamin-heritage-magazine.jpg",
+    "alt": "Dr Benjamin Ascher HERITAGE Magazine",
+    "h2": "ascher.h2",
+    "h3": "ascher.h3",
+    "p": "ascher.content",
+    "linkTo": "ascher.cta_link",
+    "linkText": "ascher.cta",
+    "tags": ["Benjamin_Asher.tags.t1.title"]
+  },
+  {
+    "image": "/publications/olivier-claire-couraud-heritage-magazine.jpg",
+    "alt": "Olivier Claire HERITAGE Magazine",
+    "h2": "olivier.h2",
+    "h3": "olivier.h3",
+    "p": "olivier.content",
+    "linkTo": "olivier.cta_link",
+    "linkText": "olivier.cta",
+    "tags": ["Olivier_Claire.tags.t1.title"]
+  },
+  {
+    "image": "/publications/doctor-adda-jean-marc-heritage-magazine.jpg",
+    "alt": "Aerolase HERITAGE Magazine",
+    "h2": "adda.h2",
+    "h3": "adda.h3",
+    "p": "adda.content",
+    "linkTo": "adda.cta_link",
+    "linkText": "adda.cta",
+    "tags": ["Dr_Adda.tags.t1.title"]
+  },
+  {
+    "image": "/publications/professor-hersant-barbara-heritage-magazine.jpg",
+    "alt": "Pr Barbara Hersant HERITAGE Magazine",
+    "h2": "barbara.h2",
+    "h3": "barbara.h3",
+    "p": "barbara.content",
+    "linkTo": "barbara.cta_link",
+    "linkText": "barbara.cta",
+    "tags": ["Barbara_Hersant.tags.t1.title", "Barbara_Hersant.tags.t2.title"]
+  },
+  {
+    "image": "/publications/vervel-julien-heritage-magazine.jpg",
+    "alt": "Julien Vervel HERITAGE Magazine",
+    "h2": "julien.h2",
+    "h3": "julien.h3",
+    "p": "julien.content",
+    "linkTo": "julien.cta_link",
+    "linkText": "julien.cta",
+    "tags": ["Julien_Vervel.tags.t1.title"]
+  },
+  {
+    "image": "/publications/nivault-hugo-heritage-magazine.jpg",
+    "alt": "Hugo Nivault HERITAGE Magazine",
+    "h2": "hugo.h2",
+    "h3": "hugo.h3",
+    "p": "hugo.content",
+    "linkTo": "hugo.cta_link",
+    "linkText": "hugo.cta",
+    "tags": ["Hugo_Nivault.tags.t1.title"]
+  }
+]
