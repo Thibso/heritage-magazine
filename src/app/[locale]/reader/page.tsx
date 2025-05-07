@@ -1,5 +1,3 @@
-import Reader from "@/app/components/reader/reader";
-
 type Params = {
   params: { locale: string };
 };
@@ -64,8 +62,16 @@ export async function generateMetadata({ params }: Params) {
 export default function ReaderPage() {
   return (
     <main>
-      <section className="mt-[120px]">
+      {/* <section className="myContainer mt-[120px]">
         <Reader />
+      </section> */}
+
+      <section className="myContainer">
+        <iframe
+          src="https://docs.google.com/gview?url=https://magazine-heritage.com/magazine-1.pdf&embedded=true"
+          width="600px"
+          height="600px"
+        ></iframe>
       </section>
     </main>
   );

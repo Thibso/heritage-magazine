@@ -162,12 +162,16 @@
       "specialities": {
         "title": "Filtrer par spécialité :",
         "all": "All",
-        "surgery": "Chirurgien",
+        "surgery": {
+          "plastic": "Chirurgien esthétique",
+          "ent": "Chirurgien ORL"
+        },
         "medicine": "Médecin esthétique",
-        "dermatology": "Dermatologie",
+        "dermatology": "Dermatologue",
         "consulting": "Consultant",
         "ceo": "CEO",
-        "lawer": "Avocat"
+        "lawyer": "Avocat",
+        "cmo": "CMO"
       },
       "countries": {
         "title": "Filter par pays :",

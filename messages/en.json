@@ -162,12 +162,16 @@
       "specialities": {
         "title": "Filter by speciality :",
         "all": "All",
-        "surgery": "Surgereon",
+        "surgery": {
+          "plastic": "Plastic surgeon",
+          "ent": "ENT surgeon"
+        },
         "medicine": "Aesthetic physician",
         "dermatology": "Dermatologist",
         "consulting": "Consultant",
         "ceo": "CEO",
-        "lawyer": "Lawyer"
+        "lawyer": "Lawyer",
+        "cmo": "CMO"
       },
       "countries": {
         "title": "Filter by country :",

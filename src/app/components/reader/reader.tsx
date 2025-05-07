@@ -27,7 +27,7 @@ export default function Reader() {
         </button>
         <Document
           className="min-w-[800px]"
-          file="http://localhost:3000/magazine-1.pdf"
+          file="https://magazine-heritage.com/magazine-1.pdf"
           onLoadSuccess={onDocumentLoadSuccess}
         >
           <Page pageNumber={pageNumber} />
