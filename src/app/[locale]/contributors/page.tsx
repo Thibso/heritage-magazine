@@ -1,7 +1,9 @@
 import DisplayCards from "@/app/components/contributors/DisplayCards";
 import header from "@/app/img/contributors-heritage-magazine.jpeg";
+import fs from "fs";
 import { useTranslations } from "next-intl";
 import Image from "next/image";
+import path from "path";
 
 type Params = {
   params: { locale: string };
@@ -63,8 +65,23 @@ export async function generateMetadata({ params }: Params) {
   }
 }
 
+type Card = {
+  honor: string;
+  title: string;
+  image: string;
+  country_icon: string;
+  country_value: string;
+  speciality: string;
+  speciality_value: string;
+  link: string;
+};
+
 export default function About() {
   const t = useTranslations("Contributors");
+
+  const filePath = path.join(process.cwd(), "src/data/contributors.json");
+  const jsonData = fs.readFileSync(filePath, "utf-8");
+  const data: Card[] = JSON.parse(jsonData);
 
   return (
     <main>
@@ -90,7 +107,7 @@ export default function About() {
             <h2 className="h3 mt-2 lg:mt-4">{t("h3")}</h2>
           </div>
 
-          <DisplayCards />
+          <DisplayCards data={data} />
         </div>
       </section>
     </main>

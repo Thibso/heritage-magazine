@@ -169,7 +169,6 @@ export default function Footer() {
               quality={100}
             />
             {t("healthcie_mobile")}
-            <span className="max-md:hidden">{t("healthcie")}</span>
           </a>
         </div>
       </div>

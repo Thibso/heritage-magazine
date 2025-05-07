@@ -58,12 +58,12 @@ export default async function LocaleLayout({
       </head>
       <body>
         <GoogleAnalytics gaId="G-WPVQNN32N0" />
-        {hasCookie ? null : <PopUpValidation locale={locale} />}
-
-        <Header locale={locale} />
-        <BrandOfTheMonth />
 
         <NextIntlClientProvider messages={messages}>
+          {hasCookie ? null : <PopUpValidation locale={locale} />}
+
+          <Header locale={locale} />
+          <BrandOfTheMonth />
           {children}
           <Toaster />
         </NextIntlClientProvider>

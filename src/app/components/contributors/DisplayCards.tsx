@@ -1,32 +1,26 @@
 "use client";
 
-import barbara from "@/app/img/articles/barbara_hersant/pr-hersant-barabara-chirurgie-esthetique-paris.jpg";
-import ascher from "@/app/img/articles/benjamin_ascher/dr-benjamin-ascher-thinkin.jpg";
-import dyala from "@/app/img/articles/diala_haykal/haykal-diala-doctor-hydrafacial-heritage.jpg";
-import adda from "@/app/img/articles/dr_adda/dr-adda-aerolase-laser-elite.jpg";
-import hugo from "@/app/img/articles/hugo_nivault/hugo-nivault-chef-projet-digital-healthcie.jpg";
-import cartier from "@/app/img/articles/hugues_cartier/doctors-cartier-hugues-garson-sebastien-imcas-heritage.jpg";
-import coste from "@/app/img/articles/jean_yves_coste/coste-jean-yves-market-overview-heritage.jpg";
-import julien from "@/app/img/articles/julien_vervel/Julien-vervel-consultant-médical-laboratoires.jpg";
-import olivier from "@/app/img/articles/olivier_claire/portrait-olivier-claire.jpg";
-import lapadula from "@/app/img/articles/simone_lapadula/la-padula-simone-professor-plastic-surgery-heritage.jpg";
-import { FR, IT } from "country-flag-icons/react/3x2";
+import { DK, FR, IT, US } from "country-flag-icons/react/3x2";
 import { useTranslations } from "next-intl";
-import Image, { StaticImageData } from "next/image";
-import { ReactNode, useState } from "react";
+import Image from "next/image";
+import { useState } from "react";
 
 type Card = {
   honor: string;
   title: string;
-  image: StaticImageData;
-  country_icon: ReactNode;
+  image: string;
+  country_icon: string;
   country_value: string;
   speciality: string;
   speciality_value: string;
   link: string;
 };
 
-export default function DisplayCards() {
+type Props = {
+  data: Card[];
+};
+
+export default function DisplayCards({ data }: Props) {
   const t = useTranslations("Contributors");
 
   const [filter, setFilter] = useState("");
@@ -37,7 +31,7 @@ export default function DisplayCards() {
     ["dermatology", t("filters.specialities.dermatology")],
     ["consulting", t("filters.specialities.consulting")],
     ["ceo", t("filters.specialities.ceo")],
-    ["lawer", t("filters.specialities.lawer")],
+    ["lawyer", t("filters.specialities.lawyer")],
   ];
 
   const countries_filter: string[][] = [
@@ -45,141 +39,7 @@ export default function DisplayCards() {
     ["italy", t("filters.countries.italy")],
   ];
 
-  const cards: Card[] = [
-    {
-      honor: "Dr",
-      title: "ADDA Jean-Marc",
-      image: adda,
-      country_icon: <FR title="United States" className="size-4" />,
-      country_value: "france",
-      speciality: t("filters.specialities.medicine"),
-      speciality_value: "medicine",
-      link: "",
-    },
-    {
-      honor: "Pr",
-      title: "HERSANT Barbara",
-      image: barbara,
-      country_icon: <FR title="United States" className="size-4" />,
-      country_value: "france",
-      speciality: t("filters.specialities.surgery"),
-      speciality_value: "surgery",
-      link: "",
-    },
-    {
-      honor: "Dr",
-      title: "ASCHER Benjamin",
-      image: ascher,
-      country_icon: <FR title="United States" className="size-4" />,
-      country_value: "france",
-      speciality: t("filters.specialities.surgery"),
-      speciality_value: "surgery",
-      link: "",
-    },
-    {
-      honor: "Dr",
-      title: "CARTIER Hugues",
-      image: cartier,
-      country_icon: <FR title="United States" className="size-4" />,
-      country_value: "france",
-      speciality: t("filters.specialities.dermatology"),
-      speciality_value: "dermatology",
-      link: "",
-    },
-    // {
-    //   honor: "Dr",
-    //   title: "CONVERSET-VIETHEL Sophie",
-    //   image: dyala,
-    //   country_icon: <FR title="United States" className="size-4" />,
-    //   country_value: "france",
-    //   speciality: t("filters.specialities.surgery"),
-    //   speciality_value: "surgery",
-    //   link: "",
-    // },
-    {
-      honor: "Dr",
-      title: "COSTE Jean-Yves",
-      image: coste,
-      country_icon: <FR title="United States" className="size-4" />,
-      country_value: "france",
-      speciality: t("filters.specialities.consulting"),
-      speciality_value: "consulting",
-      link: "",
-    },
-    {
-      honor: "Dr",
-      title: "COURAUD Olivier",
-      image: olivier,
-      country_icon: <FR title="United States" className="size-4" />,
-      country_value: "france",
-      speciality: t("filters.specialities.ceo"),
-      speciality_value: "ceo",
-      link: "",
-    },
-    {
-      honor: "Dr",
-      title: "GARSON Sébastien",
-      image: cartier,
-      country_icon: <FR title="United States" className="size-4" />,
-      country_value: "france",
-      speciality: t("filters.specialities.surgery"),
-      speciality_value: "surgery",
-      link: "",
-    },
-    // {
-    //   honor: "Mrs",
-    //   title: "GABOUR Luiza",
-    //   image: dyala,
-    //   country_icon: <FR title="United States" className="size-4" />,
-    //   country_value: "france",
-    //   speciality: t("filters.specialities.lawer"),
-    //   speciality_value: "lawer",
-    //   link: "",
-    // },
-    {
-      honor: "Dr",
-      title: "HAYKAL Diala",
-      image: dyala,
-      country_icon: <FR title="United States" className="size-4" />,
-      country_value: "france",
-      speciality: t("filters.specialities.medicine"),
-      speciality_value: "medicine",
-      link: "",
-    },
-
-    {
-      honor: "Dr",
-      title: "LA PADULA Simone",
-      image: lapadula,
-      country_icon: <IT title="United States" className="size-4" />,
-      country_value: "italy",
-      speciality: t("filters.specialities.surgery"),
-      speciality_value: "surgery",
-      link: "",
-    },
-    {
-      honor: "Mr",
-      title: "NIVAULT Hugo",
-      image: hugo,
-      country_icon: <FR title="United States" className="size-4" />,
-      country_value: "france",
-      speciality: t("filters.specialities.consulting"),
-      speciality_value: "consulting",
-      link: "",
-    },
-    {
-      honor: "Mr",
-      title: "VERVEL Julien",
-      image: julien,
-      country_icon: <FR title="United States" className="size-4" />,
-      country_value: "france",
-      speciality: t("filters.specialities.consulting"),
-      speciality_value: "consulting",
-      link: "",
-    },
-  ];
-
-  const filteredcard = cards.sort((a, b) => a.title.localeCompare(b.title));
+  const filteredcard = data.sort((a, b) => a.title.localeCompare(b.title));
 
   return (
     <div className="space-y-8 lg:space-y-20">
@@ -242,22 +102,42 @@ export default function DisplayCards() {
             filter === card.country_value
           ) {
             return (
-              <article key={"card-" + index} className="grid gap-y-4">
+              <article key={"card-" + index} className="grid gap-y-4 relative">
                 <Image
                   src={card.image}
-                  alt=""
-                  className="h-[350px] object-cover object-top"
-                  quality={50}
+                  width={1024}
+                  height={1024}
+                  alt={t(card.honor) + card.title}
+                  title={t(card.honor) + " " + card.title}
+                  className="h-[350px] w-full object-cover object-top"
+                  quality={75}
                 />
 
                 <div className="grid gap-y-1">
                   <div className="flex items-center gap-2 font-bold text-base">
-                    {card.country_icon}{" "}
+                    {/* FR */}
+                    {card.country_value === "fr" ? (
+                      <FR title="France" className="size-4" />
+                    ) : null}
+                    {/* IT */}
+                    {card.country_value === "it" ? (
+                      <IT title="Italy" className="size-4" />
+                    ) : null}
+                    {/* DK */}
+                    {card.country_value === "dk" ? (
+                      <DK title="Denmark" className="size-4" />
+                    ) : null}
+                    {/* US */}
+                    {card.country_value === "us" ? (
+                      <US title="United-States" className="size-4" />
+                    ) : null}
                     <h4 className="">
-                      {card.honor} {card.title}
+                      {t(card.honor)} {card.title}
                     </h4>
                   </div>
-                  <h6 className="text-sm text-gray-400">{card.speciality}</h6>
+                  <h6 className="text-sm text-gray-400">
+                    {t(card.speciality)}
+                  </h6>
                 </div>
 
                 {/* <Button link={card.link}>{t("cta_cards")}</Button> */}

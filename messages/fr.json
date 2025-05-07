@@ -152,12 +152,18 @@
     "h2": "Contributeurs & rédacteurs scientifiques",
     "h3": "Les spécialistes de la médecine esthétique & anti-âge prennent la parole",
     "cta_cards": "Découvrir",
+    "honors": {
+      "dr": "Dr",
+      "pr": "Pr",
+      "mr": "M.",
+      "mrs": "Mme."
+    },
     "filters": {
       "specialities": {
         "title": "Filtrer par spécialité :",
         "all": "All",
-        "surgery": "Chirurgie esthétique",
-        "medicine": "Médecine esthétique",
+        "surgery": "Chirurgien",
+        "medicine": "Médecin esthétique",
         "dermatology": "Dermatologie",
         "consulting": "Consultant",
         "ceo": "CEO",
@@ -209,7 +215,6 @@
     "contact_link": "/fr/contact",
     "legals_link": "/fr/mentions-legales",
     "healthcie_mobile": "HEALTHCIE",
-    "healthcie": "| Le créateur digital des professions médicales",
     "h2": "Écosystème premium pour les leaders de l'industrie esthétique",
     "h3": "HERITAGE Magazine",
     "content": {

@@ -152,16 +152,22 @@
     "h2": "Scientific contributors & editors",
     "h3": "Specialists in aesthetic and anti-ageing medicine are speaking out",
     "cta_cards": "Discover",
+    "honors": {
+      "dr": "Dr.",
+      "pr": "Pr.",
+      "mr": "Mr",
+      "mrs": "Mrs"
+    },
     "filters": {
       "specialities": {
         "title": "Filter by speciality :",
         "all": "All",
-        "surgery": "Plastic surgery",
-        "medicine": "Aesthetic medicine",
-        "dermatology": "Dermatology",
-        "consulting": "Consulting",
+        "surgery": "Surgereon",
+        "medicine": "Aesthetic physician",
+        "dermatology": "Dermatologist",
+        "consulting": "Consultant",
         "ceo": "CEO",
-        "lawer": "Lawer"
+        "lawyer": "Lawyer"
       },
       "countries": {
         "title": "Filter by country :",
@@ -209,7 +215,6 @@
     "contact_link": "/en/contact",
     "legals_link": "/en/legal-notices",
     "healthcie_mobile": "HEALTHCIE",
-    "healthcie": "| Le créateur digital des professions médicales",
     "h2": "Premium ecosystem for the aesthetics industry leaders",
     "h3": "HERITAGE Magazine",
     "content": {
