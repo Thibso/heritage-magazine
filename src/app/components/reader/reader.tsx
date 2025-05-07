@@ -17,15 +17,7 @@ export default function Reader() {
 
   return (
     <div>
-      <div className="relative h-[600px]">
-        <Document file="magazine.pdf" onLoadSuccess={onDocumentLoadSuccess}>
-          <Page pageNumber={pageNumber} />
-        </Document>
-      </div>
-      <p>
-        Page {pageNumber} of {numPages}
-      </p>
-      <div>
+      <div className="relative m-auto w-fit min-h-[80vh] flex">
         <button
           onClick={() => {
             setPageNumber((old) => old - 1);
@@ -33,6 +25,13 @@ export default function Reader() {
         >
           Précédent
         </button>
+        <Document
+          className="min-w-[800px]"
+          file="http://localhost:3000/magazine-1.pdf"
+          onLoadSuccess={onDocumentLoadSuccess}
+        >
+          <Page pageNumber={pageNumber} />
+        </Document>
         <button
           onClick={() => {
             setPageNumber((old) => old + 1);
@@ -41,6 +40,9 @@ export default function Reader() {
           Suivant
         </button>
       </div>
+      <p>
+        Page {pageNumber} of {numPages}
+      </p>
     </div>
   );
 }
