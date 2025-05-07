@@ -26,6 +26,7 @@
     "react": "^18",
     "react-dom": "^18",
     "react-hook-form": "^7.53.0",
+    "react-pdf": "^9.2.1",
     "resend": "^4.0.0",
     "swiper": "^11.1.12",
     "tailwind-merge": "^2.5.3",

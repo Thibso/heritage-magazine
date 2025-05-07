@@ -1,6 +1,7 @@
 import { useTranslations } from "next-intl";
 import Image from "next/image";
 import Button from "../components/buttons/Button";
+import Reader from "../components/reader/reader";
 import magMobile from "../img/magazine-innovation-sante-mobile.jpg";
 import mag from "../img/magazine-innovation-sante.jpg";
 
@@ -90,6 +91,11 @@ export default function Home() {
           {t("cta")}
         </a>
       </section>
+
+      <section className="myContainer">
+        <Reader />
+      </section>
+
       <section className="lg:hidden myContainer relative overflow-hidden grid items-center bg-headerBlue h-screen max-h-[500px] lg:max-h-[1080px] w-full">
         <video
           className="absolute h-full top-0 left-1/2 -translate-x-1/2 right-0 bottom-0 max-w-[2550px]"
