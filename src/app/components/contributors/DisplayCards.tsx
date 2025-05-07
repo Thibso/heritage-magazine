@@ -93,7 +93,7 @@ export default function DisplayCards({ data }: Props) {
       </div> */}
 
       {/* Cards */}
-      <div className="grid gap-y-20 sm:grid-cols-2 sm:gap-x-4 md:grid-cols-3 lg:grid-cols-4 lg:gap-x-12">
+      <div className="grid gap-y-8 md:gap-y-20 sm:grid-cols-2 sm:gap-x-4 md:grid-cols-3 lg:grid-cols-4 lg:gap-x-12">
         {filteredcard.map((card, index) => {
           // if (
           //   !filter ||
@@ -108,7 +108,7 @@ export default function DisplayCards({ data }: Props) {
                 height={1024}
                 alt={t(card.honor) + card.title}
                 title={t(card.honor) + " " + card.title}
-                className="h-[350px] md:h-[300px] w-full object-cover object-top"
+                className="h-[300px] w-[75%] md:w-full object-cover object-top max-md:m-auto"
                 quality={75}
               />
 
