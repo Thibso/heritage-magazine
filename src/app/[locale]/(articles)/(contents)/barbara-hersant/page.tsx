@@ -123,7 +123,7 @@ export default function Article() {
             </div>
           </div>
 
-          <p className="text-left font-sfPro font-bold text-3xl lg:text-5xl xl:text-6xl uppercase">
+          <p className="text-left font-sfPro italic font-bold text-xl lg:text-3xl xl:text-4xl uppercase">
             &quot;{t("abstract")}&quot;
           </p>
         </div>

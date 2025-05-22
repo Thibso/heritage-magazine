@@ -105,10 +105,10 @@ export default function Articles() {
             <h1 className="h2 text-mainBlue">{t("h1")}</h1>
             <h2 className="h3 mt-2 lg:mt-4">{t("h2")}</h2>
           </div>
-
-          <AllPublications data={data} />
         </div>
       </section>
+
+      <AllPublications data={data} />
     </div>
   );
 }

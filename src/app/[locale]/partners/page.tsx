@@ -4,9 +4,12 @@ import sfme from "@/app/img/congres-sfme-partenaire-heritage-magazine.png";
 import header from "@/app/img/Formation-marketing-equipe-laboratoire-pharmaceutique.jpg";
 import healthcie from "@/app/img/healthcie-partenaire-heritage-magazine.png";
 import hydra from "@/app/img/hydrafacial-partner-heritage-magazine-aesthetic.png";
+import idocteur from "@/app/img/idocteur-partner-heritage-magazine.png";
 import imcas from "@/app/img/imcas-congres-partner-heritage-magazine.png";
 import mais from "@/app/img/medical-injectable-summit.png";
+import nooance from "@/app/img/nooance-partner-heritage-magazine.png";
 import olivier from "@/app/img/olivier-claire-partenaire-heritage-magazine.png";
+import praguelab from "@/app/img/prague-lab-partner-heritage-magazine.png";
 import thinkin from "@/app/img/thinkin-partenaire-heritage-magazine.png";
 import josse from "@/app/img/thomas-josse-partenaire-heritage-magazine.png";
 import vivacy from "@/app/img/vivacy-partenaire-heritage-magazine.png";
@@ -97,16 +100,37 @@ export default function Partners() {
           <h2 className="h3 mt-2 lg:mt-4">{t("distribution_h3")}</h2>
         </div>
 
-        <div className="grid md:grid-cols-5 items-center max-w-[1200px] m-auto gap-x-8 md:gap-x-12 gap-y-8 md:gap-y-16">
-          <Image src={aime} alt="" className="m-auto max-lg:max-w-[150px]" />
+        <div className="grid md:grid-cols-3 items-center max-w-[1024px] m-auto gap-x-8 md:gap-x-12 gap-y-8 md:gap-y-16">
+          <Image
+            src={aime}
+            alt=""
+            className="m-auto max-lg:max-w-[150px] max-w-[200px]"
+          />
           <Image
             src={thinkin}
             alt=""
-            className="m-auto  max-lg:max-w-[150px]"
+            className="m-auto  max-lg:max-w-[150px] max-w-[200px]"
           />
-          <Image src={imcas} alt="" className="m-auto max-lg:max-w-[150px]" />
-          <Image src={sfme} alt="" className="m-auto max-lg:max-w-[150px]" />
-          <Image src={mais} alt="" className="m-auto max-lg:max-w-[150px]" />
+          <Image
+            src={imcas}
+            alt=""
+            className="m-auto max-lg:max-w-[150px] max-w-[200px]"
+          />
+          <Image
+            src={sfme}
+            alt=""
+            className="m-auto max-lg:max-w-[150px] max-w-[200px]"
+          />
+          <Image
+            src={mais}
+            alt=""
+            className="m-auto max-lg:max-w-[150px] max-w-[200px]"
+          />
+          <Image
+            src={praguelab}
+            alt=""
+            className="m-auto max-lg:max-w-[150px] max-w-[250px]"
+          />
         </div>
       </section>
 
@@ -116,7 +140,7 @@ export default function Partners() {
           <h2 className="h3 mt-2 lg:mt-4">{t("partners_h3")}</h2>
         </div>
 
-        <div className="mt-16 grid grid-cols-2 md:grid-cols-3 items-center max-w-[1200px] m-auto gap-x-8 lg:gap-x-12 gap-y-8 lg:gap-y-16">
+        <div className="mt-16 grid grid-cols-2 md:grid-cols-4 items-center max-w-[1200px] m-auto gap-x-8 lg:gap-x-12 gap-y-8 lg:gap-y-16">
           <Image src={olivier} alt="" className="m-auto w-[188px]" />
           <Image src={vivacy} alt="" className="m-auto w-[188px]" />
           <Image src={aerolase} alt="" className="m-auto w-[188px]" />
@@ -131,6 +155,8 @@ export default function Partners() {
             className="m-auto max-h-[60%] object-contain w-[188px]"
           />
           <Image src={hydra} alt="" className="m-auto w-[250px]" />
+          <Image src={nooance} alt="" className="m-auto w-[250px]" />
+          <Image src={idocteur} alt="" className="m-auto w-[250px]" />
         </div>
       </section>
     </main>

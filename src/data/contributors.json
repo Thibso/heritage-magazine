@@ -45,8 +45,8 @@
     "image": "/contributors/doctor-conversert-viethel-heritage-magazine.png",
     "country_icon": "<FR title='United States' className='size-4' />",
     "country_value": "fr",
-    "speciality": "filters.specialities.surgery.plastic",
-    "speciality_value": "plastic_surgery",
+    "speciality": "filters.specialities.surgery.ent",
+    "speciality_value": "ent_surgery",
     "link": ""
   },
   {
@@ -152,7 +152,7 @@
   },
   {
     "honor": "honors.mr",
-    "title": "COMPTE Bertrand",
+    "title": "COMTE Bertrand",
     "image": "/contributors/comte-bertrand-heritage-magazine.png",
     "country_icon": "<FR title='France' className='size-4' />",
     "country_value": "fr",
@@ -216,8 +216,8 @@
     "image": "/contributors/josse-thomas-heritage-magazine.png",
     "country_icon": "<FR title='France' className='size-4' />",
     "country_value": "fr",
-    "speciality": "filters.specialities.ceo",
-    "speciality_value": "ceo",
+    "speciality": "filters.specialities.consulting",
+    "speciality_value": "consulting",
     "link": ""
   },
   {

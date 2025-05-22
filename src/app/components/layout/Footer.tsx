@@ -49,6 +49,14 @@ export default function Footer() {
                     {t("content.publications")}
                   </a>
                 </li>
+                <li>
+                  <a
+                    href={t("links.contributors")}
+                    className="h3 text-white text-lg hover:text-orange"
+                  >
+                    {t("content.contributors")}
+                  </a>
+                </li>
               </ul>
               <ul>
                 <li>
@@ -65,6 +73,14 @@ export default function Footer() {
                     className="h3 text-white text-lg hover:text-orange"
                   >
                     {t("content.contact")}
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href={t("links.mediaKit")}
+                    className="h3 text-white text-lg hover:text-orange"
+                  >
+                    {t("content.mediaKit")}
                   </a>
                 </li>
                 <li>

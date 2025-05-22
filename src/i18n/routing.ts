@@ -74,6 +74,62 @@ export const routing = defineRouting({
       fr: "/contributeurs-articles-chirugie-plastique-medecine-esthetique",
       en: "/contributors-articles-plastic-surgery-aesthetic-medicine",
     },
+    "/dr-margulies": {
+      fr: "/expertise-docteur-margulies-michael-medecine-integrative-esthetique-prise-en-charge-patient",
+      en: "/expertise-doctor-margulies-michael-integrative-aesthetic-medicine-patient-care",
+    },
+    "/diala-haykal-2": {
+      fr: "/focus-docteur-haykal-diala-intelligence-artificielle-enseignement-diagnostics-dermatologiques",
+      en: "/focus-doctor-haykal-diala-artificial-intelligence-dermatology-teaching-diagnosic",
+    },
+    "/fauad-hasan": {
+      fr: "/focus-hasan-fauad-avenir-medecine-esthetique-personnalisee-avec-intelligence-artificielle",
+      en: "/focus-hasan-fauad-future-personalised-aesthetic-medicine-with-artificial-intelligence",
+    },
+    "/carrie-caulkins": {
+      fr: "/interview-caulkins-carrie-chief-marketing-officer-hydrafacial",
+      en: "/interview-caulkins-carrie-hydrafacial-chief-marketing-officer",
+    },
+    "/luiza-gabour": {
+      fr: "/expertise-maitre-gabour-luiza-etude-reglementation-toxine-botulique-france-europe",
+      en: "/expertise-gabour-luiza-regulatory-study-botulinum-toxin-france-europe",
+    },
+    "/meningaud": {
+      fr: "/interview-professeur-meningaud-jean-paul-congres-aime-international",
+      en: "/interview-professor-meningaud-jean-paul-international-aime-congress",
+    },
+    "/henry-delmar": {
+      fr: "/expertise-docteur-delmar-henry-luxe-chirurgie-esthetique-approche-sur-mesure",
+      en: "/expertise-doctor-delmar-henry-luxury-plastic-surgery-tailor-made-approach",
+    },
+    "/sophie-converset": {
+      fr: "/expertise-docteur-converset-sophie-importance-anatomie-optimisation-securite-injections-patients",
+      en: "/expertise-doctor-converset-sophie-importance-anatomy-optimisation-injections-patients-safety",
+    },
+    "/i-docteur": {
+      fr: "/interview-comte-bertrand-jolly-benoit-idocteur-logiciel-medecin-esthetique-intelligence-artificielle",
+      en: "/interview-comte-bertrand-jolly-benoit-idocteur-artificial-intelligence-software-aesthetic-doctor",
+    },
+    "/vania-hirastuka": {
+      fr: "/technique-docteur-hiratsuka-dalmedo-vania-traitement-bruxisme-hypertrophie-masseterique",
+      en: "/technique-doctor-hiratsuka-dalmedo-vania-bruxism-masseteric-hypertrophy-treatment",
+    },
+    "/merete-haedersdal": {
+      fr: "/interview-doctor-haedersdal-merete-imcas-dermatological-innovation",
+      en: "/interview-docteur-haedersdal-merete-imcas-innovation-dermatologique",
+    },
+    "/dr-raza": {
+      fr: "/technique-doctor-razafimahefa-tantely-hybrid-rhinoplasty",
+      en: "/technique-docteur-razafimahefa-tantely-rhinoplastie-hybride",
+    },
+    "/nooance": {
+      fr: "/interview-delamer-dorothee-nooance-french-specialist-augmented-anti-ageing-care",
+      en: "/interview-delamer-dorothee-nooance-specialiste-français-soin-anti-age-augmente",
+    },
+    "/romain-foucourt": {
+      fr: "/technique-doctor-foucourt-romain-medical-cosmetology-rosacea-management",
+      en: "/technique-docteur-foucourt-romain-cosmetologie-medicale-traitement-rosacee",
+    },
   },
 });
 

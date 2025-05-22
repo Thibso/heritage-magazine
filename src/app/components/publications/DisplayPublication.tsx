@@ -5,7 +5,6 @@ import Image from "next/image";
 import Button from "../buttons/Button";
 
 type Props = {
-  key: number;
   image: string;
   alt: string;
   h2: string;
@@ -19,10 +18,7 @@ export function DisplayPublicationPeer(props: Props) {
   const t = useTranslations("Articles_base");
 
   return (
-    <div
-      className="flex flex-col max-lg:gap-6 lg:grid lg:grid-cols-5"
-      key={props.key}
-    >
+    <div className="flex flex-col max-lg:gap-6 lg:grid lg:grid-cols-5">
       <div className="col-span-2">
         <Image
           src={props.image}

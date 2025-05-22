@@ -3,7 +3,7 @@ import { MetadataRoute } from "next";
 export default function sitemap(): MetadataRoute.Sitemap {
   return [
     {
-      url: "https://magazine-heritage.com/",
+      url: "https://magazine-heritage.com/fr/",
       lastModified: new Date(),
       priority: 1,
       alternates: {
@@ -14,7 +14,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       },
     },
     {
-      url: "https://magazine-heritage.com/about",
+      url: "https://magazine-heritage.com/fr/media-chirurgie-esthetique-medecine-antiage",
       lastModified: new Date(),
       priority: 0.8,
       alternates: {
@@ -25,7 +25,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       },
     },
     {
-      url: "https://magazine-heritage.com/legals",
+      url: "https://magazine-heritage.com/fr/mentions-legales",
       lastModified: new Date(),
       priority: 0.8,
       alternates: {
@@ -36,7 +36,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       },
     },
     {
-      url: "https://magazine-heritage.com/partners",
+      url: "https://magazine-heritage.com/fr/partenaires-chirurgie-esthetique-medecine-anti-age",
       lastModified: new Date(),
       priority: 0.8,
       alternates: {
@@ -47,7 +47,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       },
     },
     {
-      url: "https://magazine-heritage.com/olivier-claire",
+      url: "https://magazine-heritage.com/fr/interview-couraud-olivier-claire-histoire-marque",
       lastModified: new Date(),
       priority: 0.8,
       alternates: {
@@ -58,7 +58,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       },
     },
     {
-      url: "https://magazine-heritage.com/benjamin-ascher",
+      url: "https://magazine-heritage.com/fr/interview-docteur-ascher-benjamin-thinkin-medical-aesthetic-injectable-summit",
       lastModified: new Date(),
       priority: 0.8,
       alternates: {
@@ -69,7 +69,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       },
     },
     {
-      url: "https://magazine-heritage.com/dr-adda",
+      url: "https://magazine-heritage.com/fr/interview-docteur-adda-jean-marc-aerolase-laser-neo-elite",
       lastModified: new Date(),
       priority: 0.8,
       alternates: {
@@ -80,7 +80,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       },
     },
     {
-      url: "https://magazine-heritage.com/barbara-hersant",
+      url: "https://magazine-heritage.com/fr/interview-professeur-hersant-barbara-aime-communication-digitale-medecins",
       lastModified: new Date(),
       priority: 0.8,
       alternates: {
@@ -91,7 +91,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       },
     },
     {
-      url: "https://magazine-heritage.com/julien-vervel",
+      url: "https://magazine-heritage.com/fr/dossier-vervel-julien-consultant-e-reputation-medicale",
       lastModified: new Date(),
       priority: 0.8,
       alternates: {
@@ -102,7 +102,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       },
     },
     {
-      url: "https://magazine-heritage.com/hugo-nivault",
+      url: "https://magazine-heritage.com/fr/dossier-nivault-hugo-healthcie-preparer-projet-digital-sante",
       lastModified: new Date(),
       priority: 0.8,
       alternates: {
@@ -113,7 +113,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       },
     },
     {
-      url: "https://magazine-heritage.com/jean-yves-coste",
+      url: "https://magazine-heritage.com/fr/analyse-coste-jean-yves-marche-medecine-esthetique-exosomes-2025",
       lastModified: new Date(),
       priority: 0.8,
       alternates: {
@@ -124,7 +124,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       },
     },
     {
-      url: "https://magazine-heritage.com/diala-haykal",
+      url: "https://magazine-heritage.com/fr/interview-docteur-haykal-diala-hydradermabrasion-hydrafacial",
       lastModified: new Date(),
       priority: 0.8,
       alternates: {
@@ -135,7 +135,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       },
     },
     {
-      url: "https://magazine-heritage.com/hugues-cartier",
+      url: "https://magazine-heritage.com/fr/interview-docteurs-cartier-hugues-garson-sebastien-imcas-innovation",
       lastModified: new Date(),
       priority: 0.8,
       alternates: {
@@ -146,7 +146,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       },
     },
     {
-      url: "https://magazine-heritage.com/simone-la-padula",
+      url: "https://magazine-heritage.com/fr/technique-professeur-la-padula-simone-rajeunissement-peri-orbitaire",
       lastModified: new Date(),
       priority: 0.8,
       alternates: {
@@ -157,7 +157,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       },
     },
     {
-      url: "https://magazine-heritage.com/articles",
+      url: "https://magazine-heritage.com/fr/publications-innovations-medecine-esthetique",
       lastModified: new Date(),
       priority: 0.8,
       alternates: {
@@ -168,7 +168,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       },
     },
     {
-      url: "https://magazine-heritage.com/contact",
+      url: "https://magazine-heritage.com/fr/contact",
       lastModified: new Date(),
       priority: 0.8,
       alternates: {
@@ -179,13 +179,123 @@ export default function sitemap(): MetadataRoute.Sitemap {
       },
     },
     {
-      url: "https://magazine-heritage.com/congres",
+      url: "https://magazine-heritage.com/fr/contributeurs-articles-chirugie-plastique-medecine-esthetique",
       lastModified: new Date(),
       priority: 0.8,
       alternates: {
         languages: {
-          fr: "https://magazine-heritage.com/fr/",
-          en: "https://magazine-heritage.com/en/",
+          fr: "https://magazine-heritage.com/fr/contributeurs-articles-chirugie-plastique-medecine-esthetique",
+          en: "https://magazine-heritage.com/en/contributors-articles-plastic-surgery-aesthetic-medicine",
+        },
+      },
+    },
+    {
+      url: "https://magazine-heritage.com/fr/meilleurs-congres-medecine-esthetique-chirurgie-plastique",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/meilleurs-congres-medecine-esthetique-chirurgie-plastique",
+          en: "https://magazine-heritage.com/en/top-aesthetic-medicine-plastic-surgery-congresses",
+        },
+      },
+    },
+    {
+      url: "https://magazine-heritage.com/fr/interview-comte-bertrand-jolly-benoit-idocteur-logiciel-medecin-esthetique-intelligence-artificielle",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/interview-comte-bertrand-jolly-benoit-idocteur-logiciel-medecin-esthetique-intelligence-artificielle",
+          en: "https://magazine-heritage.com/en/interview-comte-bertrand-jolly-benoit-idocteur-artificial-intelligence-software-aesthetic-doctor",
+        },
+      },
+    },
+    {
+      url: "https://magazine-heritage.com/fr/focus-docteur-haykal-diala-intelligence-artificielle-enseignement-diagnostics-dermatologiques",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/focus-docteur-haykal-diala-intelligence-artificielle-enseignement-diagnostics-dermatologiques",
+          en: "https://magazine-heritage.com/en/focus-doctor-haykal-diala-artificial-intelligence-dermatology-teaching-diagnosic",
+        },
+      },
+    },
+    {
+      url: "https://magazine-heritage.com/fr/expertise-docteur-margulies-michael-medecine-integrative-esthetique-prise-en-charge-patient",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/expertise-docteur-margulies-michael-medecine-integrative-esthetique-prise-en-charge-patient",
+          en: "https://magazine-heritage.com/en/expertise-doctor-margulies-michael-integrative-aesthetic-medicine-patient-care",
+        },
+      },
+    },
+    {
+      url: "https://magazine-heritage.com/fr/focus-hasan-fauad-avenir-medecine-esthetique-personnalisee-avec-intelligence-artificielle",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/focus-hasan-fauad-avenir-medecine-esthetique-personnalisee-avec-intelligence-artificielle",
+          en: "https://magazine-heritage.com/en/focus-hasan-fauad-future-personalised-aesthetic-medicine-with-artificial-intelligence",
+        },
+      },
+    },
+    {
+      url: "https://magazine-heritage.com/fr/interview-caulkins-carrie-chief-marketing-officer-hydrafacial",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/interview-caulkins-carrie-chief-marketing-officer-hydrafacial",
+          en: "https://magazine-heritage.com/en/interview-caulkins-carrie-hydrafacial-chief-marketing-officer",
+        },
+      },
+    },
+    {
+      url: "https://magazine-heritage.com/fr/expertise-maitre-gabour-luiza-etude-reglementation-toxine-botulique-france-europe",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/expertise-maitre-gabour-luiza-etude-reglementation-toxine-botulique-france-europe",
+          en: "https://magazine-heritage.com/en/expertise-gabour-luiza-regulatory-study-botulinum-toxin-france-europe",
+        },
+      },
+    },
+    {
+      url: "https://magazine-heritage.com/fr/interview-professeur-meningaud-jean-paul-congres-aime-international",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/interview-professeur-meningaud-jean-paul-congres-aime-international",
+          en: "https://magazine-heritage.com/en/interview-professor-meningaud-jean-paul-international-aime-congress",
+        },
+      },
+    },
+    {
+      url: "https://magazine-heritage.com/fr/expertise-docteur-delmar-henry-luxe-chirurgie-esthetique-approche-sur-mesure",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/expertise-docteur-delmar-henry-luxe-chirurgie-esthetique-approche-sur-mesure",
+          en: "https://magazine-heritage.com/en/expertise-doctor-delmar-henry-luxury-plastic-surgery-tailor-made-approach",
+        },
+      },
+    },
+    {
+      url: "https://magazine-heritage.com/fr/expertise-docteur-converset-sophie-importance-anatomie-optimisation-securite-injections-patients",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/expertise-docteur-converset-sophie-importance-anatomie-optimisation-securite-injections-patients",
+          en: "https://magazine-heritage.com/en/expertise-doctor-converset-sophie-importance-anatomy-optimisation-injections-patients-safety",
         },
       },
     },
