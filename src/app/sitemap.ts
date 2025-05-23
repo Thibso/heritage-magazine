@@ -299,5 +299,71 @@ export default function sitemap(): MetadataRoute.Sitemap {
         },
       },
     },
+    {
+      url: "https://magazine-heritage.com/fr/interview-comte-bertrand-jolly-benoit-idocteur-logiciel-medecin-esthetique-intelligence-artificielle",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/interview-comte-bertrand-jolly-benoit-idocteur-logiciel-medecin-esthetique-intelligence-artificielle",
+          en: "https://magazine-heritage.com/en/interview-comte-bertrand-jolly-benoit-idocteur-artificial-intelligence-software-aesthetic-doctor",
+        },
+      },
+    },
+    {
+      url: "https://magazine-heritage.com/fr/technique-docteur-hiratsuka-dalmedo-vania-traitement-bruxisme-hypertrophie-masseterique",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/technique-docteur-hiratsuka-dalmedo-vania-traitement-bruxisme-hypertrophie-masseterique",
+          en: "https://magazine-heritage.com/en/technique-doctor-hiratsuka-dalmedo-vania-bruxism-masseteric-hypertrophy-treatment",
+        },
+      },
+    },
+    {
+      url: "https://magazine-heritage.com/fr/interview-docteur-haedersdal-merete-imcas-innovation-dermatologique",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/interview-docteur-haedersdal-merete-imcas-innovation-dermatologique",
+          en: "https://magazine-heritage.com/en/interview-doctor-haedersdal-merete-imcas-dermatological-innovation",
+        },
+      },
+    },
+    {
+      url: "https://magazine-heritage.com/fr/technique-docteur-razafimahefa-tantely-rhinoplastie-hybride",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/technique-docteur-razafimahefa-tantely-rhinoplastie-hybride",
+          en: "https://magazine-heritage.com/en/technique-doctor-razafimahefa-tantely-hybrid-rhinoplasty",
+        },
+      },
+    },
+    {
+      url: "https://magazine-heritage.com/fr/interview-delamer-dorothee-nooance-specialiste-français-soin-anti-age-augmente",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/interview-delamer-dorothee-nooance-specialiste-français-soin-anti-age-augmente",
+          en: "https://magazine-heritage.com/en/interview-delamer-dorothee-nooance-french-specialist-augmented-anti-ageing-care",
+        },
+      },
+    },
+    {
+      url: "https://magazine-heritage.com/fr/technique-docteur-foucourt-romain-cosmetologie-medicale-traitement-rosacee",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/technique-docteur-foucourt-romain-cosmetologie-medicale-traitement-rosacee",
+          en: "https://magazine-heritage.com/en/technique-doctor-foucourt-romain-medical-cosmetology-rosacea-management",
+        },
+      },
+    },
   ];
 }

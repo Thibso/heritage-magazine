@@ -115,20 +115,20 @@ export const routing = defineRouting({
       en: "/technique-doctor-hiratsuka-dalmedo-vania-bruxism-masseteric-hypertrophy-treatment",
     },
     "/merete-haedersdal": {
-      fr: "/interview-doctor-haedersdal-merete-imcas-dermatological-innovation",
-      en: "/interview-docteur-haedersdal-merete-imcas-innovation-dermatologique",
+      fr: "/interview-docteur-haedersdal-merete-imcas-innovation-dermatologique",
+      en: "/interview-doctor-haedersdal-merete-imcas-dermatological-innovation",
     },
     "/dr-raza": {
-      fr: "/technique-doctor-razafimahefa-tantely-hybrid-rhinoplasty",
-      en: "/technique-docteur-razafimahefa-tantely-rhinoplastie-hybride",
+      fr: "/technique-docteur-razafimahefa-tantely-rhinoplastie-hybride",
+      en: "/technique-doctor-razafimahefa-tantely-hybrid-rhinoplasty",
     },
     "/nooance": {
-      fr: "/interview-delamer-dorothee-nooance-french-specialist-augmented-anti-ageing-care",
-      en: "/interview-delamer-dorothee-nooance-specialiste-français-soin-anti-age-augmente",
+      fr: "/interview-delamer-dorothee-nooance-specialiste-français-soin-anti-age-augmente",
+      en: "/interview-delamer-dorothee-nooance-french-specialist-augmented-anti-ageing-care",
     },
     "/romain-foucourt": {
-      fr: "/technique-doctor-foucourt-romain-medical-cosmetology-rosacea-management",
-      en: "/technique-docteur-foucourt-romain-cosmetologie-medicale-traitement-rosacee",
+      fr: "/technique-docteur-foucourt-romain-cosmetologie-medicale-traitement-rosacee",
+      en: "/technique-doctor-foucourt-romain-medical-cosmetology-rosacea-management",
     },
   },
 });
