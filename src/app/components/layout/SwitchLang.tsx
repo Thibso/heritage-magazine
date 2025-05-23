@@ -17,7 +17,7 @@ export default function SwitchLang(props: Props) {
   return (
     <div>
       {props.locale === "en" ? (
-        <Link href={"/fr/" + pathname} title="French version">
+        <Link href={"/fr" + pathname} title="French version">
           <Image
             className="max-lg:max-h-[32px] max-lg:w-fit lg:h-[24px] object-contain"
             src={fr}
@@ -25,7 +25,7 @@ export default function SwitchLang(props: Props) {
           />
         </Link>
       ) : (
-        <Link href={"/en/" + pathname} title="Version Anglaise">
+        <Link href={"/en" + pathname} title="Version Anglaise">
           <Image
             className="max-lg:max-h-[32px] max-lg:w-fit lg:h-[24px] object-contain"
             src={en}
