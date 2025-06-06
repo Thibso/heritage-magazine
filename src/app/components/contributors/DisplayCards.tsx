@@ -1,6 +1,6 @@
 "use client";
 
-import { DK, FR, IT, US } from "country-flag-icons/react/3x2";
+import { AT, DK, FR, GB, IT, RU, US } from "country-flag-icons/react/3x2";
 import { useTranslations } from "next-intl";
 import Image from "next/image";
 
@@ -129,6 +129,18 @@ export default function DisplayCards({ data }: Props) {
                   {/* US */}
                   {card.country_value === "us" ? (
                     <US title="United-States" className="size-4" />
+                  ) : null}
+                  {/* UK */}
+                  {card.country_value === "uk" ? (
+                    <GB title="United Kingdom" className="size-4" />
+                  ) : null}
+                  {/* AT */}
+                  {card.country_value === "at" ? (
+                    <AT title="Austria" className="size-4" />
+                  ) : null}
+                  {/* RU */}
+                  {card.country_value === "ru" ? (
+                    <RU title="Russia" className="size-4" />
                   ) : null}
                   <h4 className="">
                     {t(card.honor)} {card.title}

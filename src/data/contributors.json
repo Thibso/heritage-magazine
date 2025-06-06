@@ -205,7 +205,7 @@
     "title": "CAULKINS Carrie",
     "image": "/contributors/caulkins-carrie-hydrafacial-heritage-magazine.png",
     "country_icon": "<FR title='France' className='size-4' />",
-    "country_value": "fr",
+    "country_value": "us",
     "speciality": "filters.specialities.cmo",
     "speciality_value": "cmo",
     "link": ""
@@ -256,6 +256,56 @@
     "image": "/contributors/doctor-haedersdal-merete-heritage-magazine.png",
     "country_icon": "<FR title='France' className='size-4' />",
     "country_value": "dk",
+    "speciality": "filters.specialities.dermatology",
+    "speciality_value": "dermatology",
+    "link": ""
+  },
+  {
+    "honor": "honors.mrs",
+    "title": "OSVALDOVA Eva",
+    "image": "/contributors/Osvaldova-eva-heritage-magazine.png",
+    "country_icon": "<FR title='France' className='size-4' />",
+    "country_value": "at",
+    "speciality": "filters.specialities.ceo",
+    "speciality_value": "ceo",
+    "link": ""
+  },
+  {
+    "honor": "honors.mr",
+    "title": "EFREMKIN Pavel",
+    "image": "/contributors/efremkin-pavel-aerolase-heritage-magazine.png",
+    "country_icon": "<FR title='France' className='size-4' />",
+    "country_value": "ru",
+    "speciality": "filters.specialities.ceo",
+    "speciality_value": "ceo",
+    "link": ""
+  },
+  {
+    "honor": "honors.dr",
+    "title": "HIRATSUKA-DALMEDO Varia",
+    "image": "/contributors/doctor-hiratsuka-dalmedo-vania-heritage-magazine.png",
+    "country_icon": "<FR title='France' className='size-4' />",
+    "country_value": "uk",
+    "speciality": "filters.specialities.medicine",
+    "speciality_value": "medicine",
+    "link": ""
+  },
+  {
+    "honor": "honors.dr",
+    "title": "El MUNTASAR Ahmed",
+    "image": "/contributors/aesthetics-doctor-elmuntasar-ahmed.png",
+    "country_icon": "<FR title='France' className='size-4' />",
+    "country_value": "uk",
+    "speciality": "filters.specialities.medicine",
+    "speciality_value": "medicine",
+    "link": ""
+  },
+  {
+    "honor": "honors.dr",
+    "title": "MELIN Audrey",
+    "image": "/contributors/doctor-melin-audrey-heritage-magazine.png",
+    "country_icon": "<FR title='France' className='size-4' />",
+    "country_value": "fr",
     "speciality": "filters.specialities.dermatology",
     "speciality_value": "dermatology",
     "link": ""
