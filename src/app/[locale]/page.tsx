@@ -1,6 +1,7 @@
 import { useTranslations } from "next-intl";
 import Image from "next/image";
 import Button from "../components/buttons/Button";
+import last_mag from "../img/heritage-magazine-last-version.jpeg";
 import magMobile from "../img/magazine-innovation-sante-mobile.jpg";
 import mag from "../img/magazine-innovation-sante.jpg";
 
@@ -169,7 +170,16 @@ export default function Home() {
         </div>
 
         <div className="bg-bgLight max-lg:pb-12 col-span-5 grid items-center overflow-hidden">
-          <video
+          <div className="space-y-8 lg:space-y-16">
+            <h2 className="h2 text-orange text-center">{t("video.title")}</h2>
+            <Image
+              src={last_mag}
+              alt="Magazine (H)ERITAGE last version"
+              className="m-auto w-[80%] object-cover"
+            />
+          </div>
+
+          {/* <video
             className="m-auto w-full object-cover"
             autoPlay
             muted
@@ -180,7 +190,7 @@ export default function Home() {
               src="/magazine-heritage-specialiste-innovations-sante.mp4"
               type="video/mp4"
             />
-          </video>
+          </video> */}
         </div>
       </section>
     </main>

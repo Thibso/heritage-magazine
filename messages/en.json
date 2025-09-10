@@ -15,6 +15,9 @@
       "content": "<p>With HERITAGE, medical device companies benefit from a privileged opportunity to promote their innovations on a 'haut de gamme' medium. Our digital & print ecosystem enables brands to address a specialised and influential audience in a targeted, high-impact way.</p> <p>The aesthetically pleasing magazine embodies the prestige and expertise of the industry. It is distributed at the world's most renowned surgical, medical and dermatological aesthetic congresses.</p> <p>The digital version offers continuous access to a worldwide network of specialists. By combining these two media, HERITAGE opens up an ultra-specialised communication channel, accessible to everyone at any time.</p>",
       "cta": "Partners",
       "cta_link": "/en/partners-plastic-surgery-anti-aging-medicine"
+    },
+    "video": {
+      "title": "Discover our new edition at the SFME congress"
     }
   },
   "About": {
@@ -322,6 +325,62 @@
       "content": "Periorbital rejuvenation is among the most sought-after procedures in cosmetic surgery. Patients often focus their attention on the eyelids, without considering that the aging process of the periorbital region results from a combination of multiple interconnected factors.",
       "cta_link": "/en/technique-professor-la-padula-simone-periorbital-rejuvenation",
       "cta": "Read article"
+    },
+    "Diala_Haykal_2": {
+      "h2": "Machine Learning and Medical Training",
+      "h3": "By Dr. Diala Haykal",
+      "cta_link": "/en/focus-doctor-haykal-diala-artificial-intelligence-dermatology-teaching-diagnosic",
+      "cta": "Read article",
+      "content": "Dermatology is a specialty where the clinical eye is king. But today, that eye is enhanced by a new tool: artificial intelligence. More than just a diagnostic aid, AI is becoming a full-fledged educational partner, redefining learning methods in dermatology."
+    },
+    "IDocteur": {
+      "h2": "Artificial Intelligence at the Heart & Humans in Control",
+      "h3": "by Bertrand Comte et Benoit Jolly",
+      "cta_link": "/en/interview-comte-bertrand-jolly-benoit-idocteur-artificial-intelligence-software-aesthetic-doctor",
+      "cta": "Read article",
+      "content": "Two journeys, one shared ambition: to simplify the management of aesthetic clinics through digital innovation. Benoît, an engineer in medical imaging, and Bertrand, a specialist in finance and organization, co-founded iDocteur, a French software solution designed for aesthetic medical professionals."
+    },
+    "Carrie_Caulkins": {
+      "h2": "From skinimalism to intelligent beauty: An interview with Carrie Caulkins",
+      "h3": "By Carrie Caulkins",
+      "cta_link": "/en/interview-caulkins-carrie-hydrafacial-chief-marketing-officer",
+      "cta": "Read article",
+      "content": "Carrie Caulkins is the Chief Marketing Officer of Hydrafacial®. A seasoned leader in the aesthetics industry, she brings a rare blend of scientific expertise and strategic marketing acumen to drive brand growth and innovation."
+    },
+    "Tantely_Raza": {
+      "h2": " Hybrid rhinoplasty: rhinoplasty 3.0?",
+      "h3": "By Dr. Tantely Razafimahefa",
+      "cta_link": "/en/technique-doctor-razafimahefa-tantely-hybrid-rhinoplasty",
+      "cta": "Read article",
+      "content": "We will discuss the developments in rhinoplasty over the past few years in terms of technique as well as patient expectations.<br></br>The demand from patients has significantly evolved over the past ten years. The influence of social media is not foreign to this evolution. It mainly concerns young patients aged 18 to 25."
+    },
+    "Dr_Margulies": {
+      "h2": "Integrative & Aesthetic Medicine",
+      "h3": "By Dr. Michael Margulies",
+      "cta_link": "/en/expertise-doctor-margulies-michael-integrative-aesthetic-medicine-patient-care",
+      "cta": "Read article",
+      "content": "In the field of aesthetic medicine, a quiet revolution is emerging with the rise of integrative medicine. By combining traditional approaches from conventional medicine with alternative therapies, this practice aims to treat the patient holistically. This model finds a particular place in anti-aging medicine, where the focus is on improving quality of life, as well as on prevention and maintaining physical and mental balance."
+    },
+    "Nooance": {
+      "h2": "NOOĀNCE: THE FRENCH EXPERT IN ADVANCED ANTI-AGING SKINCARE",
+      "h3": "With Dorothée Delamer, Brand Director at NOOĀNCE",
+      "cta_link": "/en/interview-delamer-dorothee-nooance-french-specialist-augmented-anti-ageing-care",
+      "cta": "Read article",
+      "content": "We officially launched NOOĀNCE in September 2022, but the project had been in the making for over five years. For three years, we collaborated with biochemical engineers, dermatologists, and skin experts to develop a range of LED masks and LED & Laser (LLLT) helmets, combining advanced technology, comfort, and clinically proven effectiveness. We also formulated a line of topical skincare products designed to work in synergy with our LED devices, using the most thoroughly studied and scientifically validated active ingredients."
+    },
+    "Romain_Foucourt": {
+      "h2": "Medical Cosmetology and the Rosacea Management",
+      "h3": "By Dr. Romain Foucourt ",
+      "cta_link": "/en/technique-doctor-foucourt-romain-medical-cosmetology-rosacea-management",
+      "cta": "Read article",
+      "content": "Dr Romain Foucourt is an aesthetic physician trained at leading French universities. He completed his basic training in physics at the Massachusetts Institute of Technology (MIT), and in regenerative medicine and cellular therapies at the University of Montpellier. His integrative approach lies at the crossroads of basic science, skin biology and contemporary medical aesthetics."
+    },
+    "Luiza_Gabour": {
+      "h2": "Comparative study of botulinum toxin regulation in France and other European countries",
+      "h3": "By Luiza Gabour",
+      "cta_link": "/en/expertise-gabour-luiza-regulatory-study-botulinum-toxin-france-europe",
+      "cta": "Read article",
+      "content": "Botulinum toxin has been used for medical purposes since 1975, but it is in the field of aesthetic medicine that botulinum toxin has seen a real revolution. In 2002, botulinum toxin, marketed under the name BOTOX, was approved by the Food and Drug Administration (FDA) for the treatment of wrinkles."
     }
   },
   "Articles": {

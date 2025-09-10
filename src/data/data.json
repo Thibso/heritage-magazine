@@ -1,5 +1,90 @@
 [
   {
+    "image": "/contributors/delamer-dorothee-nooance-heritage-magazine.png",
+    "alt": "Dorothée Delamer Nooance HERITAGE Magazine",
+    "h2": "Nooance.h2",
+    "h3": "Nooance.h3",
+    "p": "Nooance.content",
+    "linkTo": "Nooance.cta_link",
+    "linkText": "Nooance.cta",
+    "tags": ["Nooance.tags.t1.title", "Nooance.tags.t2.title"]
+  },
+  {
+    "image": "/contributors/caulkins-carrie-hydrafacial-heritage-magazine.png",
+    "alt": "Carrie Caulkins HERITAGE Magazine",
+    "h2": "Carrie_Caulkins.h2",
+    "h3": "Carrie_Caulkins.h3",
+    "p": "Carrie_Caulkins.content",
+    "linkTo": "Carrie_Caulkins.cta_link",
+    "linkText": "Carrie_Caulkins.cta",
+    "tags": ["Carrie_Caulkins.tags.t1.title"]
+  },
+  {
+    "image": "/contributors/doctor-margulies-michael-heritage-magazine.png",
+    "alt": "Dr Margulies HERITAGE Magazine",
+    "h2": "Dr_Margulies.h2",
+    "h3": "Dr_Margulies.h3",
+    "p": "Dr_Margulies.content",
+    "linkTo": "Dr_Margulies.cta_link",
+    "linkText": "Dr_Margulies.cta",
+    "tags": ["Dr_Margulies.tags.t1.title"]
+  },
+  {
+    "image": "/contributors/doctor-razafimahefa-tantely-heritage-magazine.png",
+    "alt": "Tantely Razafimahefa HERITAGE Magazine",
+    "h2": "Tantely_Raza.h2",
+    "h3": "Tantely_Raza.h3",
+    "p": "Tantely_Raza.content",
+    "linkTo": "Tantely_Raza.cta_link",
+    "linkText": "Tantely_Raza.cta",
+    "tags": ["Tantely_Raza.tags.t1.title"]
+  },
+  {
+    "image": "/contributors/gabour-luiza-heritage-magazine.png",
+    "alt": "Luiza Gabour HERITAGE Magazine",
+    "h2": "Luiza_Gabour.h2",
+    "h3": "Luiza_Gabour.h3",
+    "p": "Luiza_Gabour.content",
+    "linkTo": "Luiza_Gabour.cta_link",
+    "linkText": "Luiza_Gabour.cta",
+    "tags": [
+      "Luiza_Gabour.tags.t1.title",
+      "Luiza_Gabour.tags.t2.title",
+      "Luiza_Gabour.tags.t3.title"
+    ]
+  },
+  {
+    "image": "/contributors/doctor-foucourt-romain-heritage-magazine.png",
+    "alt": "Romain Foucourt HERITAGE Magazine",
+    "h2": "Romain_Foucourt.h2",
+    "h3": "Romain_Foucourt.h3",
+    "p": "Romain_Foucourt.content",
+    "linkTo": "Romain_Foucourt.cta_link",
+    "linkText": "Romain_Foucourt.cta",
+    "tags": ["Romain_Foucourt.tags.t1.title", "Romain_Foucourt.tags.t2.title"]
+  },
+
+  {
+    "image": "/contributors/comte-bertrand-heritage-magazine.png",
+    "alt": "IDocteur HERITAGE Magazine",
+    "h2": "IDocteur.h2",
+    "h3": "IDocteur.h3",
+    "p": "IDocteur.content",
+    "linkTo": "IDocteur.cta_link",
+    "linkText": "IDocteur.cta",
+    "tags": ["IDocteur.tags.t1.title"]
+  },
+  {
+    "image": "/contributors/doctor-haykal-diala-heritage-magazine.png",
+    "alt": "Diala Haykal HERITAGE Magazine",
+    "h2": "Diala_Haykal_2.h2",
+    "h3": "Diala_Haykal_2.h3",
+    "p": "Diala_Haykal_2.content",
+    "linkTo": "Diala_Haykal_2.cta_link",
+    "linkText": "Diala_Haykal_2.cta",
+    "tags": ["Diala_Haykal_2.tags.t1.title"]
+  },
+  {
     "image": "/publications/doctors-cartier-garson-imcas-interview-heritage-magazine.jpg",
     "alt": "Hugues Cartier et Sébastien Garson HERITAGE Magazine",
     "h2": "cartier.h2",

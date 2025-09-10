@@ -18,7 +18,7 @@ export function DisplayPublicationPeer(props: Props) {
   const t = useTranslations("Articles_base");
 
   return (
-    <div className="flex flex-col max-lg:gap-6 lg:grid lg:grid-cols-5">
+    <div className="flex flex-col max-lg:gap-6 lg:grid lg:grid-cols-5 max-w-screen-2xl mx-auto">
       <div className="col-span-2">
         <Image
           src={props.image}
@@ -26,7 +26,7 @@ export function DisplayPublicationPeer(props: Props) {
           title={props.alt}
           width={1024}
           height={1024}
-          className="max-lg:m-auto w-full max-lg:max-w-[400px] object-contain rounded-sm"
+          className="max-lg:m-auto w-full max-lg:max-w-[400px] aspect-square object-cover object-top rounded-sm"
         />
       </div>
 
@@ -55,7 +55,7 @@ export function DisplayPublicationOdd(props: Props) {
   const t = useTranslations("Articles_base");
 
   return (
-    <div className="max-lg:flex max-lg:flex-col-reverse max-lg:gap-6 lg:grid lg:grid-cols-5">
+    <div className="max-lg:flex max-lg:flex-col-reverse max-lg:gap-6 lg:grid lg:grid-cols-5 max-w-screen-2xl mx-auto">
       <div className="col-span-3 space-y-6 flex flex-col justify-center md:mr-12 lg:mr-20">
         <div>
           <h2 className="font-sfPro font-bold text-2xl lg:text-4xl uppercase">
@@ -81,7 +81,7 @@ export function DisplayPublicationOdd(props: Props) {
           title={props.alt}
           width={1024}
           height={1024}
-          className="max-lg:m-auto w-full max-lg:max-w-[400px] object-contain rounded-sm"
+          className="max-lg:m-auto w-full max-lg:max-w-[400px] aspect-square object-cover object-top rounded-sm"
         />
       </div>
     </div>
