@@ -1,5 +1,65 @@
 [
   {
+    "image": "/contributors/doctor-ascher-benjamin-heritage-magazine.png",
+    "alt": "Sibus-In® HERITAGE Magazine",
+    "h2": "Benjamin_Ascher_2.h2",
+    "h3": "Benjamin_Ascher_2.h3",
+    "p": "Benjamin_Ascher_2.content",
+    "linkTo": "Benjamin_Ascher_2.cta_link",
+    "linkText": "Benjamin_Ascher_2.cta",
+    "tags": ["Benjamin_Ascher_2.tags.t1.title"]
+  },
+  {
+    "image": "/contributors/doctor-deutsch-jean-jacques-heritage-magazine.png",
+    "alt": "Jean-Jacques Deutsch HERITAGE Magazine",
+    "h2": "Jean_Jacques_Deutsch_2.h2",
+    "h3": "Jean_Jacques_Deutsch_2.h3",
+    "p": "Jean_Jacques_Deutsch_2.content",
+    "linkTo": "Jean_Jacques_Deutsch_2.cta_link",
+    "linkText": "Jean_Jacques_Deutsch_2.cta",
+    "tags": ["Jean_Jacques_Deutsch_2.tags.t1.title"]
+  },
+  {
+    "image": "/contributors/coste-jean-yves-heritage-magazine.png",
+    "alt": "jean-Yves Coste HERITAGE Magazine",
+    "h2": "Jean_Yves_Coste_2.h2",
+    "h3": "Jean_Yves_Coste_2.h3",
+    "p": "Jean_Yves_Coste_2.content",
+    "linkTo": "Jean_Yves_Coste_2.cta_link",
+    "linkText": "Jean_Yves_Coste_2.cta",
+    "tags": ["Jean_Yves_Coste_2.tags.t1.title"]
+  },
+  {
+    "image": "/contributors/josse-thomas-heritage-magazine.png",
+    "alt": "Thomas Josse HERITAGE Magazine",
+    "h2": "Thomas_Josse.h2",
+    "h3": "Thomas_Josse.h3",
+    "p": "Thomas_Josse.content",
+    "linkTo": "Thomas_Josse.cta_link",
+    "linkText": "Thomas_Josse.cta",
+    "tags": ["Thomas_Josse.tags.t1.title"]
+  },
+  {
+    "image": "/contributors/vervel-julien-healthcie-heritage-magazine.png",
+    "alt": "Julien Vervel HERITAGE Magazine",
+    "h2": "Julien_Vervel_2.h2",
+    "h3": "Julien_Vervel_2.h3",
+    "p": "Julien_Vervel_2.content",
+    "linkTo": "Julien_Vervel_2.cta_link",
+    "linkText": "Julien_Vervel_2.cta",
+    "tags": ["Julien_Vervel_2.tags.t1.title"]
+  },
+  {
+    "image": "/contributors/doctor-deutsch-jean-jacques-heritage-magazine.png",
+    "alt": "Jean-Jacques Deutsch HERITAGE Magazine",
+    "h2": "Jean_Jacques_Deutsch.h2",
+    "h3": "Jean_Jacques_Deutsch.h3",
+    "p": "Jean_Jacques_Deutsch.content",
+    "linkTo": "Jean_Jacques_Deutsch.cta_link",
+    "linkText": "Jean_Jacques_Deutsch.cta",
+    "tags": ["Jean_Jacques_Deutsch.tags.t1.title"]
+  },
+  {
     "image": "/contributors/delamer-dorothee-nooance-heritage-magazine.png",
     "alt": "Dorothée Delamer Nooance HERITAGE Magazine",
     "h2": "Nooance.h2",
@@ -85,7 +145,7 @@
     "tags": ["Diala_Haykal_2.tags.t1.title"]
   },
   {
-    "image": "/publications/doctors-cartier-garson-imcas-interview-heritage-magazine.jpg",
+    "image": "/contributors/doctor-cartier-hugues-heritage-magazine.png",
     "alt": "Hugues Cartier et Sébastien Garson HERITAGE Magazine",
     "h2": "cartier.h2",
     "h3": "cartier.h3",
@@ -95,7 +155,7 @@
     "tags": ["Hugues_Cartier.tags.t1.title", "Hugues_Cartier.tags.t2.title"]
   },
   {
-    "image": "/publications/pr-la-padula-expertise-heritage-magazine.jpg",
+    "image": "/contributors/doctor-lapadula-simone-heritage-magazine.png",
     "alt": "Simone La Padula HERITAGE Magazine",
     "h2": "lapadula.h2",
     "h3": "lapadula.h3",
@@ -105,7 +165,7 @@
     "tags": ["Simone_La_Padula.tags.t1.title"]
   },
   {
-    "image": "/publications/jean-yves-coste-focus-market-overview-heritage-magazine.jpg",
+    "image": "/contributors/coste-jean-yves-heritage-magazine.png",
     "alt": "Jean-Yves Coste HERITAGE Magazine",
     "h2": "coste.h2",
     "h3": "coste.h3",
@@ -115,7 +175,7 @@
     "tags": ["Jean_Yves_Coste.tags.t1.title"]
   },
   {
-    "image": "/publications/dr-haykal-interview-hydrafacial-heritage-magazine.jpg",
+    "image": "/contributors/doctor-haykal-diala-heritage-magazine.png",
     "alt": "Diala haykal HERITAGE Magazine",
     "h2": "diala.h2",
     "h3": "diala.h3",
@@ -125,7 +185,7 @@
     "tags": ["Diala_Haykal.tags.t1.title"]
   },
   {
-    "image": "/publications/doctor-ascher-benjamin-heritage-magazine.jpg",
+    "image": "/contributors/doctor-ascher-benjamin-heritage-magazine.png",
     "alt": "Dr Benjamin Ascher HERITAGE Magazine",
     "h2": "ascher.h2",
     "h3": "ascher.h3",
@@ -135,7 +195,7 @@
     "tags": ["Benjamin_Asher.tags.t1.title"]
   },
   {
-    "image": "/publications/olivier-claire-couraud-heritage-magazine.jpg",
+    "image": "/contributors/couraud-olivier-heritage-magazine.png",
     "alt": "Olivier Claire HERITAGE Magazine",
     "h2": "olivier.h2",
     "h3": "olivier.h3",
@@ -145,7 +205,7 @@
     "tags": ["Olivier_Claire.tags.t1.title"]
   },
   {
-    "image": "/publications/doctor-adda-jean-marc-heritage-magazine.jpg",
+    "image": "/contributors/doctor-adda-jean-marc-heritage-magazine.png",
     "alt": "Aerolase HERITAGE Magazine",
     "h2": "adda.h2",
     "h3": "adda.h3",
@@ -155,7 +215,7 @@
     "tags": ["Dr_Adda.tags.t1.title"]
   },
   {
-    "image": "/publications/professor-hersant-barbara-heritage-magazine.jpg",
+    "image": "/contributors/doctor-hersant-barbara-heritage-magazine.png",
     "alt": "Pr Barbara Hersant HERITAGE Magazine",
     "h2": "barbara.h2",
     "h3": "barbara.h3",
@@ -165,7 +225,7 @@
     "tags": ["Barbara_Hersant.tags.t1.title", "Barbara_Hersant.tags.t2.title"]
   },
   {
-    "image": "/publications/vervel-julien-heritage-magazine.jpg",
+    "image": "/contributors/vervel-julien-healthcie-heritage-magazine.png",
     "alt": "Julien Vervel HERITAGE Magazine",
     "h2": "julien.h2",
     "h3": "julien.h3",
@@ -175,7 +235,7 @@
     "tags": ["Julien_Vervel.tags.t1.title"]
   },
   {
-    "image": "/publications/nivault-hugo-heritage-magazine.jpg",
+    "image": "/contributors/nivault-hugo-healthcie-heritage-magazine.png",
     "alt": "Hugo Nivault HERITAGE Magazine",
     "h2": "hugo.h2",
     "h3": "hugo.h3",

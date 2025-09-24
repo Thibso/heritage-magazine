@@ -130,6 +130,30 @@ export const routing = defineRouting({
       fr: "/technique-docteur-foucourt-romain-cosmetologie-medicale-traitement-rosacee",
       en: "/technique-doctor-foucourt-romain-medical-cosmetology-rosacea-management",
     },
+    "/thomas-josse": {
+      fr: "/interview-josse-thomas-conciergerie-club-acteurs-medecine-esthetique",
+      en: "/interview-josse-thomas-concierge-service-club-actors-aesthetic-medicine",
+    },
+    "/julien-vervel-2": {
+      fr: "/dossier-vervel-julien-visibilite-referencement-medecins-intelligence-artificielle-geo",
+      en: "/focus-vervel-julien-visibility-doctors-referencing-artificial-intelligence-geo",
+    },
+    "/jean-jacques-deutsch": {
+      fr: "/interview-docteur-deutsch-jean-jacques-congres-sfme",
+      en: "/interview-doctor-deutsch-jean-jacques-sfme-congress",
+    },
+    "/jean-jacques-deutsch-2": {
+      fr: "/dossier-docteur-deutsch-jean-jacques-introduction-histoire-medecine-esthetique-france",
+      en: "/focus-doctor-deutsch-jean-jacques-introduction-history-french-aesthetic-medicine",
+    },
+    "/benjamin-ascher-2": {
+      fr: "/innovation-docteurs-melin-audrey-ascher-benjamin-sibus-in-sonde-echographique-digitale",
+      en: "/innovation-doctors-melin-audrey-ascher-benjamin-sibus-in-finger-probe-ultrasound-guided-injections",
+    },
+    "/jean-yves-coste-2": {
+      fr: "/dossier-coste-jean-yves-intelligence-artificielle-medecine-esthetique-convergence-technologique",
+      en: "/focus-coste-jean-yves-artificial-intelligence-aesthetic-medicine-technological-convergence",
+    },
   },
 });
 
