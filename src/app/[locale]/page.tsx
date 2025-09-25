@@ -169,13 +169,14 @@ export default function Home() {
           <Button link={t("p2.cta_link")}>{t("p2.cta")}</Button>
         </div>
 
-        <div className="bg-bgLight max-lg:pb-12 col-span-5 grid items-start lg:pt-[75px] overflow-hidden relative">
+        <div className="bg-bgLight col-span-5 grid items-start lg:pt-[75px] overflow-hidden relative">
           <div className="space-y-8 lg:space-y-16">
             <h2 className="h2 text-orange text-center">{t("video.title")}</h2>
             <Image
               src={last_mag}
               alt="Magazine (H)ERITAGE last version"
-              className="lg:absolute w-[80%] max-lg:m-auto lg:w-full lg:h-[80%] lg:bottom-0 lg:left-0 object-cover"
+              quality={100}
+              className="lg:absolute max-lg:m-auto w-full lg:h-[80%] lg:bottom-0 lg:left-0 object-cover"
             />
           </div>
 
