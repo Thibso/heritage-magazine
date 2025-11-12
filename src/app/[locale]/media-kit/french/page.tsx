@@ -90,7 +90,7 @@ export default function MediaKitFrench() {
           fill
           className="absolute top-0 left-0 object-cover"
         />
-        <div className="myContainer relative flex flex-col justify-end size-full">
+        <div className="myContainer relative flex flex-col max-lg:space-y-8 justify-end size-full">
           <Image
             src={logo}
             alt="Logo HERITAGE Magazine"
@@ -110,15 +110,13 @@ export default function MediaKitFrench() {
       </section>
       {/* 2 */}
       <section className="min-h-screen relative grid lg:pl-32">
-        <h3 className="text-orange font-bold text-2xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
+        <h3 className="text-orange font-bold text-4xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
           PREAMBULE
         </h3>
         <div className="myContainer my-auto space-y-8 lg:space-y-16">
           <div className="space-y-4">
-            <p className="text-base lg:text-lg flex">
-              <span className="text-[64px] lg:text-[150px] leading-[0.8em]">
-                S
-              </span>
+            <p className="text-base lg:text-lg lg:flex">
+              <span className="lg:text-[150px] leading-[0.8em]">S</span>
               <span>
                 uite au succès de la première édition, nous sommes ravis de vous
                 dévoiler la seconde édition d’(H)ERITAGE Magazine, votre nouveau
@@ -146,7 +144,7 @@ export default function MediaKitFrench() {
             </p>
           </div>
 
-          <div className="lg:grid lg:grid-cols-8 lg:gap-8">
+          <div className="lg:grid lg:grid-cols-8 lg:gap-8 max-lg:space-y-4">
             <div className="lg:col-span-2 relative w-full lg:w-[80%] h-[350px] lg:h-auto lg:aspect-[9/11]">
               <Image
                 src={julien}
@@ -184,7 +182,7 @@ export default function MediaKitFrench() {
       </section>
       {/* 3 */}
       <section className="lg:min-h-screen relative lg:grid lg:px-32 bg-slate-50">
-        <h3 className="text-orange font-bold text-2xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
+        <h3 className="text-orange font-bold text-4xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
           REDACTION
         </h3>
         <div className="max-lg:hidden absolute right-0 top-0 w-[300px] h-full">
@@ -233,7 +231,6 @@ export default function MediaKitFrench() {
           <div className="space-y-12 col-span-1">
             <div>
               <h4 className="font-semibold text-base lg:text-lg">
-                {" "}
                 SITE INTERNET
               </h4>
               <p> MAGAZINE-HERITAGE.COM</p>
@@ -271,7 +268,7 @@ export default function MediaKitFrench() {
       </section>
       {/* 5 */}
       <section className="lg:min-h-screen relative lg:grid lg:pl-32 bg-mainBlue">
-        <h3 className="text-orange font-bold text-2xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
+        <h3 className="text-orange font-bold text-4xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
           PRINT
         </h3>
         <div className="lg:grid lg:grid-cols-7 size-full">
@@ -298,7 +295,7 @@ export default function MediaKitFrench() {
                 l’avancement des pratiques médicales.
               </p>
 
-              <div className="flex justify-center gap-4 lg:pt-24">
+              <div className="flex justify-center gap-4 pt-4 lg:pt-24">
                 <Image src={uk} alt="UK" className="w-10" />
                 <Image src={fr} alt="FR" className="w-10" />
               </div>
@@ -312,7 +309,7 @@ export default function MediaKitFrench() {
               className="absolute top-0 left-0 size-full object-cover -z-[1]"
             />
 
-            <div className="text-white p-8 m-auto mb-0 ml-0 space-y-6">
+            <div className="text-white p-4 lg:p-8 m-auto mb-0 ml-0 space-y-4 lg:space-y-6">
               <p>
                 <span className="text-orange">Dimensions :</span> 210mm x 275mm
               </p>
@@ -327,7 +324,7 @@ export default function MediaKitFrench() {
         </div>
       </section>
       {/* 6 */}
-      <section className="min-h-[60vh] lg:min-h-screen relative">
+      <section className="max-lg:hidden lg:min-h-screen relative">
         <Image
           src={magazine}
           alt="HERITAGE Magazine"
@@ -337,7 +334,7 @@ export default function MediaKitFrench() {
       </section>
       {/* 7 */}
       <section className="lg:min-h-screen relative lg:grid lg:pl-32 bg-mainBlue">
-        <h3 className="text-orange font-bold text-2xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
+        <h3 className="text-orange font-bold text-4xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
           DIGITAL
         </h3>
         <div className="lg:grid lg:grid-cols-7 size-full">
@@ -372,13 +369,15 @@ export default function MediaKitFrench() {
       </section>
       {/* 8 */}
       <section className="lg:min-h-screen relative lg:px-32 lg:grid bg-white">
-        <h3 className="text-orange font-bold text-2xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
+        <h3 className="text-orange font-bold text-4xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
           PARTNERS
         </h3>
         <div className="myContainer w-full space-y-8 lg:space-y-12">
           <div className="space-y-2 text-center">
-            <h2 className="text-xl font-semibold">RÉSEAU DE DISTRIBUTION</h2>
-            <h3 className="text-lg font-semibold text-orange">
+            <h2 className="text-lg lg:text-xl font-semibold">
+              RÉSEAU DE DISTRIBUTION
+            </h2>
+            <h3 className="text-base lg:text-lg font-semibold text-orange">
               Notre réseau de distribution évolue en permanence
             </h3>
           </div>
@@ -420,11 +419,11 @@ export default function MediaKitFrench() {
           </div>
 
           <div className="space-y-2 text-center">
-            <h2 className="text-xl font-semibold">
+            <h2 className="text-lg lg:text-xl font-semibold">
               ENTREPRISES DE DISPOSITIFS MÉDICAUX PARTENAIRES DE LA PREMIÈRE
               ÉDITION
             </h2>
-            <h3 className="text-lg font-semibold text-orange">
+            <h3 className="text-base lg:text-lg font-semibold text-orange">
               Notre réseau de partenaires évolue en permanence
             </h3>
           </div>
@@ -483,7 +482,7 @@ export default function MediaKitFrench() {
       </section>
       {/* 10 */}
       <section className="lg:min-h-screen relative lg:px-32 lg:grid bg-slate-50">
-        <h3 className="text-orange font-bold text-2xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
+        <h3 className="text-orange font-bold text-4xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
           PACK(H)
         </h3>
         <div className="myContainer w-full lg:w-[90%] mx-auto lg:mb-0 space-y-8 lg:space-y-16">
@@ -552,7 +551,7 @@ export default function MediaKitFrench() {
       </section>
       {/* 11 */}
       <section className="lg:min-h-screen relative lg:px-32 lg:grid bg-white">
-        <h3 className="text-orange font-bold text-2xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
+        <h3 className="text-orange font-bold text-4xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
           EXEMPLES
         </h3>
         <div className="myContainer w-full lg:w-[90%] mx-auto space-y-8 lg:space-y-20 lg:mb-0">
@@ -583,7 +582,7 @@ export default function MediaKitFrench() {
       </section>
       {/* 12 */}
       <section className="lg:min-h-screen relative lg:px-32 lg:grid bg-slate-50">
-        <h3 className="text-orange font-bold text-2xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
+        <h3 className="text-orange font-bold text-4xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
           TARIFS PUB
         </h3>
         <div className="myContainer w-full lg:w-[80%] mx-auto space-y-8 lg:space-y-20">
@@ -592,54 +591,58 @@ export default function MediaKitFrench() {
             <ul className="space-y-6">
               <li>
                 <div className="gap-2 w-full grid grid-cols-[auto,1fr,auto] items-center">
-                  <p className="text-lg lg:text-xl"> PUB STANDART</p>
+                  <p className="text-base lg:text-xl"> PUB STANDART</p>
                   <div className="border-t-[1px] border-mainBlue/70"></div>
-                  <p className="text-lg lg:text-xl"> 2000 EUROS HT</p>
+                  <p className="text-base lg:text-xl"> 2000 EUROS HT</p>
                 </div>
               </li>
               <li>
                 <div className="gap-2 w-full grid grid-cols-[auto,1fr,auto] items-center">
-                  <p className="text-lg lg:text-xl"> PRE-SOMMAIRE</p>
+                  <p className="text-base lg:text-xl"> PRE-SOMMAIRE</p>
                   <div className="border-t-[1px] border-mainBlue/70"></div>
-                  <p className="text-lg lg:text-xl">2500 EUROS HT</p>
+                  <p className="text-base lg:text-xl">2500 EUROS HT</p>
                 </div>
               </li>
               <li>
                 <div className="gap-2 w-full grid grid-cols-[auto,1fr,auto] items-center">
-                  <p className="text-lg lg:text-xl">
+                  <p className="text-base lg:text-xl">
                     PUBLICITÉ DOUBLE PAGE CENTRALE <br />
                     (limitée à 1 par édition)
                   </p>
                   <div className="border-t-[1px] border-mainBlue/70"></div>
-                  <p className="text-lg lg:text-xl">5000 EUROS HT</p>
+                  <p className="text-base lg:text-xl">5000 EUROS HT</p>
                 </div>
               </li>
               <li>
                 <div className="gap-2 w-full grid grid-cols-[auto,1fr,auto] items-center">
-                  <p className="text-lg lg:text-xl">DOUBLE PAGE DE PUBLICITÉ</p>
+                  <p className="text-base lg:text-xl">
+                    DOUBLE PAGE DE PUBLICITÉ
+                  </p>
                   <div className="border-t-[1px] border-mainBlue/70"></div>
-                  <p className="text-lg lg:text-xl">4000 EUROS HT</p>
+                  <p className="text-base lg:text-xl">4000 EUROS HT</p>
                 </div>
               </li>
               <li>
                 <div className="gap-2 w-full grid grid-cols-[auto,1fr,auto] items-center">
-                  <p className="text-lg lg:text-xl">DEUXIÈME COUVERTURE</p>
+                  <p className="text-base lg:text-xl">DEUXIÈME COUVERTURE</p>
                   <div className="border-t-[1px] border-mainBlue/70"></div>
-                  <p className="text-lg lg:text-xl">3500 EUROS HT</p>
+                  <p className="text-base lg:text-xl">3500 EUROS HT</p>
                 </div>
               </li>
               <li>
                 <div className="gap-2 w-full grid grid-cols-[auto,1fr,auto] items-center">
-                  <p className="text-lg lg:text-xl">TROISIÈME COUVERTURE</p>
+                  <p className="text-base lg:text-xl">TROISIÈME COUVERTURE</p>
                   <div className="border-t-[1px] border-mainBlue/70"></div>
-                  <p className="text-lg lg:text-xl">3000 EUROS HT</p>
+                  <p className="text-base lg:text-xl">3000 EUROS HT</p>
                 </div>
               </li>
               <li>
                 <div className="gap-2 w-full grid grid-cols-[auto,1fr,auto] items-center">
-                  <p className="text-lg lg:text-xl">QUATRIÈME DE COUVERTURE</p>
+                  <p className="text-base lg:text-xl">
+                    QUATRIÈME DE COUVERTURE
+                  </p>
                   <div className="border-t-[1px] border-mainBlue/70"></div>
-                  <p className="text-lg lg:text-xl">4500 EUROS HT</p>
+                  <p className="text-base lg:text-xl">4500 EUROS HT</p>
                 </div>
               </li>
             </ul>
@@ -649,9 +652,9 @@ export default function MediaKitFrench() {
             <ul>
               <li>
                 <div className="gap-2 w-full grid grid-cols-[auto,1fr,auto] items-center">
-                  <p className="text-lg lg:text-xl"> PACK SUR MESURE</p>
+                  <p className="text-base lg:text-xl"> PACK SUR MESURE</p>
                   <div className="border-t-[1px] border-mainBlue/70"></div>
-                  <p className="text-lg lg:text-xl">SUR DEMANDE</p>
+                  <p className="text-base lg:text-xl">SUR DEMANDE</p>
                 </div>
               </li>
             </ul>
@@ -669,10 +672,10 @@ export default function MediaKitFrench() {
       </section>
       {/* 14 */}
       <section className="lg:min-h-screen relative lg:px-32 lg:grid bg-mainBlue text-white">
-        <h3 className="text-orange font-bold text-2xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
+        <h3 className="text-orange font-bold text-4xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
           CONTACT
         </h3>
-        <div className="myContainer w-full lg:w-[90%] mx-auto lg:grid lg:grid-cols-2">
+        <div className="myContainer w-full lg:w-[90%] mx-auto max-lg:space-y-4 lg:grid lg:grid-cols-2">
           <div className="space-y-8 lg:space-y-16">
             <div className="space-y-4">
               <h3 className="text-base lg:text-2xl font-light">

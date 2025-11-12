@@ -90,7 +90,7 @@ export default function MediaKitEnglish() {
           fill
           className="absolute top-0 left-0 object-cover"
         />
-        <div className="myContainer relative flex flex-col justify-end size-full">
+        <div className="myContainer relative flex flex-col max-lg:space-y-8 justify-end size-full">
           <Image
             src={logo}
             alt="Logo HERITAGE Magazine"
@@ -110,15 +110,13 @@ export default function MediaKitEnglish() {
       </section>
       {/* 2 */}
       <section className="min-h-screen relative grid lg:pl-32">
-        <h3 className="text-orange font-bold text-2xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
+        <h3 className="text-orange font-bold text-4xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
           PREAMBLE
         </h3>
         <div className="myContainer my-auto space-y-8 lg:space-y-16">
           <div className="space-y-4">
             <p className="text-base lg:text-lg flex">
-              <span className="text-[64px] lg:text-[150px] leading-[0.8em]">
-                F
-              </span>
+              <span className="lg:text-[150px] leading-[0.8em]">F</span>
               <span>
                 ollowing the success of the first edition, we are thrilled to
                 present the second edition of (H)ERITAGE Magazine, your
@@ -177,7 +175,7 @@ export default function MediaKitEnglish() {
       </section>
       {/* 3 */}
       <section className="lg:min-h-screen relative lg:grid lg:px-32 bg-slate-50">
-        <h3 className="text-orange font-bold text-2xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
+        <h3 className="text-orange font-bold text-4xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
           EDITORIAL
         </h3>
         <div className="max-lg:hidden absolute right-0 top-0 w-[300px] h-full">
@@ -265,7 +263,7 @@ export default function MediaKitEnglish() {
       </section>
       {/* 5 */}
       <section className="lg:min-h-screen relative lg:grid lg:pl-32 bg-mainBlue">
-        <h3 className="text-orange font-bold text-2xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
+        <h3 className="text-orange font-bold text-4xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
           PRINT
         </h3>
         <div className="lg:grid lg:grid-cols-7 size-full">
@@ -321,7 +319,7 @@ export default function MediaKitEnglish() {
         </div>
       </section>
       {/* 6 */}
-      <section className="min-h-[60vh] lg:min-h-screen relative">
+      <section className="max-lg:hidden min-h-[60vh] lg:min-h-screen relative">
         <Image
           src={magazine}
           alt="HERITAGE Magazine"
@@ -331,7 +329,7 @@ export default function MediaKitEnglish() {
       </section>
       {/* 7 */}
       <section className="lg:min-h-screen relative lg:grid lg:pl-32 bg-mainBlue">
-        <h3 className="text-orange font-bold text-2xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
+        <h3 className="text-orange font-bold text-4xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
           DIGITAL
         </h3>
         <div className="lg:grid lg:grid-cols-7 size-full">
@@ -368,12 +366,12 @@ export default function MediaKitEnglish() {
       </section>
       {/* 8 */}
       <section className="lg:min-h-screen relative lg:px-32 lg:grid bg-white">
-        <h3 className="text-orange font-bold text-2xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
+        <h3 className="text-orange font-bold text-4xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
           PARTNERS
         </h3>
         <div className="myContainer w-full space-y-8 lg:space-y-12">
           <div className="space-y-2 text-center">
-            <h2 className="text-xl font-semibold"> DISTRIBUTION NETWORK</h2>
+            <h2 className="text-xl font-semibold">DISTRIBUTION NETWORK</h2>
             <h3 className="text-lg font-semibold text-orange">
               Our distribution network is constantly evolving
             </h3>
@@ -478,7 +476,7 @@ export default function MediaKitEnglish() {
       </section>
       {/* 10 */}
       <section className="lg:min-h-screen relative lg:px-32 lg:grid bg-slate-50">
-        <h3 className="text-orange font-bold text-2xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
+        <h3 className="text-orange font-bold text-4xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
           PACK(H)
         </h3>
         <div className="myContainer w-full lg:w-[90%] mx-auto lg:mb-0 space-y-8 lg:space-y-16">
@@ -552,7 +550,7 @@ export default function MediaKitEnglish() {
       </section>
       {/* 11 */}
       <section className="lg:min-h-screen relative lg:px-32 lg:grid bg-white">
-        <h3 className="text-orange font-bold text-2xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
+        <h3 className="text-orange font-bold text-4xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
           EXAMPLES
         </h3>
         <div className="myContainer w-full lg:w-[90%] mx-auto space-y-8 lg:space-y-20 lg:mb-0">
@@ -583,7 +581,7 @@ export default function MediaKitEnglish() {
       </section>
       {/* 12 */}
       <section className="lg:min-h-screen relative lg:px-32 lg:grid bg-slate-50">
-        <h3 className="text-orange font-bold text-2xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
+        <h3 className="text-orange font-bold text-4xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
           AD RATES
         </h3>
         <div className="myContainer w-full lg:w-[80%] mx-auto space-y-8 lg:space-y-20">
@@ -672,10 +670,10 @@ export default function MediaKitEnglish() {
       </section>
       {/* 14 */}
       <section className="lg:min-h-screen relative lg:px-32 lg:grid bg-mainBlue text-white">
-        <h3 className="text-orange font-bold text-2xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
+        <h3 className="text-orange font-bold text-4xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
           CONTACT
         </h3>
-        <div className="myContainer w-full lg:w-[90%] mx-auto lg:grid lg:grid-cols-2">
+        <div className="myContainer w-full lg:w-[90%] mx-auto lg:grid lg:grid-cols-2 max-lg:space-y-4">
           <div className="space-y-8 lg:space-y-16">
             <div className="space-y-4">
               <h3 className="text-base lg:text-2xl font-light">Website</h3>
