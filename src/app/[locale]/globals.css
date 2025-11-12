@@ -8,7 +8,7 @@
 
 @layer base {
   .myContainer {
-    @apply relative px-4 py-12 md:px-10 md:py-12 xl:px-24 xl:py-20 m-auto;
+    @apply relative px-4 py-12 md:px-10 md:py-12 xl:px-24 xl:py-16 m-auto;
   }
 
   .header-title {
@@ -26,7 +26,8 @@
     line-height: 1.25em;
   }
 
-  p {
+  p,
+  li {
     @apply font-sfPro font-normal text-base lg:text-lg;
   }
 
@@ -96,7 +97,6 @@
     --chart-5: 340 75% 55%;
   }
 }
-
 /* Swiper Library */
 .swiper {
   width: 100%;

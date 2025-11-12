@@ -426,6 +426,804 @@
     }
   },
   "Articles": {
+    "Prague_Skinceuticals": {
+      "h1": "SKINCEUTICALS",
+      "abstract": "A PIONEER IN INTEGRATED SKINCARE BASED ON SCIENCE",
+      "author": "",
+      "cta_text": "Discover SkinCeuticals",
+      "tags": {
+        "t1": {
+          "title": "Aesthetic medicine"
+        },
+        "t2": {
+          "title": "Market Analysis"
+        },
+        "t3": {
+          "title": "Practice management"
+        }
+      },
+      "img_alt": "SkinCeuticals",
+      "p1": {
+        "title": " SkinCeuticals: A Pioneer in Integrated Skincare Based on Science",
+        "content": "<p> The world of dermocosmetics was enriched in 1997 by a brand that forever changed the perception of skincare, combining scientific research with practical results. This brand was SkinCeuticals, founded by the visionary and pioneer in the field of antioxidants and dermatology, Dr. Sheldon Pinnell. Dr. Sheldon Pinnell was not only a respected dermatologist but primarily a renowned scientist and professor of dermatology at Duke University Medical Center. His lifelong research focused on skin cancer and skin aging, with a deep interest in the role of antioxidants in protecting and repairing the skin. Dr. Pinnell was the first to patent a stable form of topical vitamin C and established specific parameters crucial for its effective absorption and efficacy in the skin. He founded SkinCeuticals with a simple yet revolutionary idea: to develop advanced skincare backed by scientific evidence that truly brings visible improvements to skin health and appearance. His goal was to bridge the gap between cosmetics and pharmaceuticals, offering products that would be more than just superficial beautification – products that would protect, correct, and restore the skin at a cellular level.</p>"
+      },
+      "p2": {
+        "title": "An Icon of Integrated Skincare",
+        "content": "<p> SkinCeuticals has become an iconic brand precisely due to its unique approach to integrated skincare. Its philosophy lies in the synergistic connection between aesthetic procedures performed by a dermatologist or specialist and advanced at-home care. The brand firmly believes that to achieve the best and most lasting results, a combination of professional treatments (such as lasers, chemical peels, microneedling) and subsequent, scientifically-backed skincare at home is essential. All SkinCeuticals products are specially formulated to be safe and highly effective for use both within professional treatments in the clinic and for subsequent regeneration and maintaining results in the comfort of one’s home. The entire SkinCeuticals product line is divided into three key categories, reflecting a comprehensive approach to skincare:</p><h4>PREVENT</h4><p>This category focuses on protecting the skin from oxidative stress and damage caused by free radicals from environmental factors such as UV radiation, pollution, and infrared radiation. Strong antioxidants are key here. A typical example is the iconic C E Ferulic serum, which is often recommended as a pre- and post-treatment for laser procedures to support healing and maximize skin protection against damage.</p><h4>CORRECT</h4><p>Products from this line are designed to correct existing skin problems such as wrinkles, fine lines, hyperpigmentation, acne, or redness. They contain highly concentrated active ingredients for targeted solutions to specific imperfections. An example is the recently launched P-Tiox product, designed to work synergistically with neurotoxin injections to extend and optimize their results in reducing dynamic wrinkles.</p><h4>PROTECT</h4><p>This category includes broad-spectrum sunscreens that protect the skin from harmful UVA and UVB radiation. Their purpose is to prevent future skin damage and maintain skin health. An excellent example is Sheer Mineral UV Defense SPF 50, a 100% mineral UV protection cream, which, thanks to its gentle formulation, is ideal for use after invasive treatments such as laser procedures.</p>"
+      },
+      "p3": {
+        "title": "The Iconic C E Ferulic: Science in a Bottle",
+        "content": "<p> One of the most recognized and frequently clinically studied SkinCeuticals products is undoubtedly the antioxidant serum C E Ferulic. This product truly embodies Dr. Pinnell’s scientific legacy. It contains a synergistic combination of 15% pure L-ascorbic acid (vitamin C), 1% alpha-tocopherol (vitamin E), and 0.5% ferulic acid. This unique combination not only multiplies the skin’s antioxidant protection up to eightfold but also visibly reduces fine lines and wrinkles, firms the skin, and brightens its tone.</p><p> The exceptional nature of C E Ferulic also lies in its ability to be safely and effectively used after ablative laser treatments and other professional procedures. Thanks to its strong antioxidant and regenerative properties, it helps accelerate healing, reduces redness and swelling, and simultaneously maximizes the results of the procedure itself by protecting newly formed skin from environmental aggressors. SkinCeuticals continues to lead innovation in skincare, firmly adhering to its commitment to science, research, and the development of products that not only meet but exceed expectations in terms of skin health and beauty.</p>"
+      }
+    },
+    "Prague_Exosomes": {
+      "h1": " ENHANCED SKIN PENETRATION OF EXOSOME-LOADED FORMULATION USING MICRONEEDLE ASSISTED DELIVERY",
+      "abstract": "MANAGING AESTHETIC PRACTICE IN 2025/2026",
+      "author": "SU-HYEON LEE, D. ENG.; GEON-HEE LEE, M. ENG. BIOSOLUTION CO., LTD., SEOUL, KOREA",
+      "cta_text": "Discover Prague Lab Congress",
+      "tags": {
+        "t1": {
+          "title": "Aesthetic medicine"
+        },
+        "t2": {
+          "title": "Market Analysis"
+        },
+        "t3": {
+          "title": "Practice management"
+        }
+      },
+      "img_alt": "",
+      "p1": {
+        "title": "Abstract",
+        "content": "<p> The present study evaluates the transdermal absorption of a novel exosome-based formulation, PKH26@MG-EXO-SKIN, using the reconstructed full-thickness human skin model KeraSkin-FT™. Applying microneedles significantly enhanced the skin penetration of the formulation, enabling delivery beyond the stratum corneum into deeper skin layers, including the dermis. This research suggests microneedle-assisted delivery may be a highly effective strategy for improving the bioavailability of active dermatological agents.</p>"
+      },
+      "p2": {
+        "title": "Introduction",
+        "content": "<p> Transdermal delivery remains a challenge in dermatological research due to the skin’s natural barrier properties, especially those conferred by the stratum corneum. To overcome this, microneedleassisted systems have emerged as promising alternatives for enhancing skin permeability. </p><p>This study investigates the depth and kinetics of absorption of PKH26@MG-EXO-SKIN—an exosomebased active agent—using a validated in vitro model and OECD guideline-compliant methodology.</p>"
+      },
+      "p3": {
+        "title": "Materials and Methods",
+        "content": "<h4>Skin Model:</h4><p> KeraSkin-FT™, a reconstructed full-thickness human skin model, was used. It mimics human skin architecture with basal, spinous, granular, and keratin layers and includes a fibroblast-populated dermal matrix. </p><h4>Test Material:</h4><p> PKH26@MG-EXO-SKIN is a formulation containing mesenchymal stem cell-derived extracellular vesicles (MBTC-MSC-EXO) stained with PKH26, a lipophilic fluorescent dye for tracking. </p><h4>Study Design:</h4><p> Nine test groups were created (n=2 per group), covering treatment durations of 1, 3, 6, and 24 hours with and without microneedle application. </p><h4>Procedure:</h4><p> 50 µL of test formulation was applied to KeraSkinFT™. For microneedle-assisted groups, a microneedle device (Dermapenworld) was used prior to application. </p><p> After treatment, samples were incubated at 37°C with5% CO₂. Tissues were then fixed, cryosectioned, stained with DAPI, and analyzed via fluorescence microscopy.</p>"
+      },
+      "p4": {
+        "title": "Results",
+        "content": "<p>Microscopic observations revealed time- and methoddependent absorption profiles:</p><p>Without microneedles:</p><ul><li>PKH26@MG-EXO-SKIN remained confined to the stratum corneum even after 24 hours.</li></ul><p> With microneedles: </p><ul><li>After 1–3 hours, absorption reached the stratum corneum.</li><li>After 6 hours, penetration extended to the granular layer.</li><li>By 24 hours, fluorescence was detected in the dermis, indicating successful transdermal delivery.</li></ul><p>Fluorescence microscopy images visually confirmed progressive absorption at each time point. Control vs. microneedle comparison highlighted stark differences in penetration depth.</p><p>Treatment of PKH26@MG-EXO_SKIN</p><bigImg>/exosome/exosome-1.jpg</bigImg><p> Treatment of PKH26@MG-EXO_SKIN after microneedle application </p><bigImg>/exosome/exosome-2.jpg</bigImg><p> Treatment of PKH26@MG-EXO_SKIN</p><bigImg>/exosome/exosome-3.jpg</bigImg><p> Treatment of PKH26@MG-EXO_SKIN after microneedle application </p><bigImg>/exosome/exosome-4.jpg</bigImg>"
+      },
+      "p5": {
+        "title": "Discussion",
+        "content": "<p>The study confirms that exosome-containing formulations alone have limited capability to traverse the stratum corneum barrier. However, when combined with microneedle pre-treatment, significant transdermal absorption occurs. This aligns with previous findings on microneedle-enhanced delivery and supports the growing application of microchannelfacilitated skin therapies.</p><p> Given the increasing popularity of exosomebased treatments in regenerative and aesthetic dermatology, enhancing their delivery is crucial. The results underscore the compatibility of KeraSkinFT™ with OECD TG 428 guidelines and its suitability as an alternative to animal testing for topical delivery research.</p>"
+      },
+      "p6": {
+        "title": "Conclusion",
+        "content": "<p> PKH26@MG-EXO-SKIN exhibits enhanced transdermal delivery when used in conjunction with microneedle application. These findings suggest promising utility in clinical dermatology and cosmeceutical development, particularly for treatments requiring deeper skin penetration.</p>"
+      },
+      "p7": {
+        "title": "References",
+        "content": " <ol><li>Jung KM, et al. KeraSkin™-VM: A novel reconstructed human epidermis model. Toxicol In Vitro. 2014. </li><li>OECD Test Guideline 428: Skin Absorption: In Vitro Method. OECD, 2004. </li><li>Moon JY, et al. Interlaboratory validation of KeraSkin™. JAAE. 2010. </li><li>Jang WH, et al. Evaluation of permeability and irritancy of transdermal formulation using KeraSkin™. JAAE. 2011.</li></ol>"
+      }
+    },
+    "Prague_Eva_Osvaldova_Healthcie": {
+      "h1": "STRATEGIES FOR SUCCESS",
+      "abstract": "MANAGING AESTHETIC PRACTICE IN 2025/2026",
+      "author": "By Eva Osvaldová & HEALTHCIE",
+      "cta_text": "Discover Prague Lab Congress",
+      "tags": {
+        "t1": {
+          "title": "Aesthetic medicine"
+        },
+        "t2": {
+          "title": "Market Analysis"
+        },
+        "t3": {
+          "title": "Practice management"
+        }
+      },
+      "img_alt": "Eva Osvaldová & HEALTHCIE",
+      "p1": {
+        "title": "Introduction",
+        "content": "<p> Running a successful aesthetic practice today means blending clinical excellence with digital fluency and a patient-first mindset. In 2025/2026, patients expect not only visible results but also a seamless and personalized journey — from their first online search to post-treatment follow-up.</p>"
+      },
+      "p2": {
+        "title": "1. Patient Assessment: Beyond the Surface",
+        "content": "<p>Modern aesthetic medicine is moving from reactive treatment to preventive and personalized care. Advanced patient assessment is key. Tools like 3D facial imaging, AI-driven skin analysis, and biological age testing (epigenetics, inflammation markers) offer deeper insights than ever before. Pro Tip: Combine visual diagnostics with lifestyle profiling to co-create long-term treatment plans —  not just one-time fixes. Patients value practitioners who see the “whole picture.” </p>"
+      },
+      "p3": {
+        "title": "2. Patient Experience: Make Every Step Count",
+        "content": "<p>In the evolving landscape of aesthetic practice, patient experience remains a critical success factor. From initial contact to aftercare, each interaction must be seamless, supportive, and personalized. In 2025/2026, convenience, clear communication, and patient education are key.</p><h4>Core strategies include:</h4><ul><li>Integrated systems: Online booking, SMS pre treatment reminders, phone call follow-ups, and digital consent forms streamline the patient journey. In-house communication should be proactive and positive, with staff trained to “always care” and act in the patient’s best interest.</li><li>Guided care: Pre- and post-treatment materials should be tailored to each patient’s procedure, addressing concerns, setting expectations, and reducing anxiety.</li><li>Personal touches: Custom skincare plans, remembering key dates, and handwritten notes build strong, lasting loyalty — often more effectively than discounts.</li></ul><p>A patient-first culture, where every detail is considered, transforms satisfaction into sustained success.</p><p>Pro Tip: Personalization builds trust. Thoughtful gestures — like customized skincare plans, remembering key milestones, or offering clear, tailored guidance for complex treatments — make patients feel genuinely cared for.</p><p>Exceptional experiences create loyal advocates</p>"
+      },
+      "p4": {
+        "title": "3. Marketing: Show Up Where Patients Scroll",
+        "content": "<p>In 2025/2026, patients engage with aesthetic practices online long before stepping into a clinic. Visibility, credibility, and authenticity across digital platforms are essential to building trust and driving conversions.</p><h4>Effective digital strategies include:</h4><ul><li>Optimized presence: Maintain a high-quality, SEO-driven website featuring a clear treatment portfolio and before-and-after images (with consent).</li><li>Video content: Use Instagram Reels, TikTok, and YouTube Shorts to educate and engage — quick, informative videos help demystify treatments and showcase expertise.</li><li>Authentic partnerships: Collaborate with micro influencers who align with your brand values. Authenticity has greater impact than follower count.</li><li>Engagement and responsiveness: Treat social media DMs and comments as active sales channels, responding promptly to build trust across a mix of generations.</li><li>Balanced content tone: While entertaining or humorous posts can increase reach and relatability, they must be balanced with the medical responsibility inherent in aesthetic care. Patient safety and professionalism should remain central in all communications.</li></ul><p>Pro Tip: Don’t just post results — post value. Educate, explain, and address common fears. Be the expert your future patients already trust online.</p><p>The adoption of digital tools for aesthetic doctors, clinics and medical device companies is no longer merely a competitive advantage; it is a critical factor in patient acquisition, retention, and overall business performance. In a field where patient decisions are influenced as much by trust, reputation, and perceived safety as by treatment efficacy, digital performance has become a measurable economic indicator.</p>"
+      },
+      "p5": {
+        "title": "SEO – Attracting patients based on specific treatment needs",
+        "content": "<p>Search Engine Optimization (SEO) remains a cornerstone of any digital strategy in aesthetic medicine. Patients frequently search for specific treatments such as Botox injections, hyaluronic acid fillers, laser resurfacing, non-surgical rhinoplasty, etc. Optimizing content for these search queries ensures that clinics appear at the exact moment when patients are seeking solutions.</p><p>Industry data indicate that medical practices can expect approximately $4.60 return for every $1 invested in SEO (SEO Sandwitch, 2025). This high ROI stems from the targeted nature of organic traffic: a patient searching for “Hyaluronic acid injections in Stockholm” is likely to book a consultation, unlike a less qualified lead. Additionally, well-structured SEO content reduces the time clinicians spend explaining procedures during consultations, improving the conversion rate from first visit to performed procedure.</p>"
+      },
+      "p6": {
+        "title": "GEO – Generative engine optimization for conversational search",
+        "content": "<p>The rise of generative search engines (ChatGPT, Perplexity, Gemini) has transformed the patient journey in aesthetic medicine. Patients increasingly ask questions such as:</p><p>“Who are the best surgeons for a facelift in London?”</p><p>Generative Engine Optimization (GEO) involves structuring digital content so that AI-powered systems cite the clinic or specific treatments in their generated responses. Studies show that applying GEO techniques can increase content visibility by up to 40% in generative responses (Shen et al., 2023).</p><p>For international aesthetic clinics, GEO requires publishing educational materials, before/after case studies, clinical insights, and detailed FAQs. Such structured, trustworthy content increases the likelihood of being referenced by generative AI, ensuring visibility to patients across regions—from Europe to Asia and the Middle East—before they even visit a clinic website.</p>"
+      },
+      "p7": {
+        "title": "CRM and Automation – converting leads into patients",
+        "content": "<p>In aesthetic medicine, converting inquiries into actual procedures is critical. Clinics often receive consultation requests that do not convert due to delayed follow-up. Medical CRMs and automation systems manage the patient journey from first contact to post-treatment follow-up.</p><p>Research shows that responding within 30 minutes can double the likelihood of lead conversion (Harvard Business Review, 2023). Automation allows clinics to send pre-treatment instructions, consent forms, and educational materials, and to monitor post-treatment outcomes. In aesthetic practices, this approach can increase revenue by 20–30% from completed procedures (Zipdo, 2025).</p>"
+      },
+      "p8": {
+        "title": "Analytics and ROI – Measuring the impact of every digital action",
+        "content": "<p>Advanced analytics allow aesthetic clinics to quantify the ROI of each channel, whether SEO, social media campaigns, paid ads, or generative content. Attribution modeling using Markov chains has demonstrated that budget reallocation based on performance data can increase overall digital ROI by 15–30% within months (Google Marketing Platform, 2024).</p><p>For example, a clinic that identifies that content about “non-surgical rhinoplasty” generates the most consultations can focus marketing spend on this content type while reducing investment in less effective campaigns. This data-driven approach optimizes resources while ensuring economic efficiency.</p>"
+      },
+      "p9": {
+        "title": "Digital experience and patient satisfaction",
+        "content": "<p>Patients in aesthetic medicine are highly sensitive to digital experiences: seamless online booking, clear interfaces, post-treatment monitoring, and personalized communication all contribute to trust and retention. Research shows that a 10-point increase in Net Promoter Score (NPS) can result in up to 20% more new patients through direct recommendations (Bain & Company, 2022).</p><p>Investments in patient portals, chatbots for FAQs, and before/after treatment documentation not only enhance satisfaction but also generate organic growth, indirectly improving overall ROI.</p>"
+      },
+      "p10": {
+        "title": "Conclusion – Digital tools as a strategic lever in aesthetic medicine",
+        "content": "<p>For international aesthetic medicine practices, combining SEO, GEO, CRM, automation, and advanced analytics creates a systemic growth model. This approach maximizes visibility for specific treatments, improves conversion rates, and allows precise measurement of marketing effectiveness. Clinics leveraging these tools scientifically can transform data into actionable insights, enhancing both business performance and patient experience across global markets.</p>"
+      }
+    },
+    "Prague_Healthcie": {
+      "h1": "THE MEDICAL WEBSITE AS A DIGITAL PRESENCE",
+      "abstract": "BETWEEN STRATEGY, TECHNOLOGY, AND VISIBILITY",
+      "author": "By HEALTHCIE",
+      "cta_text": "Discover Prague Lab Congress",
+      "tags": {
+        "t1": {
+          "title": "Aesthetic medicine"
+        },
+        "t2": {
+          "title": "Market Analysis"
+        },
+        "t3": {
+          "title": "Practice management"
+        }
+      },
+      "img_alt": "HEALTHCIE",
+      "p1": {
+        "title": "Website overview: strategic showcase and digital partnership",
+        "content": "<p>A medical website is far more than an informational platform — it serves as the foundation of a practitioner’s digital communication and online reputation. It reflects the quality of care, scientific rigor, and modernity of the clinic or laboratory. In an increasingly competitive environment, the digital showcase has become the first point of contact with patients — and it must inspire trust from the very first second.</p><p>The objective is twofold: to enhance the brand image and to optimize functional performance. A clear interface, smooth navigation, and elegant design directly influence perceptions of professionalism and reliability. Conversely, a slow, outdated, or poorly structured website can damage e-reputation and even hinder appointment bookings.</p><p>However, the success of a digital project does not depend solely on its visual appeal — it rests on a solid collaborative relationship with the webmaster. This professional should not be seen merely as a technical service provider, but as a true business partner. Their mission is to understand the practitioner’s strategic goals, anticipate future needs, and integrate the website into a coherent digital ecosystem.</p><p>A transparent and ongoing collaboration helps to:</p><ul><li>Ensure the website evolves continuously with market and search engine requirements; Maintain consistency between content, design, and visibility strategy;</li><li>Transform the website into a growth driver rather than a static digital brochure.</li></ul>"
+      },
+      "p2": {
+        "title": "UX and UI Design at the Core of Visibility Strategy",
+        "content": "<p>User experience (UX) and user interface (UI) design are not just aesthetic considerations — they determine the site’s ability to capture attention, engage visitors, and convert them into patients. In healthcare, ergonomics play a crucial role in building a trust relationship between patient and professional.</p>"
+      },
+      "p3": {
+        "title": " A Design Tailored to the Patient Base",
+        "content": "<p>Every visual element must align with the target audience — age group, sociological profile, and emotional expectations. Selected images should convey care, expertise, and accessibility, while respecting ethical and regulatory standards specific to the medical sector. An inconsistent visual approach can create dissonance with the practice’s values and reduce patient trust.</p> "
+      },
+      "p4": {
+        "title": "A Smooth and Intuitive Journey",
+        "content": "<p>The site’s architecture should follow a logical user pathway. Access to key information — medical specialties, team profiles, contact details, appointment scheduling — must be immediate and intuitive. Content hierarchy, menu structure, and internal page clarity are decisive factors for overall experience.</p><p>Conversion funnel optimization relies on strategically positioned Calls to Action (CTAs). Buttons such as “Book an Appointment,” “Call the Clinic,” or “Request a Quote” should be visible, repeated without being intrusive, and integrated seamlessly into the navigation flow. Regular A/B testing helps assess CTA performance and fine-tune their placement, color, or wording to maximize conversion rates.</p>"
+      },
+      "p5": {
+        "title": "UX/UI Coherence and SEO",
+        "content": "<p> UX and SEO are deeply interconnected. Smooth navigation, optimized load times, and responsive design directly improve search engine rankings. Behavioral metrics — such as session duration, bounce rate, and user engagement — are now key SEO performance indicators.</p>"
+      },
+      "p6": {
+        "title": " Development: Technological Foundations and Interoperability",
+        "content": "<p>Developing a medical website requires balancing performance, security, and scalability. The choice of the technological stack — CMS (WordPress, Joomla, Drupal) or Full Code (React, Next.js, Laravel, etc.) — depends on the desired level of customization and scalability.</p><p>Some technologies inherently perform better in terms of search optimization and technical maintenance.</p>"
+      },
+      "p7": {
+        "title": " Architecture and Performance",
+        "content": "<p>An efficient website must comply with high technical standards:</p><ul><li>Page load time under 2.5 seconds;</li><li>Architecture optimized for search engine crawling;</li><li>Secure hosting in compliance with GDPR regulations;</li><li>Clean, compressed, and maintainable code;</li><li>Full multi-device compatibility (mobile-first design).</li></ul><p>Core Web Vitals (LCP, INP, CLS) defined by Google are now essential performance benchmarks. Their optimization directly impacts both SEO rankings and user experience.</p>"
+      },
+      "p8": {
+        "title": "Smart Features and API Integrations",
+        "content": "<p> Integrating interactive modules enhances the website’s functional value: intelligent contact forms, secure patient portals, or calendar synchronization through API connections with medical software. These integrations centralize data and automate processes, creating a seamless experience for patients and significant time savings for staff.</p>"
+      },
+      "p9": {
+        "title": "Maintenance and Continuous Monitoring",
+        "content": "<p> A website is never static. Technical updates, security audits, and performance optimization are essential to ensure long-term reliability. Proactive maintenance — often managed by the webmaster partner — helps detect and resolve issues before they affect visibility or security.</p>"
+      },
+      "p10": {
+        "title": "Search Engine Optimization (SEO): The backbone of medical visibility",
+        "content": "<p> SEO is the backbone of digital strategy. It is not merely a technical lever, but a strategic pillar of e-reputation and a high-return investment. When properly executed, SEO generates a steady flow of qualified patients, reinforces the practitioner’s credibility, and builds sustainable visibility without relying on paid advertising.</p>"
+      },
+      "p11": {
+        "title": "SEO Strategy from the Ground Up",
+        "content": "<p>The SEO approach must be integrated before the site’s development begins. The sitemap, content, and URL structure should stem from an in-depth semantic and intent analysis: which keywords to target, what search intentions to satisfy, and which pages to prioritize.</p><p>It enables practitioners to appear in highly targeted searches targeted searches such as “plastic surgeon in London,” “botulinum toxin injections in Copenhagen,” or “dental implant specialist in Milan.” This ensures alignment between content, technical structure, and conversion goals.</p>"
+      },
+      "p12": {
+        "title": "The Three Pillars of SEO",
+        "content": "<ul><li>Technical: performance, indexation, structured data, HTML tags, optimized sitemap, and redirects.</li><li>Content: clear, informative, and optimized writing with a rich medical lexicon that remains accessible and compliant with professional ethics.</li><li>Popularity: high-quality backlinks, institutional partnerships, local citations, and patient review management.</li></ul>"
+      },
+      "p13": {
+        "title": "An Evolving Discipline: Updates & AI",
+        "content": "<p>SEO is a living discipline, influenced by Google’s algorithm updates and technological advances (AI, voice search, Core Updates, Spam Updates). With the emergence of AI-generated search engines — such as Google SGE, Perplexity AI, or ChatGPT Search — the rules of visibility are evolving rapidly.</p><p>Generative Engine Optimization (GEO) focuses on optimizing content so it can be understood, cited, and featured by generative AI models. The goal is no longer just to rank in traditional SERPs, but to appear in AI-generated answers delivered to users.</p><p>GEO relies on:</p><ul><li>Clear data structuring (tags, schema markup, hierarchical headings) to facilitate AI comprehension;</li><li>Expert, educational, and contextual content that can be extracted and repurposed by AI systems;</li><li>Natural, conversational semantics aligned with language model behavior.</li></ul><p>This emerging approach complements traditional SEO and ensures sustainable visibility in an AI-driven web ecosystem.</p><p>Healthcare professionals who adopt these methods early position themselves as pioneers of AI augmented search.</p>"
+      },
+      "p14": {
+        "title": "Conclusion: The Synergy Between Vision, Technology, and Partnership",
+        "content": "<p>Building a high-performing medical website requires synergy between design, technology, and strategy. Yet beyond the tools, success depends on the quality of collaboration with the webmaster. As a long-term business partner, the webmaster supports the practitioner in data analysis, maintenance, SEO monitoring, and continuous adaptation.</p><p>This holistic approach — combining user experience, technical performance, and strategic optimization — transforms a website into a true growth engine, capable of attracting, converting, and retaining patients while enhancing the practitioner’s expertise in a constantly evolving digital landscape.</p>"
+      }
+    },
+    "Prague_Steven_Harris": {
+      "h1": "ASSESSMENT OF THE REPRESENTATION OF LIP AESTHETIC SUBTYPES ON SOCIAL MEDIA USING THE LIP CLASSIFICATION OF TUBERCLES SYSTEM",
+      "abstract": "INSTAGRAM VS REALITY",
+      "author": "By Dr. Steven Harris",
+      "cta_text": "Discover Prague Lab Congress",
+      "tags": {
+        "t1": {
+          "title": "Aesthetic medicine"
+        },
+        "t2": {
+          "title": "Market Analysis"
+        },
+        "t3": {
+          "title": "Practice management"
+        }
+      },
+      "img_alt": "Dr. Steven Harris",
+      "p1": {
+        "title": "Abstract",
+        "content": "<p>Background: Social media platforms, particularly Instagram appear to be influencing contemporary beauty standards, especially concerning lip enhancements. Understanding the prevalent lip types showcased can offer valuable insights into evolving aesthetic ideals to inform both patients and practitioners.</p><p>Objectives: This study aims to analyze lip types associated with minimally invasive lip enhancements on Instagram (Meta, Menlo Park, CA) and compare these findings with classifications from a patient clinic using the Lip Classification of Tubercles system.</p><p>Methods: A within-participants design was employed to examine 120 “before and after” images from 4 trending Instagram hashtags related to lip enhancements. Four expert examiners performed the classification, and interrater reliability was assessed. Data from a previous study involving patients from an aesthetic clinic (n = 214) were incorporated to compare the frequencies of lip types in the clinic and on Instagram.</p><p>Results: The interrater reliability for lip classification on Instagram was very good (Fleiss’ Kappa: pretreatment k = 0.817; posttreatment k = 0.837). The most common lip-type pretreatment was 1A, which dramatically shifted to Type 3A posttreatment. The comparison with the patient clinic revealed that although Type 1A was the most prevalent in both datasets, Instagram exhibited lower variability, with only 10 unique types identified pretreatment and a predominant Type 3A posttreatment.</p><p>Conclusions: The representations of lip enhancements on Instagram reflect a narrower range of lip types compared with clinical findings, including a dramatic shift toward a Type 3A lip shape. This standardization of beauty ideal highlights the need for further exploration of social media’s influence on lip enhancement preferences and the associated risks, as well as how these trends shape patient expectations in aesthetic practices.</p>"
+      },
+      "p2": {
+        "title": "Level of Evidence: 4 (Diagnostic)",
+        "content": "<p>In recent years, social media platforms, particularly Instagram (Meta, Menlo Park, CA), have significantly influenced beauty standards and cosmetic trends, with a notable emphasis on lip enhancements. Because social media users express their preferences for specific aesthetic outcomes, understanding the most popular and prevalent lip types becomes increasingly important. Although a number of studies have previously described various lip classification systems, to our knowledge none have looked at the prevalence of different lip types.1-6 This study investigates various lip types through the lens of minimally invasive lip enhancements, utilizing the Lip Classification of Tubercles (LCT) system (Figures 1, 2).7 We incorporate data from a previous study (n = 214), which assessed the reliability of the LCT system in a clinical patient population and compare the frequency of different lip types with those presented on Instagram. By categorizing lip types based on tubercle morphology, this research aims to evaluate Instagram’s impact on lip enhancement preferences while contrasting these findings with data from a patient clinic to highlight differences in lip-type prevalence and variability.</p><p>Dr Harris is an aesthetic doctor in private practice, London, UK. Dr Castellari is a dental surgeon in private practice, London, UK.</p><p>Dr Orlovska is a researcher in private practice, London, UK.</p><p>Dr Othoro is an aesthetic doctor in private practice, London, UK. Dr Bran is a plastic surgeon in private practice, London, UK.</p><p>Corresponding Author: Dr Steven Harris, 48 Crouch Hall Rd, London N8 8HJ, UK.</p><p>E-mail: steveharris001@icloud.com</p>"
+      },
+      "p3": {
+        "title": "METHODS",
+        "content": "<p>  We employed a within-participants design to analyze a sample of 120 “before and after” images from 4 trending Instagram hashtags: “lip filler” (5.1 million posts), “lip injection” (2 million posts), “lip augmentation” (1.5 million posts), and “lip enhancement” (1.1 million posts) on August 31, 2024. The LCT system was utilized to categorize lip types (between September 2, 2024 and September 8, 2024) based on their morphological features. </p><p>  Each image was classified independently by 4 expert examiners (3 medical doctors and 1 dentist) to ensure a rigorous assessment. Our study was performed in adherence to the Declaration of Helsinki (1996), and in accordance with regional laws and good clinical practice for studies in human participants. To complement our analysis of the Instagram group (IGG), we incorporated data from our previous study (gathered between August 1, 2022 and October 29, 2022) that assessed the interrater reliability of the LCT system within a clinical population, referred to here as the clinical group (CG). The 4 experts (including a “lead” expert) were the same for both studies. We reanalyzed the data from our previous study to calculate the frequency of different lip types from the CG for comparative analysis with the frequency of lip types from Instagram data. Statistical methods included calculating Fleiss’ Kappa to determine interrater reliability (k < 0.2 = “poor”; 0.2-0.4 = “fair”; 0.4-0.6 = “moderate”; 0.6-0.8 = “good”; 0.8-1.0 = “very good”)8 and conducting a marginal homogeneity (MH) test to compare the distributions of lip categories before and after treatment (where P < .05 indicates a statistical significance and P > .05 indicates a nonsignificant result) for each expert separately across all images and for all experts together across images where 100% agreement was observed. A χ2 test was utilized to explore the association between the lead expert’s lip classification and the agreement across other experts.  </p> "
+      },
+      "p4": {
+        "title": "RESULTS",
+        "content": ""
+      },
+      "p5": {
+        "title": "Lip Classification Pre- and Posttreatment in the Instagram Group",
+        "content": "<p>Fleiss’ Kappa was used to explore the interrater reliability between 4 experts for pre- and posttreatment classification ratings separately. The results indicated a very good and statistically significant agreement between expert judgments onip-type pretreatment, κ = 0.817 (95% CI, 0.816-0.819), P < .001, and posttreatment, κ = 0.837 (95% CI, 0.836-0.839), P < .001. Furthermore, a MH test was applied to compare the distribution of lip categories between pre- and posttreatment for each expert. The findings showed a statistically significant change from pre- to posttreatment in distribution of lip categories for all experts with MH statistic ranging from 175.00 to 180.00, and P < .001 for all comparisons. The frequency analysis of pre- and posttreatment classification ratings for each expert separately revealed that the most prevalent lip-type pretreatment was 1A which gave the following figures for 120 images across 4 experts—nexpert1 = 83 (69.2%), nexpert2 = 88 (73.3%), nexpert3 = 83 (69.2%), and nexpert4 = 80 (66.7%). In contrast, the most common liptype posttreatment was 3A, with the following figures across 4 experts—nexpert1 = 82 (68.3%), nexpert2 = 79 (65.8%), nexpert3 = 84 (70.0%), and nexpert4 = 77 (64.2%).</p><p> Additionally, a follow-up analysis was conducted on 92 images which yielded 100% agreement among experts pre- and posttreatment. An MH test result provided evidence of significant change in the most common lip categories from pre- to posttreatment, MH = 108.00, P < .001. Similarly, as in the analysis for each expert separately, the overall frequency analysis pretreatment indicated that the most prevalent lip type was 1A (n = 69, 75.0%), whereas the most common liptype posttreatment was 3A (n = 66, 72.7%; Figures 2, 3). </p>"
+      },
+      "p6": {
+        "title": "Lip Classification in the Clinical Group",
+        "content": "<p>A study analyzing lip classification data from 214 patients was conducted to assess the agreement between expert judgments. Fleiss’ Kappa was used to measure the interrater reliability, revealing a good level of agreement that was statistically significant, κ = 0.774 (95% CI, 0.773-0.775), P < .001. The frequency analysis of lip classification performed by the lead expert and 3 other experts identified lip Type 1A as the most common among patients, followed by lip Type 2A and lip Type 3A (Table 1, Figure 4). Additionally, the association between the objective classification of lip types by the lead expert and agreement (no/ yes) across experts was explored using a χ2 test. The findings showed a statistically significant association between the variables, χ2(13) = 26.584, P = .014, with a large effect size, Cramer’s V = 0.352. Descriptive analysis further showed that lip Type 1A had a higher agreement rate (73.3%) compared with disagreement (26.7%), whereas lip Type 4D exhibited more disagreement (53.8%) than agreement (48.2%).</p>"
+      },
+      "p7": {
+        "title": "Comparison of Lip Classification in the Instagram Group vs the Clinical Group",
+        "content": "<p>The pretreatment IGG findings were compared with those from the CG. It was discovered that the most common lip type in both was 1A. Furthermore, it was found that lip types on Instagram had lower variability, as only 10 unique lip types were reported by experts with Types 2C, 2D, 4A, 4B, 4C, and 4D absent. On the other hand, in the CG, only lip Types 1C and 4C were not present, with the rest reported. In the IGG, the prevalence of the most common lip Type 1A ranged from 66.7% to 73.3%; however, in the CG, the prevalence of lip Type 1A as determined by the lead expert who served as a reference standard, was only 28.0%, with other lip types, such as 2A and 3A also being fairly common at 21.1% and 14.5%, respectively.</p><bigImg>/steven-harris/figure-3.jpg</bigImg><p> Figure 3. Bar chart of frequency of lip types pre- and posttreatment in IGG. IGG, Instagram Group.</p><bigImg>/steven-harris/figure-5.jpg</bigImg><p>  Figure 5. Digitally created lips simulating the commonly found Type 3A in the Instagram group. Image created using Adobe Express by Adobe Inc. (San Jose, CA).</p>"
+      },
+      "p8": {
+        "title": "The Influence of Instagram on Lip Enhancement Preferences",
+        "content": "<p>The findings suggest a notable influence of Instagram on popular lip enhancement preferences, showcasing a narrower range of lip types with a higher prevalence of Type 1A lips in the IGG before images (66.7%-73.3%) compared with the CG (22.4%-28%). Conversely, the after images on social media displayed a marked shift toward Type 3A lips, which were only the third most common in the CG (64.2%-70% vs 12.1%-15.4%). Although our study did not incorporate a specific lip fullness scale, we observed that nearly all Type 3A lips in the IGG after images appeared overfilled compared with the untreated lips in the CG (Figure 5). These disparities underscore the influence of social media in shaping and reinforcing narrow beauty ideals that often diverge from more diverse clinical presentations. The predominance of Type 3A lips on social media may inadvertently marginalize the natural variety present in normal lip anatomy, leading aesthetic practitioners to encounter patients with unrealistic expectations shaped by these portrayals.</p><bigImg>/steven-harris/figure-4.jpg</bigImg><p>Figure 4. Bar chart of frequencies of lip types in the CG by lead expert. CG, clinical group.</p><bigImg>/steven-harris/table-1.jpg</bigImg><p>Table 1. Frequency and Percentage of Lip Classification for the 3 Most Common Lip Types Across Experts in Patient Study</p>"
+      },
+      "p9": {
+        "title": "The Role of Practitioners in Managing Expectations",
+        "content": "<p>In response to these challenges, it becomes crucial for practitioners to engage in thorough consultations with patients, educating them about realistic outcomes while celebrating the diversity of lip aesthetics. This approach can ultimately improve patient satisfaction and reinforce the importance of individual anatomical differences in treatment planning. Additionally, aesthetic practitioners must remain vigilant regarding the increased risks associated with certain injection techniques popularized on social media and adjust their practices accordingly to prioritize patient safety.</p>"
+      },
+      "p10": {
+        "title": "The Risks Associated With Current Techniques",
+        "content": "<p>The process of converting lip types to an “ideal” Type 3A lip not only underscores diversity but is also associated with both physical and psychological risks.9,10 The lip filler injection technique of “tenting” and its variants, such as the “Russian lip” technique, involve injections close to the wet-dry border—dangerously close to the labial arteries in 60% of cases.9 The multiple “vertical” type injections (from the vicinity of the vermillion border to the wet-dry border) are not only associated with an increased risk of vascular adverse events, but also given the number of injections (up to 60 in 1 treatment) increase the risk of fibrosis, overfilling and filler spread beyond the borders (wet-dry border and vermillion border) into the wet mucosa (“mucosal” spread) or the cutaneous lip (“cutaneous” spread). Indeed, cutaneous lip filler spread is very commonly observed on Instagram in association with these techniques. Further complicating this landscape, there is concern that the results may negatively affect lip animation, a factor that is rarely showcased in social media portrayals.</p><p>There is also a paucity of long-term results raising concerns about long-term effects and further unrealistic expectations among patients. Because individuals pursue aesthetic enhancement shaped by social media portrayals, there is the risk of homogenizing beauty standards that do not celebrate diverse lip shapes and features. This pressure can lead to an increased incidence of dissatisfaction among individuals whose natural features do not align with the dominant narratives presented online. Individuals may feel compelled to conform to unrealistic standards, potentially resulting in body image issues, anxiety, and/ or depression. In a study exploring the motivations of 24 women for overfilling their lips, most described Instagram impacting perceived aesthetic norms.10 A process of “perception drift” was identified mediated by exposure to repetitive images of larger lips on social media.</p>"
+      },
+      "p11": {
+        "title": "Study Limitations",
+        "content": "<p>Our study, while comprehensive, does have several limitations. Thereliance on images from the CG and IGG limits the generalizability of our findings due to sample size (n = 214 and n = 120, respectively) and selection which may not represent the larger diverse patient populations in the community (with respect to the CG), or Instagram (with respect to the IGG). The analysis focused on only 4 trending hashtags related to lip enhancement. This selective approach may overlook important trends or variations observed under other relevant hashtags. Although the study aims to assess the influence of Instagram on lip enhancement preferences, it may not consider other significant factors that contribute to these trends, such as celebrity endorsements, traditional media, or changes in beauty norms over time. The study’s cross-sectional design assesses a current trend on Instagram; a longitudinal study would provide valuable insights into this trend and others over time. Although we assessed the lip types using the LCT system, we did not assess the differences in lip fullness. As mentioned above, the Type 3A lips in the IGG appeared commonly overfilled. A more formal assessment with a lip fullness scale would offer further insights into the popular lip type on Instagram.</p><p>Finally, the study did not incorporate patient-centered measures, such as satisfaction with results or perceived changes in self-esteem, which are essential to gauge the efficacy and psychological impact of lip enhancements.</p>"
+      },
+      "p12": {
+        "title": "CONCLUSIONS",
+        "content": "<p>Our study highlights the profound impact of Instagram on shaping perceived beauty standards in lip enhancement. The stark disparity between the lip types commonly represented on social media vs those found within a patient clinic underscores a troubling trend toward a narrow definition of beauty dominated by a Type 3A lip. Practitioners must balance the aspiration inspired by platforms like Instagram with an ethical responsibility to promote realistic beauty standards that honor the uniqueness of each individual. Ultimately, the conversation surrounding lip enhancement should center on informed choices involving patient safety, individualized outcomes, and the recognition of the diverse beauty inherent in all lip types.</p><p>Because social media continues to play a pivotal role in shaping perceptions of beauty, ongoing dialogue between practitioners, patients, and the broader community will be essential in ensuring that minimally invasive lip enhancements promote both aesthetic satisfaction alongside psychological and physical well-being.</p>"
+      },
+      "p13": {
+        "title": "Acknowledgments",
+        "content": "<p> During the preparation of this work, the authors used Adobe Express by Adobe Inc. (San Jose, CA) to digitally simulate the commonly found Type 3A lips in the Instagram group (Figure 5). After using this tool/ service, the authors reviewed and edited the content as needed and take full responsibility for the content of the publication.</p>"
+      },
+      "p14": {
+        "title": "Disclosures",
+        "content": "<p> The authors declared no potential conflicts of interest with respect to the research, authorship, and publication of this article.</p>"
+      },
+      "p15": {
+        "title": "Funding",
+        "content": "<p> The authors received no financial support for the research, authorship, and publication of this article.</p>"
+      },
+      "p16": {
+        "title": "REFERENCES",
+        "content": "<ol><li>Ricketts RM. Esthetics, environment, and the law of lip relation. Am J Orthod. 1968;54:272-289. doi: 10.1016/S0002-9416(68)90278-9</li><li>Burstone CJ. Lip posture and its significance in treatment planning. Am J Orthod. 1967;53:262-284. doi: 10.1016/0002-9416(67)90022-X</li><li>Holdaway RA. A soft-tissue cephalometric analysis and its use in orthodontic treatment planning. Part I. Am J Orthod. 1983;84:1-28. doi: 10.1016/0002 9416(83)90144-6</li><li>Abbas HH, Hicks Y, Zhurov A, et al. An automatic approach for classification and categorisation of lip morphological traits. PLoS One. 2019;14:e0221197. doi: 10.1371/journal.pone.0221197</li><li>Trevidic P, Carey W, Benedetto AV, et al. Creation and validation of a photonumeric scale for assessment of lip fullness. J Cosmet Dermatol. 2022;21: 949-955. doi: 10.1111/jocd.14761</li><li>Philip Werschler W, Fagien S, Thomas J, Paradkar-Mitragotri D, Rotunda A, Beddingfield FC. Development and validation of a photographic scale for assessment of lip fullness. Aesthet Surg J. 2015;35:294-307. doi: 10.1093/asj/sju025</li><li>Harris S, Alfertshofer M, Allen R, et al. Introduction of the lip classification of tubercles: a novel approach to minimally invasive aesthetic lip treatments. Aesthet Surg J Open Forum. 2023;5:ojad007. doi: 10.1093/asjof/ojad007</li><li>Altman DG. Practical Statistics for Medical Research. Chapman and Hall; 1991.</li><li>Ghannam S, Sattler S, Frank K, et al. Treating the lips and its anatomical correlate in respect to vascular compromise. Facial Plast Surg. 2019;35:193-203. doi: 10.1055/s-0039-1683856</li><li>Love M, Saunders C, Harris S, Moon Z, Veale D. Redefining beauty: a qualitative study exploring adult women’s motivations for lip filler resulting in anatomical distortion. Aesthet Surg J. 2023;43:907-916. doi: 10.1093/asj/sjad050</li></ol>"
+      }
+    },
+    "Prague_Roshan_Ravidran": {
+      "h1": "KLNIK AND ANGLIA RUSKIN UNIVERSITY",
+      "abstract": "JOIN FORCES TO ELEVATE RESEARCH IN AESTHETIC MEDICINE",
+      "author": "By Dr. Roshan Ravidran",
+      "cta_text": "Discover Prague Lab Congress",
+      "tags": {
+        "t1": {
+          "title": "Aesthetic medicine"
+        },
+        "t2": {
+          "title": "Market Analysis"
+        },
+        "t3": {
+          "title": "Practice management"
+        }
+      },
+      "img_alt": "Dr. Roshan Ravidran",
+      "p1": {
+        "title": "Dr. Roshan Ravidran",
+        "content": "<p>Dr. Roshan Ravidran from KLNIK in Wimslow, UK and Professor Lee Smith from Anglia Ruskin University UK have joined forces to elevate research in the field of Aesthetic Medicine and address some of the most pressing issues in this area. Dr Ravindran is an experienced GP, cardiologist and aesthetics practitioner, he has spent almost 20 years working in medicine and is recognised as a world leader in the medical field of aesthetics. Professor Lee Smith is a University of Cambridge graduate and holds a PhD in the field of Medical Sciences, Epidemiology. He currently holds the position of Professor of Public Health and has previously been listed among the world’s most influential scientists.</p><p>After Dr. Ravindran and Professor Smith met and through lengthy discussion in relation to the science produced in aesthetic medicine and the real-world need to both elevate and progress this field of research, they decided to join forces to implement robust, high quality science to ultimately advance the field per se and specifically address industry concerns relating to patient safety. Since the commencement of their collaboration, just two years ago, they have published three peer reviewed academic journal articles, launched a nationwide survey, and have multiple additional papers in press, under review and in preparation. Their first study was a systematic review and meta-analysis focusing on “Cryolipolysis and associated health outcomes, adverse events, and satisfaction” this meta-analysis is now published in Obesity Reviews.</p><p>This work included 30 studies with 3158 participants. The result of meta-analyses showed reduced body mass index, waist-to hip ratio, mean abdominal circumference, and mean suprailiac fat thickness, 12 weeks after cryolipolysis as compared with baseline values.</p><p>The satisfaction rate was 80.4% and the adverse event rates of cryolipolysis was 49.5% for numbness, 44.5% for erythema, 30.5% for edema, 28.8% for pain, 25.4% for sensitivity, 15.2% for tingling, and 2% for hyperpigmentation. They subsequently concluded that cryolipolysis was associated with a reduction in the number of adiposity parameters at 3 months follow-up. A relatively high level of minor adverse events was reported; however, patient satisfaction was high suggesting that the treatment is well tolerated.</p><p>Their second study was titled “Biostimulants in Aesthetic Medicine: A Systematic Review and Meta analysis of Efficacy, Safety, and Patient Satisfaction” this meta-analysis is now published in Aesthetic Surgery Journal. The work included 25 studies. The results of meta-analyses indicated that the pooled satisfaction rate of biostimulants was estimated to be 91%, with the following adverse event rates: bruising, 27%; ecchymosis, 22%; edema, 5%; erythema, 16%; nodule development, 5%; and pain, 92%. Among studies not included in the meta-analysis, all parameters studied showed significant improvements in terms of dermal, volume, anatomic, and satisfaction outcomes. They subsequently concluded that biostimulants demonstrate clinical promise and a favorable tolerability profile in aesthetic medicine despite the common occurrence of minor adverse events, most notably pain.</p><p>After the completion of these two needed and informative systematic reviews and meta-analyses they decided to tackle the field of Botulinum Toxins (BoNT) by launching the Great British and Northern Ireland BoNT survey. The aim of the survey was to capture real-world experiences of cosmetic BoNT in the UK focusing on patient safety, ethical standards, and practitioner accountability. A total of 919 participants completed the survey from across the UK. The first peer-reviewed journal article from this survey has now been published in Aesthetic Surgery Journal Open Forum. This published article shows that 91% of the participants were female, the majority (54%) had received more than five BoNT treatments, and their treatment was most commonly delivered in beauty clinics (46%). Regarding people’s motivation for treatment, 81% said anti-ageing reasons, while only 11% cited medical conditions.</p><p>Despite existing requirements for BoNT to be dispensed by a qualified prescriber, worryingly only 42% said that a prescriber was present during their consultation, while 9% said they were not provided with a written consent form prior to their procedure and 18% reported not being informed of possible complications. Only 26% of participants said they received any form of post treatment support, while just 28% recalled receiving advice on how to manage potential side effects.</p><p>Although most people reported a high level of satisfaction, with 90% expressing positive views about their treatment, short-term complications included bruising or swelling in 26% of cases, headaches (25%) and injection site pain (10%). Long-term complications were relatively rare, with botulinum toxin resistance (3%) the most common.</p><p>Formal complaints following treatment were filed by only 5% of individuals, but at the same time only 35% admitted they were familiar with current regulations and 74% said they were unaware of the national Yellow Card reporting system. Through Yellow Card, the Medicine and Healthcare products Regulatory Agency (MHRA) collects information reported by the public about suspected safety concerns.</p><p>In addition to the article summarised here this survey has produced other data that is now being prepared for publication covering topics such as the risk of adverse events among those with chronic conditions undergoing BoNT treatment, risk of adverse events in relation to administer professional role, detailed analyses in relation to redress and so on. Moreover, the survey has been repeated in Ecuador, and the data is now being prepared for analyses.</p><p>Moving forward Dr Ravindran and Professor Smith are working to change BoNT Toxin regulations in the UK using their survey findings to guide the development of a proposed framework. They will continue to address key areas in the field through meta-analyses, epidemiological surveys and randomised-controlled trials.</p>"
+      }
+    },
+    "Prague_Jani_Van_Loghem": {
+      "h1": "SAFER FILLER INJECTION VOLUMES IN HIGH-RISK FACIAL REGIONS",
+      "abstract": "",
+      "author": "By Dr. Jani van Loghem",
+      "cta_text": "Discover Prague Lab Congress",
+      "tags": {
+        "t1": {
+          "title": "Aesthetic medicine"
+        },
+        "t2": {
+          "title": "Market Analysis"
+        },
+        "t3": {
+          "title": "Practice management"
+        }
+      },
+      "img_alt": "Dr. Jani van Loghem",
+      "p1": {
+        "title": "Introduction",
+        "content": "<p>Injecting dermal fillers in all facial areas carries a risk of intravascular injection and retrograde flow of filler into the ophthalmic artery (OA) and central retinal artery (CRA), potentially causing retinal ischemia leading to visual loss. Cadaveric and radiologic studies have measured the volume of arteries from various facial injection sites to the ocular circulation.</p><p>Based on these findings, practitioners should limit the filler volume per bolus (in a single injection or retrograde thread) to well below the capacity of the connecting vessels. This applies to all soft tissue filler materials (hyaluronic acid and others), since the critical volume for occlusion is a mechanical issue of volume in the artery, not the filler type. In a consensus paper that focuses on the prevention of blindness, a maximum bolus amount of 0,1 ml anywhere in the face was advised . However, in several high- and very high-risk anatomic areas of the face, this recommendation is not conservative enough.</p><p>Here, we give guidance for maximum bolus volumes in key high-risk areas, derived from anatomical and imaging studies.</p>"
+      },
+      "p2": {
+        "title": "Forehead and Brow (Supraorbital/Supratrochlear Region)",
+        "content": "<p>The forehead and eyebrow region is supplied by the supratrochlear and supraorbital arteries, which connect to the ophthalmic artery. Studies show these arteries fill with very small volumes. In one study, the mean volume from the forehead area (supratrochlear/ supraorbital) to the ophthalmic circulation was only about 0.04 mL (40 µL) [Woodward et al, 2017].</p><p>This means even 0.04 mL of filler entering one of these vessels could reach and block the OA/CRA, causing blindness. Therefore, injections in the forehead or lateral brow should be done with microboluses – on the order of 0.01–0.03 mL per injection, injected slowly while withdrawing the needle or cannula (retrograde technique). Keeping each bolus well below the threshold of 0.03 ml is critical.</p><p>For practical reasons, as often the smallest markings on a syringe are at 0.05 ml, we advise using a maximum 0f 0.025 ml per retrograde linear thread or per bolus, which means that every marking on the syringe means two retrograde linear threads or two boluses. By using such tiny aliquots and avoiding high pressure, the goal is to stay far under the vessel’s volume capacity and minimize accidental intravascular injection risk.</p>"
+      },
+      "p3": {
+        "title": "Glabella (Frown Lines/Nasion)",
+        "content": "<p>The glabella (between the eyebrows, above the nose) is a notorious high-risk zone for ocular complications. The supratrochlear arteries run through this region toward the eye. Research by Woodward et al. measured the volume of a supratrochlear artery from the glabella to the orbital apex, finding an average capacity of ~0.085 mL (85 µL), with a range of 0.04–0.12 mL. A filler bolus with those volumes in the glabellar area could theoretically fill the artery to the eye.</p><p>Thus, experts advise using extremely small boluses in the glabella at a time in this area [Woodward et al, 2017].</p><p>This is corroborated by other studies showing ~0.04 0.05 mL can block the ophthalmic circulation via glabellar arteries [Kyo-Ho et al, 2023]. In practice, this means multiple tiny injections rather than one large bolus, using minimal pressure. By limiting each deposit to a fraction of the artery’s volume, the injector reduces the chance that an inadvertent intravascular injection would have sufficient volume to reach the retina. Therefore, we advise being conservative and limiting bolus volume to 0.025 per injection in the glabella.</p>"
+      },
+      "p4": {
+        "title": "Nose (Nasal Dorsum and Bridge)",
+        "content": "<p>Nonsurgical rhinoplasty (filler in the nose) carries one of the highest risks of filler-induced blindness. The dorsal nasal artery (a branch of the ophthalmic via the angular artery) runs along the nose and can carry filler to the eye. Cadaver injections have shown that the dorsal nasal artery holds only about 0.03–0.04 mL from the nose to the ophthalmic artery. In fact, recent case reviews found that the nose is now the most common site associated with filler blindness (more so than glabella).</p><p>For this reason, extreme caution and very small volumes are recommended in nasal injections. Practically, injectors should limit each bolus to ≈0.02 0.03 mL in the dorsum or sidewall of the nose [Kyo-Ho et al, 2023]. Using microdroplet technique (multiple tiny injections) and possibly cannulas can help avoid injecting a large volume into any single arterial location. Even this small amount, if accidentally intra-arterial, is enough to occlude the retinal circulation, so the emphasis is on meticulous technique (slow injection, low pressure, frequent needle repositioning) to prevent intravascular entry at all.</p><p>Therefore, especially in the upper nasal area, we advise limiting the amount of filler to a maximum of 0.02 per bolus or retrograde linear thread. Ideally, backfilled insulin syringes are used so that micro boluses of 0.01 mL can precisely be injected.</p>"
+      },
+      "p5": {
+        "title": "Temple (Temporal Region)",
+        "content": "<p>The temple is supplied by branches of the superficial temporal artery (from the external carotid artery) which connects to the supraorbital artery. There are anastomoses linking the deep temporal arteries to the ophthalmic circulation. Cases of blindness from temple filler are rare but have been reported. A 2025 radiologic study by Sheth et al. identified four potential arterial pathways by which filler in the deep temple area could reach the ophthalmic artery. These pathways are longer and more circuitous than those in the glabella or nose, meaning a larger volume might be required to cause an ocular occlusion.</p><p>This lower likelihood does not mean injectors can use big boluses – it simply means the risk, while lower, is still present. Standard guidance for temple augmentation is to inject in a deep, supraperiosteal plane, and to use small aliquots (e.g. 0.05 mL per depot at most) with a needle, or either in the subcutaneous or interfascial plane with a cannula. In light of the anastomoses, it is prudent to stay at or below 0.05 mL per bolus in the temple. Using incremental threading injections rather than a single large bolus will reduce the chance that enough filler could find its way through the collateral route to the OA.</p>"
+      },
+      "p6": {
+        "title": "Tear Trough and Palpebromalar Groove (UnderEye Area)",
+        "content": "<p>Filler in the tear trough (under-eye hollows) or palpebromalar groove lies in the periorbital region where vessels connect to the ophthalmic artery. The infraorbital artery (branch of the maxillary) and the angular artery (terminal branch of the facial) are of concern here, as they form connections to the ophthalmic system (via the dorsal nasal and ophthalmic arteries). While specific volume measurements for these paths are not always given, we can infer risk from adjacent vessels: for example, the angular/dorsal nasal route holds on the order of 0.03–0.04 mL to reach the eye.</p><p>Therefore, injections under the eye should follow a “less is more” principle. Use the smallest effective boluses, roughly 0.02–0.05 mL at a time, in the tear trough region. Often a cannula is used here to stay superficial to the orbital septum and reduce arterial injury. As with other areas, injecting slowly while withdrawing, and staying in the correct tissue plane, is crucial. By limiting each deposit to a tiny volume, the injector adds a safety margin below the critical volume that could occlude ocular vessels.</p>"
+      },
+      "p7": {
+        "title": "Safety Recommendations",
+        "content": "<ul><li>All high-risk regions (forehead, glabella, nose, periocular, temple) have very small arterial volumes (≈0.04–0.1 mL) between the injection site and the ophthalmic/retinal circulation. Thus, even a single 0.05–0.1 mL bolus injected into an artery can cause blindness if it reaches the eye. Therefore, we advise using a maximum of 0.02 (syringe permitting) or 0.025 ml per bolus or retrograde linear thread in very high risk areas like the glabella, forehead and brows. We also advise a maximum bolus or retrograde linear thread volume of 0.05 in high-risk indications (temples, infraorbital, medial cheek and nasolabial folds).</li><li>Additionally, following a well-known expert recommendation [Goodman et al, 2019], is to inject no more than 0.1 mL per bolus or retrograde anywhere else in the face (in the so-called low risk and moderate risk areas).</li><li>The most important risk variables for intravascular filler injections leading to retinal ischemia, besides limiting injection volume include: anatomical layer of the artery, direction of the needle/cannula relative to the artery, size (in Gauge) of the needle/ cannula, force applied while advancing the cannula, product rheological properties, extrusion force, cannula flexibility, tissue characteristics and more.</li></ul>"
+      },
+      "p8": {
+        "title": " How important is prevention in your approach?",
+        "content": "<p>It’s essential. Daily broad-spectrum photoprotection is the highest-return anti-aging measure. Stable metabolic health, good sleep, adequate protein, micronutrient sufficiency, stress management — these all raise the ceiling for what we can achieve with interventions. Hormonal transitions must be anticipated and addressed proactively. And lifestyle factors like smoking, excessive alcohol, and pollution must be addressed; they can undo the benefits of even the most advanced treatments.</p>"
+      },
+      "p9": {
+        "title": "References",
+        "content": "<ul><li>Julie Woodward et al. An Anatomical Analysis of the Supratrochlear Artery: Considerations in Facial Filler Injections and Preventing Vision Loss. Aesthetic Surgery Jourrnall 2017,V1o–l637(2) 203–208</li><li>Kyu-Ho Yi, Hyung-Jin Lee, Hee-Jin Kim et al. Does injecting small amounts of fillers prevent the development of secondary blindness? J Cosmet Dermatol. 2023;00:1–6.</li><li>Goodman et al. A Consensus on Minimizing the Risk of Hyaluronic Acid Embolic Visual Loss and Suggestions for Immediate Bedside Management. Aesthetic Surgery Journal 2019, 1–13</li><li>Sheth NT, et al. Ophthalmic Plast Reconstr Surg. 2025 (online ahead of print). (Angiographic study of temple injections: identified long anastomotic routes to OA, unlikely with small volumes but still possible.</li></ul>"
+      }
+    },
+    "Prague_Konstantin_Frank": {
+      "h1": "SCIENCE-BASED REJUVENATION OF THE FACE AND THE BODY",
+      "abstract": "HOW AGING PROCESSES INFLUENCE DECISION-MAKING ?",
+      "author": "By Dr. Konstantin Frank",
+      "cta_text": "Discover Prague Lab Congress",
+      "tags": {
+        "t1": {
+          "title": "Aesthetic medicine"
+        },
+        "t2": {
+          "title": "Market Analysis"
+        },
+        "t3": {
+          "title": "Practice management"
+        }
+      },
+      "img_alt": "Dr. Konstantin Frank",
+      "p1": {
+        "title": "Dr. Frank, when you talk about “science-based rejuvenation,” what do you mean?",
+        "content": "<p> Science-based rejuvenation means we base our interventions not on trends or anecdotal experience alone, but on a detailed understanding of the biological and structural changes that occur with aging. Aging is not a single process — it’s a choreography involving the skin, subcutaneous tissues, fascia, muscles, bones, vascular systems, and hormonal influences. Only by identifying which of these layers are most responsible for a patient’s changes can we design precise, safe, and longlasting treatments.</p>"
+      },
+      "p2": {
+        "title": "Could you walk us through what happens in the face and body as we age?",
+        "content": "<p>Certainly. In the skin and extracellular matrix (ECM), collagen I and III production drops, elastin fibers fragment, and natural moisturizing factors decline. This reduces strength, elasticity, and hydration, and photoaging accelerates this via chronic inflammation and enzymatic breakdown. Fat compartments — which are highly organized into superficial and deep layers — change in both volume and position. Some deep compartments deflate, like the temples and medial cheek, while others descend, as in the jowl or nasolabial area.</p><p>Deeper still, the fibrous septae, retaining ligaments, and fascial layers lose strength, and gliding planes stiffen. This unlocks the vector shifts we call ptosis and creates shadows like tear troughs and labiomental folds. Muscles adapt, sometimes becoming overactive in compensation — think of the frontalis lifting a drooping brow — while sarcopenia robs us of support and worsens posture. Bone remodeling reduces maxillary projection, widens the orbital aperture, and alters the jawline; dental changes reduce vertical height and lip support. Circulation and lymphatic drainage slow, “inflammaging” sets in, and hormonal changes such as menopause or andropause accelerate ECM loss and fat redistribution. All of this is why I say aging is both layered and regional — you can’t fix it by addressing one component in isolation.</p>"
+      },
+      "p3": {
+        "title": "How do you decide where to start with a patient?",
+        "content": "<p>I don’t start with their age; I start with their phenotype. Two people in their fifties may have completely different needs. I classify whether they are deflation predominant, descent-predominant, surface predominant, muscle-dominant, or experiencing structural support loss. Then I map these findings layer by layer — skin, fat, fascia, muscle, bone — and take photos in both neutral and expressive states.</p>"
+      },
+      "p4": {
+        "title": "What’s your guiding principle in treatment planning?",
+        "content": "<p>“Foundations first.” That means addressing bone structure, dentition, deep volume, and ligament support before moving to the skin envelope, and only then refining the details such as fine lines and pigment. If you start with the details, your results will be short lived. Sequencing is also critical: I begin with low-risk, high-benefit interventions such as photoprotection, barrier repair, and metabolic optimization. Then I layer in synergistic treatments — deep augmentation before superficial filler, collagen induction before pigment correction. And I always respect anatomical danger zones and have a complication plan.</p>"
+      },
+      "p5": {
+        "title": "How do you match the treatment to the specific problem?",
+        "content": "<p>A: For ECM decline, I might use retinoids, antioxidants, fractional lasers, RF microneedling, biostimulators, or platelet-derived preparations — sometimes hormone therapy when appropriate. Volume loss in deep compartments calls for deep-plane fat grafting or fillers; superficial loss requires delicate microbolus cannula injections. Ligament laxity may need lifting with surgery or devices. Muscle imbalance responds to carefully balanced neuromodulators. Skeletal and dental issues require interdisciplinary care. And with vascular or lymphatic stagnation, we avoid edema provoking procedures and support circulation.</p>"
+      },
+      "p6": {
+        "title": " Can you give us an overview of the different facial zones and how you approach them?",
+        "content": "<p>In the upper face — forehead, temple, brow, upper eyelid — the main issues are brow descent, temple hollowing, and orbital rim support loss. If brow descent is structural, neuromodulators alone can make heaviness worse, so we address support first. The midface ages through deep fat loss, malar descent, pyriform aperture resorption, and ligament laxity — here I restore deep cheek and zygomatic support before touching nasolabial folds. The lower face — perioral area, chin, jawline, neck — shows mandibular angle changes, jowls, perioral rhytids, and platysmal banding. Chin projection and jawline definition come from deep support; perioral lines respond best to collagen induction and resurfacing before filler; neck treatments depend on whether the main problem is skin, fat, muscle, or gland.</p>"
+      },
+      "p7": {
+        "title": "What about the body?",
+        "content": "<p>For the body, I look at skin quality and laxity first, particularly in sun-exposed areas like the neck, chest, hands, and forearms — these benefit from photoprotection, resurfacing, and biostimulatory treatments. Fat distribution changes, especially abdominal or flank fat linked to insulin resistance, are best addressed with a combination of contouring devices and lifestyle strategies. Muscle and fascia respond to resistance training and mobility work — in fact, training is the single most effective body aesthetic intervention over 6–12 months. For the hands and chest, volume restoration and pigment correction can make a big difference. Scars, stretch marks, and cellulite need mechanism-specific interventions, from dermal remodeling to septal release.</p>"
+      },
+      "p8": {
+        "title": " How important is prevention in your approach?",
+        "content": "<p>It’s essential. Daily broad-spectrum photoprotection is the highest-return anti-aging measure. Stable metabolic health, good sleep, adequate protein, micronutrient sufficiency, stress management — these all raise the ceiling for what we can achieve with interventions. Hormonal transitions must be anticipated and addressed proactively. And lifestyle factors like smoking, excessive alcohol, and pollution must be addressed; they can undo the benefits of even the most advanced treatments.</p>"
+      },
+      "p9": {
+        "title": "How do you ensure your treatments are ethical and safe?",
+        "content": "<p>We treat diagnoses, not just symptoms, and we work within each region’s risk tolerance. Patients are given staged plans with realistic timelines: months for skin improvement, immediate but evolving results for volume, instant lift with recovery time for surgery. We have protocols for every potential complication and a network of interdisciplinary colleagues — from dentistry to dermatology — to support outcomes.</p>"
+      },
+      "p10": {
+        "title": " If you had to summarise your philosophy in one sentence?",
+        "content": "<p>Science-based rejuvenation means identifying the true biological driver in each region, treating the right layer in the right sequence, and integrating local and systemic health — that’s how we achieve results that last, with patients who still look like themselves, only better supported.</p>"
+      }
+    },
+    "Prague_Lee_Walker": {
+      "h1": "BLINDNESS AFTER FACIAL FILLERS",
+      "abstract": "PREVENTION, RECOGNITION, AND MANAGEMENT",
+      "author": "By Dr. Lee Walker",
+      "cta_text": "Discover Prague Lab Congress",
+      "tags": {
+        "t1": {
+          "title": "Aesthetic medicine"
+        },
+        "t2": {
+          "title": "Market Analysis"
+        },
+        "t3": {
+          "title": "Practice management"
+        }
+      },
+      "img_alt": "Dr. Lee Walker",
+      "p1": {
+        "title": "Introduction",
+        "content": "<p>In recent years, nonsurgical aesthetic procedures have become a cornerstone of cosmetic practice. Dermal fillers, in particular, offer patients a minimally invasive option for facial rejuvenation and contouring. Yet despite their popularity and general safety, one complication stands apart for its severity: blindness following facial filler injection.</p><p>There have been many published evidence based guidelines to assist practitioners in managing this rare but catastrophic event. These recommendations, informed by extensive literature review and clinical consensus, are designed to raise treatment standards and ensure that clinicians are prepared both to minimize risk and to act swiftly should visual loss occur.</p>"
+      },
+      "p2": {
+        "title": "Understanding the Mechanism",
+        "content": "<p>Blindness occurs when filler material is inadvertently introduced into a blood vessel and travels retrograde under injection pressure before being propelled forward into the ophthalmic or central retinal arteries. These vessels supply critical ocular structures, and even a small embolus can interrupt blood flow, leading to ischemia (Woo et al., 2012).</p><p>Key anatomical considerations include the rich anastomotic network between the ophthalmic artery branches (notably the supratrochlear and supraorbital arteries) and facial vessels such as the angular and superficial temporal arteries (Tansatit et al., 2015). Studies estimate the supratrochlear artery’s intraluminal volume from the glabella to the orbital apex averages just 0.085mL (Khan et al., 2017). Even tiny boluses can therefore precipitate visual loss.</p>"
+      },
+      "p3": {
+        "title": "Incidence and Risk Zones",
+        "content": "<p>Although rare, cases of blindness after filler injection have been reported for more than five decades, beginning with von Bahr’s 1963 description of vision loss following scalp steroid injection. The number of reported cases rose significantly in the 2000s alongside the growth of the aesthetics industry. A 2015 review by Beleznay identified 98 global cases of filler-associated vision change, with autologous fat responsible for nearly half. Hyaluronic acid accounted for approximately one-quarter.</p><p>The highest-risk anatomical zones include:</p><ul><li>Glabella (38.8% of reported cases)</li><li>Nasal region (25.5%)</li><li>Nasolabial folds (13.3%)</li><li>Forehead (12.2%)</li></ul><p>While these regions carry the greatest risk, practitioners should recognize that no injection site is entirely safe due to vascular variability (Loh & Chua, 2016).</p>"
+      },
+      "p4": {
+        "title": "Clinical Presentation",
+        "content": "<p>Vision loss typically occurs within seconds of injection, though delayed cases—up to seven hours post-treatment—have been documented (Hu & Hu, 2016). Complete blindness is the most common presentation, but partial defects may occur depending on the vessel involved.</p><p>Common accompanying symptoms include:</p><ul><li>Sudden severe ocular, facial, or headache pain</li><li>Ptosis (drooping eyelid)</li><li>Ophthalmoplegia (eye muscle paralysis)</li><li>Strabismus (misalignment of the eyes)</li><li>Enophthalmos (posterior displacement of the eye)</li><li>Corneal edema or anterior chamber inflammation</li></ul><p>Neurological signs such as aphasia or contralateral weakness may indicate concurrent cerebral infarction, which occurs in up to one-third of cases (Carle et al., 2014). MRI is recommended for all patients with visual loss or ocular pain following injection.</p>"
+      },
+      "p5": {
+        "title": "Prevention Strategies",
+        "content": "<p>Given the devastating impact and limited reversibility of this complication, prevention is paramount. The evidence-based guidelines recommend the following strategies:</p><ul><li>Detailed knowledge of vascular anatomy: Understand vessel depth, course, and variations in different regions.</li><li>Small, incremental injections: No more than 0.1mL per bolus, allowing potential intravascular product to disperse before subsequent injections.</li><li>Slow, low-pressure delivery: Reduces the risk of retrograde embolization.</li><li>Needle movement: Avoids depositing large filler volumes in one location.</li><li>Aspiration before injection: Though not foolproof, it may identify intravascular placement in some cases.</li><li>Use of cannulas: A blunt 25G (or larger) cannula is less likely to penetrate a vessel, especially in high-risk areas.</li><li>Smaller syringes: Offer greater control compared to larger ones.</li><li>Consider digital compression: Applying pressure to the orbital rim during injections may reduce the chance of retrograde embolization.</li><li>Exercise caution in previously operated or traumatised areas: Altered vascular pathways may increase risk.</li></ul><p>Training, competency, and product familiarity are essential prerequisites. Practitioners must not only master injection techniques but also be prepared to recognize and manage complications promptly.</p>"
+      },
+      "p6": {
+        "title": "Emergency Management",
+        "content": "<p> Once filler-induced arterial occlusion occurs, there is an estimated 60–90 minute window before blindness becomes irreversible (Lazzeri et al., 2012). Immediate and coordinated action is therefore critical. </p>"
+      },
+      "p7": {
+        "title": "Initial Response in Clinic",
+        "content": "<ol><li>Stop treatment immediately.</li><li>Position the patient supine.</li><li>Call for emergency transfer to the nearest hospital with ophthalmology services. Avoid non specialist EDs if they will delay specialist input.</li><li>Administer first-line measures without delaying referral:<ul><li>Topical timolol 0.5% (1–2 drops) to reduce intraocular pressure</li><li>Oral acetazolamide, if available</li><li>300mg aspirin to reduce platelet aggregation</li><li>Paper bag rebreathing or carbogen inhalation to induce vasodilation</li><li>Gentle ocular massage (2–3 compressions per second) to attempt embolus displacement</li></ul></li></ol><p>If hyaluronic acid was the filler used, consider local infiltration with hyaluronidase in the area of injection. Retrobulbar hyaluronidase injections, while sometimes advocated, carry significant technical risk and should be reserved for ophthalmology-led settings (Zhu et al., 2017). Figure 1 gives a visual infographic to assist in immediate management</p><bigImg>/lee-walker/figure-1-vision-loss.jpg</bigImg><p>Figure 1. Walker L, Convery C, Davies E, Murray G, Croasdell B. Consensus Opinion for The Management of Soft Tissue Filler Induced Vision Loss. J Clin Aesthet Dermatol. 2021 Dec;14(12):E84-E94. PMID: 35096260; PMCID: PMC8794490.</p>"
+      },
+      "p8": {
+        "title": "Hospital-Based Interventions",
+        "content": "<p>Once transferred, additional specialist treatments may include:</p><ul><li>Intravenous acetazolamide or mannitol to lower intraocular pressure</li><li>Anticoagulation (heparin or enoxaparin) if no neurological contraindications</li><li>Hyperbaric oxygen therapy to salvage ischemic retina</li><li>Anterior chamber paracentesis</li><li>Intravenous corticosteroids</li><li>Advanced transorbital or periarterial hyaluronidase injection in specialist hands</li></ul><p>Despite these measures, prognosis for visual recovery remains poor, underscoring the emphasis on prevention and early recognition.</p>"
+      },
+      "p9": {
+        "title": "Ethical and Professional Considerations",
+        "content": "<p>Because blindness is such a devastating outcome, practitioners are ethically obligated to include this risk in the consent process, however rare it may be. Transparent discussions foster trust and prepare patients for the realities of aesthetic interventions.</p><p>Practitioners must also work within their competencies. If not trained in emergency ocular management or the use of medications such as acetazolamide, referral protocols should be established in advance. Informing the patient’s general practitioner and documenting the incident thoroughly are considered best practice.</p>"
+      },
+      "p10": {
+        "title": "Conclusion",
+        "content": "<p>Blindness from facial filler injections represents one of the most severe complications in aesthetic practice. Although rare, the impact on patient quality of life is profound and largely irreversible. For clinicians, the priority must be prevention through anatomical knowledge, cautious injection technique, and patient education.</p><p>When complications do occur, rapid recognition and a structured emergency protocol may offer the best— though limited—chance of salvaging vision.</p><p>The evidence based guidelines serve as a critical resource, reminding practitioners that aesthetic medicine is not simply about artistry but about accountability, preparedness, and patient safety.</p><p>By adhering to these standards, the profession can continue to deliver excellent aesthetic outcomes while minimizing risks and upholding the highest duty of care.</p>"
+      },
+      "p11": {
+        "title": "References",
+        "content": "<ul><li>Beleznay K, Carruthers JDA, Humphrey S, Jones D. Avoiding and treating blindness from fillers: A review of the world literature. Dermatol Surg. 2015;41(10):1097–1117. Carle MV, Roe R, Novack R, Boyer DS. Cosmetic facial fillers and severe vision loss. JAMA Ophthalmol. 2014;132(6):714–723.</li><li>Hu XZ, Hu JY. Posterior ciliary artery occlusion caused by hyaluronic acid injections into the forehead. Medicine (Baltimore). 2016;95(11):e3124.</li><li>Khan TT, Colon-Acevedo B, Mettu P, et al. An anatomical analysis of the supratrochlear artery: Considerations in facial filler injections and preventing vision loss. Aesthet Surg J. 2017;37(2):203–208.</li><li>Lazzeri D, Agostini T, Figus M, et al. Blindness following cosmetic injections of the face. Plast Reconstr Surg. 2012;129(4):995–1012.</li><li>Loh KTD, Chua JJ. Prevention and management of vision loss relating to facial filler injections. Singapore Med J. 2016;57(8):438–443.</li><li>Tansatit T, Moon HJ, Apinuntrum P, Phetudom T. Verification of embolic channel causing blindness following filler injection. Aesthet Plast Surg. 2015;39(1):154–161.</li><li>von Bahr G. Multiple embolisms in the fundus of an eye after an injection in the scalp. Acta Ophthalmol. 1963;41:85–91.</li><li>Walker L, Convery C, Davies E, Murray G, Croasdell B. Consensus Opinion for The Management of Soft Tissue Filler Induced Vision Loss. J Clin Aesthet Dermatol. 2021 Dec;14(12):E84-E94. PMID: 35096260; PMCID: PMC8794490</li><li>Woo SJ, Park SW, Park KH, et al. Iatrogenic retinal artery occlusion caused by cosmetic facial filler injections. Am J Ophthalmol. 2012;154(4):653–662.</li><li>Zhu GZ, Sun ZS, Liao WX, et al. Efficacy of retrobulbar hyaluronidase injection for vision loss resulting from hyaluronic acid filler embolization. Aesthet Surg J. 2017;38(1):12–22</li></ul>"
+      }
+    },
+    "Prague_Monika_Kavkova_3": {
+      "h1": "CONTROVERSIES IN BIOSTIMULATION",
+      "abstract": "BEAUTY IN BALANCE",
+      "author": "By Dr. Monika Kavková",
+      "cta_text": "Discover Prague Lab Congress",
+      "tags": {
+        "t1": {
+          "title": "Aesthetic medicine"
+        },
+        "t2": {
+          "title": "Market Analysis"
+        },
+        "t3": {
+          "title": "Practice management"
+        }
+      },
+      "img_alt": "Dr. Monika Kavková",
+      "p1": {
+        "title": "Introduction",
+        "content": "<p> In recent years, biostimulation has become one of the fastest-growing sectors in aesthetic medicine, promising natural regeneration and long-lasting results. Rather than filling or replacing lost volume, biostimulation aims to regenerate the skin from within—stimulating fibroblasts to produce collagen and elastin, restoring structure, elasticity, and radiance. But as with any fast-moving field, rapid innovation brings both excitement and controversy.</p>"
+      },
+      "p2": {
+        "title": "Why Skin Quality Matters",
+        "content": "<p>The aesthetic industry has shifted from the era of “volume restoration” to one focused on skin quality— tone, texture, firmness, and glow. Patients increasingly seek a refreshed and authentic appearance rather than dramatic transformations. As the global population ages—by 2050, 1.5 billion people will be over 65—the demand for regenerative, collagen stimulating treatments continues to surge.</p><p>Data from 2023 estimated the global market for injectable biostimulators at USD 1.2 billion, with projections to double by 2032. Regenerative injectables such as calcium hydroxylapatite (CaHA), poly-L-lactic acid (PLLA), and hybrid fillers represent a major driver of growth in aesthetic medicine.</p>"
+      },
+      "p3": {
+        "title": "The Science Behind Collagen Activation",
+        "content": "<p>Collagen production begins to decline as early as the mid-20s, with an annual reduction of 1%. By the age of 50, women can experience up to 30% collagen loss, accelerated by estrogen decline during menopause. This loss manifests as reduced elasticity, thinning dermis, and dullness—hallmarks of aging skin.</p><p>Biostimulation seeks to counter this through controlled induction of neocollagenesis. CaHA microspheres, for instance, activate fibroblasts through direct contact, prompting the synthesis of new collagen (particularly type III). Studies demonstrate that more diluted CaHA formulations disperse wider and deeper within the dermis, increasing the number of fibroblasts in contact with the particles and thus enhancing collagen formation.</p>"
+      },
+      "p4": {
+        "title": " The Role of Combination",
+        "content": "<p> The introduction of hybrid fillers, combining CaHA with cross-linked hyaluronic acid (HA), has opened new possibilities. This synergy offers the structure         and collagen induction of CaHA with the hydration and softness of HA, producing immediate and longterm benefits. Clinical evaluations show histological improvements in dermal architecture and skin density, supporting the hybrid concept as both safe and effective.</p>"
+      },
+      "p5": {
+        "title": " Controversies in Biostimulation",
+        "content": "<p>Despite these advances, biostimulation remains a topic of debate among practitioners and scientists alike. MUDr. Kavková highlights several key controversies shaping current discussion.</p><h4>1. Evidence vs. Hype</h4><p>While clinical enthusiasm is high, long-term evidence remains limited. Much of the market’s momentum is driven by marketing narratives rather than robust comparative data. Patients’ expectations— often shaped by social media—may exceed what biostimulators can realistically achieve.</p><h4>2. Safety Concerns</h4><p>Although rare, complications such as nodules or granulomas can occur, particularly when off-label dilutions or unstandardized protocols are used. Proper training, product knowledge, and complication management are crucial to minimize risk.</p><h4>3. Overuse vs. Natural Outcomes</h4><p>The “more-is-better” mentality that once plagued filler treatments risks repeating itself in biostimulation. Excessive stimulation or poorly planned combination therapies may lead to irregularities or fibrosis. The focus must remain on moderation, individualized assessment, and quality over quantity</p><h4>4. Patient Selection</h4><p>Not every patient benefits equally. Advanced laxity, metabolic disorders, or unrealistic expectations can compromise results. As MUDr. Kavková emphasizes, careful assessment and education are essential to achieving satisfaction and avoiding misuse.</p><h4>5. Combination Therapies</h4><p>Threads, toxins, devices, and fillers are often combined, but the ideal sequencing and timing are still under debate. Overstimulation can be as counterproductive as undertreatment. Evidence-based protocols and a holistic understanding of tissue physiology are key to achieving synergistic outcomes.</p><h4>6. Duration & Degradation</h4><p>Patients frequently believe biostimulation will provide permanent rejuvenation. In reality, product longevity and collagen remodeling vary widely between individuals. Honest communication about duration, maintenance, and follow-up is a professional necessity.</p><h4>7. Ethics and Regulation</h4><p>Perhaps the most critical issue is ethical responsibility. Aggressive marketing of “miracle” biostimulators and widespread off-label practices risks undermining the credibility of the field. MUDr. Kavková calls for international guidelines and stresses that professional duty must always outweigh commercial pressure.</p>"
+      },
+      "p6": {
+        "title": "Clinical Experience and Practical Application",
+        "content": "<p> With the face remaining the most frequently treated area“ in her own clinical practice, MUDr. Kavková uses CaHA and hybrid formulations across multiple anatomical zones—neck, décolleté, hands, elbows, knees, and even for post-surgical or post-liposuction defects—with visible improvements in skin firmness and texture over three months. </p>"
+      },
+      "p7": {
+        "title": "Looking Ahead",
+        "content": " <p>Biostimulation is redefining aesthetic medicine’s philosophy: from filling to regenerating, from masking aging to restoring skin vitality. The evidence, though still evolving, points toward a future where personalized regenerative protocols replace traditional volumizing approaches.</p><p> As MUDr. Kavková concludes: “Biostimulation is not just correction—it is true rejuvenation from within.”</p>"
+      },
+      "p8": {
+        "title": "Reference",
+        "content": "<p>Goldie K, Kerscher M, Fabi SG, Hirano C, Landau M, Lim TS, Woolery-Lloyd H, Mariwalla K, Park JY, Yutskovskaya Y. Skin Quality - A Holistic 360° View: Consensus Results. Clin Cosmet Investig Dermatol. 2021 Jun 14;14:643-654. doi: 10.2147/CCID.S309374. PMID: 34163203; PMCID: PMC8214518. Skin Tightening With Hyperdilute CaHA: Dilution Practices and Practical Guidance for Clinical Practice Z. Lorenc, J. M. Black, Jessie S Cheung, A. Chiu, Roberta Del Campo, A. Durkin, M. Graivier, Jeremy B Green, Gideon P Kwok, Keith Marcus, C. Rammos, W.Werschler. Aesthetic surgery journal 30 June 2021 Nowag B, Casabona G, Kippenberger S, Zöller N, Hengl T. Calcium hydroxylapatite microspheres activate fibroblasts through direct contact to stimulate neocollagenesis. J Cosmet Dermatol. 2023 Feb;22(2):426-432. doi: 10.1111/ jocd.15521. Epub 2022 Dec 27. PMID: 36575882. Combining Calcium Hydroxylapatite and Hyaluronic Acid Fillers for Aesthetic Indications: Efficacy of an Innovative Hybrid Filler. Fakih-Gomez N, Kadouch J. Aesthetic Plast Surg. 2022 Feb;. Clinical and Histopathological Evaluation of Skin Changes Following Intradermal Injection of Hybrid Products Combining Calcium Hydroxyapatite with Various Density Hyaluronic Acid Ya. A. Yutskovskaya1*, Е.А. Kogan2, A. Yu. Koroleva3 ISSN: 2639-0353 Madridge.Journal of Dermatology & Research</p>"
+      }
+    },
+    "Prague_Monika_Kavkova_2": {
+      "h1": "HYALURONIC ACID FILLERS – BETWEEN BEAUTY AND EXCESS: CONTROVERSIES, HARMONY, AND PREVENTION",
+      "abstract": "BEAUTY IN BALANCE",
+      "author": "By Dr. Monika Kavková",
+      "cta_text": "Discover Prague Lab Congress",
+      "tags": {
+        "t1": {
+          "title": "Aesthetic medicine"
+        },
+        "t2": {
+          "title": "Market Analysis"
+        },
+        "t3": {
+          "title": "Practice management"
+        }
+      },
+      "img_alt": "Dr. Monika Kavková",
+      "p1": {
+        "title": "The HA Paradox: Beauty Enhancer or Beauty Destroyer?",
+        "content": "<p>Hyaluronic acid (HA) has become the undisputed cornerstone of modern aesthetic medicine. As a naturally occurring glycosaminoglycan responsible for maintaining hydration, elasticity, and volume, HA’s introduction into injectable fillers revolutionized facial rejuvenation. Yet, as MUDr. Monika Kavková asks in her lecture “Beauty in Balance,” can the same substance that enhances beauty also destroy it?</p><p>The answer lies not in the material—but in the mindset and method. Used correctly, HA remains one of the safest, most effective, and most reversible aesthetic tools available. Used poorly, it can distort proportions, alter identity, and ultimately erode the very harmony it seeks to restore.</p>"
+      },
+      "p2": {
+        "title": "When HA Is a Friend",
+        "content": "<p>When performed with anatomical precision and artistic restraint, HA injection can create a subtle, refreshed appearance that restores confidence without betraying the hand of medicine.</p><ul><li>Biocompatible and reversible: HA can be safely dissolved with hyaluronidase.</li><li>Hydration and volume: It smooths fine lines, restores contours, and enhances light reflection in the skin.</li><li>Collagen stimulation: Beyond filling, it gradually improves dermal quality.</li><li>Minimally invasive: Fast recovery and immediate effects.</li><li>Emotional benefits: Aesthetic improvement frequently translates into psychological well-being.</li></ul><p>In skilled hands, HA is not a sculpting mass—it is a dialogue between anatomy and artistry.</p>"
+      },
+      "p3": {
+        "title": "When HA Becomes an Enemy",
+        "content": "<p>The same material can, however, become a symbol of excess. “Filler fatigue” and the “overfilled face” have become cautionary phrases in the aesthetic lexicon. Excessive use, superficial placement, or repeated treatments without full resorption stretch the tissues and obscure natural contours. Puffy midfaces, heavy under-eyes, or distorted proportions often result not from the filler itself, but from overcorrection and misunderstanding of facial dynamics.</p><p>Complications such as edema, nodules, or even vascular occlusion—though rare—underscore that safety begins with knowledge, not the needle. The most common error? Treating the symptom, not the structure.</p>"
+      },
+      "p4": {
+        "title": "Understanding the Aging Face",
+        "content": "<p>True rejuvenation begins with understanding how the face ages—from the inside out. Every layer, from bone to skin, undergoes changes: bone resorption, fat compartment descent, ligament laxity, and dermal thinning. According to anatomical research by Swift and colleagues (Aesthetic Surgery Journal, 2021), these cumulative alterations shift the architecture of beauty over decades.</p><p>The line of ligaments is a concept describing a series of fibrous bands, or true retaining ligaments, that anchor the skin and underlying tissues to the facial bones, acting as anatomical landmarks for facial aging and cosmetic treatments. This «line» includes the temporal ligamentous adhesion (TLA), lateral orbital ligament (LOL), zygomatic ligament (ZL), and mandibular ligament (ML), which separate the face into mobile and fixed regions.</p><p>It is another key aid in achieving natural and balanced rejuvenation results is an understanding of this line of ligaments. Recognizing these lines of support allows injectors to rebuild structure before addressing surface imperfections, helping to achieve more natural-looking outcomes in cosmetic procedures such as dermal filler injections by directing treatment to restore support and lift to the face.</p>"
+      },
+      "p5": {
+        "title": "Anatomy, Strategy, and the Art of Restraint",
+        "content": "<p>HA injections must respect depth, proportion, and expression.</p><ul><li>Midface: Deep fat pads and periosteal plane restore lift and definition.</li><li>Temples: Deep, subfascial injections prevent vascular compromise.</li><li>Lips: Gentle volumization maintaining shape and mobility.</li><li>Chin and jawline: Structural projection on bone.</li></ul><p>In contrast, danger zones—glabella, nose, nasolabial folds, and tear trough—carry high vascular risk and demand extreme caution. Beleznay’s 2015 analysis showed that 98% of blindness cases linked to fillers originated from glabellar and nasal injections. Safety and artistry therefore intertwine: knowing where not to inject is as vital as knowing where to inject.</p>"
+      },
+      "p6": {
+        "title": "The Rise of Hybrid and Combined Approaches",
+        "content": "<p>As aesthetic philosophy evolves, many clinicians, including MUDr. Kavková, are often turning toward hybrid fillers—combinations of HA and calcium hydroxylapatite (CaHA). These formulations merge HA’s hydrating softness with CaHA’s collagen stimulating strength, offering structure and longevity alongside natural pliancy.</p><p>Additionally, integrated protocols that combine HA, biostimulation, threads, and neurotoxins can achieve holistic rejuvenation when executed with proper sequencing and restraint. In particular, biostimulatory treatments have shown a significant increase in clinical application and scientific interest, reflecting their proven efficacy in improving dermal quality through collagen and elastin neogenesis. The goal is harmony, not volume—architecture, not inflation.</p>"
+      },
+      "p7": {
+        "title": " Prevention and the “Less Is More” Philosophy",
+        "content": "<p>To avoid the pitfalls of excess, MUDr. Kavková advocates a few guiding principles:</p><ul><li>Start with analysis. Understand the aging pattern and anatomy before planning any correction.</li><li>Respect facial dynamics. Expressions must remain natural; fillers should move with the face, not against it.</li><li>Restore support before surface. Rebuild the deep structural layers first; superficial filling comes last.</li><li>Don’t treat every imperfection. Perfection is not the goal—balance is.</li><li>Educate the patient. Transparency about duration, maintenance, and realistic outcomes fosters trust.</li></ul><p>The injector’s task, she emphasizes, is not to chase lines but to restore identity without altering it.</p>"
+      },
+      "p8": {
+        "title": "Beauty in Balance: The Future of HA Aesthetics",
+        "content": "<p>The controversies surrounding HA fillers—overuse, misinformation, and aesthetic uniformity—are gradually giving way to a more refined philosophy. Beauty today is not about volume but proportion, light, and motion. Patients no longer desire to look “different,” but rather like themselves, on their best day.</p><p>“HA is our friend,” concludes MUDr. Kavková, “if guided by artistry, science, and restraint. Our mission as injectors is to be architects of structure, not just injectors of volume—to restore harmony where time has taken balance.”</p>"
+      },
+      "p9": {
+        "title": "References",
+        "content": "<p>Aesthet Surg J. 2021 Oct; 41(10): 1107–1119. The Facial Aging Process From the “Inside Out” Arthur Swift, MD, 1 Steven Liew, MD, 2 Susan Weinkle, MD, 3 Julie K Garcia, PhD, 4 and Michael B Silberberg, MD, MBA 5 Hernandez CA, Schneider C, Gold D MH, Muniz M, Green JB, Alfertshofer M, Frank K, Cotofana S. After the Temporal Lifting Technique-What comes next? J Cosmet Dermatol. 2021 Dec;20(12):3857-3862. doi: 10.1111/jocd.14247. Epub 2021 Jul 21. PMID: 34021958. Choi MS, Kwak S, Kim J, Park MS, Ko SM, Kim T, Jeong DS, Rhee CH, Yang GH, Son WC, Kang WH. Comparative Analyses of Inflammatory Response and Tissue Integration of 14 Hyaluronic Acid-Based Fillers in Mini Pigs. Clin Cosmet Investig Dermatol. 2021 Jul 2;14:765-778. doi: 10.2147/CCID.S315076. PMID: 34239313; PMCID: PMC8260178.</p>"
+      }
+    },
+    "Prague_Monika_Kavkova": {
+      "h1": "REJUVENATION OF THE LIPS AND PERIORAL REGION IN MATURE WOMEN",
+      "abstract": "Generative AI is likely to impact all businesses across all industries.",
+      "author": "By Dr. Monika Kavková",
+      "cta_text": "Discover Prague Lab Congress",
+      "tags": {
+        "t1": {
+          "title": "Aesthetic medicine"
+        },
+        "t2": {
+          "title": "Market Analysis"
+        },
+        "t3": {
+          "title": "Practice management"
+        }
+      },
+      "img_alt": "Dr. Monika Kavková",
+      "p1": {
+        "title": "Abstract",
+        "content": "<p>Background: Lips are central to facial beauty and one of the earliest features to show age-related changes. Mature patients increasingly seek perioral rejuvenation that appears natural rather than transformative. Objective: To review age-related changes of the lips, psychological considerations in older patients, and outline a structured, anatomy-based approach for safe and harmonious treatment. Methods: This review synthesizes current literature and practical injection techniques, emphasizing layered correction, deep support restoration, and integration of minimally invasive tools.</p><p>Conclusion: Treating aging lips requires more than simple augmentation. Addressing structural support, correcting perioral lines, and integrating full-face balance are key to achieving subtle, age-appropriate, and lasting outcomes.</p>"
+      },
+      "p2": {
+        "title": "Keywords",
+        "content": "<p>Lip rejuvenation, perioral region, aging, hyaluronic acid, fillers, neuromodulators, anatomy-guided technique, facial harmony</p>"
+      },
+      "p3": {
+        "title": "Introduction",
+        "content": "<p>The lips and surrounding perioral structures are essential to facial expression, aesthetics, and identity. In women, they are closely associated with attractiveness, youth, and femininity. However, the lips are also among the first areas to show signs of aging. Older patients often express reluctance toward dramatic changes; they fear overfilling, distortion of natural features, and visible evidence of cosmetic intervention. They seek refinement rather than transformation — a fresher, softer, and authentic appearance.</p><p>To meet these expectations, clinicians must understand not only the anatomy and age-related changes of the lips, but also the psychological profile of mature patients and the principles of safe, layered rejuvenation.</p>"
+      },
+      "p4": {
+        "title": "Anatomical and Functional Changes of the Aging Lip",
+        "content": "<p>Soft Tissue and Skin Changes</p><ul><li>Loss of volume, shape, and definition.</li><li>Flattening of the vermilion border and fading of the Cupid’s bow.</li><li>Thinning of the red lip and elongation of the upper lip.</li></ul>"
+      },
+      "p5": {
+        "title": "Orbicularis Oris Muscle (OOM) Changes",
+        "content": "<p> With age, the orbicularis oris muscle becomes thinner and weaker, while surrounding connective tissue thickens. This imbalance between skin and muscle aging leads to vertical perioral rhytids, lip retrusion, and loss of structural support.</p>"
+      },
+      "p6": {
+        "title": "Skeletal Changes",
+        "content": "<p>Maxillary and mandibular bone resorption reduces the bony foundation, accelerating soft tissue collapse.</p>"
+      },
+      "p7": {
+        "title": "Patient Psychology and Expectations",
+        "content": "<p>Older patients rarely want «new lips.» They want familiar lips that look younger. They fear excessive lip volume, disproportionate results, and being visibly recognized as treated. They value subtle improvement, restored definition, and natural integration with the rest of the face. Therefore, consultation and expectation management are critical.</p>"
+      },
+      "p8": {
+        "title": "Principles of Lip and Perioral Rejuvenation in Mature Women",
+        "content": "<ol><li>Treat the face, not just the lips.</li><li>Correct deep support first.</li><li>Rebuild shape and definition before volume.</li><li>Address perioral lines conservatively.</li><li>Integrate neuromodulation when indicated</li></ol>"
+      },
+      "p9": {
+        "title": "Stepwise Technical Protocol",
+        "content": "<ol><li>Localize labial arteries.</li><li>Release adhesions using blunt cannula subcision.</li><li>Create a deep foundation layer beneath the OOM.</li><li>Restore vermilion and lip body with controlled HA filler injections.</li><li>Refine corners and wrinkles with soft filler in microboluses.</li><li>Support adjacent areas such as cheeks, NLF, marionette lines.</li><li>Add neuromodulators when indicated.</li></ol>"
+      },
+      "p10": {
+        "title": "Clinical Pearls",
+        "content": "<ul><li>Less is more — avoid excessive volume.</li><li>Treat in layers — from deep skeletal support to superficial skin.</li><li>Combine HA fillers, neuromodulators, and biostimulation.</li><li>Educate patients and explain realistic outcomes.</li><li>Avoid isolated corrections — lips must match facial context.</li></ul>"
+      },
+      "p11": {
+        "title": "Conclusion",
+        "content": "<p>Rejuvenating the lips and perioral region in mature women demands a conservative, anatomyguided, and psychologically sensitive approach. By rebuilding deep support, restoring natural definition, and refining surface wrinkles in a layered manner, clinicians can achieve subtle, harmonious, and long-lasting results. Modern techniques using HA fillers, neuromodulators, and full-face planning respect both facial proportions and the patient’s desire to look refreshed, not transformed.</p>"
+      },
+      "p12": {
+        "title": "References",
+        "content": "<ol><li>Swift A, Liew S, Weinkle S, Garcia JK, Silberberg MB. The Facial Aging Process From the “Inside Out.” Aesthetic Surg J. 2020 Dec 16.</li><li>Shaw RB Jr, Kahn DM. Aging of the midface bony elements: a three dimensional computed tomographic study. Plast Reconstr Surg. 2007.</li><li>Hiratsuka Dalmedo V. Lips and the perioral area: anatomical considerations for safer and natural results. PMFA Journal, Aug 2023.</li><li>Cotofana S, Pearce T. Practical anatomy for perioral injection techniques. 2022.</li></ol>"
+      }
+    },
+    "Prague_Eva_Osvaldova_2": {
+      "h1": "AI IN AESTHETIC PRACTICE: A NEW FRONTIER IN PATIENT CARE",
+      "abstract": "Generative AI is likely to impact all businesses across all industries.",
+      "author": "By Mgr. Eva Osvaldová",
+      "cta_text": "Discover Prague Lab Congress",
+      "tags": {
+        "t1": {
+          "title": "Aesthetic medicine"
+        },
+        "t2": {
+          "title": "Market Analysis"
+        },
+        "t3": {
+          "title": "Practice management"
+        }
+      },
+      "img_alt": "Mgr. Eva Osvaldová",
+      "p1": {
+        "title": "AI in Aesthetic Practice: A New Frontier in Patient Care",
+        "content": "<p> Artificial intelligence (AI) is no longer a distant sci-fi ideal, but an active, evolving force in medicine — and in aesthetic practice its influence is accelerating. From treatment planning to patient education to brand positioning, AI can reshape how practitioners engage with skin health, patients, and the digital ecosystem. Below, we explore AI’s role from multiple angles: the “machine’s perspective,” patient skin analysis, social media and influence, and broader considerations.</p>"
+      },
+      "p2": {
+        "title": "Machines’ Perspective: How AI Sees (and “Thinks” About) Skin",
+        "content": "<p> From a machine’s vantage point, skin and aesthetics present a rich domain of structured and semi-structured data: images, numerical metrics (e.g. hydration, melanin index), patient metadata (age, history), and response curves over time. AI can ingest and integrate all of this, and “learn” patterns that even expert humans may not consciously see.</p>"
+      },
+      "p3": {
+        "title": "Algorithms, Models, and Workflows",
+        "content": "<ul><li>Most AI in dermatology uses convolutional neural networks (CNNs) or hybrid architectures combining CNNs + transformer layers to detect, segment, classify, or predict skin features (e.g. wrinkles, lesions, pigmentation). SpringerLink+1</li><li>More recent work aims to unify visual and textual modalities: for example, SkinGPT 4 uses a visual large language model to interpret skin images and generate recommendations in natural language. arXiv</li><li>In teledermatology tools (e.g. Dermacen Analytica), multimodal models fuse dermoscopic image features, patient history, and textual reasoning to mimic a dermatologist’s workflow. arXiv</li><li>AI is also being used not just for diagnosis but for severity assessment: a meta analysis showed image based AI models correctly classify severity in skin diseases ~81 % of the time (and up to ~96 % in some cases) depending on the disease and standard used. OUP Academic</li></ul>"
+      },
+      "p4": {
+        "title": "Capabilities and Strengths",
+        "content": "<p>From the machine’s side, these capabilities emerge:</p><ul><li>Scalability & consistency: once trained, AI can process thousands of images without fatigue, applying the same criteria.</li><li>Pattern detection beyond human eye: AI can detect subtle texture, color gradients, or microfeatures not easily seen by humans.</li><li>Longitudinal change detection: by comparing baseline and follow up images, the system can quantify change (e.g. “this wrinkle deepened by 0.2 mm, pigmentation shifted by X units”).</li><li>Predictive modeling: given input variables, AI can forecast likely outcomes (e.g. risk of hyperpigmentation, how skin will age under certain regimens).</li><li>Optimization and personalization: AI can help optimize treatment parameters — intensity, frequency, combinations — by simulating outcomes or learning from outcomes in many patients.</li></ul>"
+      },
+      "p5": {
+        "title": "Limitations, Biases, and Safeguards",
+        "content": "<p>However, from the machine’s viewpoint, there are important caveats:</p><ul><li>Dataset bias and generalizability: many AI models suffer performance drops when dealing with underrepresented skin tones or rare conditions. For example, one study showed that state of the art dermatology AI models’ ROC AUC dropped 29–40 % when tested on a dataset of diverse skin tones compared to original test sets. arXiv</li><li>Lack of external validation: many AI tools show strong performance on internal or curated datasets but fail when deployed in real clinical settings or across geographies. Lippincott+1</li><li>“Black box” explainability and trust: clinicians may hesitate to adopt AI whose decision logic is opaque. Developing explainable AI (XAI) is an active research area.</li><li>Overfitting & drift: AI models may overfit to training data or degrade over time (data drift). Regular retraining and monitoring are required.</li><li>Regulation, liability, and safety: if an AI misdiagnoses a lesion, who is responsible? Regulatory frameworks are lagging behind development.</li></ul><p>In sum, from the machine’s vantage AI offers powerful pattern recognition, prediction, and consistency — but it must be deployed intelligently, with vigilance and human oversight.</p>"
+      },
+      "p6": {
+        "title": "The Hybrid Future",
+        "content": "<p>The likely paradigm is hybrid intelligence — humans + AI — rather than AI replacing clinicians. The AI provides insights, flags anomalies, quantifies changes; the clinician applies judgment, empathy, and nuance. In aesthetics, where patient perception, psychology, and individual preferences matter profoundly, AI is unlikely to replace the human touch—but it can sharpen precision, scalability, and personalization.</p>"
+      }
+    },
+    "Prague_Eva_Osvaldova": {
+      "h1": "TECHNOLOGIES TO WATCH IN AESTHETIC MEDICINE",
+      "abstract": "Generative AI is likely to impact all businesses across all industries.",
+      "author": "By Mgr. Eva Osvaldová",
+      "cta_text": "Discover Prague Lab Congress",
+      "tags": {
+        "t1": {
+          "title": "Aesthetic medicine"
+        },
+        "t2": {
+          "title": "Market Analysis"
+        },
+        "t3": {
+          "title": "Practice management"
+        }
+      },
+      "img_alt": "Mgr. Eva Osvaldová",
+      "p1": {
+        "title": "Introduction",
+        "content": "<p>Aesthetic medicine is entering a new phase — one where innovation is not only advancing outcomes but fundamentally changing how we define beauty, wellness, and patient care. The following five technology-driven fields are setting the pace for the future of the industry — from diagnostics and treatment planning to longevity and real-time health tracking.</p>"
+      },
+      "p2": {
+        "title": " 1. Artificial Intelligence (AI): Precision & Personalization",
+        "content": "<p> AI is revolutionizing how clinicians plan and deliver aesthetic treatments. Advanced facial analysis software can detect asymmetry, track aging markers, and generate hyper-personalized treatment plans based on thousands of data points. Predictive analytics are also assisting practitioners in forecasting treatment outcomes and minimizing risk, making AI a cornerstone of next-generation aesthetic protocols.</p>"
+      },
+      "p3": {
+        "title": "2. Remote Diagnosis & Teleaesthetics: Expanding Access",
+        "content": "<p>Telemedicine continues to reshape aesthetic practice, offering powerful tools for remote consultations, follow-up care, and patient education. With AIintegrated imaging platforms and high-resolution skin scanning apps, physicians can conduct accurate assessments from a distance, enhancing global accessibility and supporting continuity of care between in-person sessions. </p>"
+      },
+      "p4": {
+        "title": "3. Biohacking & Regenerative Aesthetics: A Longevity-Oriented Shift",
+        "content": "<p> Biohacking and regenerative medicine are pushing the boundaries of aesthetic medicine beyond appearance — toward true cellular rejuvenation and biological optimization. Treatments such as peptide therapy, NAD+, IV nutrient protocols, and exosome-based regeneration are supporting skin health from within, aligning with the growing demand for longevityfocused aesthetic solutions that work preventatively over time.</p>"
+      },
+      "p5": {
+        "title": "4. Emergency Protocols & Real-Time Monitoring: Enhancing Safety",
+        "content": "<p> As techniques evolve, patient safety remains non negotiable. Portable ultrasound devices, vascular  mapping software, and soon, smart injectables are  helping clinicians avoid high-risk zones and visualize  tissue in real time. In parallel, digital emergency  protocols — accessible via apps and team simulations  — are empowering clinics to respond swiftly to  complications, elevating safety standards  across the field.</p>"
+      },
+      "p6": {
+        "title": " 5. Wearable Health Tech: 24/7 Data for Personalized Aesthetic Planning",
+        "content": "<p>A new frontier in personalized medicine is emerging through wearable biometric devices like WHOOP, Oura Ring, Apple Watch, and continuous glucose or HRV monitors. These tools deliver around-the-clock insights into a patient’s sleep quality, stress levels, recovery, inflammation, heart rate variability, and metabolic performance.</p><p>In an aesthetic context, this data offers enormous value. Practitioners can better understand a patient’s physiological state before procedures, optimize treatment timing, and monitor recovery patterns post-intervention. Over time, this leads to more precise, adaptive, and individualized aesthetic care, grounded in real metrics — not assumptions.</p><p>As these devices continue to evolve, their integration into clinical protocols will become an essential element of preventative and longevity-based aesthetic strategies.</p>"
+      },
+      "p7": {
+        "title": "Conclusion",
+        "content": "<p> The aesthetic medicine of the future is not simply more advanced — it’s more intelligent, connected, and integrative. From AI and teleaesthetics to wearables and regenerative therapies, we are entering a new paradigm — one where science, data, and design converge to support not only how people look, but how they age, feel, and function. Practitioners who embrace these tools will lead the way in redefining what it means to thrive — beautifully and holistically.</p>"
+      }
+    },
+    "Prague_Jean_Yves_Coste": {
+      "h1": "DATA DRIVEN INSIGHTS",
+      "abstract": "Generative AI is likely to impact all businesses across all industries.",
+      "author": "By Mr. Jean-Yves COSTE",
+      "cta_text": "Discover WINDOME BANKING PARTNERS",
+      "tags": {
+        "t1": {
+          "title": "Aesthetic medicine"
+        },
+        "t2": {
+          "title": "Market Analysis"
+        },
+        "t3": {
+          "title": "Practice management"
+        }
+      },
+      "img_alt": "Mr. Jean-Yves COSTE",
+      "p1": {
+        "title": "Overarching sustainable catalysts",
+        "content": "<p>Medical Aesthetics are driven by sustainable, recession proof fundamental catalysts such as ageing demographics, urbanization and trend to ever younger onboarding of patients (prejuvenation trend). Aesthetics is no longer a vanity play: looking good is considered a basic human right by the upcoming generation, Gens Y and Z aspiring to self-transcendence and instant gratification, and the active senior, who also strive to ever increasing beauty standards. Aesthetics have democratized themselves as a status symbol in emerging markets, addictive and recurrent character of procedures once a certain regularity in the treatment protocol has been reached.</p><p>There is an explosion of versatility and creativity in combined offer with a proliferation of the number of medical aesthetics clinics and those providing holistic bundled procedures, or specializing themselves (hair and tatoo removal, hair regrowth, urogynaecological, aesthetic dentistry, wellness and longevity, anti-inflammageing and wellbeing).</p><p>Digitalization is also a major accelerator: connectivity to social networks and ubiquitous digitalization accelerate the uberization of an Instagrammable beauty. A hyper informed aesthetic consumer is prepared and no longer scared, more discerning than ever before. Intensification of telemedicine, telediagnostic, and telesurgery, as well as digital post-op monitoring, continues to grow. AI- and GenAI-augmented innovation is a key determinant of constant reinvention, empowered by the faster adoption of game-changing, disruptive technologies enabling painless procedures with a faster onset of action and no downtime — and by the advent of a new generation of HCPs.</p><p>Increased sophistication in safety, quality and efficiency requirements by HCPs and patients alike. Triumph of natural beauty in facial treatments without overcorrections, facial resurfacing, rhinoplasty, blepharoplasty, reshaping of the face, rejuvenation of the smile for women, masculinization of the face for millennials, hair restoration, prejuvenation and lunchtime procedures like mesotherapy and microneedling gain traction in Europe, China and MENA.</p><p>The gravitational pull of generative AI, the metaverse, machine learning and deep learning impacts aesthetics and the skincare vertical (dermatology, dermocosmetics, skincare) is the vanguard of new developments in medical beauty.</p><p>Body reshaping and tightening vulvovaginal treatments are gaining ground. Body sculpting treatments benefit from the trend of a “one-stop-shop holistic treatment” inviting patients to engage in immersive, pleasurable and gamified experiential journeys by combining energy based devices, picosecond laser or RF Microneedling with dermal fillers or post-op dermocosmetics and retargeting them with follow-up adjacent treatments, gifts on referrals, subscription systems and Buy Now Pay Later (BNPL scheme).</p>"
+      },
+      "p2": {
+        "title": "Resulting Developments",
+        "content": "<p>Global Medical Aesthetics Manufacturers’ revenues reached US$ 22.7bn in 2024 including Dermal Fillers based on HA and other biopolymers and skinboosters, such as PLLA, PDLA, PCL, CMC, CaHA, DMAE, as well as CaHA, Toxins, Regenerative Fillers and EBDs and are expected to reach US$ 31.3bn by 2029, eg.: a Compounded Annual Growth Rate of +7%, (Source BCG and GlobalData).</p><p>The segments of the dermal fillers, skin boosters, toxins and dermal fillers enjoy an even more sustainable dynamic with a CAGR of 11% over the period (2023 2033), (Sources: Spherical Insights, Mordor Intelligence and GlobalData.)</p>"
+      },
+      "p3": {
+        "title": "Market Breakdown by Regions",
+        "content": "<p>2023 has witnessed the emergence of biostimulators amplified in 2024 as a new category with a shift from HA-based crosslinked dermal fillers to bioactive treatments and tissular inductors with more subtle natural effects mimicking subtle natural healing while offering no-downtime, painless, and longer lasting effects by boosting tissue synthesis. The movement is led by skin boosters and innovative biostimulators or semi-permanent fillers based on PLLA, PDLA, PCL, CMC, CaHA, DMAE, as well as CaHA.</p><p>Expected to expand as a key entry product for considerers and first gateway into the aesthetics ecosystem for Millennials and GenZ pursuing a “prejuvenation trend” and capitalizing on a certain level of fillers’ fatigue.</p><p>The market for high-density dermal fillers used for lifting, redensification and retightening is fueled by the hype for GLP-1 agonist prescriptions (eg.: Ozempic, Wegowy) of the oral version Rybelsus (semaglutide). GLP-1 Agonists leading to “Ozempic prevention” or “Ozempic Face” treatments to correct or prevent lipodystrophies, deep wrinkles and muscle dislocation induced by such weight-loss treatments. Facial and body aesthetics are intertwined in a win win relationships: obese patients engage into GLP-1 treatments knowing that the effects can be corrected by parallel aesthetic treatments. As a result, 70% of Medical Aesthetics clinics in the US prescribe GLP 1 agonists, 43% in the UK and 32% in China (2024 BCG Medical Aesthetics Survey conducted over 4000 respondents).</p><p>Combination treatments associating dermal fillers, skin boosters or physician-dispensed skincare with such EBDs as minimally ablative lasers, Radiofrequency and Microneedling Devices, as well as HIFU or plasma-based and electrophoresis enable clinicians to leverage complementary synergies and foster a targeted delivery of skin regeneration fillers and growth factors or tissular inductors.</p>"
+      },
+      "p4": {
+        "title": "North America",
+        "content": "<p>In 2024, the market reached $7.2bn (35% value, 19% volume), growing at 10% CAGR (2023–2033). 6.4m units (1ml eq.) sold, with 8.2m procedures, the world’s highest. Focus is on youthful, healthy looks, skin quality, and fitness, with strong emphasis on medical dedication and social media presence.</p>"
+      },
+      "p5": {
+        "title": "Latin America",
+        "content": "<p>Valued at $1.1bn (4.9%) in 2024, with 9.6% CAGR. 3.5m units sold. A fast-adopting market for new regeneration and hair-growth solutions, driven by exosomes, microbiota, stem cells, and combined with EBD modalities.</p>"
+      },
+      "p6": {
+        "title": "Middle East & Africa (MEA)",
+        "content": "<p> At $0.4bn (1.9%) in 2024, with 7.2% CAGR and 0.9m units sold. Strong growth driven by high disposable income and openness to visible procedures (facial masculinization, lip densification, fuller cheeks, blepharoplasty, thread lifts).</p>"
+      },
+      "p7": {
+        "title": "Europe",
+        "content": "<p> Valued at $5.2bn (24% value, 18% volume) in 2024, with 9.3% CAGR. 4.5m units sold. Consumers favor natural, subtle rejuvenation and minimally invasive, holistic approaches (longevity clinics, cell reprogramming, microbiota, hormones). Social media plays a growing role, while doctor advertising remains banned in most countries.</p>"
+      },
+      "p8": {
+        "title": "Asia-Pacific (APAC)",
+        "content": "<p> Global leader with $7.7bn (36%) in 2024, rising at 11.1% CAGR. 20m units sold, including 4m procedures in China. Consumers (notably in India, China, Far East) aspire to timeless beauty through integrative facial rejuvenation, body–mind balance, biohacking, microbiota, and targeted treatments (blepharoplasty, rhinoplasty, skin brightening).</p>"
+      },
+      "p9": {
+        "title": "Global",
+        "content": "<p> Overall growth remains strong, especially in emerging markets, fueled by biostimulators and GLP-1 companion treatments. However, consumer confidence and investments are hindered by market volatility, trade policy uncertainties, and tariff shifts.</p>"
+      }
+    },
     "Jean_Jacques_Deutsch_2": {
       "h1": "THE HISTORY OF AESTHETIC MEDICINE",
       "abstract": "THE HISTORY OF AESTHETIC MEDICINE",
