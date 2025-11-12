@@ -78,7 +78,7 @@ export async function generateMetadata({ params }: Params) {
   }
 }
 
-export default function MediaKitEnglish() {
+export default function MediaKitFrench() {
   return (
     <FullPageScroll>
       {/* 1 */}
@@ -100,9 +100,9 @@ export default function MediaKitEnglish() {
           <div className="space-y-8 lg:space-y-12 text-white text-center">
             <div className="space-y-6">
               <h1 className="text-lg lg:text-2xl">
-                Premium ecosystem for the aesthetics industry leaders
+                Un ecosystème premium pour les leaders de l’industrie
               </h1>
-              <Image src={uk} alt="UK" className="w-10 mx-auto" />
+              <Image src={fr} alt="UK" className="w-10 mx-auto" />
             </div>
             <p className="text-base opacity-80">By HEALTHCIE</p>
           </div>
@@ -111,35 +111,38 @@ export default function MediaKitEnglish() {
       {/* 2 */}
       <section className="min-h-screen relative grid lg:pl-32">
         <h3 className="text-orange font-bold text-2xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
-          PREAMBLE
+          PREAMBULE
         </h3>
         <div className="myContainer my-auto space-y-8 lg:space-y-16">
           <div className="space-y-4">
             <p className="text-base lg:text-lg flex">
               <span className="text-[64px] lg:text-[150px] leading-[0.8em]">
-                F
+                S
               </span>
               <span>
-                ollowing the success of the first edition, we are thrilled to
-                present the second edition of (H)ERITAGE Magazine, your
-                essential read in the dynamic world of aesthetic medicine.
+                uite au succès de la première édition, nous sommes ravis de vous
+                dévoiler la seconde édition d’(H)ERITAGE Magazine, votre nouveau
+                rendez vous incontournabl dans l’univers vibrant de la médecine
+                esthétique. Ce magazine annuel a pour objectif de mettre en
+                avant les innovations les plus récentes en matière de produits
+                et de technologies dans le secteur de l’esthétique.
                 <br />
                 <br />
-                This annual publication aims to showcase the latest innovations
-                in products and technologies within the aesthetic sector. Why
-                (H)ERITAGE? Because we believe that the history of aesthetic
-                surgery and medicine provides the strong foundations upon which
-                we build both the present and the future.
+                Pourquoi (H)ERITAGE ? Parce que nous croyons que le passé de la
+                chirurgie et de la médecine esthétique forme les fondations
+                solides sur lesquelles nous bâtissons le présent et l’avenir. En
+                nous appuyant sur les valeurs de la médecine, nous aspirons à
+                sublimer l’avenir de la profession, en alliant tradition et
+                innovation.
               </span>
             </p>
             <p className="text-base lg:text-lg">
-              By embracing the core values of medicine, we seek to elevate the
-              future of the profession by blending tradition with innovation.
-              (H)ERITAGE Magazine is designed primarily for surgeons, doctors,
-              and key industry stakeholders, including laboratories and medical
-              device manufacturers. (H)ERITAGE is a unique print and digital
-              platform where cutting-edge ideas, best practices, and remarkable
-              success stories are shared and celebrated.
+              (H)ERITAGE Magazine s’adresse principalement aux chirurgiens, aux
+              médecins et aux acteurs clés de l’industrie, notamment les
+              laboratoires et les fabricants de dispositifs médicaux. Nous
+              voulons créer une plateforme unique, print et digitale, où les
+              idées innovantes, les meilleures pratiques et les succès les plus
+              marquants se rencontrent et se célèbrent.
             </p>
           </div>
 
@@ -155,21 +158,25 @@ export default function MediaKitEnglish() {
             <div className="lg:col-span-6 lg:h-full lg:flex lg:flex-col lg:justify-between max-lg:space-y-8">
               <div className="space-y-4">
                 <p>
-                  In this venture, we shine a spotlight on the projects of our
-                  most iconic partners, as their stories deserve to be shared
-                  and their achievements should be recognized.
+                  Dans cette aventure, nous mettons en lumière les projets de
+                  nos partenaires les plus emblématiques car leurs histoires
+                  méritent d’être partagées et leurs réalisations doivent être
+                  reconnues.
                 </p>
+
                 <p>
-                  We hope that this publication will become a source of
-                  inspiration for our entire community and strengthen the
-                  connections between the various players in the aesthetic
-                  sector. Thank you all for your interest and continued support.
+                  Nous espérons que cette publication deviendra une source
+                  d’inspiration pour toute notre communauté et qu’elle
+                  renforcera les liens entre les différents acteurs du secteur
+                  de l’esthétique.
                 </p>
+
+                <p>Merci à tous pour votre intérêt et votre soutien continu.</p>
               </div>
 
               <div>
                 <h4 className="text-lg">Julien Vervel</h4>
-                <p>Publishing Director</p>
+                <p>Directeur de la rédaction</p>
               </div>
             </div>
           </div>
@@ -178,7 +185,7 @@ export default function MediaKitEnglish() {
       {/* 3 */}
       <section className="lg:min-h-screen relative lg:grid lg:px-32 bg-slate-50">
         <h3 className="text-orange font-bold text-2xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
-          EDITORIAL
+          REDACTION
         </h3>
         <div className="max-lg:hidden absolute right-0 top-0 w-[300px] h-full">
           <Image
@@ -192,34 +199,32 @@ export default function MediaKitEnglish() {
           <div className="space-y-12 col-span-1">
             <div>
               <h4 className="font-semibold text-base lg:text-lg">
-                PUBLISHING DIRECTOR{" "}
+                DIRECTEUR DE RÉDACTION
               </h4>
               <p>JULIEN VERVEL</p>
             </div>
             <div>
               <h4 className="font-semibold text-base lg:text-lg">
-                EDITOR-IN-CHEF
+                RÉDACTEUR EN CHEF
               </h4>
               <p>HUGO NIVAULT</p>
             </div>
 
             <div>
-              <h4 className="font-semibold text-base lg:text-lg">
-                TRANSLATION
-              </h4>
+              <h4 className="font-semibold text-base lg:text-lg">TRADUCTION</h4>
               <p>HUGO NIVAULT</p>
             </div>
 
             <div>
               <h4 className="font-semibold text-base lg:text-lg">
-                PHOTOGRAPHY
+                PHOTOGRAPHIE
               </h4>
               <p>JOACHIM BLANQUART</p>
             </div>
 
             <div>
               <h4 className="font-semibold text-base lg:text-lg">
-                ART DIRECTION
+                DIRECTION ARTISTIQUE
               </h4>
               <p>VINCENT MOTTAY</p>
             </div>
@@ -227,27 +232,28 @@ export default function MediaKitEnglish() {
 
           <div className="space-y-12 col-span-1">
             <div>
-              <h4 className="font-semibold text-base lg:text-lg">WEBSITE</h4>
+              <h4 className="font-semibold text-base lg:text-lg">
+                {" "}
+                SITE INTERNET
+              </h4>
               <p> MAGAZINE-HERITAGE.COM</p>
             </div>
             <div>
               <h4 className="font-semibold text-base lg:text-lg">
-                {" "}
-                SOCIAL MEDIA
+                RÉSEAUX SOCIAUX
               </h4>
               <p>@MAGAZINE_HERITAGE - INSTAGRAM</p>
               <p>HERITAGE MAGAZINE - LINKEDIN</p>
             </div>
 
             <div>
-              <h4 className="font-semibold text-base lg:text-lg">PRINT</h4>
+              <h4 className="font-semibold text-base lg:text-lg">IMPRESSION</h4>
               <p>SODAL</p>
             </div>
 
             <div>
               <h4 className="font-semibold text-base lg:text-lg">
-                {" "}
-                COVER AND BACK COVER
+                COUVERTURE ET 4EME DE COUVERTURE
               </h4>
               <p>MATHILDE PIVIDAL</p>
             </div>
@@ -272,23 +278,24 @@ export default function MediaKitEnglish() {
           <div className="lg:col-span-3 myContainer text-white size-full">
             <div className="lg:pt-[100px] space-y-4">
               <p>
-                (H)ERITAGE offers a premium print platform to promote your
-                products and services to French and international aesthetic
-                surgeons, doctors, and dermatologists.
+                (H)ERITAGE offre un support print pour promouvoir vos produits
+                et services auprès des chirurgiens et des médecins français et
+                internationaux.
               </p>
-
               <p>
-                Our elegantly designed print edition embodies the prestige and
-                expertise of the industry. Its exclusive content explores the
-                latest trends, innovations, and best practices in the sector,
-                providing direct visibility for your brand among industry
-                leaders.
+                Notre version imprimée, au design raffiné, incarne le prestige
+                et l’expertise de l’industrie.
               </p>
-
               <p>
-                Don’t miss the opportunity to join our community and demonstrate
-                your commitment to innovation and the advancement of medical
-                practices.
+                Son contenu exclusif explore les dernières tendances,
+                innovations et meilleures pratiques de l’industrie, offrant une
+                visibilité directe à votre marque auprès des professionnels de
+                santé.
+              </p>
+              <p>
+                Ne manquez pas l’opportunité de rejoindre notre communauté et
+                ainsi témoigner de votre engagement envers l’innovation et
+                l’avancement des pratiques médicales.
               </p>
 
               <div className="flex justify-center gap-4 lg:pt-24">
@@ -310,11 +317,10 @@ export default function MediaKitEnglish() {
                 <span className="text-orange">Dimensions :</span> 210mm x 275mm
               </p>
               <p>
-                <span className="text-orange">Number of pages :</span> 80 + 4
+                <span className="text-orange">Nombre de pages :</span> 80 + 4
               </p>
               <p>
-                <span className="text-orange">Realease date :</span> November
-                2025
+                <span className="text-orange">Date butoir :</span> Mai 2025
               </p>
             </div>
           </div>
@@ -337,23 +343,21 @@ export default function MediaKitEnglish() {
         <div className="lg:grid lg:grid-cols-7 size-full">
           <div className="lg:col-span-3 myContainer text-white space-y-4 size-full flex flex-col justify-end">
             <p>
-              We offer a dual platform – print and digital allowing brands to
-              communicate effectively with a specialised and discerning
-              audience.
+              Nous offrons une plateforme double – print et digitale –
+              permettant aux marques de communiquer efficacement auprès d’une
+              audience spécialisée et exigeante. Notre version digitale ouvre un
+              canal interactif et moderne, accessible à tout moment.
             </p>
-
             <p>
-              Our digital edition opens an interactive and modern channel,
-              accessible at any time. Whether you are showcasing your latest
-              innovations in medical devices or highlighting your flagship
-              products, (H)ERITAGE is the ideal place to connect with surgeons,
-              doctors, and dermatologists seeking new solutions to optimise
-              their practices.
+              Que ce soit pour présenter vos dernières innovations en matière de
+              dispositifs médicaux, ou valoriser vos produits phares, (H)ERITAGE
+              est le lieu idéal pour vous connecter avec des chirurgiens,
+              médecins et dermatologues qui sont à la recherche de nouvelles
+              solutions pour optimiser leurs pratiques.
             </p>
-
             <p>
-              Being part of (H)ERITAGE Magazine ensures lasting visibility in a
-              competitive and constantly evolving sector.
+              Faire partie d’(H)ERITAGE Magazine, c’est s’assurer une visibilité
+              pérenne dans un secteur compétitif et en constante évolution.
             </p>
           </div>
           <div className="col-span-4 relative grid h-[350px] lg:h-full">
@@ -373,9 +377,9 @@ export default function MediaKitEnglish() {
         </h3>
         <div className="myContainer w-full space-y-8 lg:space-y-12">
           <div className="space-y-2 text-center">
-            <h2 className="text-xl font-semibold"> DISTRIBUTION NETWORK</h2>
+            <h2 className="text-xl font-semibold">RÉSEAU DE DISTRIBUTION</h2>
             <h3 className="text-lg font-semibold text-orange">
-              Our distribution network is constantly evolving
+              Notre réseau de distribution évolue en permanence
             </h3>
           </div>
 
@@ -417,10 +421,11 @@ export default function MediaKitEnglish() {
 
           <div className="space-y-2 text-center">
             <h2 className="text-xl font-semibold">
-              MEDICAL DEVICE COMPANIES PARTNERS OF THE FIRST EDITION{" "}
+              ENTREPRISES DE DISPOSITIFS MÉDICAUX PARTENAIRES DE LA PREMIÈRE
+              ÉDITION
             </h2>
             <h3 className="text-lg font-semibold text-orange">
-              Our partner network is constantly evolving
+              Notre réseau de partenaires évolue en permanence
             </h3>
           </div>
 
@@ -485,65 +490,60 @@ export default function MediaKitEnglish() {
           <h2 className="text-xl font-semibold text-center">Pack (H)ERITAGE</h2>
           <div className="space-y-4">
             <p>
-              For medical device companies and manufacturers, we offer the
-              (H)ERITAGE package, which includes:
+              Pour les laboratoires et les fabricants de dispositifs médicaux,
+              nous proposons le pack (H)ERITAGE comprennant :
             </p>
             <ul className="ml-4 list-disc text-lg space-y-2">
-              <li>A two double-page interview with 2 photo inserts (EN-FR)</li>
-              <li>1 full-page advert in the next edition </li>
               <li>
-                The full article optimised for SEO on the digital platform +
-                backlink
+                1 interview de deux doubles-pages avec 2 encarts photos (FR-EN)
+              </li>
+              <li>1 page de publicité dans la prochaine édition</li>
+              <li>
+                backlink (lien « entrant » depuis notre site vers le vôtre)
+              </li>
+              <li>
+                publication de votre article résumé dans notre newsletter (11
+                000 médecins)
               </li>
             </ul>
             <div className="gap-2 w-full grid grid-cols-[auto,1fr,auto] items-center !mt-12">
-              <p>(H)ERITAGE Package Price</p>
+              <p>Prix du pack (H)ERITAGE</p>
               <div className="border-t-[1px] border-mainBlue/70"></div>
-              <p>4000 EUROS excl. tax.</p>
+              <p>4000 EUROS HT</p>
             </div>
           </div>
 
           <h2 className="text-xl font-semibold text-center">
-            (H)ERITAGE Package Options
+            Options du Pack (H)ERITAGE
           </h2>
           <div className="space-y-4">
             <ul className="ml-4 list-disc text-lg space-y-2">
               <li>
                 <div className="gap-2 w-full grid grid-cols-[auto,1fr,auto] items-center">
-                  <p>Banner advertisement (website header)</p>
+                  <p>Bannière publicitaire (en-tête du site web)</p>
                   <div className="border-t-[1px] border-mainBlue/70"></div>
-                  <p>1000 EUROS per month excl. tax. </p>
+                  <p>1000 EUROS HT</p>
                 </div>
               </li>
               <li>
                 <div className="gap-2 w-full grid grid-cols-[auto,1fr,auto] items-center">
-                  <p>3 crossposts + 3 Instagram stories</p>
+                  <p>3 crossposts + 3 stories Instagram</p>
                   <div className="border-t-[1px] border-mainBlue/70"></div>
-                  <p>500 EUROS excl. tax.</p>
+                  <p>500 EUROS HT</p>
                 </div>
               </li>
               <li>
                 <div className="gap-2 w-full grid grid-cols-[auto,1fr,auto] items-center">
-                  <p>100 copies (delivry within France)</p>
+                  <p>100 exemplaires (livraison en France)</p>
                   <div className="border-t-[1px] border-mainBlue/70"></div>
-                  <p>1200 EUROS excl. tax.</p>
+                  <p>1200 EUROS HT</p>
                 </div>
               </li>
               <li>
                 <div className="gap-2 w-full grid grid-cols-[auto,1fr,auto] items-center">
-                  <p>100 copies (delivry in your country)</p>
+                  <p>100 exemplaires (livraison dans votre pays)</p>
                   <div className="border-t-[1px] border-mainBlue/70"></div>
-                  <p>UPON REQUEST</p>
-                </div>
-              </li>
-              <li>
-                <div className="gap-2 w-full grid grid-cols-[auto,1fr,auto] items-center">
-                  <p>
-                    Publication of the (H)ERITAGE pack in the French version of
-                    the magazine.
-                  </p>
-                  <div className="border-t-[1px] border-mainBlue/70"></div>
-                  <p> 1000 EUROS excl. tax.</p>
+                  <p>SUR DEMANDE</p>
                 </div>
               </li>
             </ul>
@@ -553,12 +553,12 @@ export default function MediaKitEnglish() {
       {/* 11 */}
       <section className="lg:min-h-screen relative lg:px-32 lg:grid bg-white">
         <h3 className="text-orange font-bold text-2xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
-          EXAMPLES
+          EXEMPLES
         </h3>
         <div className="myContainer w-full lg:w-[90%] mx-auto space-y-8 lg:space-y-20 lg:mb-0">
           <ul className="list-disc space-y-8 lg:space-y-12 ml-4">
             <li className="space-y-4">
-              <span>A two double-page interview</span>
+              <span>Une interview de deux doubles pages</span>
               <Image
                 src={example1}
                 alt="Double page interview"
@@ -568,8 +568,8 @@ export default function MediaKitEnglish() {
             </li>
             <li className="space-y-4">
               <span>
-                The full article optimised for SEO on the digital platform +
-                backlink
+                L’article complet optimisé pour le référencement sur la
+                plateforme numérique + backlink
               </span>
               <Image
                 src={example2}
@@ -584,65 +584,62 @@ export default function MediaKitEnglish() {
       {/* 12 */}
       <section className="lg:min-h-screen relative lg:px-32 lg:grid bg-slate-50">
         <h3 className="text-orange font-bold text-2xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
-          AD RATES
+          TARIFS PUB
         </h3>
         <div className="myContainer w-full lg:w-[80%] mx-auto space-y-8 lg:space-y-20">
-          <h2 className="text-xl font-semibold text-center">Advertising</h2>
+          <h2 className="text-xl font-semibold text-center">Publicité</h2>
           <div className="space-y-4">
             <ul className="space-y-6">
               <li>
                 <div className="gap-2 w-full grid grid-cols-[auto,1fr,auto] items-center">
-                  <p className="text-lg lg:text-xl">STANDARD AD</p>
+                  <p className="text-lg lg:text-xl"> PUB STANDART</p>
                   <div className="border-t-[1px] border-mainBlue/70"></div>
-                  <p className="text-lg lg:text-xl"> 2000 EUROS excl. tax.</p>
+                  <p className="text-lg lg:text-xl"> 2000 EUROS HT</p>
                 </div>
               </li>
               <li>
                 <div className="gap-2 w-full grid grid-cols-[auto,1fr,auto] items-center">
-                  <p className="text-lg lg:text-xl"> PRE-SUMMARY</p>
+                  <p className="text-lg lg:text-xl"> PRE-SOMMAIRE</p>
                   <div className="border-t-[1px] border-mainBlue/70"></div>
-                  <p className="text-lg lg:text-xl">2500 EUROS excl. tax.</p>
-                </div>
-              </li>
-              <li>
-                <div className="gap-2 w-full grid grid-cols-[auto,1fr,auto] items-center">
-                  <p className="text-lg lg:text-xl">
-                    CENTRAL DOUBLE-PAGE ADVERTISEMENT
-                    <br />
-                    (limited to 1 per edition)
-                  </p>
-                  <div className="border-t-[1px] border-mainBlue/70"></div>
-                  <p className="text-lg lg:text-xl">5000 EUROS excl. tax.</p>
+                  <p className="text-lg lg:text-xl">2500 EUROS HT</p>
                 </div>
               </li>
               <li>
                 <div className="gap-2 w-full grid grid-cols-[auto,1fr,auto] items-center">
                   <p className="text-lg lg:text-xl">
-                    DOUBLE-PAGE ADVERTISEMENT
+                    PUBLICITÉ DOUBLE PAGE CENTRALE <br />
+                    (limitée à 1 par édition)
                   </p>
                   <div className="border-t-[1px] border-mainBlue/70"></div>
-                  <p className="text-lg lg:text-xl">4000 EUROS excl. tax.</p>
+                  <p className="text-lg lg:text-xl">5000 EUROS HT</p>
                 </div>
               </li>
               <li>
                 <div className="gap-2 w-full grid grid-cols-[auto,1fr,auto] items-center">
-                  <p className="text-lg lg:text-xl">SECOND COVER</p>
+                  <p className="text-lg lg:text-xl">DOUBLE PAGE DE PUBLICITÉ</p>
                   <div className="border-t-[1px] border-mainBlue/70"></div>
-                  <p className="text-lg lg:text-xl">3500 EUROS excl. tax.</p>
+                  <p className="text-lg lg:text-xl">4000 EUROS HT</p>
                 </div>
               </li>
               <li>
                 <div className="gap-2 w-full grid grid-cols-[auto,1fr,auto] items-center">
-                  <p className="text-lg lg:text-xl">THIRD COVER</p>
+                  <p className="text-lg lg:text-xl">DEUXIÈME COUVERTURE</p>
                   <div className="border-t-[1px] border-mainBlue/70"></div>
-                  <p className="text-lg lg:text-xl">3000 EUROS excl. tax.</p>
+                  <p className="text-lg lg:text-xl">3500 EUROS HT</p>
                 </div>
               </li>
               <li>
                 <div className="gap-2 w-full grid grid-cols-[auto,1fr,auto] items-center">
-                  <p className="text-lg lg:text-xl">BACK COVER</p>
+                  <p className="text-lg lg:text-xl">TROISIÈME COUVERTURE</p>
                   <div className="border-t-[1px] border-mainBlue/70"></div>
-                  <p className="text-lg lg:text-xl">4500 EUROS excl. tax.</p>
+                  <p className="text-lg lg:text-xl">3000 EUROS HT</p>
+                </div>
+              </li>
+              <li>
+                <div className="gap-2 w-full grid grid-cols-[auto,1fr,auto] items-center">
+                  <p className="text-lg lg:text-xl">QUATRIÈME DE COUVERTURE</p>
+                  <div className="border-t-[1px] border-mainBlue/70"></div>
+                  <p className="text-lg lg:text-xl">4500 EUROS HT</p>
                 </div>
               </li>
             </ul>
@@ -652,9 +649,9 @@ export default function MediaKitEnglish() {
             <ul>
               <li>
                 <div className="gap-2 w-full grid grid-cols-[auto,1fr,auto] items-center">
-                  <p className="text-lg lg:text-xl">TAILOR MADE PACK</p>
+                  <p className="text-lg lg:text-xl"> PACK SUR MESURE</p>
                   <div className="border-t-[1px] border-mainBlue/70"></div>
-                  <p className="text-lg lg:text-xl">UPON REQUEST</p>
+                  <p className="text-lg lg:text-xl">SUR DEMANDE</p>
                 </div>
               </li>
             </ul>
@@ -678,7 +675,9 @@ export default function MediaKitEnglish() {
         <div className="myContainer w-full lg:w-[90%] mx-auto lg:grid lg:grid-cols-2">
           <div className="space-y-8 lg:space-y-16">
             <div className="space-y-4">
-              <h3 className="text-base lg:text-2xl font-light">Website</h3>
+              <h3 className="text-base lg:text-2xl font-light">
+                Site internet
+              </h3>
               <p className="text-lg lg:text-3xl ">magazine-heritage.com</p>
             </div>
             <div className="space-y-4">
@@ -688,7 +687,9 @@ export default function MediaKitEnglish() {
               </p>
             </div>
             <div className="space-y-4">
-              <h3 className="text-base lg:text-2xl font-light">Phone number</h3>
+              <h3 className="text-base lg:text-2xl font-light">
+                Numéro de téléphone
+              </h3>
               <p className="text-lg lg:text-3xl ">+33 6 77 39 02 75</p>
             </div>
           </div>
