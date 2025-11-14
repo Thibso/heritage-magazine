@@ -12,7 +12,7 @@ import SliderCardsEN from "../components/SliderCardsEN";
 import BrandOfTheMonth from "../components/brandOfTheMonth";
 import Button from "../components/buttons/Button";
 import PopUpValidation from "../components/layout/popUpValidation";
-import RootLayout from "../layout";
+import "./globals.css";
 
 import { Metadata } from "next";
 import { cookies } from "next/headers";
@@ -43,49 +43,62 @@ export default async function LocaleLayout({
   const hasCookie = cookieStore.has("popup");
 
   return (
-    <RootLayout lang={locale}>
-      <GoogleAnalytics gaId="G-WPVQNN32N0" />
+    <html lang={locale} className={sfPro.variable}>
+      <head>
+        <meta
+          name="google-site-verification"
+          content="-QKRvd7-p6MLOV-f9k66HH_c-pyIvALPTOPKHD2Sghk"
+        />
+        <link
+          rel="icon"
+          href="/icon?<generated>"
+          type="image/<generated>"
+          sizes="<generated>"
+        />
+      </head>
+      <body>
+        <GoogleAnalytics gaId="G-WPVQNN32N0" />
 
-      <NextIntlClientProvider messages={messages}>
-        <div className={sfPro.variable}>
+        <NextIntlClientProvider messages={messages}>
           {hasCookie ? null : <PopUpValidation locale={locale} />}
 
           <Header locale={locale} />
           <BrandOfTheMonth />
           {children}
           <Toaster />
-          {/* Slider */}
-          <section className="overflow-hidden  m-auto bg-bgLight">
-            <div className="myContainer max-w-screen-xl m-auto flex flex-col items-center gap-8 lg:gap-16 lg:pb-[70px]">
-              <div className="text-center">
-                <h2 className="h2 text-mainBlue">
-                  {locale === "fr"
-                    ? "Heritage un Magazine dédié aux acteurs de l'esthétique"
-                    : "Heritage a Magazine dedicated to the beauty industry"}
-                </h2>
-                <h3 className="h3 mt-2 lg:mt-4">
-                  {locale === "fr"
-                    ? "L'innovation au service de l'excellence médicale"
-                    : "Innovation at the service of medical excellence"}
-                </h3>
-              </div>
+        </NextIntlClientProvider>
 
-              {locale === "fr" ? <SliderCards /> : <SliderCardsEN />}
-              {locale === "fr" ? (
-                <Button link="/fr/publications-innovations-medecine-esthetique">
-                  Découvrir toutes les publications
-                </Button>
-              ) : (
-                <Button link="/en/publications-aesthetic-medicine-innovations">
-                  Discover all publications
-                </Button>
-              )}
+        {/* Slider */}
+        <section className="overflow-hidden  m-auto bg-bgLight">
+          <div className="myContainer max-w-screen-xl m-auto flex flex-col items-center gap-8 lg:gap-16 lg:pb-[70px]">
+            <div className="text-center">
+              <h2 className="h2 text-mainBlue">
+                {locale === "fr"
+                  ? "Heritage un Magazine dédié aux acteurs de l'esthétique"
+                  : "Heritage a Magazine dedicated to the beauty industry"}
+              </h2>
+              <h3 className="h3 mt-2 lg:mt-4">
+                {locale === "fr"
+                  ? "L'innovation au service de l'excellence médicale"
+                  : "Innovation at the service of medical excellence"}
+              </h3>
             </div>
-          </section>
 
-          <Footer />
-        </div>
-      </NextIntlClientProvider>
-    </RootLayout>
+            {locale === "fr" ? <SliderCards /> : <SliderCardsEN />}
+            {locale === "fr" ? (
+              <Button link="/fr/publications-innovations-medecine-esthetique">
+                Découvrir toutes les publications
+              </Button>
+            ) : (
+              <Button link="/en/publications-aesthetic-medicine-innovations">
+                Discover all publications
+              </Button>
+            )}
+          </div>
+        </section>
+
+        <Footer />
+      </body>
+    </html>
   );
 }
