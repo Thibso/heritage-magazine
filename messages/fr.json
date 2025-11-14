@@ -18,6 +18,10 @@
     },
     "video": {
       "title": "Découvrez notre nouvelle édition au congrès SFME"
+    },
+    "interviews": {
+      "h2": "Ils parlent de nous",
+      "h3": "Les leaders d'opinion pour HERITAGE"
     }
   },
   "About": {
@@ -189,6 +193,14 @@
     "distribution_h3": "Notre réseau de distribution évolue en permanence",
     "partners": "Partenaires industriels",
     "partners_h3": "Notre réseau de partenaires évolue en permanence"
+  },
+  "Media_kit": {
+    "abstract": "<p>Soutenu par les Leaders de l'industrie, HERITAGE s’impose comme le nouveau média premium de référence en chirurgie et médecine esthétique. <br></br> Chaque année, une <orange>édition internationale</orange> et  une <orange>édition française</orange> célèbrent l’excellence des marques et des acteurs qui façonnent l’avenir du secteur. <br></br>Le magazine propose également des collaborations exclusives avec des congrès de renom, alliant visibilité ciblée et diffusion directe auprès des Key Opinion Leaders.</p><p>Pensé comme un écrin éditorial contemporain et élégant, HERITAGE laisse une empreinte durable dans le temps grâce à un support papier haut de gamme et un contenu digital parfaitement référencé pour répondre à vos enjeux de visibilité. </p>",
+    "versions": {
+      "fr": "Français",
+      "inter": "International",
+      "exclusive": "Exclusive"
+    }
   },
   "Contact": {
     "h1": "Contact",

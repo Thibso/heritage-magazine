@@ -1,6 +1,7 @@
 import { useTranslations } from "next-intl";
 import Image from "next/image";
 import Button from "../components/buttons/Button";
+import SliderVideos from "../components/videos/SliderVideos";
 import last_mag from "../img/heritage-magazine-last-version.jpeg";
 import magMobile from "../img/magazine-innovation-sante-mobile.jpg";
 import mag from "../img/magazine-innovation-sante.jpg";
@@ -192,6 +193,17 @@ export default function Home() {
               type="video/mp4"
             />
           </video> */}
+        </div>
+      </section>
+
+      <section className="bg-white overflow-hidden">
+        <div className="myContainer">
+          <div className="text-center">
+            <h2 className="h2">{t("interviews.h2")}</h2>
+            <h3 className="h3 mt-2 lg:mt-4">{t("interviews.h3")}</h3>
+          </div>
+
+          <SliderVideos />
         </div>
       </section>
     </main>

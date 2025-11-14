@@ -7,10 +7,10 @@ import sfme from "@/app/img/congres/sfme-congress-paris-aesthetic-medicine.png";
 import fr from "@/app/img/fr.jpg";
 import healthcie from "@/app/img/healthcie-partenaire-heritage-magazine.png";
 import magazine from "@/app/img/heritage-innovation-sante-magazine-specialiste.jpg";
-import logo from "@/app/img/heritage-magazine-anti-age-innovation.png";
 import hydrafacial from "@/app/img/hydrafacial-partner-heritage-magazine-aesthetic.png";
 import idocteur from "@/app/img/idocteur-partner-heritage-magazine.png";
 import julien from "@/app/img/Julien-vervel-consultant-médical-laboratoires.jpg";
+import logo from "@/app/img/logo-heritage.png";
 import example1 from "@/app/img/media-kit/example-1.jpg";
 import example2 from "@/app/img/media-kit/example-2.jpg";
 import texture from "@/app/img/meilleure-agence-web-medicale-paris.png";
@@ -19,6 +19,13 @@ import slide_5 from "@/app/img/plastic-surgeons-best-magazine.jpg";
 import thinkin from "@/app/img/thinkin-partenaire-heritage-magazine.png";
 import uk from "@/app/img/uk.png";
 import vivacy from "@/app/img/vivacy-logo-official.webp";
+// Major Images
+import magazine_vertical from "@/app/img/media-kit/magazine-heritage-book.jpg";
+import market from "@/app/img/media-kit/market-overview.jpg";
+import ascher from "@/app/img/media-kit/mockup-dr-ascher.jpg";
+import la_padula from "@/app/img/media-kit/mockup-simone-lapadula.jpg";
+import mockup_imcas from "@/app/img/media-kit/mokup-heritage-magazine.jpg";
+// =============
 import Image from "next/image";
 
 type Params = {
@@ -37,6 +44,11 @@ export async function generateMetadata({ params }: Params) {
     return {
       title: titleEN,
       description: descriptionEN,
+      robots: {
+        index: false,
+        follow: false,
+        nocache: true,
+      },
       authors: [{ name: "HEALTHCIE" }],
       openGraph: {
         title: titleEN,
@@ -58,6 +70,11 @@ export async function generateMetadata({ params }: Params) {
     return {
       title: titleFR,
       description: descriptionFR,
+      robots: {
+        index: false,
+        follow: false,
+        nocache: true,
+      },
       authors: [{ name: "HEALTHCIE" }],
       openGraph: {
         title: titleFR,
@@ -115,7 +132,7 @@ export default function MediaKitEnglish() {
         </h3>
         <div className="myContainer my-auto space-y-8 lg:space-y-16">
           <div className="space-y-4">
-            <p className="text-base lg:text-lg flex">
+            <p className="text-base lg:text-lg lg:flex">
               <span className="lg:text-[150px] leading-[0.8em]">F</span>
               <span>
                 ollowing the success of the first edition, we are thrilled to
@@ -166,7 +183,7 @@ export default function MediaKitEnglish() {
               </div>
 
               <div>
-                <h4 className="text-lg">Julien Vervel</h4>
+                <h4 className="text-lg font-sfPro">Julien Vervel</h4>
                 <p>Publishing Director</p>
               </div>
             </div>
@@ -180,7 +197,7 @@ export default function MediaKitEnglish() {
         </h3>
         <div className="max-lg:hidden absolute right-0 top-0 w-[300px] h-full">
           <Image
-            src={magazine}
+            src={magazine_vertical}
             alt="HERITAGE Magazine"
             quality={100}
             className="absolute top-0 left-0 size-full object-cover"
@@ -321,7 +338,7 @@ export default function MediaKitEnglish() {
       {/* 6 */}
       <section className="max-lg:hidden min-h-[60vh] lg:min-h-screen relative">
         <Image
-          src={magazine}
+          src={mockup_imcas}
           alt="HERITAGE Magazine"
           quality={100}
           className="absolute top-0 left-0 size-full object-cover"
@@ -356,10 +373,10 @@ export default function MediaKitEnglish() {
           </div>
           <div className="col-span-4 relative grid h-[350px] lg:h-full">
             <Image
-              src={slide_5}
+              src={la_padula}
               alt="Magazine HERITAGE"
               quality={100}
-              className="absolute top-0 left-0 size-full object-cover"
+              className="absolute top-0 left-0 size-full object-cover object-bottom"
             />
           </div>
         </div>
@@ -468,7 +485,7 @@ export default function MediaKitEnglish() {
       {/* 9 */}
       <section className="min-h-[60vh] lg:min-h-screen relative">
         <Image
-          src={magazine}
+          src={ascher}
           alt="HERITAGE Magazine"
           quality={100}
           className="absolute top-0 left-0 size-full object-cover"
@@ -662,7 +679,7 @@ export default function MediaKitEnglish() {
       {/* 13 */}
       <section className="min-h-[60vh] lg:min-h-screen relative">
         <Image
-          src={magazine}
+          src={market}
           alt="HERITAGE Magazine"
           quality={100}
           className="absolute top-0 left-0 size-full object-cover"
