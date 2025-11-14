@@ -40,7 +40,7 @@ export default function SliderVideos() {
 
   return (
     // BIG CONTAINER
-    <div className="relative w-full z-[1] py-24">
+    <div className="relative w-full z-[1] py-8 lg:py-24">
       {/* DEBUG */}
       {/* <div className="absolute top-0 left-1/2 -translate-x-1/2 h-full w-2 bg-[rgb(220,38,38)] z-[99]"></div> */}
       {/*  */}
