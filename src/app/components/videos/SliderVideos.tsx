@@ -90,7 +90,7 @@ export default function SliderVideos() {
 
       {/* CONTROLS */}
       <button
-        className="absolute max-lg:left-[20%] lg:left-1/2 lg:-translate-x-[186px] bottom-0 bg-mainBlue disabled:bg-mainBlue/70 desabled:cursor-not-allowed rounded-full p-2 z-[99]"
+        className="absolute max-lg:left-[20%] lg:left-1/2 lg:-translate-x-[187px] bottom-0 bg-mainBlue disabled:bg-mainBlue/70 desabled:cursor-not-allowed rounded-full p-2 z-[99]"
         disabled={active === -1}
         onClick={() => {
           setActive((current) => {
