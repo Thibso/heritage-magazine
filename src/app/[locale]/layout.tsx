@@ -12,7 +12,7 @@ import SliderCardsEN from "../components/SliderCardsEN";
 import BrandOfTheMonth from "../components/brandOfTheMonth";
 import Button from "../components/buttons/Button";
 import PopUpValidation from "../components/layout/popUpValidation";
-import "./globals.css";
+import "../globals.css";
 
 import { Metadata } from "next";
 import { cookies } from "next/headers";
