@@ -171,7 +171,8 @@
         "all": "All",
         "surgery": {
           "plastic": "Chirurgien esthétique",
-          "ent": "Chirurgien ORL"
+          "ent": "Chirurgien ORL",
+          "dentist": "Chirurgien dentiste"
         },
         "medicine": "Médecin esthétique",
         "dermatology": "Dermatologue",
