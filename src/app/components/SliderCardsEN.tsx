@@ -107,9 +107,9 @@ export default function SliderCards() {
       className="mySwiper cursor-pointer"
     >
       {sliders.map((slide) => (
-        <SwiperSlide key={slide!.title}>
+        <SwiperSlide key={slide!.title} className="flex flex-col">
           <Image src={slide!.img} alt={slide!.alt} />
-          <div className="flex justify-between mt-4">
+          <div className="flex justify-between mt-4 w-full">
             <h4 className="uppercase text-base lg:text-xl font-sfPro font-light">
               {slide!.title}
             </h4>
