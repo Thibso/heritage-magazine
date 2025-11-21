@@ -13,6 +13,14 @@ import praguelab from "@/app/img/prague-lab-partner-heritage-magazine.png";
 import thinkin from "@/app/img/thinkin-partenaire-heritage-magazine.png";
 import josse from "@/app/img/thomas-josse-partenaire-heritage-magazine.png";
 import vivacy from "@/app/img/vivacy-partenaire-heritage-magazine.png";
+
+import aptos from "@/app/img/aptos-heritage-magazine-partner.png";
+import canfield from "@/app/img/canfield-heritage-magazine-partner.png";
+import cutera from "@/app/img/cutera-heritage-magazine-partner.png";
+import rejuran from "@/app/img/rejuran-heritage-magazine-partner.png";
+import skinceuticals from "@/app/img/skinceuticals-heritage-magazine-partner.png";
+import sunekos from "@/app/img/sune-kos-heritage-magazine-partner.png";
+
 import { useTranslations } from "next-intl";
 import Image from "next/image";
 
@@ -100,36 +108,36 @@ export default function Partners() {
           <h2 className="h3 mt-2 lg:mt-4">{t("distribution_h3")}</h2>
         </div>
 
-        <div className="grid md:grid-cols-3 items-center max-w-[1024px] m-auto gap-x-8 md:gap-x-12 gap-y-8 md:gap-y-16">
+        <div className="grid md:grid-cols-3 items-center max-w-[1024px] m-auto gap-x-8 gap-y-8">
           <Image
             src={aime}
             alt=""
-            className="m-auto max-lg:max-w-[150px] max-w-[200px]"
+            className="m-auto max-lg:max-w-[150px] max-w-[200px] aspect-square object-contain"
           />
           <Image
             src={thinkin}
             alt=""
-            className="m-auto  max-lg:max-w-[150px] max-w-[200px]"
+            className="m-auto  max-lg:max-w-[150px] max-w-[200px] aspect-square object-contain"
           />
           <Image
             src={imcas}
             alt=""
-            className="m-auto max-lg:max-w-[150px] max-w-[200px]"
+            className="m-auto max-lg:max-w-[150px] max-w-[200px] aspect-square object-contain"
           />
           <Image
             src={sfme}
             alt=""
-            className="m-auto max-lg:max-w-[150px] max-w-[200px]"
+            className="m-auto max-lg:max-w-[150px] max-w-[200px] aspect-square object-contain"
           />
           <Image
             src={mais}
             alt=""
-            className="m-auto max-lg:max-w-[150px] max-w-[200px]"
+            className="m-auto max-lg:max-w-[150px] max-w-[200px] aspect-square object-contain"
           />
           <Image
             src={praguelab}
             alt=""
-            className="m-auto max-lg:max-w-[150px] max-w-[250px]"
+            className="m-auto max-lg:max-w-[150px] max-w-[250px] aspect-square object-contain"
           />
         </div>
       </section>
@@ -140,23 +148,78 @@ export default function Partners() {
           <h2 className="h3 mt-2 lg:mt-4">{t("partners_h3")}</h2>
         </div>
 
-        <div className="mt-16 grid grid-cols-2 md:grid-cols-4 items-center max-w-[1200px] m-auto gap-x-8 lg:gap-x-12 gap-y-8 lg:gap-y-16">
-          <Image src={olivier} alt="" className="m-auto w-[188px]" />
-          <Image src={vivacy} alt="" className="m-auto w-[188px]" />
-          <Image src={aerolase} alt="" className="m-auto w-[188px]" />
+        <div className="mt-16 grid grid-cols-2 md:grid-cols-4 items-center max-w-[1200px] m-auto gap-x-8 gap-y-8">
+          <Image
+            src={olivier}
+            alt=""
+            className="m-auto w-[188px] aspect-square object-contain"
+          />
+          <Image
+            src={vivacy}
+            alt=""
+            className="m-auto w-[188px]  aspect-square object-contain"
+          />
+          <Image
+            src={aerolase}
+            alt=""
+            className="m-auto w-[188px] aspect-square object-contain"
+          />
           <Image
             src={josse}
             alt=""
-            className="m-auto max-h-[60%] object-contain w-[188px]"
+            className="m-auto max-h-[60%] object-contain w-[188px] aspect-square"
           />
           <Image
             src={healthcie}
             alt=""
-            className="m-auto max-h-[60%] object-contain w-[188px]"
+            className="m-auto max-h-[60%] object-contain w-[188px] aspect-square"
           />
-          <Image src={hydra} alt="" className="m-auto w-[250px]" />
-          <Image src={nooance} alt="" className="m-auto w-[250px]" />
-          <Image src={idocteur} alt="" className="m-auto w-[250px]" />
+          <Image
+            src={hydra}
+            alt=""
+            className="m-auto w-[250px] aspect-square object-contain"
+          />
+          <Image
+            src={nooance}
+            alt=""
+            className="m-auto w-[250px] aspect-square object-contain"
+          />
+          <Image
+            src={idocteur}
+            alt=""
+            className="m-auto w-[250px] aspect-square object-contain"
+          />
+
+          <Image
+            src={cutera}
+            alt=""
+            className="m-auto w-[200px] aspect-square object-contain"
+          />
+          <Image
+            src={canfield}
+            alt=""
+            className="m-auto w-[200px] aspect-square object-contain"
+          />
+          <Image
+            src={rejuran}
+            alt=""
+            className="m-auto w-[200px] aspect-square object-contain"
+          />
+          <Image
+            src={skinceuticals}
+            alt=""
+            className="m-auto w-[250px] aspect-square object-contain"
+          />
+          <Image
+            src={sunekos}
+            alt=""
+            className="m-auto w-[200px] lg:col-start-2 aspect-square object-contain"
+          />
+          <Image
+            src={aptos}
+            alt=""
+            className="m-auto w-[200px] lg:col-start-3 aspect-square object-contain"
+          />
         </div>
       </section>
     </main>
