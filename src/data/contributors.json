@@ -309,5 +309,65 @@
     "speciality": "filters.specialities.dermatology",
     "speciality_value": "dermatology",
     "link": ""
+  },
+  {
+    "honor": "honors.dr",
+    "title": "HARRIS Steven",
+    "image": "/contributors/steven-harris-heritage-magazine.png",
+    "country_icon": "<UK title='United Kingdom' className='size-4' />",
+    "country_value": "uk",
+    "speciality": "filters.specialities.medicine",
+    "speciality_value": "medicine",
+    "link": ""
+  },
+  {
+    "honor": "honors.dr",
+    "title": "WALKER Lee",
+    "image": "/contributors/lee-walker-heritage-magazine.png",
+    "country_icon": "<UK title='United Kingdom' className='size-4' />",
+    "country_value": "uk",
+    "speciality": "filters.specialities.surgery.dentist",
+    "speciality_value": "dentist",
+    "link": ""
+  },
+  {
+    "honor": "honors.dr",
+    "title": "RAVINDRAN Roshan",
+    "image": "/contributors/roshan-ravindran-heritage-magazine.png",
+    "country_icon": "<UK title='United Kingdom' className='size-4' />",
+    "country_value": "uk",
+    "speciality": "filters.specialities.medicine",
+    "speciality_value": "medicine",
+    "link": ""
+  },
+  {
+    "honor": "honors.dr",
+    "title": "VON-LOGHEM Jani",
+    "image": "/contributors/jani-von-loghem-heritage-magazine.png",
+    "country_icon": "<NL title='Nederland' className='size-4' />",
+    "country_value": "nl",
+    "speciality": "filters.specialities.medicine",
+    "speciality_value": "medicine",
+    "link": ""
+  },
+  {
+    "honor": "honors.dr",
+    "title": "FRANK Konstantin",
+    "image": "/contributors/konstantin-frank-heritage-magazine.png",
+    "country_icon": "<ES title='Spain' className='size-4' />",
+    "country_value": "es",
+    "speciality": "filters.specialities.surgery.plastic",
+    "speciality_value": "medicine",
+    "link": ""
+  },
+  {
+    "honor": "honors.dr",
+    "title": "KAVKOVA Monika",
+    "image": "/contributors/monika-kavkova-heritage-magazine.png",
+    "country_icon": "<CZ title='Czech Republic' className='size-4' />",
+    "country_value": "cz",
+    "speciality": "filters.specialities.surgery.plastic",
+    "speciality_value": "medicine",
+    "link": ""
   }
 ]

@@ -154,6 +154,67 @@ export const routing = defineRouting({
       fr: "/dossier-coste-jean-yves-intelligence-artificielle-medecine-esthetique-convergence-technologique",
       en: "/focus-coste-jean-yves-artificial-intelligence-aesthetic-medicine-technological-convergence",
     },
+    // PRAGUE
+    "/prague/jean-yves-coste": {
+      fr: "/analyse-coste-jean-yves-marche-medecine-esthetique-insights-2025",
+      en: "/analysis-coste-jean-yves-aesthetic-medicine-market-insights-2025",
+    },
+    "/prague/eva-osvaldova-healthcie": {
+      fr: "/dossier-healthcie-vervel-julien-eva-osvaldova-gestion-clinique-esthetique-2025-prague-lab",
+      en: "/focus-healthcie-vervel-julien-eva-osvaldova-aesthetic-clinic-management-2025-prague-lab",
+    },
+    "/prague/eva-osvaldova": {
+      fr: "/dossier-eva-osvaldova-julien-vervel-nouvelles-technologies-medecine-esthetique-prague-lab",
+      en: "/focus-eva-osvaldova-julien-vervel-new-aesthetic-medicine-technologies-prague-lab",
+    },
+    "/prague/eva-osvaldova-2": {
+      fr: "/dossier-eva-osvaldova-intelligence-artificielle-cabinet-medical-prague-lab",
+      en: "/focus-eva-osvaldova-artificial-intelligence-medical-office-prague-lab",
+    },
+    "/prague/monika-kavkova": {
+      fr: "/technique-docteur-kavkova-monika-rajeunissement-levres-femme-mature-prague-lab",
+      en: "/technique-doctor-kavkova-monika-lip-rejuvenation-mature-women-prague-lab",
+    },
+    "/prague/monika-kavkova-2": {
+      fr: "/technique-docteur-kavkova-monika-acides-hyaluroniques-remplissage-prague-lab",
+      en: "/technique-doctor-kavkova-monika-hyaluronic-acid-fillers-prague-lab",
+    },
+    "/prague/monika-kavkova-3": {
+      fr: "/technique-docteur-kavkova-monika-controverses-biostimulation-medecine-esthetique-prague-lab",
+      en: "/technique-doctor-kavkova-monika-controversies-biostimulation-aesthetic-medicine-prague-lab",
+    },
+    "/prague/lee-walker": {
+      fr: "/technique-docteur-walker-lee-cecite-apres-injections-acide-hyaluronique-medecine-esthetique-prague-lab",
+      en: "/technique-doctor-walker-lee-blindness-after-hyaluronic-acid-injections-aesthetic-medicine-prague-lab",
+    },
+    "/prague/konstantin-frank": {
+      fr: "/interview-docteur-konstantin-frank-rajeunissement-visage-corps-medecine-esthetique-prague-lab",
+      en: "/interview-doctor-konstantin-frank-face-body-rejuvenation-aesthetic-medicine-prague-lab",
+    },
+    "/prague/jani-van-loghem": {
+      fr: "/technique-docteur-van-loghem-jani-volume-injection-fillers-prague-lab",
+      en: "/technique-doctor-van-loghem-jani-injection-volume-fillers-prague-lab",
+    },
+    "/prague/roshan-ravidran": {
+      fr: "/expertise-docteur-ravindran-roshan-progression-recherche-medecine-esthetique-prague-lab",
+      en: "/expertise-doctor-ravindran-roshan-advancing-research-aesthetic-medicine-prague-lab",
+    },
+    "/prague/steven-harris": {
+      fr: "/dossier-docteur-harris-steven-instagram-vs-realite-medecine-esthetique-prague-lab",
+      en: "/focus-doctor-harris-steven-instagram-vs-reality-aesthetic-medicine-prague-lab",
+    },
+    "/prague/exosome": {
+      fr: "/dossier-biosolution-administration-exosomes-assistee-micro-aiguilles-prague-lab",
+      en: "/focus-biosolution-micro-needle-assisted-exosome-delivery-prague-lab",
+    },
+    "/prague/skinceuticals": {
+      fr: "/focus-skinceuticals-pionnier-soins-peau-integres-prague-lab",
+      en: "/focus-skinceuticals-pioneer-integrated-skincare-prague-lab",
+    },
+    "/prague/healthcie": {
+      fr: "/focus-nivault-hugo-agence-healthcie-site-web-medical-strategie-digitale-prague-lab",
+      en: "/focus-nivault-hugo-healthcie-agency-medical-website-digital-strategy-prague-lab",
+    },
   },
 });
 

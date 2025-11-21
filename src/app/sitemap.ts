@@ -365,5 +365,239 @@ export default function sitemap(): MetadataRoute.Sitemap {
         },
       },
     },
+    {
+      url: "https://magazine-heritage.com/fr/interview-josse-thomas-conciergerie-club-acteurs-medecine-esthetique",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/interview-josse-thomas-conciergerie-club-acteurs-medecine-esthetique",
+          en: "https://magazine-heritage.com/en/interview-josse-thomas-concierge-service-club-actors-aesthetic-medicine",
+        },
+      },
+    },
+    {
+      url: "https://magazine-heritage.com/fr/dossier-vervel-julien-visibilite-referencement-medecins-intelligence-artificielle-geo",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/dossier-vervel-julien-visibilite-referencement-medecins-intelligence-artificielle-geo",
+          en: "https://magazine-heritage.com/en/focus-vervel-julien-visibility-doctors-referencing-artificial-intelligence-geo",
+        },
+      },
+    },
+    {
+      url: "https://magazine-heritage.com/fr/interview-docteur-deutsch-jean-jacques-congres-sfme",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/interview-docteur-deutsch-jean-jacques-congres-sfme",
+          en: "https://magazine-heritage.com/en/interview-doctor-deutsch-jean-jacques-sfme-congress",
+        },
+      },
+    },
+    {
+      url: "https://magazine-heritage.com/fr/dossier-docteur-deutsch-jean-jacques-introduction-histoire-medecine-esthetique-france",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/dossier-docteur-deutsch-jean-jacques-introduction-histoire-medecine-esthetique-france",
+          en: "https://magazine-heritage.com/en/focus-doctor-deutsch-jean-jacques-introduction-history-french-aesthetic-medicine",
+        },
+      },
+    },
+    {
+      url: "https://magazine-heritage.com/fr/innovation-docteurs-melin-audrey-ascher-benjamin-sibus-in-sonde-echographique-digitale",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/innovation-docteurs-melin-audrey-ascher-benjamin-sibus-in-sonde-echographique-digitale",
+          en: "https://magazine-heritage.com/en/innovation-doctors-melin-audrey-ascher-benjamin-sibus-in-finger-probe-ultrasound-guided-injections",
+        },
+      },
+    },
+    {
+      url: "https://magazine-heritage.com/fr/dossier-coste-jean-yves-intelligence-artificielle-medecine-esthetique-convergence-technologique",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/dossier-coste-jean-yves-intelligence-artificielle-medecine-esthetique-convergence-technologique",
+          en: "https://magazine-heritage.com/en/focus-coste-jean-yves-artificial-intelligence-aesthetic-medicine-technological-convergence",
+        },
+      },
+    },
+
+    // ========================= PRAGUE =========================
+
+    {
+      url: "https://magazine-heritage.com/fr/analyse-coste-jean-yves-marche-medecine-esthetique-insights-2025",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/analyse-coste-jean-yves-marche-medecine-esthetique-insights-2025",
+          en: "https://magazine-heritage.com/en/analysis-coste-jean-yves-aesthetic-medicine-market-insights-2025",
+        },
+      },
+    },
+    {
+      url: "https://magazine-heritage.com/fr/dossier-healthcie-vervel-julien-eva-osvaldova-gestion-clinique-esthetique-2025-prague-lab",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/dossier-healthcie-vervel-julien-eva-osvaldova-gestion-clinique-esthetique-2025-prague-lab",
+          en: "https://magazine-heritage.com/en/focus-healthcie-vervel-julien-eva-osvaldova-aesthetic-clinic-management-2025-prague-lab",
+        },
+      },
+    },
+    {
+      url: "https://magazine-heritage.com/fr/dossier-eva-osvaldova-julien-vervel-nouvelles-technologies-medecine-esthetique-prague-lab",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/dossier-eva-osvaldova-julien-vervel-nouvelles-technologies-medecine-esthetique-prague-lab",
+          en: "https://magazine-heritage.com/en/focus-eva-osvaldova-julien-vervel-new-aesthetic-medicine-technologies-prague-lab",
+        },
+      },
+    },
+    {
+      url: "https://magazine-heritage.com/fr/dossier-eva-osvaldova-intelligence-artificielle-cabinet-medical-prague-lab",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/dossier-eva-osvaldova-intelligence-artificielle-cabinet-medical-prague-lab",
+          en: "https://magazine-heritage.com/en/focus-eva-osvaldova-artificial-intelligence-medical-office-prague-lab",
+        },
+      },
+    },
+    {
+      url: "https://magazine-heritage.com/fr/technique-docteur-kavkova-monika-rajeunissement-levres-femme-mature-prague-lab",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/technique-docteur-kavkova-monika-rajeunissement-levres-femme-mature-prague-lab",
+          en: "https://magazine-heritage.com/en/technique-doctor-kavkova-monika-lip-rejuvenation-mature-women-prague-lab",
+        },
+      },
+    },
+    {
+      url: "https://magazine-heritage.com/fr/technique-docteur-kavkova-monika-acides-hyaluroniques-remplissage-prague-lab",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/technique-docteur-kavkova-monika-acides-hyaluroniques-remplissage-prague-lab",
+          en: "https://magazine-heritage.com/en/technique-doctor-kavkova-monika-hyaluronic-acid-fillers-prague-lab",
+        },
+      },
+    },
+    {
+      url: "https://magazine-heritage.com/fr/technique-docteur-kavkova-monika-controverses-biostimulation-medecine-esthetique-prague-lab",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/technique-docteur-kavkova-monika-controverses-biostimulation-medecine-esthetique-prague-lab",
+          en: "https://magazine-heritage.com/en/technique-doctor-kavkova-monika-controversies-biostimulation-aesthetic-medicine-prague-lab",
+        },
+      },
+    },
+    {
+      url: "https://magazine-heritage.com/fr/technique-docteur-walker-lee-cecite-apres-injections-acide-hyaluronique-medecine-esthetique-prague-lab",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/technique-docteur-walker-lee-cecite-apres-injections-acide-hyaluronique-medecine-esthetique-prague-lab",
+          en: "https://magazine-heritage.com/en/technique-doctor-walker-lee-blindness-after-hyaluronic-acid-injections-aesthetic-medicine-prague-lab",
+        },
+      },
+    },
+    {
+      url: "https://magazine-heritage.com/fr/interview-docteur-konstantin-frank-rajeunissement-visage-corps-medecine-esthetique-prague-lab",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/interview-docteur-konstantin-frank-rajeunissement-visage-corps-medecine-esthetique-prague-lab",
+          en: "https://magazine-heritage.com/en/interview-doctor-konstantin-frank-face-body-rejuvenation-aesthetic-medicine-prague-lab",
+        },
+      },
+    },
+    {
+      url: "https://magazine-heritage.com/fr/technique-docteur-van-loghem-jani-volume-injection-fillers-prague-lab",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/technique-docteur-van-loghem-jani-volume-injection-fillers-prague-lab",
+          en: "https://magazine-heritage.com/en/technique-doctor-van-loghem-jani-injection-volume-fillers-prague-lab",
+        },
+      },
+    },
+    {
+      url: "https://magazine-heritage.com/fr/expertise-docteur-ravindran-roshan-progression-recherche-medecine-esthetique-prague-lab",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/expertise-docteur-ravindran-roshan-progression-recherche-medecine-esthetique-prague-lab",
+          en: "https://magazine-heritage.com/en/expertise-doctor-ravindran-roshan-advancing-research-aesthetic-medicine-prague-lab",
+        },
+      },
+    },
+    {
+      url: "https://magazine-heritage.com/fr/dossier-docteur-harris-steven-instagram-vs-realite-medecine-esthetique-prague-lab",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/dossier-docteur-harris-steven-instagram-vs-realite-medecine-esthetique-prague-lab",
+          en: "https://magazine-heritage.com/en/focus-doctor-harris-steven-instagram-vs-reality-aesthetic-medicine-prague-lab",
+        },
+      },
+    },
+    {
+      url: "https://magazine-heritage.com/fr/dossier-biosolution-administration-exosomes-assistee-micro-aiguilles-prague-lab",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/dossier-biosolution-administration-exosomes-assistee-micro-aiguilles-prague-lab",
+          en: "https://magazine-heritage.com/en/focus-biosolution-micro-needle-assisted-exosome-delivery-prague-lab",
+        },
+      },
+    },
+    {
+      url: "https://magazine-heritage.com/fr/focus-skinceuticals-pionnier-soins-peau-integres-prague-lab",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/focus-skinceuticals-pionnier-soins-peau-integres-prague-lab",
+          en: "https://magazine-heritage.com/en/focus-skinceuticals-pioneer-integrated-skincare-prague-lab",
+        },
+      },
+    },
+    {
+      url: "https://magazine-heritage.com/fr/focus-nivault-hugo-agence-healthcie-site-web-medical-strategie-digitale-prague-lab",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/focus-nivault-hugo-agence-healthcie-site-web-medical-strategie-digitale-prague-lab",
+          en: "https://magazine-heritage.com/en/focus-nivault-hugo-healthcie-agency-medical-website-digital-strategy-prague-lab",
+        },
+      },
+    },
   ];
 }
