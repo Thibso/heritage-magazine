@@ -1,4 +1,5 @@
 import ascher from "@/app/img/media-kit/mockup-dr-ascher.jpg";
+import header from "@/app/img/MEDIA-SPECIALISE-MEDECINE-ESTHETIQUE-CHIRURGIE.jpg";
 import texture from "@/app/img/meilleure-agence-web-medicale-paris.png";
 import { useTranslations } from "next-intl";
 import Image from "next/image";
@@ -76,7 +77,21 @@ export default function About({ params }: Params) {
 
   return (
     <main>
-      <section className="min-h-screen relative z-[1] grid pt-20 lg:pt-16">
+      <section>
+        <div className="px-5 py-4 max-lg:h-[500px] lg:h-screen max-h-[1200px] grid items-end relative lg:px-7 lg:py-4">
+          <h1 className="text-white uppercase text-3xl lg:text-8xl">
+            MEDIA KIT
+          </h1>
+          <Image
+            src={header}
+            alt=""
+            className="absolute lg:fixed size-full top-0 left-0 object-cover -z-[2]"
+          />
+
+          <div className="absolute bg-mainBlue/40 -z-[1] size-full top-0 left-0"></div>
+        </div>
+      </section>
+      <section className="relative z-[1] grid pt-20 lg:pt-16">
         <Image
           src={texture}
           alt="texture"
@@ -85,10 +100,6 @@ export default function About({ params }: Params) {
           className="absolute top-0 left-0 object-cover -z-[1]"
         />
         <div className="myContainer w-full my-auto space-y-8">
-          <h1 className="text-white uppercase text-3xl lg:text-8xl text-center">
-            MEDIA KIT
-          </h1>
-
           <div className="text-white space-y-2">
             {t.rich("abstract", {
               p: (chunk) => <p className="font-sfPro">{chunk}</p>,

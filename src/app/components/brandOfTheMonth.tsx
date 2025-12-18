@@ -69,28 +69,24 @@ export default function BrandOfTheMonth() {
       <div className="w-[90%] lg:w-[75%] m-auto overflow-hidden [mask-image:_linear-gradient(to_right,transparent_0,_black_128px,_black_calc(100%-128px),transparent_100%)]">
         <div className="flex flex-nowrap w-[200vw] brand-animate">
           <ul className="flex items-center justify-around w-[100vw] gap-8">
-            <li className="text-sm font-sfPro">
-              Prague Lab 2025 Exclusive Edition
+            <li className="text-sm font-sfPro">IMCAS 2026 new edition</li>
+            <li className="max-lg:hidden text-sm font-sfPro">
+              IMCAS 2026 new edition
             </li>
             <li className="max-lg:hidden text-sm font-sfPro">
-              Prague Lab 2025 Exclusive Edition
-            </li>
-            <li className="max-lg:hidden text-sm font-sfPro">
-              Prague Lab 2025 Exclusive Edition
+              IMCAS 2026 new edition
             </li>
           </ul>
           <ul
             x-ref="logos"
             className="flex items-center justify-around w-[100vw] gap-8"
           >
-            <li className="text-sm font-sfPro">
-              Prague Lab 2025 Exclusive Edition
+            <li className="text-sm font-sfPro">IMCAS 2026 new edition</li>
+            <li className="max-lg:hidden text-sm font-sfPro">
+              IMCAS 2026 new edition
             </li>
             <li className="max-lg:hidden text-sm font-sfPro">
-              Prague Lab 2025 Exclusive Edition
-            </li>
-            <li className="max-lg:hidden text-sm font-sfPro">
-              Prague Lab 2025 Exclusive Edition
+              IMCAS 2026 new edition
             </li>
           </ul>
         </div>

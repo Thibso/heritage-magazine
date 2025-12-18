@@ -2,7 +2,7 @@ import { useTranslations } from "next-intl";
 import Image from "next/image";
 import Button from "../components/buttons/Button";
 import SliderVideos from "../components/videos/SliderVideos";
-import last_mag from "../img/heritage-magazine-last-version.jpeg";
+import last_mag from "../img/MEDIA-SPECIALISE-MEDECINE-ESTHETIQUE-CHIRURGIE.jpg";
 import magMobile from "../img/magazine-innovation-sante-mobile.jpg";
 import mag from "../img/magazine-innovation-sante.jpg";
 
