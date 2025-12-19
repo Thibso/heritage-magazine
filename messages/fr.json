@@ -285,7 +285,7 @@
     },
     "adda": {
       "h2": "Entretien avec Dr Adda",
-      "h3": "Laser Neo Elite® d’Aerolase",
+      "h3": "Dr Jean-marc Adda",
       "content": "L’innovation joue un rôle crucial dans l’évolution de la dermatologie et de la médecine esthétique. Les avancées technologiques, comme celles d’Aerolase, transforment les soins prodigués aux patients en les rendant plus efficaces, plus confortables et plus accessibles. <br></br> Aujourd’hui, présenter le laser Neo Elite® d’Aerolase, c’est présenter un dispositif révolutionnaire qui redéfinit les traitements dermatologiques.",
       "cta_link": "/fr/interview-docteur-adda-jean-marc-aerolase-laser-neo-elite",
       "cta": "Lire l'article"
@@ -306,7 +306,7 @@
     },
     "hugo": {
       "h2": "Préparer son projet digital",
-      "h3": "Hugo Nivault, chef de projet digital",
+      "h3": "Hugo Nivault",
       "content": "Pour commencer à se familiariser au domaine du digital et pour s’assurer d’être visible, il est essentiel de construire un site Internet. Il représente la pierre angulaire de toute stratégie de communication digitale. L’objectif n’est pas simplement d’avoir une présence en ligne, mais d’être visible et engageant pour les patients potentiels.",
       "cta_link": "/fr/dossier-nivault-hugo-healthcie-preparer-projet-digital-sante",
       "cta": "Lire l'article"
@@ -320,14 +320,14 @@
     },
     "diala": {
       "h2": "L'alliance soin & innovation",
-      "h3": "Par Dr Diala Haykal",
+      "h3": "Dr Diala Haykal",
       "content": "Dans sa pratique quotidienne, le Dr Haykal s’appuie sur des collaborations avec des experts de renom, intégrant des traitements innovants qui repoussent les limites de la médecine esthétique. Sa mission ? Inspirer les autres en prouvant que la détermination et l’apprentissage continu sont les clés de l’excellence dans ce domaine en constante évolution.",
       "cta_link": "/fr/interview-docteur-haykal-diala-hydradermabrasion-hydrafacial",
       "cta": "Lire l'article"
     },
     "cartier": {
       "h2": "Une collaboration au service de l’innovation",
-      "h3": "Dr Hugues Cartier & le Dr Sébastien Garson",
+      "h3": "Dr Hugues Cartier & Dr Sébastien Garson",
       "content": "Le Dr Hugues Cartier est dermatologue au sein d’un centre médical avec un département d’études cliniques, assisté par une équipe de jeunes dermatologues. Il exerce également comme Praticien Hospitalier Attaché au Centre Hospitalier d’Arras. Le Dr Sébastien Garson est un chirurgien plasticien exerçant à Senlis. Ancien président de la SOFCEP (Société Française des Chirurgiens Esthétiques Plasticiens), il occupe actuellement les fonctions de vice-président de la SNCPRE (Syndicat National de Chirurgie Plastique Reconstructrice et Esthétique) et de président de Plastirisq.",
       "cta_link": "/fr/interview-docteurs-cartier-hugues-garson-sebastien-imcas-innovation",
       "cta": "Lire l'article"
@@ -341,98 +341,98 @@
     },
     "Diala_Haykal_2": {
       "h2": "Apprentissage automatisé et formation médicale",
-      "h3": "Par Dr Diala Haykal",
+      "h3": "Dr Diala Haykal",
       "cta": "Lire l'article",
       "cta_link": "/fr/focus-docteur-haykal-diala-intelligence-artificielle-enseignement-diagnostics-dermatologiques",
       "content": "La dermatologie est une spécialité où l’œil clinique est roi. Mais aujourd’hui, cet œil s’enrichit d’un nouvel outil : l’intelligence artificielle. Plus qu’un simple soutien diagnostique, l’IA devient un acteur pédagogique à part entière, redéfinissant les méthodes d’apprentissage en dermatologie."
     },
     "IDocteur": {
       "h2": "L’Intelligence Artificielle au cœur & l’Humain aux commandes",
-      "h3": "Par Bertrand Comte et Benoit Jolly",
+      "h3": "Bertrand Comte et Benoit Jolly",
       "cta": "Lire l'article",
       "cta_link": "/fr/interview-comte-bertrand-jolly-benoit-idocteur-logiciel-medecin-esthetique-intelligence-artificielle",
       "content": "Deux parcours, une ambition commune : simplifier la gestion des cabinets esthétiques grâce au digital. Benoît est ingénieur en imagerie médicale, Bertrand spécialiste de la finance et de l’organisation. Ils cofondent iDocteur, une solution logicielle française pensée pour les professionnels de l’esthétique médical."
     },
     "Carrie_Caulkins": {
       "h2": "Du « skinimalisme » à la beauté intelligente : Entretien avec Carrie Caulkins",
-      "h3": "Par Carrie Caulkins",
+      "h3": "Carrie Caulkins",
       "cta": "Lire l'article",
       "cta_link": "/fr/interview-caulkins-carrie-chief-marketing-officer-hydrafacial",
       "content": "Carrie Caulkins est Chief Marketing Officer chez Hydrafacial®. Leader chevronnée dans le secteur de l’esthétique, elle allie une expertise scientifique pointue à une vision stratégique du marketing, un duo de compétences peu commun au service de la croissance et de l’innovation de la marque."
     },
     "Tantely_Raza": {
       "h2": "La rhinoplastie hybride : la rhinoplastie 3.0 ? ",
-      "h3": "Par Dr Tantely Razafimahefa",
+      "h3": "Dr Tantely Razafimahefa",
       "cta": "Lire l'article",
       "cta_link": "/fr/technique-docteur-razafimahefa-tantely-rhinoplastie-hybride",
       "content": "Nous allons développer les évolutions de la rhinoplastie durant ces dernières années sur le plan technique mais aussi au niveau des attentes des patients."
     },
     "Dr_Margulies": {
       "h2": "Médecine intégrative & esthétique",
-      "h3": "Par Dr Michael Margulies",
+      "h3": "Dr Michael Margulies",
       "cta": "Lire l'article",
       "cta_link": "/fr/expertise-docteur-margulies-michael-medecine-integrative-esthetique-prise-en-charge-patient",
       "content": "Dans le domaine de la médecine esthétique, une révolution silencieuse se dessine avec l’émergence de la médecine intégrative. En combinant les approches classiques de la médecine conventionnelle avec des thérapies alternatives, cette pratique vise à traiter le patient dans sa globalité. Un modèle qui trouve une place particulière dans les domaines de la médecine anti-âge  où l’accent est mis sur l’amélioration de la qualité de vie, mais aussi sur la prévention et l’équilibre physique et mental."
     },
     "Nooance": {
       "h2": "NOOĀNCE : le spécialiste français du soin anti-âge augmenté",
-      "h3": "Avec Dorothée Delamer, directrice de la marque NOOĀNCE",
+      "h3": "Dorothée Delamer",
       "cta": "Lire l'article",
       "cta_link": "/fr/interview-delamer-dorothee-nooance-specialiste-français-soin-anti-age-augmente",
       "content": "Nous avons officiellement lancé NOOĀNCE en septembre 2022. Mais en réalité, ce projet mûrissait depuis plus de cinq ans. Pendant trois ans, nous avons travaillé avec des ingénieurs en biochimie, des dermatologues et des experts de la peau pour développer une gamme de masques LED et casques LED & Laser (LLLT), alliant haute technologie, confort et efficacité cliniquement prouvée. Nous avons également formulé une ligne de soins topiques,qui agit en complémentarité avec nos dispositifs LED, en s’appuyant sur les actifs les plus étudiés et reconnus pour leur efficacité par la science."
     },
     "Romain_Foucourt": {
       "h2": "Cosmétologie médicale et prise en charge de la rosacée",
-      "h3": "Par le Dr Romain Foucourt ",
+      "h3": "Dr Romain Foucourt ",
       "cta": "Lire l'article",
       "cta_link": "/fr/technique-docteur-foucourt-romain-cosmetologie-medicale-traitement-rosacee",
       "content": "Le Dr Romain Foucourt est médecin esthétique, formé au sein d’universités françaises de renom. Il a complété sa formation fondamentale en physique auprès du Massachusetts Institute of Technology (MIT), ainsi qu’en médecine régénérative et thérapies cellulaires à l’Université de Montpellier. Il développe une approche intégrative, située à la croisée des sciences fondamentales, de la biologie cutanée et de l’esthétique médicale contemporaine."
     },
     "Luiza_Gabour": {
       "h2": "Etude comparée de la réglementation de la toxine botulique en France et dans les pays européens",
-      "h3": "Par Luiza Gabour",
+      "h3": "Luiza Gabour",
       "cta": "Lire l'article",
       "cta_link": "/fr/expertise-maitre-gabour-luiza-etude-reglementation-toxine-botulique-france-europe",
       "content": "La toxine botulique, a été utilisée à des fins médicales depuis 1975 et c’est dans le domaine de la médecine esthétique que la toxine botulique a connu une véritable révolution. En 2002, la toxine botulique, commercialisée sous le nom de BOTOX, a reçu l’aval de la Food and Drug Administration (FDA) pour traiter les rides. Selon Montesquieu « La liberté est le droit de faire ce que les lois permettent ». En matière de règlementation sur la toxine botulique en Europe, la liberté est différente en fonction des pays où se trouvent les médecins."
     },
     "Jean_Jacques_Deutsch": {
       "h2": "INTERVIEW AVEC LE DR JEAN-JACQUES DEUTSCH",
-      "h3": "Présentation du Docteur DEUTSCH",
+      "h3": "Dr Jean-Jacques Deutsch",
       "cta": "Lire l'article",
       "cta_link": "/fr/interview-docteur-deutsch-jean-jacques-congres-sfme",
       "content": "Le Dr Jean-Jacques Deutsch est une figure incontournable de la médecine esthétique en France comme à l’international. Lauréat de la Faculté de Médecine de Paris, il cumule plus de 40 ans d’expertise en tant que pionnier de l’approche globale, préventive et scientifique du vieillissement. Titulaire de nombreux diplômes universitaires en médecine esthétique, gynécologie esthétique, psychothérapie comportementale et médecine anti-âge, il incarne une médecine humaine, rigoureuse et innovante."
     },
     "Jean_Jacques_Deutsch_2": {
       "h2": "L’HISTOIRE DE LA MEDECINE ESTHÉTIQUE",
-      "h3": "Par Docteur Jean-Jacques DEUTSCH",
+      "h3": "Dr Jean-Jacques Deutsch",
       "cta": "Lire l'article",
       "cta_link": "/fr/dossier-docteur-deutsch-jean-jacques-introduction-histoire-medecine-esthetique-france",
       "content": "Il a fallu batailler ferme pour qu’aujourd’hui, plus de 50 ans après son départ, des milliers de médecins en France et dans le monde pratiquent des traitements médicaux incontestés à visée esthétique, permettant ainsi à leurs patients et à leurs patientes d’accéder à un état de bienêtre physique et mental, en gommant les aspects inesthétiques liés au vieillissement ou à des séquelles de maladies ou d’accident, mais aussi liés à la morphologie et l’hérédité."
     },
     "Thomas_Josse": {
       "h2": "UNE CONCIERGERIE & UN CLUB PRIVÉ POUR LES ACTEURS DE L’ESTHÉTIQUE",
-      "h3": "Avec Monsieur Thomas JOSSE",
+      "h3": "Thomas Josse",
       "cta": "Lire l'article",
       "cta_link": "/fr/interview-josse-thomas-conciergerie-club-acteurs-medecine-esthetique",
       "content": "Depuis plus de 10 ans, l’Agence Thomas Josse s’impose comme pionnière dans l’accompagnement des professionnels de la médecine et de la chirurgie esthétique. Première structure à avoir démocratisé le community management dédié à ces spécialités, elle a su évoluer en parallèle des besoins croissants d’un secteur en constante mutation. Aujourd’hui, une nouvelle étape s’ouvre : celle d’un écosystème de services entièrement pensé pour les praticiens et les industriels du secteur."
     },
     "Benjamin_Ascher_2": {
       "h2": "MISE EN LUMIÈRE : SIBUS-IN®",
-      "h3": "Avec Dr Benjamin ASCHER & Dr Audrey MELIN",
+      "h3": "Dr Benjamin Ascher & Dr Audrey Melin",
       "cta": "Lire l'article",
       "cta_link": "/fr/innovation-docteurs-melin-audrey-ascher-benjamin-sibus-in-sonde-echographique-digitale",
       "content": "Les injections de toxine ou de produits de comblement peuvent entraîner des effets indésirables, le plus souvent bénins et transitoires (asymétries, irrégularités, œdèmes, ecchymoses). En revanche, les produits de comblement exposent à des complications plus sévères, notamment infections, nodules inflammatoires et surtout des complications vasculaires comme la nécrose ou la cécité."
     },
     "Jean_Yves_Coste_2": {
       "h2": "IA ET MÉDECINE ESTHÉTIQUE : CONVERGENCE TECHNOLOGIQUE",
-      "h3": "Avec Monsieur Jean-Yves COSTE",
+      "h3": "Jean-Yves Coste",
       "cta": "Lire l'article",
       "cta_link": "/fr/dossier-coste-jean-yves-intelligence-artificielle-medecine-esthetique-convergence-technologique",
       "content": "Nous avons tenté de comprendre ce qui constitue le fondement de l’IA et de l’IA générative, au-delà de la bulle spéculative qui accompagne l’essor de cette technologie désormais omniprésente. Celle-ci s’introduit dans des domaines variés tels que les soins de santé, l’esthétique médicale, la médecine régénérative, la dermo-cosmétique, le bien-être et le style de vie. Nous avons également analysé comment elle favorise l’adoption rapide de technologies de rupture, tout en contribuant à la démocratisation de la numérisation et à la personnalisation des soins dans ces secteurs."
     },
     "Julien_Vervel_2": {
       "h2": "LE GENERATIVE ENGINE OPTIMIZATION (GEO)",
-      "h3": "Avec Monsieur Julien VERVEL",
+      "h3": "Julien Vervel",
       "cta": "Lire l'article",
       "cta_link": "/fr/dossier-vervel-julien-visibilite-referencement-medecins-intelligence-artificielle-geo",
       "content": "Pendant des années, les moteurs de recherche traditionnels, notamment Google, ont suivi une logique simple : proposer une liste de liens vers des pages web jugées pertinentes en réponse à une requête. Cette mécanique a donné naissance au Search Engine Optimization (SEO), aujourd’hui pilier du marketing digital, y compris dans le secteur médical."
@@ -488,7 +488,7 @@
         "content": "<p>Aujourd’hui, l’Agence s’organise autour de cinq pôles complémentaires :</p><ul> <li>Communication et conseil en médecine/chirurgie régénérative</li> <li>Social media management éthique et déontologique</li> <li>Enseignement</li> <li>Conciergerie & Club privé</li> <li>Organisation d’événements business</li></ul> <p>Avec cette nouvelle offre, l’Agence Thomas Josse affirme sa mission : accompagner les médecins et chirurgiens esthétiques dans tous les aspects de leur activité, tout en renforçant les passerelles avec les industriels du secteur. Plus qu’un service, c’est un véritable écosystème professionnel qui se construit à la croisée de l’innovation, de l’écoute et du sur-mesure.</p>"
       }
     },
-    "Benjamin_Asher_2": {
+    "Benjamin_Ascher_2": {
       "h1": " MISE EN LUMIÈRE : SIBUS-IN®",
       "abstract": "L'échographie ne transforme pas l'injection, elle la sécurise.",
       "author": "Avec Dr Benjamin ASCHER  & Dr Audrey MELIN",

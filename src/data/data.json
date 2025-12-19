@@ -1,16 +1,21 @@
 [
   {
     "image": "/contributors/doctor-ascher-benjamin-heritage-magazine.png",
+    "head": "/publications/sibus-in-dr-ascher-dr-melin.jpg",
     "alt": "Sibus-In® HERITAGE Magazine",
     "h2": "Benjamin_Ascher_2.h2",
     "h3": "Benjamin_Ascher_2.h3",
     "p": "Benjamin_Ascher_2.content",
     "linkTo": "Benjamin_Ascher_2.cta_link",
     "linkText": "Benjamin_Ascher_2.cta",
-    "tags": ["Benjamin_Ascher_2.tags.t1.title"]
+    "tags": [
+      "Benjamin_Ascher_2.tags.t1.title",
+      "Benjamin_Ascher_2.tags.t2.title"
+    ]
   },
   {
     "image": "/contributors/doctor-deutsch-jean-jacques-heritage-magazine.png",
+    "head": "/publications/history-aesthetic-medicine-dr-deautsch-aesthetic-media.jpg",
     "alt": "Jean-Jacques Deutsch HERITAGE Magazine",
     "h2": "Jean_Jacques_Deutsch_2.h2",
     "h3": "Jean_Jacques_Deutsch_2.h3",
@@ -21,6 +26,7 @@
   },
   {
     "image": "/contributors/coste-jean-yves-heritage-magazine.png",
+    "head": "/publications/ai-aesthetic-medicine-technologicla-convergence.jpg",
     "alt": "jean-Yves Coste HERITAGE Magazine",
     "h2": "Jean_Yves_Coste_2.h2",
     "h3": "Jean_Yves_Coste_2.h3",
@@ -31,6 +37,7 @@
   },
   {
     "image": "/contributors/josse-thomas-heritage-magazine.png",
+    "head": "/publications/concierge-service-private-club-aesthetic-professionales.jpg",
     "alt": "Thomas Josse HERITAGE Magazine",
     "h2": "Thomas_Josse.h2",
     "h3": "Thomas_Josse.h3",
@@ -41,6 +48,7 @@
   },
   {
     "image": "/contributors/vervel-julien-healthcie-heritage-magazine.png",
+    "head": "/publications/generative-engine-optimization-geo-specialist.jpg",
     "alt": "Julien Vervel HERITAGE Magazine",
     "h2": "Julien_Vervel_2.h2",
     "h3": "Julien_Vervel_2.h3",
@@ -51,6 +59,7 @@
   },
   {
     "image": "/contributors/doctor-deutsch-jean-jacques-heritage-magazine.png",
+    "head": "/publications/dr-deutsch-leading-figure-aesthetic-medicine.jpg",
     "alt": "Jean-Jacques Deutsch HERITAGE Magazine",
     "h2": "Jean_Jacques_Deutsch.h2",
     "h3": "Jean_Jacques_Deutsch.h3",
@@ -61,6 +70,7 @@
   },
   {
     "image": "/contributors/delamer-dorothee-nooance-heritage-magazine.png",
+    "head": "/publications/nooance-french-expert-advanced-anti-aging-skincare.jpg",
     "alt": "Dorothée Delamer Nooance HERITAGE Magazine",
     "h2": "Nooance.h2",
     "h3": "Nooance.h3",
@@ -71,6 +81,7 @@
   },
   {
     "image": "/contributors/caulkins-carrie-hydrafacial-heritage-magazine.png",
+    "head": "/publications/hydrafacial-skinimalism-intelligent-beauty.jpg",
     "alt": "Carrie Caulkins HERITAGE Magazine",
     "h2": "Carrie_Caulkins.h2",
     "h3": "Carrie_Caulkins.h3",
@@ -81,6 +92,7 @@
   },
   {
     "image": "/contributors/doctor-margulies-michael-heritage-magazine.png",
+    "head": "/publications/integrative-aesthetic-medicine-dr-margulies.jpg",
     "alt": "Dr Margulies HERITAGE Magazine",
     "h2": "Dr_Margulies.h2",
     "h3": "Dr_Margulies.h3",
@@ -91,6 +103,7 @@
   },
   {
     "image": "/contributors/doctor-razafimahefa-tantely-heritage-magazine.png",
+    "head": "/publications/hybrid-rhinoplastie-dr-raza-specialist.jpg",
     "alt": "Tantely Razafimahefa HERITAGE Magazine",
     "h2": "Tantely_Raza.h2",
     "h3": "Tantely_Raza.h3",
@@ -101,6 +114,7 @@
   },
   {
     "image": "/contributors/gabour-luiza-heritage-magazine.png",
+    "head": "/publications/comparative-study-botulinum-toxin-regulation-france-europe.jpg",
     "alt": "Luiza Gabour HERITAGE Magazine",
     "h2": "Luiza_Gabour.h2",
     "h3": "Luiza_Gabour.h3",
@@ -115,6 +129,7 @@
   },
   {
     "image": "/contributors/doctor-foucourt-romain-heritage-magazine.png",
+    "head": "/publications/medical-cosmetology-rosacea-management.jpg",
     "alt": "Romain Foucourt HERITAGE Magazine",
     "h2": "Romain_Foucourt.h2",
     "h3": "Romain_Foucourt.h3",
@@ -126,6 +141,7 @@
 
   {
     "image": "/contributors/comte-bertrand-heritage-magazine.png",
+    "head": "/publications/ai-heart-human-control-idocteur.jpg",
     "alt": "IDocteur HERITAGE Magazine",
     "h2": "IDocteur.h2",
     "h3": "IDocteur.h3",
@@ -136,6 +152,7 @@
   },
   {
     "image": "/contributors/doctor-haykal-diala-heritage-magazine.png",
+    "head": "/publications/machine-learning-medical-training.jpg",
     "alt": "Diala Haykal HERITAGE Magazine",
     "h2": "Diala_Haykal_2.h2",
     "h3": "Diala_Haykal_2.h3",
@@ -146,6 +163,7 @@
   },
   {
     "image": "/contributors/doctor-cartier-hugues-heritage-magazine.png",
+    "head": "/publications/aesthetic-medicine-innovation-heritage-magazine.jpg",
     "alt": "Hugues Cartier et Sébastien Garson HERITAGE Magazine",
     "h2": "cartier.h2",
     "h3": "cartier.h3",
@@ -156,6 +174,7 @@
   },
   {
     "image": "/contributors/doctor-lapadula-simone-heritage-magazine.png",
+    "head": "/publications/new-approch-rejuvenation-aesthetic-magazine-pr-lapadula.jpg",
     "alt": "Simone La Padula HERITAGE Magazine",
     "h2": "lapadula.h2",
     "h3": "lapadula.h3",
@@ -166,6 +185,7 @@
   },
   {
     "image": "/contributors/coste-jean-yves-heritage-magazine.png",
+    "head": "/publications/2025-aesthetic-market-overview-specialist-aesthetic-media.jpg",
     "alt": "Jean-Yves Coste HERITAGE Magazine",
     "h2": "coste.h2",
     "h3": "coste.h3",
@@ -176,6 +196,7 @@
   },
   {
     "image": "/contributors/doctor-haykal-diala-heritage-magazine.png",
+    "head": "/publications/skincare-innovation-alliance-aesthetic-magazine-heritage.jpg",
     "alt": "Diala haykal HERITAGE Magazine",
     "h2": "diala.h2",
     "h3": "diala.h3",
@@ -186,6 +207,7 @@
   },
   {
     "image": "/contributors/doctor-ascher-benjamin-heritage-magazine.png",
+    "head": "/publications/medical-aesthetic-injectable-summit-dr-ascher.jpg",
     "alt": "Dr Benjamin Ascher HERITAGE Magazine",
     "h2": "ascher.h2",
     "h3": "ascher.h3",
@@ -196,6 +218,7 @@
   },
   {
     "image": "/contributors/couraud-olivier-heritage-magazine.png",
+    "head": "/publications/cosmetology-olivier-claire-aesthetic-media.jpg",
     "alt": "Olivier Claire HERITAGE Magazine",
     "h2": "olivier.h2",
     "h3": "olivier.h3",
@@ -206,6 +229,7 @@
   },
   {
     "image": "/contributors/doctor-adda-jean-marc-heritage-magazine.png",
+    "head": "/publications/aerolase-neo-elite-laser-aesthetic-media.jpg",
     "alt": "Aerolase HERITAGE Magazine",
     "h2": "adda.h2",
     "h3": "adda.h3",
@@ -216,6 +240,7 @@
   },
   {
     "image": "/contributors/doctor-hersant-barbara-heritage-magazine.png",
+    "head": "/publications/digital-information-healthcare-aesthetic-media-specialized.jpg",
     "alt": "Pr Barbara Hersant HERITAGE Magazine",
     "h2": "barbara.h2",
     "h3": "barbara.h3",
@@ -226,6 +251,7 @@
   },
   {
     "image": "/contributors/vervel-julien-healthcie-heritage-magazine.png",
+    "head": "/publications/focus-medical-e-reputaion-aesthetic-magazine.jpg",
     "alt": "Julien Vervel HERITAGE Magazine",
     "h2": "julien.h2",
     "h3": "julien.h3",
@@ -236,6 +262,7 @@
   },
   {
     "image": "/contributors/nivault-hugo-healthcie-heritage-magazine.png",
+    "head": "/publications/prepare-digital-project-aesthetic-medicine-magazine.jpg",
     "alt": "Hugo Nivault HERITAGE Magazine",
     "h2": "hugo.h2",
     "h3": "hugo.h3",

@@ -66,6 +66,7 @@ export async function generateMetadata({ params }: Params) {
 
 type Item = {
   image: string;
+  head: string;
   alt: string;
   h2: string;
   h3: string;

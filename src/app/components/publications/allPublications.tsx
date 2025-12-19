@@ -2,13 +2,11 @@
 
 import { useTranslations } from "next-intl";
 import { useState } from "react";
-import {
-  DisplayPublicationOdd,
-  DisplayPublicationPeer,
-} from "./DisplayPublication";
+import { DisplayPublication } from "./DisplayPublication";
 
 type Item = {
   image: string;
+  head: string;
   alt: string;
   h2: string;
   h3: string;
@@ -78,36 +76,23 @@ export default function AllPublications({ data }: Props) {
         {/* <PublicationPerEdition data={filteredData} /> */}
       </section>
 
-      <section className="myContainer bg-white text-mainBlue">
+      <section className="myContainer bg-white text-mainBlue grid md:grid-cols-2 lg:grid-cols-3 gap-8">
         {filteredData.map((article, index) => {
-          if (index % 2 === 0) {
-            return (
-              <DisplayPublicationPeer
-                key={index}
-                image={article.image}
-                alt={article.alt}
-                h2={article.h2}
-                h3={article.h3}
-                p={article.p}
-                linkTo={article.linkTo}
-                linkText={article.linkText}
-              />
-            );
-          }
-          if (index % 2 === 1) {
-            return (
-              <DisplayPublicationOdd
-                key={index}
-                image={article.image}
-                alt={article.alt}
-                h2={article.h2}
-                h3={article.h3}
-                p={article.p}
-                linkTo={article.linkTo}
-                linkText={article.linkText}
-              />
-            );
-          }
+          return (
+            <DisplayPublication
+              key={index}
+              index={index}
+              image={article.image}
+              head={article.head}
+              alt={article.alt}
+              h2={article.h2}
+              h3={article.h3}
+              p={article.p}
+              linkTo={article.linkTo}
+              linkText={article.linkText}
+              tags={article.tags}
+            />
+          );
         })}
       </section>
     </>
