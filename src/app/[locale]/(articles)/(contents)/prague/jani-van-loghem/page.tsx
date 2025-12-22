@@ -66,17 +66,7 @@ export async function generateMetadata({ params }: Params) {
 export default function Article() {
   const t = useTranslations("Articles.Prague_Jani_Van_Loghem");
   const tags = ["t1"] as const;
-  const contents = [
-    "p1",
-    "p2",
-    "p3",
-    "p4",
-    "p5",
-    "p6",
-    "p7",
-    "p8",
-    "p9",
-  ] as const;
+  const contents = ["p1", "p2", "p3", "p4", "p5", "p6", "p7", "p8"] as const;
   return (
     <div>
       <section className="myContainer lg:space-x-16 full-screen max-lg:flex max-lg:flex-col-reverse max-lg:gap-10 lg:grid lg:grid-cols-5 text-mainBlue">
