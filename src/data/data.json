@@ -1,5 +1,187 @@
 [
   {
+    "image": "",
+    "head": "/publications/skinceuticals-aesthetic-media-heritage-magazine.jpg",
+    "alt": "Skinceuticals HERITAGE Magazine",
+    "h2": "Prague_Skinceuticals.h2",
+    "h3": "Prague_Skinceuticals.h3",
+    "p": "Prague_Skinceuticals.content",
+    "linkTo": "Prague_Skinceuticals.cta_link",
+    "linkText": "Prague_Skinceuticals.cta",
+    "tags": ["Prague_Skinceuticals.tags.t1.title"]
+  },
+  {
+    "image": "",
+    "head": "/publications/biosolution-co-exosomes-specialiste-aesthetic-magazine.jpg",
+    "alt": "Biosolution.co HERITAGE Magazine",
+    "h2": "Prague_Exosomes.h2",
+    "h3": "Prague_Exosomes.h3",
+    "p": "Prague_Exosomes.content",
+    "linkTo": "Prague_Exosomes.cta_link",
+    "linkText": "Prague_Exosomes.cta",
+    "tags": ["Prague_Exosomes.tags.t1.title"]
+  },
+  {
+    "image": "/contributors/Osvaldova-eva-heritage-magazine.png",
+    "head": "/publications/eva-osvaldova-julien-vervel-specialists-aesthetic-magazine.jpg",
+    "alt": "Eva Osvaldova & Julien Vervel HERITAGE Magazine",
+    "h2": "Prague_Eva_Osvaldova_Healthcie.h2",
+    "h3": "Prague_Eva_Osvaldova_Healthcie.h3",
+    "p": "Prague_Eva_Osvaldova_Healthcie.content",
+    "linkTo": "Prague_Eva_Osvaldova_Healthcie.cta_link",
+    "linkText": "Prague_Eva_Osvaldova_Healthcie.cta",
+    "tags": [
+      "Prague_Eva_Osvaldova_Healthcie.tags.t1.title",
+      "Prague_Eva_Osvaldova_Healthcie.tags.t2.title",
+      "Prague_Eva_Osvaldova_Healthcie.tags.t3.title"
+    ]
+  },
+  {
+    "image": "/contributors/nivault-hugo-healthcie-heritage-magazine.png",
+    "head": "/publications/hugo-nivault-medical-website-specialiste-aesthetic-media.jpg",
+    "alt": "HEALTHCIE HERITAGE Magazine",
+    "h2": "Prague_Healthcie.h2",
+    "h3": "Prague_Healthcie.h3",
+    "p": "Prague_Healthcie.content",
+    "linkTo": "Prague_Healthcie.cta_link",
+    "linkText": "Prague_Healthcie.cta",
+    "tags": ["Prague_Healthcie.tags.t1.title", "Prague_Healthcie.tags.t2.title"]
+  },
+  {
+    "image": "/contributors/steven-harris-heritage-magazine.png",
+    "head": "/publications/instagram-vs-reality-aesthetic-specialist-heritage-magazine.jpg",
+    "alt": "Steven Harris HERITAGE Magazine",
+    "h2": "Prague_Steven_Harris.h2",
+    "h3": "Prague_Steven_Harris.h3",
+    "p": "Prague_Steven_Harris.content",
+    "linkTo": "Prague_Steven_Harris.cta_link",
+    "linkText": "Prague_Steven_Harris.cta",
+    "tags": ["Prague_Steven_Harris.tags.t1.title"]
+  },
+  {
+    "image": "/contributors/roshan-ravindran-heritage-magazine.png",
+    "head": "/publications/roshan-ravindran-heritage-magazine-aesthetic-media-specialized.jpg",
+    "alt": "Roshan Ravindran HERITAGE Magazine",
+    "h2": "Prague_Roshan_Ravidran.h2",
+    "h3": "Prague_Roshan_Ravidran.h3",
+    "p": "Prague_Roshan_Ravidran.content",
+    "linkTo": "Prague_Roshan_Ravidran.cta_link",
+    "linkText": "Prague_Roshan_Ravidran.cta",
+    "tags": [
+      "Prague_Roshan_Ravidran.tags.t1.title",
+      "Prague_Roshan_Ravidran.tags.t2.title"
+    ]
+  },
+  {
+    "image": "/contributors/jani-von-loghem-heritage-magazine.png",
+    "head": "/publications/safer-filler-injection-dr-van-loghem-aesthetic-magazine-heritage.jpg",
+    "alt": "Jani Van Loghem HERITAGE Magazine",
+    "h2": "Prague_Jani_Van_Loghem.h2",
+    "h3": "Prague_Jani_Van_Loghem.h3",
+    "p": "Prague_Jani_Van_Loghem.content",
+    "linkTo": "Prague_Jani_Van_Loghem.cta_link",
+    "linkText": "Prague_Jani_Van_Loghem.cta",
+    "tags": ["Prague_Jani_Van_Loghem.tags.t1.title"]
+  },
+  {
+    "image": "/contributors/konstantin-frank-heritage-magazine.png",
+    "head": "/publications/science-based-rejuvenation-specialist-heritage-magazine.jpg",
+    "alt": "Konstantin Frank HERITAGE Magazine",
+    "h2": "Prague_Konstantin_Frank.h2",
+    "h3": "Prague_Konstantin_Frank.h3",
+    "p": "Prague_Konstantin_Frank.content",
+    "linkTo": "Prague_Konstantin_Frank.cta_link",
+    "linkText": "Prague_Konstantin_Frank.cta",
+    "tags": ["Prague_Konstantin_Frank.tags.t1.title"]
+  },
+  {
+    "image": "/contributors/lee-walker-heritage-magazine.png",
+    "head": "/publications/blindness-after-facial-fillers-dr-lee-walker-heritage-magazine.jpg",
+    "alt": "Lee Walker HERITAGE Magazine",
+    "h2": "Prague_Lee_Walker.h2",
+    "h3": "Prague_Lee_Walker.h3",
+    "p": "Prague_Lee_Walker.content",
+    "linkTo": "Prague_Lee_Walker.cta_link",
+    "linkText": "Prague_Lee_Walker.cta",
+    "tags": ["Prague_Lee_Walker.tags.t1.title"]
+  },
+  {
+    "image": "/contributors/monika-kavkova-heritage-magazine.png",
+    "head": "/publications/controverses-biostimulation-dr-kavkova-aesthetic-media-heritage.jpg",
+    "alt": "Monika Kavkova HERITAGE Magazine",
+    "h2": "Prague_Monika_Kavkova_3.h2",
+    "h3": "Prague_Monika_Kavkova_3.h3",
+    "p": "Prague_Monika_Kavkova_3.content",
+    "linkTo": "Prague_Monika_Kavkova_3.cta_link",
+    "linkText": "Prague_Monika_Kavkova_3.cta",
+    "tags": ["Prague_Monika_Kavkova_3.tags.t1.title"]
+  },
+  {
+    "image": "/contributors/monika-kavkova-heritage-magazine.png",
+    "head": "/publications/beauty-balance-aesthetic-specialist-dr-kavkova-heritage-magazine.jpg",
+    "alt": "Monika Kavkova HERITAGE Magazine",
+    "h2": "Prague_Monika_Kavkova_2.h2",
+    "h3": "Prague_Monika_Kavkova_2.h3",
+    "p": "Prague_Monika_Kavkova_2.content",
+    "linkTo": "Prague_Monika_Kavkova_2.cta_link",
+    "linkText": "Prague_Monika_Kavkova_2.cta",
+    "tags": ["Prague_Monika_Kavkova_2.tags.t1.title"]
+  },
+  {
+    "image": "/contributors/monika-kavkova-heritage-magazine.png",
+    "head": "/publications/lips-rejuvenation-specialist-dr-kavkova-aesthetic-magazine-heritage.jpg",
+    "alt": "Monika Kavkova HERITAGE Magazine",
+    "h2": "Prague_Monika_Kavkova.h2",
+    "h3": "Prague_Monika_Kavkova.h3",
+    "p": "Prague_Monika_Kavkova.content",
+    "linkTo": "Prague_Monika_Kavkova.cta_link",
+    "linkText": "Prague_Monika_Kavkova.cta",
+    "tags": ["Prague_Monika_Kavkova.tags.t1.title"]
+  },
+  {
+    "image": "/contributors/Osvaldova-eva-heritage-magazine.png",
+    "head": "/publications/ai-aesthetic-practice-magazine-heritage.jpg",
+    "alt": "Eva Osvaldova HERITAGE Magazine",
+    "h2": "Prague_Eva_Osvaldova_2.h2",
+    "h3": "Prague_Eva_Osvaldova_2.h3",
+    "p": "Prague_Eva_Osvaldova_2.content",
+    "linkTo": "Prague_Eva_Osvaldova_2.cta_link",
+    "linkText": "Prague_Eva_Osvaldova_2.cta",
+    "tags": [
+      "Prague_Eva_Osvaldova_2.tags.t1.title",
+      "Prague_Eva_Osvaldova_2.tags.t2.title"
+    ]
+  },
+  {
+    "image": "/contributors/Osvaldova-eva-heritage-magazine.png",
+    "head": "/publications/technologies-aesthetic-medicine-practice-heritage-magazine-specialized-media.jpg",
+    "alt": "Eva Osvaldova HERITAGE Magazine",
+    "h2": "Prague_Eva_Osvaldova.h2",
+    "h3": "Prague_Eva_Osvaldova.h3",
+    "p": "Prague_Eva_Osvaldova.content",
+    "linkTo": "Prague_Eva_Osvaldova.cta_link",
+    "linkText": "Prague_Eva_Osvaldova.cta",
+    "tags": [
+      "Prague_Eva_Osvaldova.tags.t1.title",
+      "Prague_Eva_Osvaldova.tags.t2.title"
+    ]
+  },
+  {
+    "image": "/contributors/coste-jean-yves-heritage-magazine.png",
+    "head": "/publications/data-driven-insights-aesthetic-media-heritage.jpg",
+    "alt": "Jean Yves Coste HERITAGE Magazine",
+    "h2": "Prague_Jean_Yves_Coste.h2",
+    "h3": "Prague_Jean_Yves_Coste.h3",
+    "p": "Prague_Jean_Yves_Coste.content",
+    "linkTo": "Prague_Jean_Yves_Coste.cta_link",
+    "linkText": "Prague_Jean_Yves_Coste.cta",
+    "tags": [
+      "Prague_Jean_Yves_Coste.tags.t1.title",
+      "Prague_Jean_Yves_Coste.tags.t2.title",
+      "Prague_Jean_Yves_Coste.tags.t3.title"
+    ]
+  },
+  {
     "image": "/contributors/doctor-ascher-benjamin-heritage-magazine.png",
     "head": "/publications/sibus-in-dr-ascher-dr-melin.jpg",
     "alt": "Sibus-In® HERITAGE Magazine",

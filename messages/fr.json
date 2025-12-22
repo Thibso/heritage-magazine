@@ -436,70 +436,175 @@
       "cta": "Lire l'article",
       "cta_link": "/fr/dossier-vervel-julien-visibilite-referencement-medecins-intelligence-artificielle-geo",
       "content": "Pendant des années, les moteurs de recherche traditionnels, notamment Google, ont suivi une logique simple : proposer une liste de liens vers des pages web jugées pertinentes en réponse à une requête. Cette mécanique a donné naissance au Search Engine Optimization (SEO), aujourd’hui pilier du marketing digital, y compris dans le secteur médical."
+    },
+    "Prague_Skinceuticals": {
+      "h2": "SKINCEUTICALS : UN PIONNIER DES SOINS DE LA PEAU INTÉGRÉS BASÉS SUR LA SCIENCE",
+      "h3": "Skinceuticals",
+      "cta": "Lire l'article",
+      "cta_link": "/fr/focus-skinceuticals-pionnier-soins-peau-integres-prague-lab",
+      "content": "Le monde de la dermocosmétique a été enrichi en 1997 par une marque qui a bouleversé la perception des soins de la peau, combinant recherche scientifique et résultats concrets. Cette marque est SkinCeuticals, fondée par le visionnaire et pionnier dans le domaine des antioxydants et de la dermatologie, Dr. Sheldon Pinnell."
+    },
+    "Prague_Exosomes": {
+      "h2": "PÉNÉTRATION CUTANÉE AMÉLIORÉE D’UNE FORMULATION À BASE D’EXOSOMES",
+      "h3": "Biosolution.co",
+      "cta": "Lire l'article",
+      "cta_link": "/fr/dossier-biosolution-administration-exosomes-assistee-micro-aiguilles-prague-lab",
+      "content": "La présente étude évalue l’absorption transdermique d’une nouvelle formulation à base d’exosomes, PKH26@MG-EXO-SKIN, à l’aide du modèle de peau humaine reconstruite KeraSkin-FT™ (épaisseur complète). L’application de microneedles a considérablement amélioré la pénétration cutanée de la formulation, permettant une diffusion au-delà de la couche cornée jusque dans les couches plus profondes de la peau, y compris le derme."
+    },
+    "Prague_Eva_Osvaldova_Healthcie": {
+      "h2": "STRATÉGIES POUR RÉUSSIR : GÉRER UNE CLINIQUE ESTHÉTIQUE EN 2025/2026",
+      "h3": "Eva Osvaldová & Julien Vervel",
+      "cta": "Lire l'article",
+      "cta_link": "/fr/dossier-healthcie-vervel-julien-eva-osvaldova-gestion-clinique-esthetique-2025-prague-lab",
+      "content": "Gérer une clinique esthétique prospère aujourd’hui signifie allier excellence clinique, maîtrise du numérique et approche centrée sur le patient. En 2025/2026, les patients attendent non seulement des résultats visibles, mais aussi une expérience fluide et personnalisée : depuis leur première recherche en ligne jusqu’au suivi post-traitement."
+    },
+    "Prague_Healthcie": {
+      "h2": "LE SITE WEB MÉDICAL COMME PILIER DE VOTRE STRATEGIE DIGITALE",
+      "h3": "Hugo Nivault",
+      "cta": "Lire l'article",
+      "cta_link": "/fr/focus-nivault-hugo-agence-healthcie-site-web-medical-strategie-digitale-prague-lab",
+      "content": "Un site web médical n’est pas simplement une plateforme d’information — il constitue la pierre angulaire de la communication digitale et de la réputation en ligne d’un praticien. Il reflète la qualité des soins, le sérieux scientifique et la modernité de la clinique ou du laboratoire."
+    },
+    "Prague_Steven_Harris": {
+      "h2": "INSTAGRAM VS RÉALITÉ EN MEDECINE ESTHETIQUE",
+      "h3": "Dr. Steven Harris",
+      "cta": "Lire l'article",
+      "cta_link": "/fr/dossier-docteur-harris-steven-instagram-vs-realite-medecine-esthetique-prague-lab",
+      "content": "Contexte : Les plateformes de réseaux sociaux, en particulier Instagram, semblent influencer les standards contemporains de beauté, notamment en ce qui concerne l’augmentation des lèvres. Comprendre les types de lèvres les plus fréquemment mis en avant peut offrir des informations précieuses sur l’évolution des idéaux esthétiques, utiles tant pour les patients que pour les praticiens."
+    },
+    "Prague_Roshan_Ravidran": {
+      "h2": "KLNIK ET L’UNIVERSITÉ ANGLIA RUSKIN UNISSENT LEURS FORCES POUR FAIRE PROGRESSER LA RECHERCHE EN MÉDECINE ESTHÉTIQUE",
+      "h3": "Dr. Roshan Ravindran",
+      "cta": "Lire l'article",
+      "cta_link": "/fr/expertise-docteur-ravindran-roshan-progression-recherche-medecine-esthetique-prague-lab",
+      "content": "Le Dr Roshan Ravindran, de KLNIK à Wilmslow, au Royaume-Uni, et le professeur Lee Smith, de l’Université Anglia Ruskin, au Royaume-Uni, ont uni leurs forces pour faire progresser la recherche dans le domaine de la médecine esthétique et répondre à certaines des problématiques les plus urgentes de ce domaine."
+    },
+    "Prague_Jani_Van_Loghem": {
+      "h2": "Volumes d’injection plus sûrs pour les Fillers dans les Zones Faciales à Haut Risque",
+      "h3": "Dr. Jani van Loghem",
+      "cta": "Lire l'article",
+      "cta_link": "/fr/technique-docteur-van-loghem-jani-volume-injection-fillers-prague-lab",
+      "content": "L’injection de fillers dermiques dans toutes les zones du visage comporte un risque d’injection intravasculaire et de reflux rétrograde du produit vers l’artère ophtalmique (OA) et l’artère centrale de la rétine (CRA), pouvant provoquer une ischémie rétinienne et une perte de vision."
+    },
+    "Prague_Konstantin_Frank": {
+      "h2": "Rajeunissement fondé sur la science du visage et du corps",
+      "h3": "Dr. Konstantin Frank",
+      "cta": "Lire l'article",
+      "cta_link": "/fr/interview-docteur-konstantin-frank-rajeunissement-visage-corps-medecine-esthetique-prague-lab",
+      "content": "Le rajeunissement fondé sur la science signifie que nous basons nos interventions non pas sur des tendances ou des expériences anecdotiques, mais sur une compréhension détaillée des changements biologiques et structurels qui se produisent avec le vieillissement."
+    },
+    "Prague_Lee_Walker": {
+      "h2": "CÉCITÉ APRÈS INJECTIONS DE PRODUITS DE COMBLEMENT FACIAL : PRÉVENTION, RECONNAISSANCE ET PRISE EN CHARGE",
+      "h3": "Dr. Lee Walker",
+      "cta": "Lire l'article",
+      "cta_link": "/fr/technique-docteur-walker-lee-cecite-apres-injections-acide-hyaluronique-medecine-esthetique-prague-lab",
+      "content": "Au cours des dernières années, les procédures esthétiques non chirurgicales sont devenues une pierre angulaire de la pratique cosmétique. Les produits de comblement dermiques, en particulier, offrent aux patients une option minimalement invasive pour le rajeunissement et le remodelage du visage. Pourtant, malgré leur popularité et leur sécurité générale, une complication se distingue par sa gravité : la cécité consécutive à une injection de produit de comblement facial."
+    },
+    "Prague_Monika_Kavkova_3": {
+      "h2": "CONTROVERSES DANS LA BIOSTIMULATION",
+      "h3": "Dr. Monika Kavková",
+      "cta": "Lire l'article",
+      "cta_link": "/fr/technique-docteur-kavkova-monika-controverses-biostimulation-medecine-esthetique-prague-lab",
+      "content": "Au cours des dernières années, la biostimulation est devenue l’un des secteurs connaissant la plus forte croissance en médecine esthétique, promettant une régénération naturelle et des résultats durables. Plutôt que de combler ou de remplacer le volume perdu, la biostimulation vise à régénérer la peau de l’intérieur, en stimulant les fibroblastes afin de produire du collagène et de l’élastine, restaurant ainsi la structure, l’élasticité et l’éclat."
+    },
+    "Prague_Monika_Kavkova_2": {
+      "h2": "ACIDES HYALURONIQUES DE REMPLISSAGE ENTRE BEAUTÉ ET EXCÈS",
+      "h3": "Dr. Monika Kavková",
+      "cta": "Lire l'article",
+      "cta_link": "/fr/technique-docteur-kavkova-monika-acides-hyaluroniques-remplissage-prague-lab",
+      "content": "L’acide hyaluronique (AH) est devenu la pierre angulaire incontestée de la médecine esthétique moderne. En tant que glycosaminoglycane naturellement présent dans l’organisme, responsable du maintien de l’hydratation, de l’élasticité et du volume, l’introduction de l’AH dans les produits de comblement injectables a révolutionné le rajeunissement du visage."
+    },
+    "Prague_Monika_Kavkova": {
+      "h2": "Rajeunissement des lèvres et de la région péri-orale chez la femme mature",
+      "h3": "Dr. Monika Kavková",
+      "cta": "Lire l'article",
+      "cta_link": "/fr/technique-docteur-kavkova-monika-rajeunissement-levres-femme-mature-prague-lab",
+      "content": "Les lèvres et les structures péri-orales jouent un rôle essentiel dans l’expression faciale, l’esthétique et l’identité. Chez la femme, elles sont intimement associées à l’attractivité, la jeunesse et la féminité. Cependant, les lèvres figurent parmi les premières zones à révéler les signes de l’âge."
+    },
+    "Prague_Eva_Osvaldova_2": {
+      "h2": "L’IA DANS LA PRATIQUE ESTHÉTIQUE : UNE NOUVELLE FRONTIÈRE DANS LA PRISE EN CHARGE DES PATIENTS",
+      "h3": "Eva Osvaldová",
+      "cta": "Lire l'article",
+      "cta_link": "/fr/dossier-eva-osvaldova-intelligence-artificielle-cabinet-medical-prague-lab",
+      "content": "L’intelligence artificielle (IA) n’est plus un idéal lointain de science-fiction, mais une force active et en constante évolution dans le domaine médical et son influence dans la pratique esthétique s’accélère. De la planification des traitements à l’éducation des patients, en passant par le positionnement des marques, l’IA redéfinit la manière dont les praticiens interagissent avec la santé de la peau, leurs patients et l’écosystème numérique."
+    },
+    "Prague_Eva_Osvaldova": {
+      "h2": "TECHNOLOGIES À SURVEILLER EN MÉDECINE ESTHÉTIQUE",
+      "h3": "Eva Osvaldová",
+      "cta": "Lire l'article",
+      "cta_link": "/fr/dossier-eva-osvaldova-julien-vervel-nouvelles-technologies-medecine-esthetique-prague-lab",
+      "content": "La médecine esthétique entre dans une nouvelle ère : une phase où l’innovation ne se contente plus d’améliorer les résultats, mais transforme en profondeur notre conception de la beauté, du bien-être et de la prise en charge des patients. Les cinq domaines technologiques suivants donnent le rythme de l’avenir du secteur, depuis le diagnostic et la planification thérapeutique jusqu’à la longévité et le suivi de santé en temps réel."
+    },
+    "Prague_Jean_Yves_Coste": {
+      "h2": "Le marché de l’esthétique en 2025",
+      "h3": "Jean-Yves COSTE",
+      "cta": "Lire l'article",
+      "cta_link": "/fr/analyse-coste-jean-yves-marche-medecine-esthetique-insights-2025",
+      "content": "L’esthétique médicale est portée par des catalyseurs fondamentaux durables et à l’épreuve des récessions, tels que le vieillissement démographique, l’urbanisation et la tendance à un rajeunissement croissant des patients dès leur première prise en charge (tendance du « préjuvénation »). L’esthétique n’est plus un simple jeu de vanité : pour la nouvelle génération, les générations Y et Z, soucieuses d’accomplissement personnel et d’instantanéité, ainsi que pour les seniors actifs, la beauté est devenue un droit humain fondamental. Tous aspirent à des standards de beauté toujours plus élevés."
     }
   },
   "Articles": {
     "Prague_Skinceuticals": {
-      "h1": "SKINCEUTICALS: A PIONEER IN INTEGRATED SKINCARE BASED ON SCIENCE",
-      "abstract": "SkinCeuticals continues to lead innovation in skincare, firmly adhering to its commitment to science",
+      "h1": "SKINCEUTICALS : UN PIONNIER DES SOINS DE LA PEAU INTÉGRÉS BASÉS SUR LA SCIENCE",
+      "abstract": "SkinCeuticals continue d'être à la pointe de l'innovation dans le domaine des soins de la peau, en restant fidèle à son engagement envers la science.",
       "author": "",
-      "cta_text": "Discover SkinCeuticals",
+      "cta_text": "Découvrir SkinCeuticals",
       "tags": {
         "t1": {
-          "title": "Cosmetology"
+          "title": "Cosmétologie"
         }
       },
       "img_alt": "SkinCeuticals",
       "p1": {
-        "title": " SkinCeuticals: A Pioneer in Integrated Skincare Based on Science",
-        "content": "<p> The world of dermocosmetics was enriched in 1997 by a brand that forever changed the perception of skincare, combining scientific research with practical results. This brand was SkinCeuticals, founded by the visionary and pioneer in the field of antioxidants and dermatology, Dr. Sheldon Pinnell. Dr. Sheldon Pinnell was not only a respected dermatologist but primarily a renowned scientist and professor of dermatology at Duke University Medical Center. His lifelong research focused on skin cancer and skin aging, with a deep interest in the role of antioxidants in protecting and repairing the skin. Dr. Pinnell was the first to patent a stable form of topical vitamin C and established specific parameters crucial for its effective absorption and efficacy in the skin. He founded SkinCeuticals with a simple yet revolutionary idea: to develop advanced skincare backed by scientific evidence that truly brings visible improvements to skin health and appearance. His goal was to bridge the gap between cosmetics and pharmaceuticals, offering products that would be more than just superficial beautification – products that would protect, correct, and restore the skin at a cellular level.</p>"
+        "title": "SkinCeuticals : pionnier des soins intégrés de la peau fondés sur la science",
+        "content": "<p>Le monde de la dermocosmétique a été enrichi en 1997 par une marque qui a bouleversé la perception des soins de la peau, combinant recherche scientifique et résultats concrets. Cette marque est SkinCeuticals, fondée par le visionnaire et pionnier dans le domaine des antioxydants et de la dermatologie, Dr. Sheldon Pinnell.</p><p>Dr. Pinnell n’était pas seulement un dermatologue respecté, mais surtout un scientifique renommé et professeur de dermatologie au Duke University Medical Center. Ses recherches de toute une vie se sont concentrées sur le cancer de la peau et le vieillissement cutané, avec un intérêt particulier pour le rôle des antioxydants dans la protection et la réparation de la peau.</p><p>Dr. Pinnell a été le premier à breveter une forme stable de vitamine C topique et a établi des paramètres spécifiques cruciaux pour son absorption et son efficacité dans la peau.</p><p>Il a fondé SkinCeuticals avec une idée simple mais révolutionnaire : développer des soins de la peau avancés basés sur des preuves scientifiques, apportant de véritables améliorations visibles à la santé et à l’apparence de la peau. Son objectif était de combler le fossé entre cosmétiques et produits pharmaceutiques, offrant des produits qui dépassent la simple amélioration esthétique — des produits capables de protéger, corriger et restaurer la peau au niveau cellulaire.</p>"
       },
       "p2": {
-        "title": "An Icon of Integrated Skincare",
-        "content": "<p> SkinCeuticals has become an iconic brand precisely due to its unique approach to integrated skincare. Its philosophy lies in the synergistic connection between aesthetic procedures performed by a dermatologist or specialist and advanced at-home care. The brand firmly believes that to achieve the best and most lasting results, a combination of professional treatments (such as lasers, chemical peels, microneedling) and subsequent, scientifically-backed skincare at home is essential. All SkinCeuticals products are specially formulated to be safe and highly effective for use both within professional treatments in the clinic and for subsequent regeneration and maintaining results in the comfort of one’s home. The entire SkinCeuticals product line is divided into three key categories, reflecting a comprehensive approach to skincare:</p><h4>PREVENT</h4><p>This category focuses on protecting the skin from oxidative stress and damage caused by free radicals from environmental factors such as UV radiation, pollution, and infrared radiation. Strong antioxidants are key here. A typical example is the iconic C E Ferulic serum, which is often recommended as a pre- and post-treatment for laser procedures to support healing and maximize skin protection against damage.</p><h4>CORRECT</h4><p>Products from this line are designed to correct existing skin problems such as wrinkles, fine lines, hyperpigmentation, acne, or redness. They contain highly concentrated active ingredients for targeted solutions to specific imperfections. An example is the recently launched P-Tiox product, designed to work synergistically with neurotoxin injections to extend and optimize their results in reducing dynamic wrinkles.</p><h4>PROTECT</h4><p>This category includes broad-spectrum sunscreens that protect the skin from harmful UVA and UVB radiation. Their purpose is to prevent future skin damage and maintain skin health. An excellent example is Sheer Mineral UV Defense SPF 50, a 100% mineral UV protection cream, which, thanks to its gentle formulation, is ideal for use after invasive treatments such as laser procedures.</p>"
+        "title": "Une icône des soins de la peau intégrés",
+        "content": "<p>SkinCeuticals est devenue une marque emblématique grâce à son approche unique des soins de la peau intégrés. Sa philosophie repose sur la connexion synergique entre les procédures esthétiques réalisées par un dermatologue ou un spécialiste et les soins avancés à domicile. La marque est convaincue que pour obtenir les meilleurs résultats durables, il est essentiel de combiner des traitements professionnels (lasers, peelings chimiques, microneedling) et des soins à domicile soutenus par la science.</p><p>Tous les produits SkinCeuticals sont spécialement formulés pour être sûrs et très efficaces, que ce soit dans le cadre de traitements professionnels en clinique ou pour la régénération et le maintien des résultats à domicile.</p><p>La gamme complète de SkinCeuticals se divise en trois catégories clés, reflétant une approche globale des soins de la peau :</p><ul><li>PRÉVENIR : Cette catégorie vise à protéger la peau contre le stress oxydatif et les dommages causés par les radicaux libres provenant de facteurs environnementaux tels que les rayons UV, la pollution et le rayonnement infrarouge. Les antioxydants puissants sont essentiels ici. Un exemple typique est le célèbre sérum C E Ferulic, souvent recommandé avant et après les traitements au laser pour soutenir la cicatrisation et maximiser la protection cutanée contre les agressions.</li><li>CORRIGER : Les produits de cette ligne sont conçus pour corriger les problèmes existants de la peau, tels que rides, ridules, hyperpigmentation, acné ou rougeurs. Ils contiennent des ingrédients actifs hautement concentrés pour des solutions ciblées. Par exemple, le produit récemment lancé P-Tiox, conçu pour fonctionner en synergie avec les injections de neurotoxines afin d’optimiser et prolonger leurs effets sur les rides dynamiques.</li><li>PROTÉGER : Cette catégorie comprend des écrans solaires à large spectre, protégeant la peau des rayons UVA et UVB. L’objectif est de prévenir les dommages futurs et de maintenir la santé de la peau. Un excellent exemple est Sheer Mineral UV Defense SPF 50, une crème minérale offrant une protection UV complète, idéale après des traitements invasifs comme les lasers grâce à sa formulation douce.</li></ul>"
       },
       "p3": {
-        "title": "The Iconic C E Ferulic: Science in a Bottle",
-        "content": "<p> One of the most recognized and frequently clinically studied SkinCeuticals products is undoubtedly the antioxidant serum C E Ferulic. This product truly embodies Dr. Pinnell’s scientific legacy. It contains a synergistic combination of 15% pure L-ascorbic acid (vitamin C), 1% alpha-tocopherol (vitamin E), and 0.5% ferulic acid. This unique combination not only multiplies the skin’s antioxidant protection up to eightfold but also visibly reduces fine lines and wrinkles, firms the skin, and brightens its tone.</p><p> The exceptional nature of C E Ferulic also lies in its ability to be safely and effectively used after ablative laser treatments and other professional procedures. Thanks to its strong antioxidant and regenerative properties, it helps accelerate healing, reduces redness and swelling, and simultaneously maximizes the results of the procedure itself by protecting newly formed skin from environmental aggressors. SkinCeuticals continues to lead innovation in skincare, firmly adhering to its commitment to science, research, and the development of products that not only meet but exceed expectations in terms of skin health and beauty.</p>"
+        "title": "Le C E Ferulic emblématique : la science en flacon",
+        "content": "<p>Parmi les produits SkinCeuticals, le sérum antioxydant C E Ferulic est sans doute le plus reconnu et le plus étudié cliniquement. Il incarne l’héritage scientifique du Dr. Pinnell. Ce produit contient une combinaison synergique de 15 % d’acide L-ascorbique (vitamine C), 1 % d’alpha-tocophérol (vitamine E) et 0,5 % d’acide férulique. Cette combinaison unique multiplie la protection antioxydante de la peau jusqu’à huit fois, réduit visiblement les rides et ridules, raffermit la peau et en éclaire le teint.</p><p>L’exceptionnalité de C E Ferulic réside également dans sa capacité à être utilisé en toute sécurité après des traitements professionnels comme les lasers ablatifs. Grâce à ses propriétés antioxydantes et régénératrices, il accélère la cicatrisation, réduit rougeurs et gonflements, et maximise les résultats du traitement en protégeant la peau nouvellement formée contre les agressions environnementales.</p><p>SkinCeuticals continue de mener l’innovation dans les soins de la peau, en restant fidèle à son engagement envers la science, la recherche et le développement de produits qui dépassent les attentes en matière de santé et de beauté cutanée.</p>"
       }
     },
     "Prague_Exosomes": {
-      "h1": " ENHANCED SKIN PENETRATION OF EXOSOME-LOADED FORMULATION USING MICRONEEDLE ASSISTED DELIVERY",
+      "h1": "PÉNÉTRATION CUTANÉE AMÉLIORÉE D’UNE FORMULATION À BASE D’EXOSOMES ",
       "abstract": "MANAGING AESTHETIC PRACTICE IN 2025/2026",
       "author": "SU-HYEON LEE, D. ENG.; GEON-HEE LEE, M. ENG. BIOSOLUTION CO., LTD., SEOUL, KOREA",
-      "cta_text": "Discover BioSolution.co",
+      "cta_text": "Découvrir BioSolution.co",
       "tags": {
         "t1": {
-          "title": "Aesthetic medicine"
+          "title": "Médecine esthétique"
         }
       },
       "img_alt": "",
       "p1": {
-        "title": "Abstract",
-        "content": "<p> The present study evaluates the transdermal absorption of a novel exosome-based formulation, PKH26@MG-EXO-SKIN, using the reconstructed full-thickness human skin model KeraSkin-FT™. Applying microneedles significantly enhanced the skin penetration of the formulation, enabling delivery beyond the stratum corneum into deeper skin layers, including the dermis. This research suggests microneedle-assisted delivery may be a highly effective strategy for improving the bioavailability of active dermatological agents.</p>"
+        "title": "Résumé",
+        "content": "<p>La présente étude évalue l’absorption transdermique d’une nouvelle formulation à base d’exosomes, PKH26@MG-EXO-SKIN, à l’aide du modèle de peau humaine reconstruite KeraSkin-FT™ (épaisseur complète). L’application de microneedles a considérablement amélioré la pénétration cutanée de la formulation, permettant une diffusion au-delà de la couche cornée jusque dans les couches plus profondes de la peau, y compris le derme. Cette recherche suggère que la délivrance assistée par microneedles pourrait constituer une stratégie très efficace pour améliorer la biodisponibilité des agents dermatologiques actifs.</p>"
       },
       "p2": {
         "title": "Introduction",
-        "content": "<p> Transdermal delivery remains a challenge in dermatological research due to the skin’s natural barrier properties, especially those conferred by the stratum corneum. To overcome this, microneedleassisted systems have emerged as promising alternatives for enhancing skin permeability. </p><p>This study investigates the depth and kinetics of absorption of PKH26@MG-EXO-SKIN—an exosomebased active agent—using a validated in vitro model and OECD guideline-compliant methodology.</p>"
+        "content": "<p>La délivrance transdermique demeure un défi en recherche dermatologique en raison des propriétés naturelles de barrière de la peau, principalement attribuées à la couche cornée. Pour contourner cet obstacle, les systèmes assistés par microneedles ont émergé comme des alternatives prometteuses pour augmenter la perméabilité cutanée.</p><p>Cette étude examine la profondeur et la cinétique d’absorption de PKH26@MG-EXO-SKIN, un agent actif à base d’exosomes, en utilisant un modèle in vitro validé et une méthodologie conforme aux directives de l’OCDE.</p>"
       },
       "p3": {
-        "title": "Materials and Methods",
-        "content": "<h4>Skin Model:</h4><p> KeraSkin-FT™, a reconstructed full-thickness human skin model, was used. It mimics human skin architecture with basal, spinous, granular, and keratin layers and includes a fibroblast-populated dermal matrix. </p><h4>Test Material:</h4><p> PKH26@MG-EXO-SKIN is a formulation containing mesenchymal stem cell-derived extracellular vesicles (MBTC-MSC-EXO) stained with PKH26, a lipophilic fluorescent dye for tracking. </p><h4>Study Design:</h4><p> Nine test groups were created (n=2 per group), covering treatment durations of 1, 3, 6, and 24 hours with and without microneedle application. </p><h4>Procedure:</h4><p> 50 µL of test formulation was applied to KeraSkinFT™. For microneedle-assisted groups, a microneedle device (Dermapenworld) was used prior to application. </p><p> After treatment, samples were incubated at 37°C with5% CO₂. Tissues were then fixed, cryosectioned, stained with DAPI, and analyzed via fluorescence microscopy.</p>"
+        "title": "Matériels et Méthodes",
+        "content": "<h4>Modèle de peau :</h4><p>Le modèle KeraSkin-FT™, une peau humaine reconstruite en épaisseur complète, a été utilisé. Il reproduit la structure de la peau humaine, incluant les couches basale, épineuse, granuleuse et kératinisée, ainsi qu’une matrice dermique peuplée de fibroblastes.</p><h4>Matériau testé :</h4><p>PKH26@MG-EXO-SKIN est une formulation contenant des vésicules extracellulaires dérivées de cellules souches mésenchymateuses (MBTC-MSC-EXO) marquées avec le colorant fluorescent lipophile PKH26 pour le suivi.</p><h4>Conception de l’étude :</h4><p>Neuf groupes de test ont été constitués (n = 2 par groupe), couvrant des durées de traitement de 1, 3, 6 et 24 heures, avec et sans application de microneedles.</p><h4>Procédure :</h4><p>50 µL de la formulation testée ont été appliqués sur le modèle KeraSkin-FT™. Pour les groupes assistés par microneedles, un dispositif de microneedles (Dermapenworld) a été utilisé avant l’application.</p><p>Après traitement, les échantillons ont été incubés à 37°C avec 5 % de CO₂. Les tissus ont ensuite été fixés, coupés par cryosection, colorés au DAPI, puis analysés par microscopie à fluorescence.</p>"
       },
       "p4": {
         "title": "Results",
-        "content": "<p>Microscopic observations revealed time- and methoddependent absorption profiles:</p><p>Without microneedles:</p><ul><li>PKH26@MG-EXO-SKIN remained confined to the stratum corneum even after 24 hours.</li></ul><p> With microneedles: </p><ul><li>After 1–3 hours, absorption reached the stratum corneum.</li><li>After 6 hours, penetration extended to the granular layer.</li><li>By 24 hours, fluorescence was detected in the dermis, indicating successful transdermal delivery.</li></ul><p>Fluorescence microscopy images visually confirmed progressive absorption at each time point. Control vs. microneedle comparison highlighted stark differences in penetration depth.</p><p>Treatment of PKH26@MG-EXO_SKIN</p><bigImg>/exosome/exosome-1.jpg</bigImg><p> Treatment of PKH26@MG-EXO_SKIN after microneedle application </p><bigImg>/exosome/exosome-2.jpg</bigImg><p> Treatment of PKH26@MG-EXO_SKIN</p><bigImg>/exosome/exosome-3.jpg</bigImg><p> Treatment of PKH26@MG-EXO_SKIN after microneedle application </p><bigImg>/exosome/exosome-4.jpg</bigImg>"
+        "content": "<p>Les observations microscopiques ont révélé des profils d’absorption dépendant du temps et de la méthode :</p><p>Sans microneedles :</p><p>PKH26@MG-EXO-SKIN est resté confiné à la couche cornée, même après 24 heures.</p><p>Avec microneedles :</p><ul><li>Après 1 à 3 heures : l’absorption atteignait la couche cornée.</li><li>Après 6 heures : la pénétration s’étendait à la couche granuleuse.</li><li>Après 24 heures : la fluorescence était détectée dans le derme, indiquant une délivrance transdermique réussie.</li></ul><p>Les images en microscopie à fluorescence ont confirmé visuellement une absorption progressive à chaque intervalle de temps. La comparaison entre les groupes témoins et les groupes assistés par microneedles a montré des différences nettes en termes de profondeur de pénétration.</p><p>Traitement de PKH26@MG-EXO_SKIN</p><bigImg>/exosome/exosome-1.jpg</bigImg><p>Traitement de PKH26@MG-EXO-SKIN après application de microneedles </p><bigImg>/exosome/exosome-2.jpg</bigImg><p>Traitement de PKH26@MG-EXO_SKIN</p><bigImg>/exosome/exosome-3.jpg</bigImg><p>Traitement de PKH26@MG-EXO_SKIN après application de microneedles </p><bigImg>/exosome/exosome-4.jpg</bigImg>"
       },
       "p5": {
         "title": "Discussion",
-        "content": "<p>The study confirms that exosome-containing formulations alone have limited capability to traverse the stratum corneum barrier. However, when combined with microneedle pre-treatment, significant transdermal absorption occurs. This aligns with previous findings on microneedle-enhanced delivery and supports the growing application of microchannelfacilitated skin therapies.</p><p> Given the increasing popularity of exosomebased treatments in regenerative and aesthetic dermatology, enhancing their delivery is crucial. The results underscore the compatibility of KeraSkinFT™ with OECD TG 428 guidelines and its suitability as an alternative to animal testing for topical delivery research.</p>"
+        "content": "<p>L’étude confirme que les formulations contenant des exosomes seules ont une capacité limitée à traverser la barrière de la couche cornée. Cependant, lorsqu’elles sont combinées à un prétraitement par microneedles, une absorption transdermique significative est observée. Ces résultats concordent avec les recherches antérieures sur la délivrance améliorée par microneedles et soutiennent l’intérêt croissant pour les thérapies cutanées basées sur la formation de microcanaux.</p><p>Compte tenu de la popularité croissante des traitements à base d’exosomes en dermatologie régénérative et esthétique, l’amélioration de leur délivrance est essentielle. Les résultats mettent également en évidence la compatibilité du modèle KeraSkin-FT™ avec les directives OCDE TG 428 et son utilité en tant qu’alternative aux tests sur animaux pour les recherches sur la délivrance topique.</p>"
       },
       "p6": {
         "title": "Conclusion",
-        "content": "<p> PKH26@MG-EXO-SKIN exhibits enhanced transdermal delivery when used in conjunction with microneedle application. These findings suggest promising utility in clinical dermatology and cosmeceutical development, particularly for treatments requiring deeper skin penetration.</p>"
+        "content": "<p>PKH26@MG-EXO-SKIN présente une délivrance transdermique nettement améliorée lorsqu’elle est utilisée en association avec une application de microneedles. Ces résultats suggèrent un fort potentiel d’utilisation en dermatologie clinique et dans le développement de produits cosméceutiques, en particulier pour les traitements nécessitant une pénétration cutanée plus profonde.</p>"
       },
       "p7": {
-        "title": "References",
+        "title": "Références",
         "content": " <ol><li>Jung KM, et al. KeraSkin™-VM: A novel reconstructed human epidermis model. Toxicol In Vitro. 2014. </li><li>OECD Test Guideline 428: Skin Absorption: In Vitro Method. OECD, 2004. </li><li>Moon JY, et al. Interlaboratory validation of KeraSkin™. JAAE. 2010. </li><li>Jang WH, et al. Evaluation of permeability and irritancy of transdermal formulation using KeraSkin™. JAAE. 2011.</li></ol>"
       }
     },
@@ -510,13 +615,13 @@
       "cta_text": "Découvrir le congrès Prague Lab",
       "tags": {
         "t1": {
-          "title": "Aesthetic medicine"
+          "title": "Médecine esthétique"
         },
         "t2": {
-          "title": "Market Analysis"
+          "title": "Analyse de marché"
         },
         "t3": {
-          "title": "Practice management"
+          "title": "Gestion du cabinet"
         }
       },
       "img_alt": "Eva Osvaldová & Julien Vervel",
@@ -562,74 +667,74 @@
       }
     },
     "Prague_Healthcie": {
-      "h1": "THE MEDICAL WEBSITE AS A DIGITAL PRESENCE",
-      "abstract": "Building a high-performing medical website requires synergy between design, technology, and strategy.",
-      "author": "By Hugo Nivault",
-      "cta_text": "Discover HEALTHCIE",
+      "h1": "LE SITE WEB MÉDICAL COMME PILIER DE VOTRE STRATEGIE DIGITALE ",
+      "abstract": "La création d'un site web médical performant nécessite une synergie entre le design, la technologie et la stratégie.",
+      "author": "Par Hugo Nivault",
+      "cta_text": "Découvrir HEALTHCIE",
       "tags": {
         "t1": {
-          "title": "Aesthetic medicine"
+          "title": "Médecine esthétique"
         },
         "t2": {
-          "title": "Practice management"
+          "title": "Gestion du cabinet"
         }
       },
       "img_alt": "Hugo Nivault",
       "p1": {
-        "title": "Website overview: strategic showcase and digital partnership",
-        "content": "<p>A medical website is far more than an informational platform — it serves as the foundation of a practitioner’s digital communication and online reputation. It reflects the quality of care, scientific rigor, and modernity of the clinic or laboratory. In an increasingly competitive environment, the digital showcase has become the first point of contact with patients — and it must inspire trust from the very first second.</p><p>The objective is twofold: to enhance the brand image and to optimize functional performance. A clear interface, smooth navigation, and elegant design directly influence perceptions of professionalism and reliability. Conversely, a slow, outdated, or poorly structured website can damage e-reputation and even hinder appointment bookings.</p><p>However, the success of a digital project does not depend solely on its visual appeal — it rests on a solid collaborative relationship with the webmaster. This professional should not be seen merely as a technical service provider, but as a true business partner. Their mission is to understand the practitioner’s strategic goals, anticipate future needs, and integrate the website into a coherent digital ecosystem.</p><p>A transparent and ongoing collaboration helps to:</p><ul><li>Ensure the website evolves continuously with market and search engine requirements; Maintain consistency between content, design, and visibility strategy;</li><li>Transform the website into a growth driver rather than a static digital brochure.</li></ul>"
+        "title": "Présentation du site web : vitrine stratégique et partenariat numérique",
+        "content": "<p>Un site web médical n’est pas simplement une plateforme d’information — il constitue la pierre angulaire de la communication digitale et de la réputation en ligne d’un praticien. Il reflète la qualité des soins, le sérieux scientifique et la modernité de la clinique ou du laboratoire. Dans un environnement de plus en plus concurrentiel, le site devient le premier point de contact avec les patients et doit inspirer confiance dès le premier instant.</p><p>L’objectif est double : renforcer l’image de marque et optimiser les performances fonctionnelles. Une interface claire, une navigation fluide et un design élégant influencent directement la perception de professionnalisme et de fiabilité. À l’inverse, un site lent, obsolète ou mal structuré peut nuire à l’e-réputation et même freiner la prise de rendez-vous.</p><p>Cependant, le succès d’un projet digital ne repose pas uniquement sur l’esthétique : il dépend d’une collaboration solide avec le webmaster. Ce professionnel ne doit pas être considéré comme un simple prestataire technique, mais comme un véritable partenaire stratégique. Sa mission est de comprendre les objectifs du praticien, d’anticiper les besoins futurs et d’intégrer le site dans un écosystème digital cohérent.</p><p>Une collaboration transparente et continue permet de :</p><ul><li>Assurer l’évolution constante du site en fonction des exigences du marché et des moteurs de recherche ;</li><li>Maintenir la cohérence entre contenu, design et stratégie de visibilité ;</li><li>Transformer le site en moteur de croissance plutôt qu’en simple brochure digitale.</li></ul>"
       },
       "p2": {
-        "title": "UX and UI Design at the Core of Visibility Strategy",
-        "content": "<p>User experience (UX) and user interface (UI) design are not just aesthetic considerations — they determine the site’s ability to capture attention, engage visitors, and convert them into patients. In healthcare, ergonomics play a crucial role in building a trust relationship between patient and professional.</p>"
+        "title": "UX et UI : au cœur de la stratégie de visibilité",
+        "content": "<p>L’expérience utilisateur (UX) et le design de l’interface (UI) ne sont pas que des considérations esthétiques — ils déterminent la capacité du site à capter l’attention, engager les visiteurs et les convertir en patients. Dans le secteur médical, l’ergonomie joue un rôle crucial dans l’instauration d’un climat de confiance entre patient et professionnel.</p>"
       },
       "p3": {
-        "title": " A Design Tailored to the Patient Base",
-        "content": "<p>Every visual element must align with the target audience — age group, sociological profile, and emotional expectations. Selected images should convey care, expertise, and accessibility, while respecting ethical and regulatory standards specific to the medical sector. An inconsistent visual approach can create dissonance with the practice’s values and reduce patient trust.</p> "
+        "title": "Un design adapté à la patientèle",
+        "content": "<p>Chaque élément visuel doit correspondre à l’audience cible — tranche d’âge, profil sociologique et attentes émotionnelles. Les images choisies doivent transmettre soin, expertise et accessibilité, tout en respectant les normes éthiques et réglementaires propres au secteur médical. Un visuel incohérent peut créer une dissonance avec les valeurs de la pratique et réduire la confiance des patients.</p>"
       },
       "p4": {
-        "title": "A Smooth and Intuitive Journey",
-        "content": "<p>The site’s architecture should follow a logical user pathway. Access to key information — medical specialties, team profiles, contact details, appointment scheduling — must be immediate and intuitive. Content hierarchy, menu structure, and internal page clarity are decisive factors for overall experience.</p><p>Conversion funnel optimization relies on strategically positioned Calls to Action (CTAs). Buttons such as “Book an Appointment,” “Call the Clinic,” or “Request a Quote” should be visible, repeated without being intrusive, and integrated seamlessly into the navigation flow. Regular A/B testing helps assess CTA performance and fine-tune their placement, color, or wording to maximize conversion rates.</p>"
+        "title": "Un parcours fluide et intuitif",
+        "content": "<p>L’architecture du site doit suivre un chemin utilisateur logique. L’accès aux informations clés — spécialités médicales, équipes, contacts, prise de rendez-vous — doit être immédiat et intuitif. La hiérarchie des contenus, la structure des menus et la clarté des pages internes sont déterminantes pour l’expérience globale.</p><p>L’optimisation du tunnel de conversion repose sur des appels à l’action (CTA) positionnés stratégiquement : « Prendre rendez-vous », « Appeler la clinique » ou « Demander un devis ». Ils doivent être visibles, répétés sans être intrusifs et intégrés harmonieusement dans la navigation. Des tests A/B réguliers permettent d’évaluer leur performance et d’ajuster emplacement, couleur ou libellé pour maximiser les conversions.</p>"
       },
       "p5": {
-        "title": "UX/UI Coherence and SEO",
-        "content": "<p> UX and SEO are deeply interconnected. Smooth navigation, optimized load times, and responsive design directly improve search engine rankings. Behavioral metrics — such as session duration, bounce rate, and user engagement — are now key SEO performance indicators.</p>"
+        "title": "Cohérence UX/UI et SEO",
+        "content": "<p>UX et SEO sont étroitement liés. Une navigation fluide, des temps de chargement optimisés et un design responsive améliorent directement le référencement naturel. Les indicateurs comportementaux — durée de session, taux de rebond, engagement utilisateur — sont désormais des métriques essentielles pour le SEO.</p>"
       },
       "p6": {
-        "title": " Development: Technological Foundations and Interoperability",
-        "content": "<p>Developing a medical website requires balancing performance, security, and scalability. The choice of the technological stack — CMS (WordPress, Joomla, Drupal) or Full Code (React, Next.js, Laravel, etc.) — depends on the desired level of customization and scalability.</p><p>Some technologies inherently perform better in terms of search optimization and technical maintenance.</p>"
+        "title": "Développement : fondations technologiques et interopérabilité",
+        "content": "<p>Le développement d’un site médical exige un équilibre entre performance, sécurité et évolutivité. Le choix du stack technologique — CMS (WordPress, Joomla, Drupal) ou Full Code (React, Next.js, Laravel, etc.) — dépend du niveau de personnalisation et de la scalabilité souhaités. Certaines technologies sont naturellement plus performantes pour le référencement et la maintenance technique.</p>"
       },
       "p7": {
-        "title": " Architecture and Performance",
-        "content": "<p>An efficient website must comply with high technical standards:</p><ul><li>Page load time under 2.5 seconds;</li><li>Architecture optimized for search engine crawling;</li><li>Secure hosting in compliance with GDPR regulations;</li><li>Clean, compressed, and maintainable code;</li><li>Full multi-device compatibility (mobile-first design).</li></ul><p>Core Web Vitals (LCP, INP, CLS) defined by Google are now essential performance benchmarks. Their optimization directly impacts both SEO rankings and user experience.</p>"
+        "title": "Architecture et performance",
+        "content": "<p>Un site performant doit respecter des standards techniques élevés :</p><ul><li>Temps de chargement inférieur à 2,5 secondes ;</li><li>Architecture optimisée pour l’indexation par les moteurs de recherche ;</li><li>Hébergement sécurisé conforme au RGPD ;</li><li>Code propre, compressé et maintenable ;</li><li>Compatibilité multi-appareils totale (mobile-first).</li></ul><p>Les Core Web Vitals (LCP, INP, CLS) définis par Google sont désormais des références essentielles, impactant à la fois le SEO et l’expérience utilisateur.</p>"
       },
       "p8": {
-        "title": "Smart Features and API Integrations",
-        "content": "<p> Integrating interactive modules enhances the website’s functional value: intelligent contact forms, secure patient portals, or calendar synchronization through API connections with medical software. These integrations centralize data and automate processes, creating a seamless experience for patients and significant time savings for staff.</p>"
+        "title": "Fonctionnalités intelligentes et intégrations API",
+        "content": "<p>L’intégration de modules interactifs augmente la valeur fonctionnelle : formulaires de contact intelligents, portails patients sécurisés, synchronisation de calendrier via API avec les logiciels médicaux. Ces intégrations centralisent les données et automatisent les processus, offrant une expérience fluide pour les patients et un gain de temps pour le personnel.</p>"
       },
       "p9": {
-        "title": "Maintenance and Continuous Monitoring",
-        "content": "<p> A website is never static. Technical updates, security audits, and performance optimization are essential to ensure long-term reliability. Proactive maintenance — often managed by the webmaster partner — helps detect and resolve issues before they affect visibility or security.</p>"
+        "title": "Maintenance et suivi continu",
+        "content": "<p>Un site n’est jamais statique. Mises à jour techniques, audits de sécurité et optimisation des performances sont indispensables pour garantir fiabilité et pérennité. La maintenance proactive, souvent gérée par le webmaster, permet de détecter et corriger les problèmes avant qu’ils n’affectent visibilité ou sécurité.</p>"
       },
       "p10": {
-        "title": "Search Engine Optimization (SEO): The backbone of medical visibility",
-        "content": "<p> SEO is the backbone of digital strategy. It is not merely a technical lever, but a strategic pillar of e-reputation and a high-return investment. When properly executed, SEO generates a steady flow of qualified patients, reinforces the practitioner’s credibility, and builds sustainable visibility without relying on paid advertising.</p>"
+        "title": "SEO : la colonne vertébrale de la visibilité médicale",
+        "content": "<p>Le référencement naturel est un pilier stratégique. Il ne s’agit pas d’un simple levier technique, mais d’un investissement à fort rendement pour l’e-réputation. Bien exécuté, le SEO génère un flux constant de patients qualifiés, renforce la crédibilité du praticien et assure une visibilité durable sans dépendre de la publicité payante.</p>"
       },
       "p11": {
-        "title": "SEO Strategy from the Ground Up",
-        "content": "<p>The SEO approach must be integrated before the site’s development begins. The sitemap, content, and URL structure should stem from an in-depth semantic and intent analysis: which keywords to target, what search intentions to satisfy, and which pages to prioritize.</p><p>It enables practitioners to appear in highly targeted searches targeted searches such as “plastic surgeon in London,” “botulinum toxin injections in Copenhagen,” or “dental implant specialist in Milan.” This ensures alignment between content, technical structure, and conversion goals.</p>"
+        "title": "Stratégie SEO dès la conception",
+        "content": "<p>Le SEO doit être intégré dès la conception du site. La structure, les contenus et les URLs doivent découler d’une analyse sémantique et des intentions de recherche : quels mots-clés cibler, quelles requêtes satisfaire, quelles pages prioriser. Cela permet au praticien d’apparaître sur des recherches très ciblées telles que « chirurgien plasticien à Paris » ou « injections de toxine botulique à Lyon ».</p>"
       },
       "p12": {
-        "title": "The Three Pillars of SEO",
-        "content": "<ul><li>Technical: performance, indexation, structured data, HTML tags, optimized sitemap, and redirects.</li><li>Content: clear, informative, and optimized writing with a rich medical lexicon that remains accessible and compliant with professional ethics.</li><li>Popularity: high-quality backlinks, institutional partnerships, local citations, and patient review management.</li></ul>"
+        "title": "Les trois piliers du SEO",
+        "content": "<ul><li>Technique : performance, indexation, données structurées, balises HTML, sitemap optimisé, redirections ;</li><li>Contenu : rédaction claire, informative, optimisée, avec lexique médical riche mais accessible et conforme à l’éthique professionnelle ;</li><li>Popularité : backlinks de qualité, partenariats institutionnels, citations locales et gestion des avis patients.</li></ul>"
       },
       "p13": {
-        "title": "An Evolving Discipline: Updates & AI",
-        "content": "<p>SEO is a living discipline, influenced by Google’s algorithm updates and technological advances (AI, voice search, Core Updates, Spam Updates). With the emergence of AI-generated search engines — such as Google SGE, Perplexity AI, or ChatGPT Search — the rules of visibility are evolving rapidly.</p><p>Generative Engine Optimization (GEO) focuses on optimizing content so it can be understood, cited, and featured by generative AI models. The goal is no longer just to rank in traditional SERPs, but to appear in AI-generated answers delivered to users.</p><p>GEO relies on:</p><ul><li>Clear data structuring (tags, schema markup, hierarchical headings) to facilitate AI comprehension;</li><li>Expert, educational, and contextual content that can be extracted and repurposed by AI systems;</li><li>Natural, conversational semantics aligned with language model behavior.</li></ul><p>This emerging approach complements traditional SEO and ensures sustainable visibility in an AI-driven web ecosystem.</p><p>Healthcare professionals who adopt these methods early position themselves as pioneers of AI augmented search.</p>"
+        "title": "Discipline évolutive : mises à jour et IA",
+        "content": "<p>Le SEO évolue constamment avec les mises à jour de Google et les avancées technologiques (IA, recherche vocale, Core Updates). Les moteurs de recherche génératifs, comme Google SGE, Perplexity AI ou ChatGPT Search, changent les règles de visibilité.</p><p>Le Generative Engine Optimization (GEO) consiste à optimiser les contenus pour qu’ils soient compris, cités et mis en avant par les modèles d’IA. L’objectif n’est plus seulement d’apparaître dans les SERP traditionnels, mais dans les réponses générées par IA. GEO repose sur :</p><ul><li>Une structuration claire des données (tags, balisage schema, titres hiérarchiques) ;</li><li>Un contenu expert, pédagogique et contextuel pouvant être exploité par les systèmes d’IA ;</li><li>Une sémantique naturelle et conversationnelle adaptée aux modèles linguistiques.</li></ul><p>Cette approche complémentaire au SEO traditionnel assure une visibilité durable dans un écosystème web dominé par l’IA. Les professionnels de santé qui l’adoptent tôt se positionnent en pionniers de la recherche augmentée par l’IA.</p>"
       },
       "p14": {
-        "title": "Conclusion: The Synergy Between Vision, Technology, and Partnership",
-        "content": "<p>Building a high-performing medical website requires synergy between design, technology, and strategy. Yet beyond the tools, success depends on the quality of collaboration with the webmaster. As a long-term business partner, the webmaster supports the practitioner in data analysis, maintenance, SEO monitoring, and continuous adaptation.</p><p>This holistic approach — combining user experience, technical performance, and strategic optimization — transforms a website into a true growth engine, capable of attracting, converting, and retaining patients while enhancing the practitioner’s expertise in a constantly evolving digital landscape.</p>"
+        "title": "Conclusion : la synergie entre vision, technologie et partenariat",
+        "content": "<p>Construire un site médical performant nécessite une synergie entre design, technologie et stratégie. Mais au-delà des outils, le succès repose sur la qualité de la collaboration avec le webmaster. En tant que partenaire à long terme, le webmaster accompagne le praticien dans l’analyse des données, la maintenance, le suivi SEO et l’adaptation continue.</p><p>Cette approche holistique — combinant expérience utilisateur, performance technique et optimisation stratégique — transforme un site en véritable moteur de croissance, capable d’attirer, convertir et fidéliser les patients tout en valorisant l’expertise du praticien dans un paysage digital en constante évolution.</p>"
       }
     },
     "Prague_Steven_Harris": {
@@ -639,7 +744,7 @@
       "cta_text": "Discover Harris Clinic",
       "tags": {
         "t1": {
-          "title": "Aesthetic medicine"
+          "title": "Médecine esthétique"
         }
       },
       "img_alt": "Dr Steven Harris",
@@ -715,10 +820,10 @@
       "cta_text": "Découvrir KLNIK",
       "tags": {
         "t1": {
-          "title": "Aesthetic medicine"
+          "title": "Médecine esthétique"
         },
         "t2": {
-          "title": "Practice management"
+          "title": "Gestion du cabinet"
         }
       },
       "img_alt": "Dr Roshan Ravindran",
@@ -734,7 +839,7 @@
       "cta_text": "Découvrir UMA Academy",
       "tags": {
         "t1": {
-          "title": "Aesthetic medicine"
+          "title": "Médecine esthétique"
         }
       },
       "img_alt": "Dr Jani van Loghem",
@@ -778,7 +883,7 @@
       "cta_text": "Découvrir The Filler Academy",
       "tags": {
         "t1": {
-          "title": "Aesthetic medicine"
+          "title": "Médecine esthétique"
         }
       },
       "img_alt": "Dr Konstantin Frank",
@@ -830,7 +935,7 @@
       "cta_text": "Découvrir la Lee Walker Academy",
       "tags": {
         "t1": {
-          "title": "Aesthetic medicine"
+          "title": "Médecine esthétique"
         }
       },
       "img_alt": "Dr Lee Walker",
@@ -886,7 +991,7 @@
       "cta_text": "Découvrir le congrès Prague Lab",
       "tags": {
         "t1": {
-          "title": "Aesthetic medicine"
+          "title": "Médecine esthétique"
         }
       },
       "img_alt": "Dr Monika Kavková",
@@ -930,7 +1035,7 @@
       "cta_text": "Découvrir le congrès Prague Lab",
       "tags": {
         "t1": {
-          "title": "Aesthetic medicine"
+          "title": "Médecine esthétique"
         }
       },
       "img_alt": "Dr Monika Kavková",
@@ -978,7 +1083,7 @@
       "cta_text": "Découvrir le congrès Prague Lab",
       "tags": {
         "t1": {
-          "title": "Aesthetic medicine"
+          "title": "Médecine esthétique"
         }
       },
       "img_alt": "Dr Monika Kavková",
@@ -1038,7 +1143,7 @@
       "cta_text": "Discover Prague Lab Congress",
       "tags": {
         "t1": {
-          "title": "Aesthetic medicine"
+          "title": "Médecine esthétique"
         },
         "t2": {
           "title": "Practice management"
@@ -1077,10 +1182,10 @@
       "cta_text": "Découvrir le congrès Prague Lab",
       "tags": {
         "t1": {
-          "title": "Aesthetic medicine"
+          "title": "Médecine esthétique"
         },
         "t2": {
-          "title": "Practice management"
+          "title": "Gestion du cabinet"
         }
       },
       "img_alt": "Eva Osvaldová",
@@ -1120,13 +1225,13 @@
       "cta_text": "Découvrir WINDOME BANKING PARTNERS",
       "tags": {
         "t1": {
-          "title": "Aesthetic medicine"
+          "title": "Médecine esthétique"
         },
         "t2": {
-          "title": "Market Analysis"
+          "title": "Analyse de marché"
         },
         "t3": {
-          "title": "Practice management"
+          "title": "Gestion du cabinet"
         }
       },
       "img_alt": "Jean-Yves COSTE",

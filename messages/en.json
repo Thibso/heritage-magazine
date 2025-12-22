@@ -398,44 +398,149 @@
     "Jean_Jacques_Deutsch": {
       "h2": "Interview Dr Jean-Jacques Deutsch",
       "h3": "Dr. Jean-Jacques Deutsch",
-      "cta": "Lire l'article",
+      "cta": "Read article",
       "cta_link": "/en/interview-doctor-deutsch-jean-jacques-sfme-congress",
       "content": "Dr. Jean-Jacques Deutsch is a leading figure in aesthetic medicine, both in France and internationally. A graduate and laureate of the Paris Faculty of Medicine, he brings over 40 years of expertise and is a pioneer in the global, preventive, and scientific approach to aging. He holds numerous university degrees in aesthetic medicine, aesthetic gynecology, cognitive behavioral psychotherapy, and anti-aging medicine, embodying a practice that is human-centered, rigorous, and forward-thinking."
     },
     "Jean_Jacques_Deutsch_2": {
       "h2": "THE HISTORY OF AESTHETIC MEDICINE",
       "h3": "Dr. Jean-Jacques Deutsch",
-      "cta": "Lire l'article",
+      "cta": "Read article",
       "cta_link": "/en/focus-doctor-deutsch-jean-jacques-introduction-history-french-aesthetic-medicine",
       "content": "Today, aesthetic medicine is well established, both in France and abroad. Its existence and effectiveness are no longer disputed, and an official diploma was introduced in 2025. But what seems obvious today was not so for decades. It took a long and determined fight so that now, more than 50 years after its beginnings, thousands of doctors in France and worldwide practice recognized medical treatments with aesthetic purposes, allowing their patients to achieve physical and mental well-being by reducing unaesthetic aspects related to aging, aftereffects of illness or accidents, as well as morphology and heredity."
     },
     "Thomas_Josse": {
       "h2": "A CONCIERGE SERVICE & A PRIVATE CLUB FOR AESTHETIC PROFESSIONALS",
       "h3": "Mr. Thomas Josse",
-      "cta": "Lire l'article",
+      "cta": "Read article",
       "cta_link": "/en/interview-josse-thomas-concierge-service-club-actors-aesthetic-medicine",
       "content": "For over 10 years, the Thomas Josse Agency has established itself as a pioneer in supporting professionals in aesthetic medicine and surgery. As the first organization to democratize community management dedicated to these specialties, it has evolved in step with the growing needs of a constantly changing sector. Today, a new stage begins: that of a complete ecosystem of services designed for practitioners and industry stakeholders."
     },
     "Benjamin_Ascher_2": {
       "h2": "SPOTLIGHT: SIBUS-IN®",
       "h3": "Dr. Benjamin Ascher & Dr. Audrey Melin",
-      "cta": "Lire l'article",
+      "cta": "Read article",
       "cta_link": "/en/innovation-doctors-melin-audrey-ascher-benjamin-sibus-in-finger-probe-ultrasound-guided-injections",
       "content": "Injections of toxin or fillers can cause side effects, most often mild and temporary (asymmetries, irregularities, swelling, bruising). However, fillers expose patients to more severe complications, including infections, inflammatory nodules, and above all vascular complications such as necrosis or blindness."
     },
     "Jean_Yves_Coste_2": {
       "h2": "AI AND AESTHETIC MEDICINE: TECHNOLOGICAL CONVERGENCE",
       "h3": "Jean-Yves Coste",
-      "cta": "Lire l'article",
+      "cta": "Read article",
       "cta_link": "/en/focus-coste-jean-yves-artificial-intelligence-aesthetic-medicine-technological-convergence",
       "content": "We have tried to analyse what lies at the core of AZI and Generative AI behind the overhyped bubble fuelling the emergence of this pervasive new technology penetrating now healthcare; medical aesthetics, regenerative medicine, dermo cosmetics, wellness and lifestyle and how it contributes to accelerate the adoption fo new disruptive technologies and democratize the digitalization and personalization of healthcare and medical aesthetics."
     },
     "Julien_Vervel_2": {
       "h2": "GENERATIVE ENGINE OPTIMIZATION (GEO)",
       "h3": "Julien Vervel",
-      "cta": "Lire l'article",
+      "cta": "Read article",
       "cta_link": "/en/focus-vervel-julien-visibility-doctors-referencing-artificial-intelligence-geo",
       "content": "For years, traditional search engines, especially Google, have followed a simple logic: providing a list of links to web pages deemed relevant in response to a query. This mechanism gave birth to Search Engine Optimization (SEO), which has become a pillar of digital marketing, including in the medical sector."
+    },
+    "Prague_Skinceuticals": {
+      "h2": "SKINCEUTICALS: A PIONEER IN INTEGRATED SKINCARE BASED ON SCIENCE",
+      "h3": "Julien Vervel",
+      "cta": "Read article",
+      "cta_link": "/en/focus-skinceuticals-pioneer-integrated-skincare-prague-lab",
+      "content": "The world of dermocosmetics was enriched in 1997 by a brand that forever changed the perception of skincare, combining scientific research with practical results. This brand was SkinCeuticals, founded by the visionary and pioneer in the field of antioxidants and dermatology, Dr. Sheldon Pinnell."
+    },
+    "Prague_Exosomes": {
+      "h2": "ENHANCED SKIN PENETRATION OF EXOSOME-LOADED FORMULATION USING MICRONEEDLE ASSISTED DELIVERY",
+      "h3": "Julien Vervel",
+      "cta": "Read article",
+      "cta_link": "/en/focus-biosolution-micro-needle-assisted-exosome-delivery-prague-lab",
+      "content": "The present study evaluates the transdermal absorption of a novel exosome-based formulation, PKH26@MG-EXO-SKIN, using the reconstructed full-thickness human skin model KeraSkin-FT™. Applying microneedles significantly enhanced the skin penetration of the formulation, enabling delivery beyond the stratum corneum into deeper skin layers, including the dermis."
+    },
+    "Prague_Eva_Osvaldova_Healthcie": {
+      "h2": "STRATEGIES FOR SUCCESS MANAGING AESTHETIC PRACTICE IN 2025/2026",
+      "h3": "Eva Osvaldová & Julien Vervel",
+      "cta": "Read article",
+      "cta_link": "/en/focus-healthcie-vervel-julien-eva-osvaldova-aesthetic-clinic-management-2025-prague-lab",
+      "content": "Running a successful aesthetic practice today means blending clinical excellence with digital fluency and a patient-first mindset. In 2025/2026, patients expect not only visible results but also a seamless and personalized journey — from their first online search to post-treatment follow-up."
+    },
+    "Prague_Healthcie": {
+      "h2": "THE MEDICAL WEBSITE AS A DIGITAL PRESENCE",
+      "h3": "Hugo Nivault",
+      "cta": "Read article",
+      "cta_link": "/en/focus-nivault-hugo-healthcie-agency-medical-website-digital-strategy-prague-lab",
+      "content": "A medical website is far more than an informational platform — it serves as the foundation of a practitioner’s digital communication and online reputation. It reflects the quality of care, scientific rigor, and modernity of the clinic or laboratory."
+    },
+    "Prague_Steven_Harris": {
+      "h2": "ASSESSMENT OF THE REPRESENTATION OF LIP AESTHETIC SUBTYPES ON SOCIAL MEDIA USING THE LIP CLASSIFICATION OF TUBERCLES SYSTEM",
+      "h3": "Dr. Steven Harris",
+      "cta": "Read article",
+      "cta_link": "/en/focus-doctor-harris-steven-instagram-vs-reality-aesthetic-medicine-prague-lab",
+      "content": "Background: Social media platforms, particularly Instagram appear to be influencing contemporary beauty standards, especially concerning lip enhancements. Understanding the prevalent lip types showcased can offer valuable insights into evolving aesthetic ideals to inform both patients and practitioners."
+    },
+    "Prague_Roshan_Ravidran": {
+      "h2": "KLNIK AND ANGLIA RUSKIN UNIVERSITY JOIN FORCES TO ELEVATE RESEARCH IN AESTHETIC MEDICINE",
+      "h3": "Dr. Roshan Ravindran",
+      "cta": "Read article",
+      "cta_link": "/en/expertise-doctor-ravindran-roshan-advancing-research-aesthetic-medicine-prague-lab",
+      "content": "Dr. Roshan Ravindran from KLNIK in Wimslow, UK and Professor Lee Smith from Anglia Ruskin University UK have joined forces to elevate research in the field of Aesthetic Medicine and address some of the most pressing issues in this area."
+    },
+    "Prague_Jani_Van_Loghem": {
+      "h2": "SAFER FILLER INJECTION VOLUMES IN HIGH-RISK FACIAL REGIONS",
+      "h3": "Dr. Jani van Loghem",
+      "cta": "Read article",
+      "cta_link": "/en/technique-doctor-van-loghem-jani-injection-volume-fillers-prague-lab",
+      "content": "Injecting dermal fillers in all facial areas carries a risk of intravascular injection and retrograde flow of filler into the ophthalmic artery (OA) and central retinal artery (CRA), potentially causing retinal ischemia leading to visual loss."
+    },
+    "Prague_Konstantin_Frank": {
+      "h2": "SCIENCE-BASED REJUVENATION OF THE FACE AND THE BODY",
+      "h3": "Dr. Konstantin Frank",
+      "cta": "Read article",
+      "cta_link": "/en/interview-doctor-konstantin-frank-face-body-rejuvenation-aesthetic-medicine-prague-lab",
+      "content": "Science-based rejuvenation means we base our interventions not on trends or anecdotal experience alone, but on a detailed understanding of the biological and structural changes that occur with aging."
+    },
+    "Prague_Lee_Walker": {
+      "h2": "BLINDNESS AFTER FACIAL FILLERS: PREVENTION, RECOGNITION, AND MANAGEMENT",
+      "h3": "Dr. Lee Walker",
+      "cta": "Read article",
+      "cta_link": "/en/technique-doctor-walker-lee-blindness-after-hyaluronic-acid-injections-aesthetic-medicine-prague-lab",
+      "content": "In recent years, nonsurgical aesthetic procedures have become a cornerstone of cosmetic practice. Dermal fillers, in particular, offer patients a minimally invasive option for facial rejuvenation and contouring. Yet despite their popularity and general safety, one complication stands apart for its severity: blindness following facial filler injection."
+    },
+    "Prague_Monika_Kavkova_3": {
+      "h2": "CONTROVERSIES IN BIOSTIMULATION",
+      "h3": "Dr. Monika Kavková",
+      "cta": "Read article",
+      "cta_link": "/en/technique-doctor-kavkova-monika-controversies-biostimulation-aesthetic-medicine-prague-lab",
+      "content": "In recent years, biostimulation has become one of the fastest-growing sectors in aesthetic medicine, promising natural regeneration and long-lasting results. Rather than filling or replacing lost volume, biostimulation aims to regenerate the skin from within—stimulating fibroblasts to produce collagen and elastin, restoring structure, elasticity, and radiance."
+    },
+    "Prague_Monika_Kavkova_2": {
+      "h2": "HYALURONIC ACID FILLERS – BETWEEN BEAUTY AND EXCESS: CONTROVERSIES, HARMONY, AND PREVENTION",
+      "h3": "Dr. Monika Kavková",
+      "cta": "Read article",
+      "cta_link": "/en/technique-doctor-kavkova-monika-hyaluronic-acid-fillers-prague-lab",
+      "content": "Hyaluronic acid (HA) has become the undisputed cornerstone of modern aesthetic medicine. As a naturally occurring glycosaminoglycan responsible for maintaining hydration, elasticity, and volume, HA’s introduction into injectable fillers revolutionized facial rejuvenation."
+    },
+    "Prague_Monika_Kavkova": {
+      "h2": "REJUVENATION OF THE LIPS AND PERIORAL REGION IN MATURE WOMEN",
+      "h3": "Dr. Monika Kavková",
+      "cta": "Read article",
+      "cta_link": "/en/technique-doctor-kavkova-monika-lip-rejuvenation-mature-women-prague-lab",
+      "content": "Background: Lips are central to facial beauty and one of the earliest features to show age-related changes. Mature patients increasingly seek perioral rejuvenation that appears natural rather than transformative. Objective: To review age-related changes of the lips, psychological considerations in older patients, and outline a structured, anatomy-based approach for safe and harmonious treatment."
+    },
+    "Prague_Eva_Osvaldova_2": {
+      "h2": "AI IN AESTHETIC PRACTICE: A NEW FRONTIER IN PATIENT CARE",
+      "h3": "Eva Osvaldová",
+      "cta": "Read article",
+      "cta_link": "/en/focus-eva-osvaldova-artificial-intelligence-medical-office-prague-lab",
+      "content": "Artificial intelligence (AI) is no longer a distant sci-fi ideal, but an active, evolving force in medicine — and in aesthetic practice its influence is accelerating. From treatment planning to patient education to brand positioning, AI can reshape how practitioners engage with skin health, patients, and the digital ecosystem."
+    },
+    "Prague_Eva_Osvaldova": {
+      "h2": "TECHNOLOGIES TO WATCH IN AESTHETIC MEDICINE",
+      "h3": "Eva Osvaldová",
+      "cta": "Read article",
+      "cta_link": "/en/focus-eva-osvaldova-julien-vervel-new-aesthetic-medicine-technologies-prague-lab",
+      "content": "Aesthetic medicine is entering a new phase — one where innovation is not only advancing outcomes but fundamentally changing how we define beauty, wellness, and patient care. The following five technology-driven fields are setting the pace for the future of the industry — from diagnostics and treatment planning to longevity and real-time health tracking."
+    },
+    "Prague_Jean_Yves_Coste": {
+      "h2": "DATA DRIVEN INSIGHTS",
+      "h3": "Jean-Yves COSTE",
+      "cta": "Read article",
+      "cta_link": "/en/analysis-coste-jean-yves-aesthetic-medicine-market-insights-2025",
+      "content": "Medical Aesthetics are driven by sustainable, recession proof fundamental catalysts such as ageing demographics, urbanization and trend to ever younger onboarding of patients (prejuvenation trend). Aesthetics is no longer a vanity play: looking good is considered a basic human right by the upcoming generation, Gens Y and Z aspiring to self-transcendence and instant gratification, and the active senior, who also strive to ever increasing beauty standards."
     }
   },
   "Articles": {

@@ -146,13 +146,15 @@ export function DisplayPublication(props: Props) {
 
         {/* AUTHOR */}
         <div className="flex items-center gap-x-2 my-auto mb-0">
-          <Image
-            src={props.image}
-            alt=""
-            width={1024}
-            height={1024}
-            className="size-12 object-cover rounded-full object-top"
-          />
+          {props.image != "" ? (
+            <Image
+              src={props.image}
+              alt=""
+              width={1024}
+              height={1024}
+              className="size-12 object-cover rounded-full object-top"
+            />
+          ) : null}
 
           <p className="font-bold text-sm">{t(props.h3)}</p>
         </div>
