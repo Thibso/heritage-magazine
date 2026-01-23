@@ -228,6 +228,11 @@
       "error_description": "Une erreur est survenue lors de l'envoie du formulaire."
     }
   },
+  "Videos": {
+    "h1": "Interviews",
+    "h2": "Toutes les videos",
+    "h3": "Les leaders d'opinion pour HERITAGE"
+  },
   "Footer": {
     "abstract": "Votre nouveau rendez-vous incontournable dans l'univers vibrant de l'innovation en chirurgie et médecine esthétique.",
     "copyright": "Copyright 2025",

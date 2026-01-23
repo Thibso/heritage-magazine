@@ -228,6 +228,11 @@
       "error_description": "An error occurred while sending the form."
     }
   },
+  "Videos": {
+    "h1": "Interviews",
+    "h2": "All videos",
+    "h3": "Opinion leaders for HERITAGE"
+  },
   "Footer": {
     "abstract": "Your new rendez-vous in the vibrant world of innovation in surgery and aesthetic medicine.",
     "copyright": "Copyright 2025",

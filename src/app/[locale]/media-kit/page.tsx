@@ -1,4 +1,5 @@
-import ascher from "@/app/img/media-kit/mockup-dr-ascher.jpg";
+import fr from "@/app/img/media-kit/france-heritage-magazine.jpg";
+import en from "@/app/img/media-kit/international-heritage-magazine.jpg";
 import header from "@/app/img/MEDIA-SPECIALISE-MEDECINE-ESTHETIQUE-CHIRURGIE.jpg";
 import texture from "@/app/img/meilleure-agence-web-medicale-paris.png";
 import { useTranslations } from "next-intl";
@@ -91,7 +92,7 @@ export default function About({ params }: Params) {
           <div className="absolute bg-mainBlue/40 -z-[1] size-full top-0 left-0"></div>
         </div>
       </section>
-      <section className="relative z-[1] grid pt-20 lg:pt-16">
+      <section className="relative z-[1] grid md:pt-16">
         <Image
           src={texture}
           alt="texture"
@@ -107,29 +108,21 @@ export default function About({ params }: Params) {
               br: () => <br />,
             })}
           </div>
-          <div className="max-lg:space-y-8 lg:grid lg:grid-cols-3 lg:gap-8">
+          <div className="max-md:space-y-8 md:grid md:grid-cols-2 md:gap-8 max-w-screen-md md:mx-auto">
             {/* FR */}
-            <div className="col-span-1 relative space-y-8">
+            <div className="col-span-1 relative space-y-8 ">
               <Link
                 href={"/" + params.locale + "/media-kit/french"}
-                className="group relative w-full aspect-[16/11] z-[1]"
+                className="group relative w-full aspect-[9/12] z-[1]"
               >
                 <Image
-                  src={ascher}
+                  src={fr}
                   alt=""
                   quality={100}
                   fill
-                  className="absolute top-0 left-0 size-full object-cover -z-[2]"
+                  className="absolute bottom-0 left-1/2 size-full object-cover -z-[2]"
                 />
                 <div className="opacity-0 transition-all group-hover:opacity-55 absolute top-0 left-0 size-full bg-mainBlue -z-[1]"></div>
-                {/* <div className="hidden absolute size-full top-0 left-0 group-hover:grid p-4">
-                  <div className="w-full text-center my-auto text-white space-y-2">
-                    <p>
-                      zdkido zaojdazj dzaddzdizoajdoi zajdzjd
-                      zadjzadjzadjzaduzahduzah dzahd zadhzadzahd zad zad
-                    </p>
-                  </div>
-                </div> */}
               </Link>
 
               <h2 className="h2 text-white text-center">{t("versions.fr")}</h2>
@@ -139,57 +132,20 @@ export default function About({ params }: Params) {
             <div className="col-span-1 relative space-y-8">
               <Link
                 href={"/" + params.locale + "/media-kit/english"}
-                className="group relative w-full aspect-[16/11] z-[1]"
+                className="group relative w-full aspect-[9/12] z-[1]"
               >
                 <Image
-                  src={ascher}
+                  src={en}
                   alt=""
                   quality={100}
                   fill
-                  className="absolute top-0 left-0 size-full object-cover -z-[2]"
+                  className="absolute bottom-0 left-0 size-full object-cover -z-[2]"
                 />
                 <div className="opacity-0 transition-all group-hover:opacity-55 absolute top-0 left-0 size-full bg-mainBlue -z-[1]"></div>
-                {/* <div className="hidden absolute size-full top-0 left-0 group-hover:grid p-4">
-                  <div className="w-full text-center my-auto text-white space-y-2">
-                    <p>
-                      zdkido zaojdazj dzaddzdizoajdoi zajdzjd
-                      zadjzadjzadjzaduzahduzah dzahd zadhzadzahd zad zad
-                    </p>
-                  </div>
-                </div> */}
               </Link>
 
               <h2 className="h2 text-white text-center">
                 {t("versions.inter")}
-              </h2>
-            </div>
-
-            {/* EXCLUSIVE */}
-            <div className="col-span-1 relative space-y-8">
-              <Link
-                href={""}
-                className="group relative w-full aspect-[16/11] z-[1]"
-              >
-                <Image
-                  src={ascher}
-                  alt=""
-                  quality={100}
-                  fill
-                  className="absolute top-0 left-0 size-full object-cover -z-[2]"
-                />
-                <div className="opacity-0 transition-all group-hover:opacity-55 absolute top-0 left-0 size-full bg-mainBlue -z-[1]"></div>
-                {/* <div className="hidden absolute size-full top-0 left-0 group-hover:grid p-4">
-                  <div className="w-full text-center my-auto text-white space-y-2">
-                    <p>
-                      zdkido zaojdazj dzaddzdizoajdoi zajdzjd
-                      zadjzadjzadjzaduzahduzah dzahd zadhzadzahd zad zad
-                    </p>
-                  </div>
-                </div> */}
-              </Link>
-
-              <h2 className="h2 text-white text-center">
-                {t("versions.exclusive")}
               </h2>
             </div>
           </div>

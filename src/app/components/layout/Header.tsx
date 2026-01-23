@@ -30,7 +30,7 @@ export default function Header(props: Props) {
           <li>
             <a
               href="/fr/media-chirurgie-esthetique-medecine-antiage"
-              className="font-sfPro font-medium uppercase text-white transition hover:text-orange"
+              className="text-base font-sfPro font-medium uppercase text-white transition hover:text-orange"
             >
               A propos
             </a>
@@ -38,7 +38,7 @@ export default function Header(props: Props) {
           <li>
             <a
               href="/fr/partenaires-chirurgie-esthetique-medecine-anti-age"
-              className="font-sfPro font-medium uppercase text-white transition hover:text-orange"
+              className=" text-base font-sfPro font-medium uppercase text-white transition hover:text-orange"
             >
               Partenaires
             </a>
@@ -46,7 +46,7 @@ export default function Header(props: Props) {
           <li>
             <a
               href="/fr/contributeurs-articles-chirugie-plastique-medecine-esthetique"
-              className="font-sfPro font-medium uppercase text-white transition hover:text-orange"
+              className=" text-base font-sfPro font-medium uppercase text-white transition hover:text-orange"
             >
               Contributeurs
             </a>
@@ -54,7 +54,7 @@ export default function Header(props: Props) {
           <li>
             <a
               href="/fr/publications-innovations-medecine-esthetique"
-              className="font-sfPro font-medium uppercase text-white transition hover:text-orange"
+              className=" text-base font-sfPro font-medium uppercase text-white transition hover:text-orange"
             >
               Publications
             </a>
@@ -62,8 +62,17 @@ export default function Header(props: Props) {
 
           <li>
             <a
+              href="/fr/videos"
+              className=" text-base font-sfPro font-medium uppercase text-white transition hover:text-orange"
+            >
+              Interviews
+            </a>
+          </li>
+
+          <li>
+            <a
               href="/fr/meilleurs-congres-medecine-esthetique-chirurgie-plastique"
-              className="font-sfPro font-medium uppercase text-white transition hover:text-orange"
+              className=" text-base font-sfPro font-medium uppercase text-white transition hover:text-orange"
             >
               Congrès
             </a>
@@ -72,7 +81,7 @@ export default function Header(props: Props) {
           <li>
             <a
               href="/fr/media-kit"
-              className="font-sfPro font-medium uppercase text-white transition hover:text-orange"
+              className=" text-base font-sfPro font-medium uppercase text-white transition hover:text-orange"
             >
               Media kit
             </a>
@@ -81,7 +90,7 @@ export default function Header(props: Props) {
           <li>
             <a
               href="/fr/contact"
-              className="font-sfPro font-medium uppercase text-white transition hover:text-orange"
+              className=" text-base font-sfPro font-medium uppercase text-white transition hover:text-orange"
             >
               Contact
             </a>
@@ -92,7 +101,7 @@ export default function Header(props: Props) {
           <li>
             <a
               href="/en/media-plastic-surgery-antiaging-medicine"
-              className="font-sfPro font-medium uppercase text-white transition hover:text-orange"
+              className=" text-base font-sfPro font-medium uppercase text-white transition hover:text-orange"
             >
               About
             </a>
@@ -100,7 +109,7 @@ export default function Header(props: Props) {
           <li>
             <a
               href="/en/partners-plastic-surgery-anti-aging-medicine"
-              className="font-sfPro font-medium uppercase text-white transition hover:text-orange"
+              className=" text-base font-sfPro font-medium uppercase text-white transition hover:text-orange"
             >
               Partners
             </a>
@@ -108,7 +117,7 @@ export default function Header(props: Props) {
           <li>
             <a
               href="/en/contributors-articles-plastic-surgery-aesthetic-medicine"
-              className="font-sfPro font-medium uppercase text-white transition hover:text-orange"
+              className=" text-base font-sfPro font-medium uppercase text-white transition hover:text-orange"
             >
               Contributors
             </a>
@@ -116,15 +125,25 @@ export default function Header(props: Props) {
           <li>
             <a
               href="/en/publications-aesthetic-medicine-innovations"
-              className="font-sfPro font-medium uppercase text-white transition hover:text-orange"
+              className=" text-base font-sfPro font-medium uppercase text-white transition hover:text-orange"
             >
               Publications
             </a>
           </li>
+
+          <li>
+            <a
+              href="/en/videos"
+              className=" text-base font-sfPro font-medium uppercase text-white transition hover:text-orange"
+            >
+              Interviews
+            </a>
+          </li>
+
           <li>
             <a
               href="/en/top-aesthetic-medicine-plastic-surgery-congresses"
-              className="font-sfPro font-medium uppercase text-white transition hover:text-orange"
+              className=" text-base font-sfPro font-medium uppercase text-white transition hover:text-orange"
             >
               Congresses
             </a>
@@ -133,7 +152,7 @@ export default function Header(props: Props) {
           <li>
             <a
               href="/en/media-kit"
-              className="font-sfPro font-medium uppercase text-white transition hover:text-orange"
+              className=" text-base font-sfPro font-medium uppercase text-white transition hover:text-orange"
             >
               Media kit
             </a>
@@ -142,7 +161,7 @@ export default function Header(props: Props) {
           <li>
             <a
               href="/en/contact"
-              className="font-sfPro font-medium uppercase text-white transition hover:text-orange"
+              className=" text-base font-sfPro font-medium uppercase text-white transition hover:text-orange"
             >
               Contact
             </a>
