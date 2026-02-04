@@ -1,7 +1,9 @@
 {
   "HomePage": {
+    "brand": "Découvrez notre nouvelle édition au congrès IMCAS",
     "title": "Dédié à l'innovation en chirurgie & médecine esthétique",
     "cta": "Découvrir",
+    "header": "Un média influent & disruptif",
     "p1": {
       "h1": "Heritage Magazine",
       "h2": "Le média dédié à l'innovation en chirurgie, médecine et dermatologie esthétique",
@@ -17,11 +19,11 @@
       "cta_link": "/fr/partenaires-chirurgie-esthetique-medecine-anti-age"
     },
     "video": {
-      "title": "Découvrez notre nouvelle édition au congrès SFME"
+      "title": "Découvrez notre nouvelle édition au congrès IMCAS"
     },
     "interviews": {
-      "h2": "Ils parlent de nous",
-      "h3": "Les leaders d'opinion pour HERITAGE"
+      "h2": "Une parole libre portée par des experts reconnus",
+      "h3": "Médecins, chirurgiens, consultants et dirigeants"
     }
   },
   "About": {

@@ -1,7 +1,9 @@
 {
   "HomePage": {
+    "brand": "Discover our new edition at the IMCAS World congress",
     "title": "Dedicated to innovation in cosmetic surgery and medicine",
     "cta": "Discover",
+    "header": "An influential & disruptive media",
     "p1": {
       "h1": "Heritage Magazine",
       "h2": "The media dedicated to innovation in aesthetic surgery, medicine and dermatology",
@@ -17,11 +19,11 @@
       "cta_link": "/en/partners-plastic-surgery-anti-aging-medicine"
     },
     "video": {
-      "title": "Discover our new edition at the SFME congress"
+      "title": "Discover our new edition at the IMCAS World congress"
     },
     "interviews": {
-      "h2": "They talk about us",
-      "h3": "Key Opinion Leaders for HERITAGE"
+      "h2": "A free voice carried by recognised experts",
+      "h3": "Physicians, surgeons, consultants and executives"
     }
   },
   "About": {

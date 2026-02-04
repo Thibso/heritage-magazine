@@ -3,7 +3,6 @@ import Image from "next/image";
 import Button from "../components/buttons/Button";
 import SliderVideos from "../components/videos/SliderVideos";
 import last_mag from "../img/MEDIA-SPECIALISE-MEDECINE-ESTHETIQUE-CHIRURGIE.jpg";
-import magMobile from "../img/magazine-innovation-sante-mobile.jpg";
 import mag from "../img/magazine-innovation-sante.jpg";
 
 type Params = {
@@ -71,19 +70,13 @@ export default function Home() {
   const t = useTranslations("HomePage");
   return (
     <main>
-      <section className="max-lg:hidden relative h-screen max-h-[1080px]">
-        <video
-          className="size-full object-cover"
-          autoPlay
-          muted
-          playsInline
-          loop
-        >
-          <source
-            src="/HERITAGE-MAGAZINE-AESTHETIC-MEDICINE.mp4"
-            type="video/mp4"
-          />
-        </video>
+      <section className="relative h-[450px] lg:h-screen max-h-[1080px]">
+        <div className="bg-[url(/Influence-magazine-plastic-surgery-aesthetic-medicine.png)] bg-cover bg-fixed bg-center max-lg:hidden absolute size-full"></div>
+        <div className="bg-[url(/Influence-media-plastic-surgery-aesthetic-medicine.png)] bg-cover bg-[50%_75%] lg:hidden absolute size-full"></div>
+
+        <span className="h2 absolute bottom-[55px] lg:bottom-[85px] left-1/2 -translate-x-1/2 text-white">
+          {t("header")}
+        </span>
 
         <a
           href="#discover"
@@ -93,45 +86,13 @@ export default function Home() {
         </a>
       </section>
 
-      <section className="lg:hidden myContainer relative overflow-hidden grid items-center bg-headerBlue h-screen max-h-[500px] lg:max-h-[1080px] w-full">
-        <video
-          className="absolute h-full top-0 left-1/2 -translate-x-1/2 right-0 bottom-0 max-w-[2550px]"
-          autoPlay
-          muted
-          playsInline
-          loop
-        >
-          <source
-            src="/magazine-esthetique-heritage-antiage-2.mp4"
-            type="video/mp4"
-          />
-        </video>
-
-        <h2 className="absolute w-[70%] lg:w-fit top-[60%] lg:top-[60%] left-1/2 -translate-x-1/2 header-title text-white text-center font-semibold">
-          {t("title")}
-        </h2>
-
-        <a
-          href="#discover"
-          className="bg-orange px-12 py-2 rounded-3xl absolute w-fit top-[80%] lg:top-[80%] left-1/2 -translate-x-1/2 text-white font-sfPro font-medium leading-none"
-        >
-          {t("cta")}
-        </a>
-      </section>
-
-      <section className="lg:grid lg:grid-cols-8  m-auto max-lg:bg-bgLight">
+      <section className="lg:grid lg:grid-cols-8 m-auto max-lg:bg-bgLight">
         <div className="col-span-3 w-full h-full relative">
           <Image
             src={mag}
             alt="Illustration (H)ERITAGE magazine"
             quality={100}
             className="max-lg:hidden absolute w-full h-full object-cover object-center"
-          />
-          <Image
-            priority
-            src={magMobile}
-            alt="Illustration (H)ERITAGE magazine"
-            className="lg:hidden h-80 w-full object-cover object-center"
           />
         </div>
 
@@ -171,28 +132,12 @@ export default function Home() {
         </div>
 
         <div className="bg-bgLight col-span-5 grid items-start lg:pt-[75px] overflow-hidden relative">
-          <div className="space-y-8 lg:space-y-16">
-            <h2 className="h2 text-orange text-center">{t("video.title")}</h2>
-            <Image
-              src={last_mag}
-              alt="Magazine (H)ERITAGE last version"
-              quality={100}
-              className="lg:absolute max-lg:m-auto w-full lg:h-[80%] lg:bottom-0 lg:left-0 object-cover"
-            />
-          </div>
-
-          {/* <video
-            className="m-auto w-full object-cover"
-            autoPlay
-            muted
-            loop
-            playsInline
-          >
-            <source
-              src="/magazine-heritage-specialiste-innovations-sante.mp4"
-              type="video/mp4"
-            />
-          </video> */}
+          <Image
+            src={last_mag}
+            alt="Magazine (H)ERITAGE last version"
+            quality={100}
+            className="lg:absolute max-lg:m-auto w-full lg:h-[100%] lg:bottom-0 lg:left-0 object-cover"
+          />
         </div>
       </section>
 

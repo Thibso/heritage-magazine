@@ -100,7 +100,7 @@ export default function SliderVideos() {
           });
         }}
       >
-        <ChevronLeft className="size-6 text-orange" />
+        <ChevronLeft className="size-6 text-white" />
       </button>
       <button
         className="absolute max-lg:right-[20%] lg:left-1/2 lg:translate-x-[150px] bottom-0 bg-mainBlue disabled:bg-mainBlue/70 desabled:cursor-not-allowed rounded-full p-2 z-[99]"
@@ -113,7 +113,7 @@ export default function SliderVideos() {
           });
         }}
       >
-        <ChevronRight className="size-6 text-orange" />
+        <ChevronRight className="size-6 text-white" />
       </button>
     </div>
   );
