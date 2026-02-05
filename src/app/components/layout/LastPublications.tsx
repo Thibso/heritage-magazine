@@ -1,8 +1,8 @@
-import fs from "fs";
 import { useTranslations } from "next-intl";
-import path from "path";
 import Button from "../buttons/Button";
 import LastPublicationsSlider from "./LastPublicationsSlider";
+
+import dataRaw from "@/data/lastpublications.json";
 
 type Item = {
   image: string;
@@ -18,10 +18,7 @@ type Item = {
 
 export default function LastPublications() {
   const t = useTranslations("HomePage");
-
-  const filePath = path.join(process.cwd(), "src/data/lastpublications.json");
-  const jsonData = fs.readFileSync(filePath, "utf-8");
-  const data: Item[] = JSON.parse(jsonData);
+  const data: Item[] = dataRaw;
 
   return (
     <section className="overflow-hidden  m-auto bg-bgLight">
