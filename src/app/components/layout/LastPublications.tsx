@@ -81,7 +81,7 @@ export default function LastPublications() {
         <LastPublicationsSlider data={data} />
 
         <div className="flex justify-center">
-          <Button link={t("slider.publications")}>{t("slider.cta")}</Button>
+          <Button link={t("slider.cta")}>{t("slider.publications")}</Button>
         </div>
       </div>
     </section>
