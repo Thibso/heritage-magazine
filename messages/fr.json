@@ -24,6 +24,12 @@
     "interviews": {
       "h2": "Une parole libre portée par des experts reconnus",
       "h3": "Médecins, chirurgiens, consultants et dirigeants"
+    },
+    "slider": {
+      "h2": "Heritage un Magazine dédié aux acteurs de l'esthétique",
+      "h3": "L'innovation au service de l'excellence médicale",
+      "publications": "Découvrir toutes les publications",
+      "cta": "/fr/publications-innovations-medecine-esthetique"
     }
   },
   "About": {

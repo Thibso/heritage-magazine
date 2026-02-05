@@ -24,6 +24,12 @@
     "interviews": {
       "h2": "A free voice carried by recognised experts",
       "h3": "Physicians, surgeons, consultants and executives"
+    },
+    "slider": {
+      "h2": "Heritage a Magazine dedicated to the beauty industry",
+      "h3": "Innovation at the service of medical excellence",
+      "publications": "Discover all publications",
+      "cta": "/en/publications-aesthetic-medicine-innovations"
     }
   },
   "About": {
