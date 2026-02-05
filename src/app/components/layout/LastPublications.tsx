@@ -19,7 +19,7 @@ type Item = {
 export default function LastPublications() {
   const t = useTranslations("HomePage");
 
-  const filePath = path.join(process.cwd(), "src/data/lastPublications.json");
+  const filePath = path.join(process.cwd(), "src/data/lastpublications.json");
   const jsonData = fs.readFileSync(filePath, "utf-8");
   const data: Item[] = JSON.parse(jsonData);
 
