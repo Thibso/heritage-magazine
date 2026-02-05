@@ -2,7 +2,7 @@ import { useTranslations } from "next-intl";
 import Button from "../buttons/Button";
 import LastPublicationsSlider from "./LastPublicationsSlider";
 
-import dataRaw from "@/data/lastpublications.json";
+import dataRaw from "../../../data/lastpublications.json";
 
 type Item = {
   image: string;
