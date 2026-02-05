@@ -18,7 +18,7 @@ type CardProps = {
   linkTo: string;
   linkText: string;
   tags: string[];
-  mobileHidden: boolean;
+  mobileHidden?: boolean;
 };
 
 type Props = {
