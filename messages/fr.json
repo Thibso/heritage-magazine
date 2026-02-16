@@ -204,11 +204,11 @@
     "partners_h3": "Notre réseau de partenaires évolue en permanence"
   },
   "Media_kit": {
-    "abstract": "<p>Soutenu par les Leaders de l'industrie, HERITAGE s’impose comme le nouveau média premium de référence en chirurgie et médecine esthétique. <br></br> Chaque année, une <orange>édition internationale</orange> et  une <orange>édition française</orange> célèbrent l’excellence des marques et des acteurs qui façonnent l’avenir du secteur. <br></br>Le magazine propose également des collaborations exclusives avec des congrès de renom, alliant visibilité ciblée et diffusion directe auprès des Key Opinion Leaders.</p><p>Pensé comme un écrin éditorial contemporain et élégant, HERITAGE laisse une empreinte durable dans le temps grâce à un support papier haut de gamme et un contenu digital parfaitement référencé pour répondre à vos enjeux de visibilité. </p>",
+    "h2": "Media kit Heritage Magazine",
+    "h3": "L'excellence des marques qui faconnent l'avenir du secteur",
     "versions": {
-      "fr": "Français",
-      "inter": "International",
-      "exclusive": "Exclusive"
+      "fr": "Version française",
+      "inter": "Version internationnale"
     }
   },
   "Contact": {

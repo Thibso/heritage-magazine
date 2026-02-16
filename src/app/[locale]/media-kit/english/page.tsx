@@ -1,18 +1,11 @@
-import FullPageScroll from "@/app/components/layout/FullPageScroll";
 import aerolase from "@/app/img/aerolase-partenaire-heritage-magazine.png";
 import aime from "@/app/img/congres/aime-congress-aesthetic-medicine-paris.png";
 import imcas from "@/app/img/congres/imcas-congres-medecine-esthetique-chirurgie-plastique-dermatologie.png";
-import summit from "@/app/img/congres/medical-aesthetic-injectable-summit-marbella.png";
 import sfme from "@/app/img/congres/sfme-congress-paris-aesthetic-medicine.png";
-import fr from "@/app/img/fr.jpg";
 import healthcie from "@/app/img/healthcie-partenaire-heritage-magazine.png";
-import magazine from "@/app/img/heritage-innovation-sante-magazine-specialiste.jpg";
-import hydrafacial from "@/app/img/hydrafacial-partner-heritage-magazine-aesthetic.png";
 import idocteur from "@/app/img/idocteur-partner-heritage-magazine.png";
 import julien from "@/app/img/Julien-vervel-consultant-médical-laboratoires.jpg";
 import logo from "@/app/img/logo-heritage.png";
-import example1 from "@/app/img/media-kit/example-1.jpg";
-import example2 from "@/app/img/media-kit/example-2.jpg";
 import texture from "@/app/img/meilleure-agence-web-medicale-paris.png";
 import olivier from "@/app/img/olivier-claire-partenaire-heritage-magazine.png";
 import slide_5 from "@/app/img/plastic-surgeons-best-magazine.jpg";
@@ -21,12 +14,22 @@ import uk from "@/app/img/uk.png";
 import vivacy from "@/app/img/vivacy-logo-official.webp";
 // Major Images
 import magazine_vertical from "@/app/img/media-kit/magazine-heritage-book.jpg";
-import market from "@/app/img/media-kit/market-overview.jpg";
-import ascher from "@/app/img/media-kit/mockup-dr-ascher.jpg";
 import la_padula from "@/app/img/media-kit/mockup-simone-lapadula.jpg";
-import mockup_imcas from "@/app/img/media-kit/mokup-heritage-magazine.jpg";
 // =============
 import Image from "next/image";
+
+import hydra from "@/app/img/hydrafacial-partner-heritage-magazine-aesthetic.png";
+import mais from "@/app/img/medical-injectable-summit.png";
+import nooance from "@/app/img/nooance-partner-heritage-magazine.png";
+import praguelab from "@/app/img/prague-lab-partner-heritage-magazine.png";
+import josse from "@/app/img/thomas-josse-partenaire-heritage-magazine.png";
+
+import aptos from "@/app/img/aptos-heritage-magazine-partner.png";
+import canfield from "@/app/img/canfield-heritage-magazine-partner.png";
+import cutera from "@/app/img/cutera-heritage-magazine-partner.png";
+import rejuran from "@/app/img/rejuran-heritage-magazine-partner.png";
+import skinceuticals from "@/app/img/skinceuticals-heritage-magazine-partner.png";
+import sunekos from "@/app/img/sune-kos-heritage-magazine-partner.png";
 
 type Params = {
   params: { locale: string };
@@ -97,7 +100,7 @@ export async function generateMetadata({ params }: Params) {
 
 export default function MediaKitEnglish() {
   return (
-    <FullPageScroll>
+    <>
       {/* 1 */}
       <section className="lg:min-h-screen relative grid max-lg:pt-16">
         <Image
@@ -127,7 +130,7 @@ export default function MediaKitEnglish() {
       </section>
       {/* 2 */}
       <section className="min-h-screen relative grid lg:pl-32">
-        <h3 className="text-orange font-bold text-4xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
+        <h3 className="text-orange font-bold text-4xl lg:text-[115px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
           PREAMBLE
         </h3>
         <div className="myContainer my-auto space-y-8 lg:space-y-16">
@@ -192,7 +195,7 @@ export default function MediaKitEnglish() {
       </section>
       {/* 3 */}
       <section className="lg:min-h-screen relative lg:grid lg:px-32 bg-slate-50">
-        <h3 className="text-orange font-bold text-4xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
+        <h3 className="text-orange font-bold text-4xl lg:text-[115px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
           EDITORIAL
         </h3>
         <div className="max-lg:hidden absolute right-0 top-0 w-[300px] h-full">
@@ -229,14 +232,14 @@ export default function MediaKitEnglish() {
               <h4 className="font-semibold text-base lg:text-lg">
                 PHOTOGRAPHY
               </h4>
-              <p>JOACHIM BLANQUART</p>
+              <p>THÉO VEILLARD</p>
             </div>
 
             <div>
               <h4 className="font-semibold text-base lg:text-lg">
                 ART DIRECTION
               </h4>
-              <p>VINCENT MOTTAY</p>
+              <p>MATHILDE PIVIDAL</p>
             </div>
           </div>
 
@@ -269,18 +272,9 @@ export default function MediaKitEnglish() {
           </div>
         </div>
       </section>
-      {/* 4 */}
-      <section className="min-h-[60vh] lg:min-h-screen relative">
-        <Image
-          src={magazine}
-          alt="HERITAGE Magazine"
-          quality={100}
-          className="absolute top-0 left-0 size-full object-cover"
-        />
-      </section>
       {/* 5 */}
       <section className="lg:min-h-screen relative lg:grid lg:pl-32 bg-mainBlue">
-        <h3 className="text-orange font-bold text-4xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
+        <h3 className="text-orange font-bold text-4xl lg:text-[115px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
           PRINT
         </h3>
         <div className="lg:grid lg:grid-cols-7 size-full">
@@ -308,7 +302,6 @@ export default function MediaKitEnglish() {
 
               <div className="flex justify-center gap-4 lg:pt-24">
                 <Image src={uk} alt="UK" className="w-10" />
-                <Image src={fr} alt="FR" className="w-10" />
               </div>
             </div>
           </div>
@@ -329,28 +322,19 @@ export default function MediaKitEnglish() {
               </p>
               <p>
                 <span className="text-orange">Realease date :</span> November
-                2025
+                2022
               </p>
             </div>
           </div>
         </div>
       </section>
-      {/* 6 */}
-      <section className="max-lg:hidden min-h-[60vh] lg:min-h-screen relative">
-        <Image
-          src={mockup_imcas}
-          alt="HERITAGE Magazine"
-          quality={100}
-          className="absolute top-0 left-0 size-full object-cover"
-        />
-      </section>
       {/* 7 */}
-      <section className="lg:min-h-screen relative lg:grid lg:pl-32 bg-mainBlue">
-        <h3 className="text-orange font-bold text-4xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
+      <section className="lg:min-h-screen relative lg:grid lg:pl-32 bg-slate-50">
+        <h3 className="text-orange font-bold text-4xl lg:text-[115px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
           DIGITAL
         </h3>
         <div className="lg:grid lg:grid-cols-7 size-full">
-          <div className="lg:col-span-3 myContainer text-white space-y-4 size-full flex flex-col justify-end">
+          <div className="lg:col-span-3 myContainer text-mainBlue space-y-4 size-full flex flex-col justify-end">
             <p>
               We offer a dual platform – print and digital allowing brands to
               communicate effectively with a specialised and discerning
@@ -383,117 +367,133 @@ export default function MediaKitEnglish() {
       </section>
       {/* 8 */}
       <section className="lg:min-h-screen relative lg:px-32 lg:grid bg-white">
-        <h3 className="text-orange font-bold text-4xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
+        <h3 className="text-orange font-bold text-4xl lg:text-[115px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
           PARTNERS
         </h3>
         <div className="myContainer w-full space-y-8 lg:space-y-12">
           <div className="space-y-2 text-center">
-            <h2 className="text-xl font-semibold">DISTRIBUTION NETWORK</h2>
-            <h3 className="text-lg font-semibold text-orange">
+            <h2 className="h2">DISTRIBUTION NETWORK</h2>
+            <h3 className="h3">
               Our distribution network is constantly evolving
             </h3>
           </div>
 
-          <div className="space-y-8 lg:space-y-12">
-            <div className="flex max-lg:flex-col max-lg:gap-8 lg:justify-between max-lg:items-center">
-              <Image
-                src={aime}
-                alt="AIME"
-                className="w-[250px] object-contain h-[45px]"
-              />
-
-              <Image
-                src={imcas}
-                alt="AIME"
-                className="w-[250px] object-contain h-[45px]"
-              />
-
-              <Image
-                src={thinkin}
-                alt="AIME"
-                className="w-[250px] object-contain h-[45px]"
-              />
-            </div>
-
-            <div className="flex max-lg:flex-col max-lg:gap-8 lg:justify-around max-lg:items-center">
-              <Image
-                src={summit}
-                alt="AIME"
-                className="w-[250px] object-contain h-[55px]"
-              />
-
-              <Image
-                src={sfme}
-                alt="AIME"
-                className="w-[250px] object-contain h-[45px]"
-              />
-            </div>
+          <div className="grid md:grid-cols-3 items-center max-w-[1024px] m-auto gap-x-8">
+            <Image
+              src={aime}
+              alt=""
+              className="m-auto max-lg:max-w-[150px] max-w-[200px] aspect-square object-contain"
+            />
+            <Image
+              src={thinkin}
+              alt=""
+              className="m-auto  max-lg:max-w-[150px] max-w-[200px] aspect-square object-contain"
+            />
+            <Image
+              src={imcas}
+              alt=""
+              className="m-auto max-lg:max-w-[150px] max-w-[200px] aspect-square object-contain"
+            />
+            <Image
+              src={sfme}
+              alt=""
+              className="m-auto max-lg:max-w-[150px] max-w-[200px] aspect-square object-contain"
+            />
+            <Image
+              src={mais}
+              alt=""
+              className="m-auto max-lg:max-w-[150px] max-w-[200px] aspect-square object-contain"
+            />
+            <Image
+              src={praguelab}
+              alt=""
+              className="m-auto max-lg:max-w-[150px] max-w-[250px] aspect-square object-contain"
+            />
           </div>
 
           <div className="space-y-2 text-center">
-            <h2 className="text-xl font-semibold">
-              MEDICAL DEVICE COMPANIES PARTNERS OF THE FIRST EDITION{" "}
-            </h2>
-            <h3 className="text-lg font-semibold text-orange">
-              Our partner network is constantly evolving
-            </h3>
+            <h2 className="h2">MEDICAL DEVICE COMPANIES PARTNERS</h2>
+            <h3 className="h3">Our partner network is constantly evolving</h3>
           </div>
 
-          <div className="space-y-8 lg:space-y-12">
-            <div className="flex max-lg:flex-col max-lg:gap-8 lg:justify-between items-center">
-              <Image
-                src={aerolase}
-                alt="AIME"
-                className="w-[250px] object-contain h-[45px] "
-              />
+          <div className="mt-16 grid grid-cols-2 md:grid-cols-4 items-center max-w-[1200px] m-auto gap-x-8 ">
+            <Image
+              src={olivier}
+              alt=""
+              className="m-auto w-[188px] aspect-square object-contain"
+            />
+            <Image
+              src={vivacy}
+              alt=""
+              className="m-auto w-[188px]  aspect-square object-contain"
+            />
+            <Image
+              src={aerolase}
+              alt=""
+              className="m-auto w-[188px] aspect-square object-contain"
+            />
+            <Image
+              src={josse}
+              alt=""
+              className="m-auto max-h-[60%] object-contain w-[188px] aspect-square"
+            />
+            <Image
+              src={healthcie}
+              alt=""
+              className="m-auto max-h-[60%] object-contain w-[188px] aspect-square"
+            />
+            <Image
+              src={hydra}
+              alt=""
+              className="m-auto w-[250px] aspect-square object-contain"
+            />
+            <Image
+              src={nooance}
+              alt=""
+              className="m-auto w-[250px] aspect-square object-contain"
+            />
+            <Image
+              src={idocteur}
+              alt=""
+              className="m-auto w-[250px] aspect-square object-contain"
+            />
 
-              <Image
-                src={vivacy}
-                alt="AIME"
-                className="w-[250px] object-contain h-[45px] "
-              />
-
-              <Image
-                src={hydrafacial}
-                alt="AIME"
-                className="w-[250px] object-contain h-[45px] "
-              />
-            </div>
-
-            <div className="flex max-lg:flex-col max-lg:gap-8 lg:justify-between items-center">
-              <Image
-                src={idocteur}
-                alt="AIME"
-                className="w-[250px] object-contain h-[45px] "
-              />
-
-              <Image
-                src={healthcie}
-                alt="AIME"
-                className="w-[250px] object-contain h-[100px] "
-              />
-
-              <Image
-                src={olivier}
-                alt="AIME"
-                className="w-[250px] object-contain h-[100px] "
-              />
-            </div>
+            <Image
+              src={cutera}
+              alt=""
+              className="m-auto w-[200px] aspect-square object-contain"
+            />
+            <Image
+              src={canfield}
+              alt=""
+              className="m-auto w-[200px] aspect-square object-contain"
+            />
+            <Image
+              src={rejuran}
+              alt=""
+              className="m-auto w-[200px] aspect-square object-contain"
+            />
+            <Image
+              src={skinceuticals}
+              alt=""
+              className="m-auto w-[250px] aspect-square object-contain"
+            />
+            <Image
+              src={sunekos}
+              alt=""
+              className="m-auto w-[200px] lg:col-start-2 aspect-square object-contain"
+            />
+            <Image
+              src={aptos}
+              alt=""
+              className="m-auto w-[200px] lg:col-start-3 aspect-square object-contain"
+            />
           </div>
         </div>
       </section>
-      {/* 9 */}
-      <section className="min-h-[60vh] lg:min-h-screen relative">
-        <Image
-          src={ascher}
-          alt="HERITAGE Magazine"
-          quality={100}
-          className="absolute top-0 left-0 size-full object-cover"
-        />
-      </section>
       {/* 10 */}
       <section className="lg:min-h-screen relative lg:px-32 lg:grid bg-slate-50">
-        <h3 className="text-orange font-bold text-4xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
+        <h3 className="text-orange font-bold text-4xl lg:text-[115px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
           PACK(H)
         </h3>
         <div className="myContainer w-full lg:w-[90%] mx-auto lg:mb-0 space-y-8 lg:space-y-16">
@@ -566,7 +566,7 @@ export default function MediaKitEnglish() {
         </div>
       </section>
       {/* 11 */}
-      <section className="lg:min-h-screen relative lg:px-32 lg:grid bg-white">
+      {/* <section className="lg:min-h-screen relative lg:px-32 lg:grid bg-white">
         <h3 className="text-orange font-bold text-4xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
           EXAMPLES
         </h3>
@@ -595,50 +595,16 @@ export default function MediaKitEnglish() {
             </li>
           </ul>
         </div>
-      </section>
+      </section> */}
       {/* 12 */}
       <section className="lg:min-h-screen relative lg:px-32 lg:grid bg-slate-50">
-        <h3 className="text-orange font-bold text-4xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
+        <h3 className="text-orange font-bold text-4xl lg:text-[115px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
           AD RATES
         </h3>
         <div className="myContainer w-full lg:w-[80%] mx-auto space-y-8 lg:space-y-20">
           <h2 className="text-xl font-semibold text-center">Advertising</h2>
           <div className="space-y-4">
             <ul className="space-y-6">
-              <li>
-                <div className="gap-2 w-full grid grid-cols-[auto,1fr,auto] items-center">
-                  <p className="text-lg lg:text-xl">STANDARD AD</p>
-                  <div className="border-t-[1px] border-mainBlue/70"></div>
-                  <p className="text-lg lg:text-xl"> 2000 EUROS excl. tax.</p>
-                </div>
-              </li>
-              <li>
-                <div className="gap-2 w-full grid grid-cols-[auto,1fr,auto] items-center">
-                  <p className="text-lg lg:text-xl"> PRE-SUMMARY</p>
-                  <div className="border-t-[1px] border-mainBlue/70"></div>
-                  <p className="text-lg lg:text-xl">2500 EUROS excl. tax.</p>
-                </div>
-              </li>
-              <li>
-                <div className="gap-2 w-full grid grid-cols-[auto,1fr,auto] items-center">
-                  <p className="text-lg lg:text-xl">
-                    CENTRAL DOUBLE-PAGE ADVERTISEMENT
-                    <br />
-                    (limited to 1 per edition)
-                  </p>
-                  <div className="border-t-[1px] border-mainBlue/70"></div>
-                  <p className="text-lg lg:text-xl">5000 EUROS excl. tax.</p>
-                </div>
-              </li>
-              <li>
-                <div className="gap-2 w-full grid grid-cols-[auto,1fr,auto] items-center">
-                  <p className="text-lg lg:text-xl">
-                    DOUBLE-PAGE ADVERTISEMENT
-                  </p>
-                  <div className="border-t-[1px] border-mainBlue/70"></div>
-                  <p className="text-lg lg:text-xl">4000 EUROS excl. tax.</p>
-                </div>
-              </li>
               <li>
                 <div className="gap-2 w-full grid grid-cols-[auto,1fr,auto] items-center">
                   <p className="text-lg lg:text-xl">SECOND COVER</p>
@@ -676,18 +642,9 @@ export default function MediaKitEnglish() {
           </div>
         </div>
       </section>
-      {/* 13 */}
-      <section className="min-h-[60vh] lg:min-h-screen relative">
-        <Image
-          src={market}
-          alt="HERITAGE Magazine"
-          quality={100}
-          className="absolute top-0 left-0 size-full object-cover"
-        />
-      </section>
       {/* 14 */}
       <section className="lg:min-h-screen relative lg:px-32 lg:grid bg-mainBlue text-white">
-        <h3 className="text-orange font-bold text-4xl lg:text-[145px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
+        <h3 className="text-orange font-bold text-4xl lg:text-[115px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
           CONTACT
         </h3>
         <div className="myContainer w-full lg:w-[90%] mx-auto lg:grid lg:grid-cols-2 max-lg:space-y-4">
@@ -782,6 +739,6 @@ export default function MediaKitEnglish() {
           </div>
         </div>
       </section>
-    </FullPageScroll>
+    </>
   );
 }

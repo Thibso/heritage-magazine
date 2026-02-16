@@ -1,7 +1,6 @@
 import fr from "@/app/img/media-kit/france-heritage-magazine.jpg";
 import en from "@/app/img/media-kit/international-heritage-magazine.jpg";
 import header from "@/app/img/MEDIA-SPECIALISE-MEDECINE-ESTHETIQUE-CHIRURGIE.jpg";
-import texture from "@/app/img/meilleure-agence-web-medicale-paris.png";
 import { useTranslations } from "next-intl";
 import Image from "next/image";
 import Link from "next/link";
@@ -92,25 +91,21 @@ export default function About({ params }: Params) {
           <div className="absolute bg-mainBlue/40 -z-[1] size-full top-0 left-0"></div>
         </div>
       </section>
-      <section className="relative z-[1] grid md:pt-16">
-        <Image
-          src={texture}
-          alt="texture"
-          quality={100}
-          fill
-          className="absolute top-0 left-0 object-cover -z-[1]"
-        />
-        <div className="myContainer w-full my-auto space-y-8">
-          <div className="text-white space-y-2">
-            {t.rich("abstract", {
-              p: (chunk) => <p className="font-sfPro">{chunk}</p>,
-              orange: (chunk) => <span className="text-orange">{chunk}</span>,
-              br: () => <br />,
-            })}
+      <section className="bg-white">
+        <div className="myContainer space-y-8 lg:space-y-16">
+          <div className="text-center">
+            <h2 className="h2 text-mainBlue">{t("h2")}</h2>
+            <h3 className="h3 mt-2 lg:mt-4">{t("h3")}</h3>
           </div>
-          <div className="max-md:space-y-8 md:grid md:grid-cols-2 md:gap-8 max-w-screen-md md:mx-auto">
+
+          <div className="max-md:space-y-8 md:grid md:grid-cols-2 md:gap-16 max-w-screen-md md:mx-auto">
             {/* FR */}
             <div className="col-span-1 relative space-y-8 ">
+              <div className="space-y-2 text-center">
+                <h2 className="h2 text-mainBlue">Media kit</h2>
+                <h3 className="h3 text-mainBlue">{t("versions.fr")}</h3>
+              </div>
+
               <Link
                 href={"/" + params.locale + "/media-kit/french"}
                 className="group relative w-full aspect-[9/12] z-[1]"
@@ -124,12 +119,14 @@ export default function About({ params }: Params) {
                 />
                 <div className="opacity-0 transition-all group-hover:opacity-55 absolute top-0 left-0 size-full bg-mainBlue -z-[1]"></div>
               </Link>
-
-              <h2 className="h2 text-white text-center">{t("versions.fr")}</h2>
             </div>
 
             {/* INTERNATIONAL */}
             <div className="col-span-1 relative space-y-8">
+              <div className="space-y-2 text-center">
+                <h2 className="h2 text-mainBlue">Media kit</h2>
+                <h3 className="h3 text-mainBlue">{t("versions.inter")}</h3>
+              </div>
               <Link
                 href={"/" + params.locale + "/media-kit/english"}
                 className="group relative w-full aspect-[9/12] z-[1]"
@@ -143,10 +140,6 @@ export default function About({ params }: Params) {
                 />
                 <div className="opacity-0 transition-all group-hover:opacity-55 absolute top-0 left-0 size-full bg-mainBlue -z-[1]"></div>
               </Link>
-
-              <h2 className="h2 text-white text-center">
-                {t("versions.inter")}
-              </h2>
             </div>
           </div>
         </div>
