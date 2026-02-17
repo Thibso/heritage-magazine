@@ -408,7 +408,7 @@ export default function MediaKitFrench() {
           PARTENAIRES
         </h3>
         <div className="myContainer w-full space-y-8 lg:space-y-12">
-          <div className="space-y-2 text-center">
+          <div className="space-y-4 text-center">
             <h2 className="h2">RÉSEAU DE DISTRIBUTION</h2>
             <h3 className="h3">
               Notre réseau de distribution évolue en permanence
@@ -448,7 +448,7 @@ export default function MediaKitFrench() {
             />
           </div>
 
-          <div className="space-y-2 text-center">
+          <div className="space-y-4 text-center">
             <h2 className="h2">
               ENTREPRISES DE DISPOSITIFS MÉDICAUX PARTENAIRES
             </h2>
@@ -538,7 +538,12 @@ export default function MediaKitFrench() {
           PACK(H)
         </h3>
         <div className="myContainer w-full lg:w-[90%] mx-auto space-y-8 lg:space-y-16">
-          <h2 className="text-xl font-semibold text-center">Pack (H)ERITAGE</h2>
+          <div className="text-center space-y-4">
+            <h2 className="h2">
+              Une offre unique pour valoriser vos innovations
+            </h2>
+            <h3 className="h3">Pack (H)ERITAGE</h3>
+          </div>
           <div className="space-y-4">
             <p>
               Pour les laboratoires et les fabricants de dispositifs médicaux,
@@ -550,8 +555,9 @@ export default function MediaKitFrench() {
                 photos en Français
               </li>
               <li>
-                Digital : une interview avec le logo de votre marque, plus, une
-                backlink (lien « entrant » depuis notre site vers le vôtre)
+                Digital : intégration de votre interview avec le logo de votre
+                marque avec un backlink (lien « entrant » depuis notre site vers
+                le vôtre)
               </li>
               <li>Digital : une interview vidéo déclinée en trois formats</li>
               <li>
@@ -600,7 +606,10 @@ export default function MediaKitFrench() {
           TARIFS PUB
         </h3>
         <div className="myContainer w-full lg:w-[80%] mx-auto space-y-8 lg:space-y-20">
-          <h2 className="text-xl font-semibold text-center">Publicité</h2>
+          <div className="text-center space-y-4">
+            <h2 className="h2">Le choix d&apos;un emplacement stratégique</h2>
+            <h3 className="h3">Publicité</h3>
+          </div>
           <div className="space-y-4">
             <ul className="space-y-6">
               <li>
@@ -648,9 +657,10 @@ export default function MediaKitFrench() {
           EXEMPLES
         </h3>
         <div className="myContainer w-full  mx-auto space-y-8 lg:space-y-20">
-          <h2 className="text-xl font-semibold text-center">
-            Hydrafacial : Pack (H)ERITAGE
-          </h2>
+          <div className="text-center space-y-4">
+            <h2 className="h2">Étude de cas</h2>
+            <h3 className="h3">Hydrafacial : Pack (H)ERITAGE</h3>
+          </div>
 
           <div className="grid md:grid-cols-2 gap-8 lg:gap-16">
             <div className="flex flex-col justify-between gap-8 lg:gap-16">
