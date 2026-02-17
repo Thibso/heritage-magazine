@@ -204,11 +204,11 @@
     "partners_h3": "Our partner network is constantly evolving"
   },
   "Media_kit": {
-    "abstract": " <p>Supported by industry leaders, HERITAGE stands as the new premium reference media in aesthetic medicine and surgery. <br></br>Each year, an <orange>international edition</orange> and a <orange>French edition</orange> celebrate the excellence of the brands and professionals shaping the future of the field. <br></br>The magazine also offers exclusive collaborations with renowned congresses, combining targeted visibility with direct reach to Key Opinion Leaders.</p><p>Conceived as a contemporary and elegant editorial showcase, HERITAGE leaves a lasting mark through its high-end print edition and perfectly referenced digital content, designed to meet your visibility objectives.</p>",
+    "h2": "Media kit Heritage Magazine",
+    "h3": "The excellence of the brands shaping the future of the industry",
     "versions": {
-      "fr": "French",
-      "inter": "International",
-      "exclusive": "Exclusive"
+      "fr": "French version",
+      "inter": "International version"
     }
   },
   "Contact": {

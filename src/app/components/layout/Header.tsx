@@ -80,6 +80,15 @@ export default function Header(props: Props) {
 
           <li>
             <a
+              href="/fr/media-kit"
+              className=" text-base font-sfPro font-medium uppercase text-white transition hover:text-orange"
+            >
+              Media kit
+            </a>
+          </li>
+
+          <li>
+            <a
               href="/fr/contact"
               className=" text-base font-sfPro font-medium uppercase text-white transition hover:text-orange"
             >
@@ -137,6 +146,15 @@ export default function Header(props: Props) {
               className=" text-base font-sfPro font-medium uppercase text-white transition hover:text-orange"
             >
               Congresses
+            </a>
+          </li>
+
+          <li>
+            <a
+              href="/en/media-kit"
+              className=" text-base font-sfPro font-medium uppercase text-white transition hover:text-orange"
+            >
+              Media kit
             </a>
           </li>
 

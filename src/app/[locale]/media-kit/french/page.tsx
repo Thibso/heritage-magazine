@@ -7,17 +7,17 @@ import healthcie from "@/app/img/healthcie-partenaire-heritage-magazine.png";
 import idocteur from "@/app/img/idocteur-partner-heritage-magazine.png";
 import julien from "@/app/img/Julien-vervel-consultant-médical-laboratoires.jpg";
 import logo from "@/app/img/logo-heritage.png";
+import slide_5 from "@/app/img/media-kit/heritage-magazine-specialist-aesthetic-sector.jpg";
 import mais from "@/app/img/medical-injectable-summit.png";
 import texture from "@/app/img/meilleure-agence-web-medicale-paris.png";
 import olivier from "@/app/img/olivier-claire-partenaire-heritage-magazine.png";
-import slide_5 from "@/app/img/plastic-surgeons-best-magazine.jpg";
 import praguelab from "@/app/img/prague-lab-partner-heritage-magazine.png";
 import thinkin from "@/app/img/thinkin-partenaire-heritage-magazine.png";
 import vivacy from "@/app/img/vivacy-logo-official.webp";
 import Image from "next/image";
 // Major Images
 import magazine_vertical from "@/app/img/media-kit/magazine-heritage-book.jpg";
-import la_padula from "@/app/img/media-kit/mockup-simone-lapadula.jpg";
+import mockup from "@/app/img/media-kit/media-heritage-magazine.jpg";
 // =============
 
 import hydra from "@/app/img/hydrafacial-partner-heritage-magazine-aesthetic.png";
@@ -31,15 +31,21 @@ import rejuran from "@/app/img/rejuran-heritage-magazine-partner.png";
 import skinceuticals from "@/app/img/skinceuticals-heritage-magazine-partner.png";
 import sunekos from "@/app/img/sune-kos-heritage-magazine-partner.png";
 
+import exemple_1 from "@/app/img/media-kit/heritage-magazine-exemple article-hydrafacial-digital.jpg";
+import exemple_2 from "@/app/img/media-kit/heritage-magazine-exemple-article-hydrafacial-print.jpg";
+import exemple_3 from "@/app/img/media-kit/heritage-magazine-exemple-article-hydrafacial-seo.jpg";
+
 type Params = {
   params: { locale: string };
 };
 
-const titleEN = "";
-const descriptionEN = "";
+const titleEN = "Media Kit HERITAGE Magazine | French Edition";
+const descriptionEN =
+  "Discover the media kit for the French edition of HERITAGE Magazine.";
 
-const titleFR = "";
-const descriptionFR = "";
+const titleFR = "Media Kit HERITAGE Magazine | Édition française";
+const descriptionFR =
+  "Découvrez le media kit de l'édition française HERITAGE Magazine.";
 
 export async function generateMetadata({ params }: Params) {
   const locale = params.locale;
@@ -120,11 +126,10 @@ export default function MediaKitFrench() {
           <div className="space-y-8 lg:space-y-12 text-white text-center">
             <div className="space-y-6">
               <h1 className="text-lg lg:text-2xl">
-                Un ecosystème premium pour les leaders de l’industrie
+                Un média influent & disruptif
               </h1>
               <Image src={fr} alt="UK" className="w-10 mx-auto" />
             </div>
-            <p className="text-base opacity-80">By HEALTHCIE</p>
           </div>
         </div>
       </section>
@@ -290,24 +295,35 @@ export default function MediaKitFrench() {
           <div className="lg:col-span-3 myContainer text-white size-full">
             <div className="lg:pt-[100px] space-y-4">
               <p>
-                (H)ERITAGE offre un support print pour promouvoir vos produits
-                et services auprès des chirurgiens et des médecins français et
-                internationaux.
+                HERITAGE Magazine propose un support print d&eacute;di&eacute;
+                &agrave; la valorisation de vos produits et services
+                aupr&egrave;s des chirurgiens, m&eacute;decins et dermatologues
+                esth&eacute;tiques.
               </p>
               <p>
-                Notre version imprimée, au design raffiné, incarne le prestige
-                et l’expertise de l’industrie.
+                L&rsquo;&eacute;dition fran&ccedil;aise est
+                sp&eacute;cifiquement con&ccedil;ue pour le march&eacute;
+                fran&ccedil;ais et s&rsquo;adresse aux praticiens qui en
+                structurent les standards et les &eacute;volutions.
+                Diffus&eacute;e aupr&egrave;s d&rsquo;un lectorat
+                qualifi&eacute;, elle constitue un canal de communication
+                ultra-cibl&eacute;.
               </p>
               <p>
-                Son contenu exclusif explore les dernières tendances,
-                innovations et meilleures pratiques de l’industrie, offrant une
-                visibilité directe à votre marque auprès des professionnels de
-                santé.
+                Sa version imprim&eacute;e, au design soign&eacute;
+                refl&egrave;te les codes d&rsquo;excellence et de
+                cr&eacute;dibilit&eacute; propres &agrave; l&rsquo;industrie. Le
+                contenu &eacute;ditorial, rigoureusement
+                s&eacute;lectionn&eacute;, analyse les tendances, les
+                innovations, les meilleures pratiques et strat&eacute;gies qui
+                fa&ccedil;onnent durablement le secteur.
               </p>
               <p>
-                Ne manquez pas l’opportunité de rejoindre notre communauté et
-                ainsi témoigner de votre engagement envers l’innovation et
-                l’avancement des pratiques médicales.
+                Int&eacute;grer HERITAGE Magazine, c&rsquo;est
+                b&eacute;n&eacute;ficier d&rsquo;une visibilit&eacute; directe
+                aupr&egrave;s des d&eacute;cideurs du secteur, dans un
+                environnement &eacute;ditorial s&eacute;lectif pour affirmer
+                votre engagement en faveur de l&rsquo;innovation.
               </p>
 
               <div className="flex justify-center gap-4 pt-4 lg:pt-24">
@@ -320,18 +336,18 @@ export default function MediaKitFrench() {
               src={slide_5}
               alt="Magazine HERITAGE"
               quality={100}
-              className="absolute top-0 left-0 size-full object-cover -z-[1]"
+              className="absolute top-0 left-0 size-full object-cover object-[50%_70%] -z-[1]"
             />
 
             <div className="text-white p-4 lg:p-8 m-auto mb-0 ml-0 space-y-4 lg:space-y-6">
               <p>
-                <span className="text-orange">Dimensions :</span> 210mm x 275mm
+                <span className="underline">Dimensions :</span> 210mm x 275mm
               </p>
               <p>
-                <span className="text-orange">Nombre de pages :</span> 80 + 4
+                <span className="underline">Nombre de pages :</span> 80 + 4
               </p>
               <p>
-                <span className="text-orange">Date butoir :</span> Mai 2026
+                <span className="underline">Date butoir :</span> Mai 2026
               </p>
             </div>
           </div>
@@ -345,29 +361,43 @@ export default function MediaKitFrench() {
         <div className="lg:grid lg:grid-cols-7 size-full">
           <div className="lg:col-span-3 myContainer text-mainBlue space-y-4 size-full flex flex-col justify-end">
             <p>
-              Nous offrons une plateforme double – print et digitale –
-              permettant aux marques de communiquer efficacement auprès d’une
-              audience spécialisée et exigeante. Notre version digitale ouvre un
-              canal interactif et moderne, accessible à tout moment.
+              La plateforme digitale HERITAGE s&rsquo;inscrit dans l&rsquo;ADN
+              de l&rsquo;agence HEALTHCIE : concevoir des
+              &eacute;cosyst&egrave;mes &eacute;ditoriaux pens&eacute;s pour la
+              visibilit&eacute; et le r&eacute;f&eacute;rencement de votre
+              marque.&nbsp;
             </p>
             <p>
-              Que ce soit pour présenter vos dernières innovations en matière de
-              dispositifs médicaux, ou valoriser vos produits phares, (H)ERITAGE
-              est le lieu idéal pour vous connecter avec des chirurgiens,
-              médecins et dermatologues qui sont à la recherche de nouvelles
-              solutions pour optimiser leurs pratiques.
+              Chaque contenu issu de l&rsquo;&eacute;dition print est
+              d&eacute;ploy&eacute; en version digitale, structur&eacute;e pour
+              un r&eacute;f&eacute;rencement efficace sur les moteurs de
+              recherche. La marque y est pleinement valoris&eacute;e, avec un
+              backlink int&eacute;gr&eacute; vers votre site internet afin de
+              renforcer votre pr&eacute;sence organique.
             </p>
             <p>
-              Faire partie d’(H)ERITAGE Magazine, c’est s’assurer une visibilité
-              pérenne dans un secteur compétitif et en constante évolution.
+              La plateforme accueille &eacute;galement des interviews
+              vid&eacute;o exclusives en format long. Ces contenus permettent
+              d&rsquo;approfondir les sujets abord&eacute;s dans
+              l&rsquo;article, d&rsquo;explorer des angles
+              compl&eacute;mentaires autour de vos produits ou de votre vision,
+              et d&rsquo;installer les valeurs de votre marque dans la
+              dur&eacute;e.
+            </p>
+            <p>
+              Int&eacute;grer l&rsquo;&eacute;cosyst&egrave;me HERITAGE,
+              c&rsquo;est vous inscrire dans une strat&eacute;gie de
+              visibilit&eacute; globale, au sein d&rsquo;un environnement
+              &eacute;ditorial pens&eacute; pour une audience
+              sp&eacute;cialis&eacute;e et d&eacute;cisionnaire.
             </p>
           </div>
           <div className="col-span-4 relative grid h-[350px] lg:h-full">
             <Image
-              src={la_padula}
+              src={mockup}
               alt="Magazine HERITAGE"
               quality={100}
-              className="absolute top-0 left-0 size-full object-cover object-bottom"
+              className="absolute top-0 left-0 size-full object-cover object-[50%_50%]"
             />
           </div>
         </div>
@@ -385,7 +415,7 @@ export default function MediaKitFrench() {
             </h3>
           </div>
 
-          <div className="grid md:grid-cols-3 items-center max-w-[1024px] m-auto gap-x-8">
+          <div className="grid grid-cols-2 md:grid-cols-3 items-center max-w-[1024px] m-auto gap-x-8">
             <Image
               src={aime}
               alt=""
@@ -516,21 +546,25 @@ export default function MediaKitFrench() {
             </p>
             <ul className="ml-4 list-disc text-lg space-y-2">
               <li>
-                1 interview de deux doubles-pages avec 2 encarts photos (FR-EN)
+                Print : une interview de deux doubles-pages avec deux encarts
+                photos en Français
               </li>
-              <li>1 page de publicité dans la prochaine édition</li>
               <li>
+                Digital : une interview avec le logo de votre marque, plus, une
                 backlink (lien « entrant » depuis notre site vers le vôtre)
               </li>
+              <li>Digital : une interview vidéo déclinée en trois formats</li>
               <li>
-                publication de votre article résumé dans notre newsletter (11
-                000 médecins)
+                Digital : une publication de votre article résumé dans notre
+                newsletter (5000 médecins français)
               </li>
+
+              <li>Digital : 3 crossposts + 3 stories Instagram</li>
             </ul>
             <div className="gap-2 w-full grid grid-cols-[auto,1fr,auto] items-center !mt-12">
               <p>Prix du pack (H)ERITAGE</p>
               <div className="border-t-[1px] border-mainBlue/70"></div>
-              <p>4000 EUROS HT</p>
+              <p>5000 EUROS HT</p>
             </div>
           </div>
 
@@ -541,30 +575,19 @@ export default function MediaKitFrench() {
             <ul className="ml-4 list-disc text-lg space-y-2">
               <li>
                 <div className="gap-2 w-full grid grid-cols-[auto,1fr,auto] items-center">
-                  <p>Bannière publicitaire (en-tête du site web)</p>
-                  <div className="border-t-[1px] border-mainBlue/70"></div>
-                  <p>1000 EUROS HT</p>
-                </div>
-              </li>
-              <li>
-                <div className="gap-2 w-full grid grid-cols-[auto,1fr,auto] items-center">
-                  <p>3 crossposts + 3 stories Instagram</p>
-                  <div className="border-t-[1px] border-mainBlue/70"></div>
-                  <p>500 EUROS HT</p>
-                </div>
-              </li>
-              <li>
-                <div className="gap-2 w-full grid grid-cols-[auto,1fr,auto] items-center">
-                  <p>100 exemplaires (livraison en France)</p>
+                  <p>Print : 100 exemplaires (livraison en France)</p>
                   <div className="border-t-[1px] border-mainBlue/70"></div>
                   <p>1200 EUROS HT</p>
                 </div>
               </li>
               <li>
                 <div className="gap-2 w-full grid grid-cols-[auto,1fr,auto] items-center">
-                  <p>100 exemplaires (livraison dans votre pays)</p>
+                  <p>
+                    Digital : votre interview vidéo sponsorisée sur META pendant
+                    10 jours
+                  </p>
                   <div className="border-t-[1px] border-mainBlue/70"></div>
-                  <p>SUR DEMANDE</p>
+                  <p>1200 EUROS HT</p>
                 </div>
               </li>
             </ul>
@@ -572,37 +595,6 @@ export default function MediaKitFrench() {
         </div>
       </section>
       {/* 8 */}
-      {/* <section className="lg:min-h-screen relative lg:px-32 lg:grid bg-white">
-        <h3 className="text-orange font-bold text-4xl lg:text-[115px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
-          EXEMPLES
-        </h3>
-        <div className="myContainer w-full lg:w-[90%] mx-auto space-y-8 lg:space-y-20 lg:mb-0">
-          <ul className="list-disc space-y-8 lg:space-y-12 ml-4">
-            <li className="space-y-4">
-              <span>Une interview de deux doubles pages</span>
-              <Image
-                src={example1}
-                alt="Double page interview"
-                quality={100}
-                className="max-h-[250px] object-contain w-fit"
-              />
-            </li>
-            <li className="space-y-4">
-              <span>
-                L’article complet optimisé pour le référencement sur la
-                plateforme numérique + backlink
-              </span>
-              <Image
-                src={example2}
-                alt="Article SEO"
-                quality={100}
-                className="max-h-[250px] object-contain w-fit"
-              />
-            </li>
-          </ul>
-        </div>
-      </section> */}
-      {/* 9 */}
       <section className="lg:min-h-screen relative lg:px-32 lg:grid bg-white">
         <h3 className="text-orange font-bold text-4xl lg:text-[115px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
           TARIFS PUB
@@ -647,6 +639,52 @@ export default function MediaKitFrench() {
                 </div>
               </li>
             </ul>
+          </div>
+        </div>
+      </section>
+      {/* 9 */}
+      <section className="lg:min-h-screen relative lg:px-32 lg:grid bg-slate-50">
+        <h3 className="text-orange font-bold text-4xl lg:text-[115px] lg:absolute -bottom-[0.5em] left-[0.3em] lg:origin-left lg:-rotate-90 leading-[0.9em]">
+          EXEMPLES
+        </h3>
+        <div className="myContainer w-full  mx-auto space-y-8 lg:space-y-20">
+          <h2 className="text-xl font-semibold text-center">
+            Hydrafacial : Pack (H)ERITAGE
+          </h2>
+
+          <div className="grid md:grid-cols-2 gap-8 lg:gap-16">
+            <div className="flex flex-col justify-between gap-8 lg:gap-16">
+              <iframe
+                width="1194"
+                height="672"
+                src="https://www.youtube.com/embed/D9grAMehBb4"
+                title="Skinimalism to intelligent beauty - Interview with Tanja Wirtz"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                className="aspect-video w-full h-auto object-cover"
+              ></iframe>
+
+              <Image
+                src={exemple_2}
+                alt="Magazine HERITAGE"
+                quality={100}
+                className="aspect-video w-full h-auto object-cover"
+              />
+            </div>
+
+            <div className="flex flex-col justify-between gap-8 lg:gap-16">
+              <Image
+                src={exemple_3}
+                alt="Magazine HERITAGE"
+                quality={100}
+                className="w-full h-auto object-contain"
+              />
+              <Image
+                src={exemple_1}
+                alt="Magazine HERITAGE"
+                quality={100}
+                className="aspect-video w-full h-auto object-cover"
+              />
+            </div>
           </div>
         </div>
       </section>

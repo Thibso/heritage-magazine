@@ -9,11 +9,14 @@ type Params = {
   params: { locale: string };
 };
 
-const titleEN = "";
-const descriptionEN = "";
+const titleEN = "HERITAGE Magazine Media Kit | French & International Editions";
+const descriptionEN =
+  "Access the HERITAGE Magazine media kit. View the French or International version and explore advertising opportunities and partnership options";
 
-const titleFR = "";
-const descriptionFR = "";
+const titleFR =
+  "Media Kit HERITAGE Magazine | Édition Française & Internationale";
+const descriptionFR =
+  "Accédez au media kit de HERITAGE Magazine. Consultez la version française ou internationnale et découvrez nos opportunités publicitaires et partenariats.";
 
 export async function generateMetadata({ params }: Params) {
   const locale = params.locale;
@@ -127,10 +130,7 @@ export default function About({ params }: Params) {
                 <h2 className="h2 text-mainBlue">Media kit</h2>
                 <h3 className="h3 text-mainBlue">{t("versions.inter")}</h3>
               </div>
-              <Link
-                href={"/" + params.locale + "/media-kit/english"}
-                className="group relative w-full aspect-[9/12] z-[1]"
-              >
+              <div className="group relative w-full aspect-[9/12] z-[1]">
                 <Image
                   src={en}
                   alt=""
@@ -138,8 +138,12 @@ export default function About({ params }: Params) {
                   fill
                   className="absolute bottom-0 left-0 size-full object-cover -z-[2]"
                 />
-                <div className="opacity-0 transition-all group-hover:opacity-55 absolute top-0 left-0 size-full bg-mainBlue -z-[1]"></div>
-              </Link>
+                <div className="opacity-0 transition-all group-hover:opacity-100 absolute top-0 left-0 size-full bg-mainBlue/55 -z-[1] grid">
+                  <span className="text-white text-center m-auto">
+                    Available soon
+                  </span>
+                </div>
+              </div>
             </div>
           </div>
         </div>

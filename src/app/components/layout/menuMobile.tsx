@@ -68,6 +68,15 @@ export default function MenuMobile(props: Props) {
             </li>
             <li>
               <a
+                href="/fr/media-kit"
+                className="font-sfPro font-medium text-xl uppercase text-white transition hover:text-orange"
+              >
+                Media kit
+              </a>
+            </li>
+
+            <li>
+              <a
                 href="/fr/contact"
                 className="font-sfPro text-xl font-medium uppercase text-white transition hover:text-orange"
               >
@@ -117,6 +126,15 @@ export default function MenuMobile(props: Props) {
                 Congresses
               </a>
             </li>
+            <li>
+              <a
+                href="/en/media-kit"
+                className="font-sfPro font-medium text-xl uppercase text-white transition hover:text-orange"
+              >
+                Media kit
+              </a>
+            </li>
+
             <li>
               <a
                 href="/en/contact"
