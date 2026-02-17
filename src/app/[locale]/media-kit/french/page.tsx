@@ -333,7 +333,7 @@ export default function MediaKitFrench() {
           </div>
           <div className="lg:col-span-4 relative z-[1] grid h-[450px] lg:h-full">
             <Image
-              src={slide_5}
+              src={mockup}
               alt="Magazine HERITAGE"
               quality={100}
               className="absolute top-0 left-0 size-full object-cover object-[50%_70%] -z-[1]"
@@ -394,7 +394,7 @@ export default function MediaKitFrench() {
           </div>
           <div className="col-span-4 relative grid h-[350px] lg:h-full">
             <Image
-              src={mockup}
+              src={slide_5}
               alt="Magazine HERITAGE"
               quality={100}
               className="absolute top-0 left-0 size-full object-cover object-[50%_50%]"
