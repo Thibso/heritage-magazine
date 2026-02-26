@@ -1,61 +1,57 @@
 [
   {
-    "image": "",
-    "head": "/publications/skinceuticals-aesthetic-media-heritage-magazine.jpg",
-    "alt": "Skinceuticals HERITAGE Magazine",
-    "h2": "Prague_Skinceuticals.h2",
-    "h3": "Prague_Skinceuticals.h3",
-    "p": "Prague_Skinceuticals.content",
-    "linkTo": "Prague_Skinceuticals.cta_link",
-    "linkText": "Prague_Skinceuticals.cta",
-    "tags": ["Prague_Skinceuticals.tags.t1.title"]
+    "image": "/contributors/doctor-meningaud-jean-paul-heritage-magazine.png",
+    "head": "/publications/pr-meningaud-interview-heritage-magazine.jpg",
+    "alt": "Pr. Meningaud HERITAGE Magazine",
+    "h2": "imcas2026_meningaud.h2",
+    "h3": "imcas2026_meningaud.h3",
+    "p": "imcas2026_meningaud.content",
+    "linkTo": "imcas2026_meningaud.cta_link",
+    "linkText": "imcas2026_meningaud.cta",
+    "tags": ["imcas2026_meningaud.tags.t1.title"]
   },
   {
-    "image": "",
-    "head": "/publications/biosolution-co-exosomes-specialiste-aesthetic-magazine.jpg",
-    "alt": "Biosolution.co HERITAGE Magazine",
-    "h2": "Prague_Exosomes.h2",
-    "h3": "Prague_Exosomes.h3",
-    "p": "Prague_Exosomes.content",
-    "linkTo": "Prague_Exosomes.cta_link",
-    "linkText": "Prague_Exosomes.cta",
-    "tags": ["Prague_Exosomes.tags.t1.title"]
+    "image": "/contributors/doctor-hiratsuka-dalmedo-vania-heritage-magazine.png",
+    "head": "/publications/dr-hiratsuka-dalmedo-heritage-magazine.jpg",
+    "alt": "Dr. Hiratsuka Dalmedo HERITAGE Magazine",
+    "h2": "imcas2026_vania.h2",
+    "h3": "imcas2026_vania.h3",
+    "p": "imcas2026_vania.content",
+    "linkTo": "imcas2026_vania.cta_link",
+    "linkText": "imcas2026_vania.cta",
+    "tags": ["Vania_Hirastuka.tags.t1.title"]
   },
   {
-    "image": "/contributors/Osvaldova-eva-heritage-magazine.png",
-    "head": "/publications/eva-osvaldova-julien-vervel-specialists-aesthetic-magazine.jpg",
-    "alt": "Eva Osvaldova & Julien Vervel HERITAGE Magazine",
-    "h2": "Prague_Eva_Osvaldova_Healthcie.h2",
-    "h3": "Prague_Eva_Osvaldova_Healthcie.h3",
-    "p": "Prague_Eva_Osvaldova_Healthcie.content",
-    "linkTo": "Prague_Eva_Osvaldova_Healthcie.cta_link",
-    "linkText": "Prague_Eva_Osvaldova_Healthcie.cta",
-    "tags": [
-      "Prague_Eva_Osvaldova_Healthcie.tags.t1.title",
-      "Prague_Eva_Osvaldova_Healthcie.tags.t2.title",
-      "Prague_Eva_Osvaldova_Healthcie.tags.t3.title"
-    ]
+    "image": "/contributors/doctor-conversert-viethel-heritage-magazine.png",
+    "head": "/publications/dr-converset-heritage-magazine.jpg",
+    "alt": "Dr. Converset HERITAGE Magazine",
+    "h2": "imcas2026_converset.h2",
+    "h3": "imcas2026_converset.h3",
+    "p": "imcas2026_converset.content",
+    "linkTo": "imcas2026_converset.cta_link",
+    "linkText": "imcas2026_converset.cta",
+    "tags": ["imcas2026_converset.tags.t1.title"]
   },
   {
-    "image": "/contributors/nivault-hugo-healthcie-heritage-magazine.png",
-    "head": "/publications/hugo-nivault-medical-website-specialiste-aesthetic-media.jpg",
-    "alt": "HEALTHCIE HERITAGE Magazine",
-    "h2": "Prague_Healthcie.h2",
-    "h3": "Prague_Healthcie.h3",
-    "p": "Prague_Healthcie.content",
-    "linkTo": "Prague_Healthcie.cta_link",
-    "linkText": "Prague_Healthcie.cta",
-    "tags": ["Prague_Healthcie.tags.t1.title", "Prague_Healthcie.tags.t2.title"]
+    "image": "/contributors/doctor-delmar-henry-heritage-magazine.png",
+    "head": "/publications/dr-delmar-heritage-magazine.jpg",
+    "alt": "Dr. Delmar HERITAGE Magazine",
+    "h2": "imcas2026_delmar.h2",
+    "h3": "imcas2026_delmar.h3",
+    "p": "imcas2026_delmar.content",
+    "linkTo": "imcas2026_delmar.cta_link",
+    "linkText": "imcas2026_delmar.cta",
+    "tags": ["imcas2026_delmar.tags.t1.title"]
   },
   {
-    "image": "/contributors/steven-harris-heritage-magazine.png",
-    "head": "/publications/instagram-vs-reality-aesthetic-specialist-heritage-magazine.jpg",
-    "alt": "Steven Harris HERITAGE Magazine",
-    "h2": "Prague_Steven_Harris.h2",
-    "h3": "Prague_Steven_Harris.h3",
-    "p": "Prague_Steven_Harris.content",
-    "linkTo": "Prague_Steven_Harris.cta_link",
-    "linkText": "Prague_Steven_Harris.cta",
-    "tags": ["Prague_Steven_Harris.tags.t1.title"]
+    "image": "/contributors/aesthetics-doctor-elmuntasar-ahmed.png",
+    "head": "/publications/dr-ahmed-heritage-magzine.jpg",
+    "alt": "Dr. Ahmed HERITAGE Magazine",
+    "h2": "imcas2026_ahmed.h2",
+    "h3": "imcas2026_ahmed.h3",
+    "p": "imcas2026_ahmed.content",
+    "linkTo": "imcas2026_ahmed.cta_link",
+    "linkText": "imcas2026_ahmed.cta",
+    "tags": ["imcas2026_ahmed.tags.t1.title"]
   }
 ]
