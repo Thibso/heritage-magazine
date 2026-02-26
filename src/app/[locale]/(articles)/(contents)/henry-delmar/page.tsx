@@ -66,7 +66,7 @@ export async function generateMetadata({ params }: Params) {
 }
 
 export default function Article() {
-  const t = useTranslations("Articles.Henry_Delmar");
+  const t = useTranslations("Articles.imcas2026_delmar");
   const tags = ["t1"] as const;
   const contents = [
     "p1",
@@ -166,7 +166,7 @@ export default function Article() {
                   <h4 className="font-sfPro font-bold text-base">{chunk}</h4>
                 ),
                 h5: (chunk) => (
-                  <h5 className="font-sfPro font-bold text-base">{chunk}</h5>
+                  <h5 className="font-sfPro underline text-base">{chunk}</h5>
                 ),
                 ul: (chunk) => (
                   <ul className="font-sfPro font-light text-base list-disc ml-6">
@@ -178,15 +178,16 @@ export default function Article() {
                     {chunk}
                   </ul>
                 ),
-                li: (chunk) => <li>{chunk}</li>,
-                i: (chunk) => <span className="italic">{chunk}</span>,
-                img: (chunk) => (
+                li: (chunk) => (
+                  <li className="font-sfPro font-light text-base">{chunk}</li>
+                ),
+                bigImg: (chunk) => (
                   <Image
                     src={chunk!.toString()}
                     alt=""
-                    width={1024}
-                    height={1024}
-                    className="py-4"
+                    width={600}
+                    height={450}
+                    className="aspect-video h-auto object-contain"
                   />
                 ),
               })}

@@ -1,5 +1,122 @@
 [
   {
+    "image": "/contributors/dr-toledo-avelar-heritage-magazine.png",
+    "head": "/publications/dr-avelar-heritage-magazine.jpg",
+    "alt": "Dr. Toledo Avelar HERITAGE Magazine",
+    "h2": "imcas2026_avelar.h2",
+    "h3": "imcas2026_avelar.h3",
+    "p": "imcas2026_avelar.content",
+    "linkTo": "imcas2026_avelar.cta_link",
+    "linkText": "imcas2026_avelar.cta",
+    "tags": ["imcas2026_avelar.tags.t1.title"]
+  },
+  {
+    "image": "/contributors/doctor-meningaud-jean-paul-heritage-magazine.png",
+    "head": "/publications/pr-meningaud-interview-heritage-magazine.jpg",
+    "alt": "Pr. Meningaud HERITAGE Magazine",
+    "h2": "imcas2026_meningaud.h2",
+    "h3": "imcas2026_meningaud.h3",
+    "p": "imcas2026_meningaud.content",
+    "linkTo": "imcas2026_meningaud.cta_link",
+    "linkText": "imcas2026_meningaud.cta",
+    "tags": ["imcas2026_meningaud.tags.t1.title"]
+  },
+  {
+    "image": "/contributors/doctor-hiratsuka-dalmedo-vania-heritage-magazine.png",
+    "head": "/publications/dr-hiratsuka-dalmedo-heritage-magazine.jpg",
+    "alt": "Dr. Hiratsuka Dalmedo HERITAGE Magazine",
+    "h2": "imcas2026_vania.h2",
+    "h3": "imcas2026_vania.h3",
+    "p": "imcas2026_vania.content",
+    "linkTo": "imcas2026_vania.cta_link",
+    "linkText": "imcas2026_vania.cta",
+    "tags": ["Vania_Hirastuka.tags.t1.title"]
+  },
+  {
+    "image": "/contributors/doctor-conversert-viethel-heritage-magazine.png",
+    "head": "/publications/dr-converset-heritage-magazine.jpg",
+    "alt": "Dr. Converset HERITAGE Magazine",
+    "h2": "imcas2026_converset.h2",
+    "h3": "imcas2026_converset.h3",
+    "p": "imcas2026_converset.content",
+    "linkTo": "imcas2026_converset.cta_link",
+    "linkText": "imcas2026_converset.cta",
+    "tags": ["imcas2026_converset.tags.t1.title"]
+  },
+  {
+    "image": "/contributors/doctor-delmar-henry-heritage-magazine.png",
+    "head": "/publications/dr-delmar-heritage-magazine.jpg",
+    "alt": "Dr. Delmar HERITAGE Magazine",
+    "h2": "imcas2026_delmar.h2",
+    "h3": "imcas2026_delmar.h3",
+    "p": "imcas2026_delmar.content",
+    "linkTo": "imcas2026_delmar.cta_link",
+    "linkText": "imcas2026_delmar.cta",
+    "tags": ["imcas2026_delmar.tags.t1.title"]
+  },
+  {
+    "image": "/contributors/aesthetics-doctor-elmuntasar-ahmed.png",
+    "head": "/publications/dr-ahmed-heritage-magzine.jpg",
+    "alt": "Dr. Ahmed HERITAGE Magazine",
+    "h2": "imcas2026_ahmed.h2",
+    "h3": "imcas2026_ahmed.h3",
+    "p": "imcas2026_ahmed.content",
+    "linkTo": "imcas2026_ahmed.cta_link",
+    "linkText": "imcas2026_ahmed.cta",
+    "tags": ["imcas2026_ahmed.tags.t1.title"]
+  },
+  {
+    "image": "/contributors/efremkin-pavel-aerolase-heritage-magazine.png",
+    "head": "/publications/aerolase-ceo-heritage-magazine.jpg",
+    "alt": "AEROLASE HERITAGE Magazine",
+    "h2": "imcas2026_aerolase.h2",
+    "h3": "imcas2026_aerolase.h3",
+    "p": "imcas2026_aerolase.content",
+    "linkTo": "imcas2026_aerolase.cta_link",
+    "linkText": "imcas2026_aerolase.cta",
+    "tags": [
+      "imcas2026_aerolase.tags.t1.title",
+      "imcas2026_aerolase.tags.t2.title"
+    ]
+  },
+  {
+    "image": "/contributors/doctor-haedersdal-merete-heritage-magazine.png",
+    "head": "/publications/pr-haedersdal-heritage-magazine.jpg",
+    "alt": "Pr. Haedersdal HERITAGE Magazine",
+    "h2": "imcas2026_haedersdal.h2",
+    "h3": "imcas2026_haedersdal.h3",
+    "p": "imcas2026_haedersdal.content",
+    "linkTo": "imcas2026_haedersdal.cta_link",
+    "linkText": "imcas2026_haedersdal.cta",
+    "tags": ["Merete_haedersdal.tags.t1.title"]
+  },
+  {
+    "image": "/contributors/nivault-hugo-healthcie-heritage-magazine.png",
+    "head": "/publications/my-healthcie-heritage-magazine.jpg",
+    "alt": "My HEALTHCIE HERITAGE Magazine",
+    "h2": "imcas2026_my_healthcie.h2",
+    "h3": "imcas2026_my_healthcie.h3",
+    "p": "imcas2026_my_healthcie.content",
+    "linkTo": "imcas2026_my_healthcie.cta_link",
+    "linkText": "imcas2026_my_healthcie.cta",
+    "tags": ["imcas2026_my_healthcie.tags.t1.title"]
+  },
+  {
+    "image": "/contributors/benoit-chardon-heritage-magazine.png",
+    "head": "/publications/benoit-chardon-heritage-magazine.jpg",
+    "alt": "Benoît Chardon & Julien vervel HERITAGE Magazine",
+    "h2": "imcas2026_Chardon.h2",
+    "h3": "imcas2026_Chardon.h3",
+    "p": "imcas2026_Chardon.content",
+    "linkTo": "imcas2026_Chardon.cta_link",
+    "linkText": "imcas2026_Chardon.cta",
+    "tags": [
+      "imcas2026_Chardon.tags.t1.title",
+      "imcas2026_Chardon.tags.t2.title",
+      "imcas2026_Chardon.tags.t3.title"
+    ]
+  },
+  {
     "image": "",
     "head": "/publications/skinceuticals-aesthetic-media-heritage-magazine.jpg",
     "alt": "Skinceuticals HERITAGE Magazine",

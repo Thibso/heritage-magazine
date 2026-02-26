@@ -1,6 +1,6 @@
 import Button from "@/app/components/buttons/Button";
-import logo from "@/app/img/articles/barbara_hersant/Logo-AIME-congres-esthetique-paris.png";
-import header from "@/app/img/articles/meningaud/pr-meningaud-heritage-magazine.jpg";
+import logo from "@/app/img/articles/imcas2026/my-healthcie/logo-my-healthcie-blanc.webp";
+import header from "@/app/img/articles/imcas2026/my-healthcie/my-healthcie-heritage-magazine-aesthetic-media.jpg";
 import { useTranslations } from "next-intl";
 import Image from "next/image";
 
@@ -9,14 +9,14 @@ type Params = {
 };
 
 const titleEN =
-  "Pr Meningaud Jean-Paul | AIME Congress: towards international development";
+  "SEO & Digital Visibility Management | Physicians & Medical Companies | MY HEALTHCIE";
 const descriptionEN =
-  "Discover the interview with Professor Jean-Paul Meningaud on the international development of the AIME Aesthetic Medicine Congress. HERITAGE Magazine";
+  "Take back control of your digital strategy. MY HEALTHCIE centralizes your SEO, SEA, and AI data to transform online visibility into real growth.";
 
 const titleFR =
-  "Pr Meningaud Jean-Paul | Congrès AIME : vers un développement international";
+  "Pilotage SEO & Visibilité Digitale | Médecins & Laboratoires | MY HEALTHCIE";
 const descriptionFR =
-  "Découvrez l’interview du Professeur Jean-Paul Meningaud sur le développement international du Congrès de médecine esthétique AIME. HERITAGE Magazine";
+  "Reprenez le contrôle de votre stratégie digitale. MY HEALTHCIE centralise vos données SEO, SEA et IA pour transformer votre visibilité en croissance réelle.";
 
 export async function generateMetadata({ params }: Params) {
   const locale = params.locale;
@@ -66,19 +66,9 @@ export async function generateMetadata({ params }: Params) {
 }
 
 export default function Article() {
-  const t = useTranslations("Articles.Meningaud");
+  const t = useTranslations("Articles.imcas2026_my_healthcie");
   const tags = ["t1"] as const;
-  const contents = [
-    "p1",
-    "p2",
-    "p3",
-    "p4",
-    "p5",
-    "p6",
-    "p7",
-    "p8",
-    "p9",
-  ] as const;
+  const contents = ["p1", "p2", "p3", "p4", "p5", "p6", "p7", "p8"] as const;
   return (
     <div>
       <section className="myContainer lg:space-x-16 full-screen max-lg:flex max-lg:flex-col-reverse max-lg:gap-10 lg:grid lg:grid-cols-5 text-mainBlue">
@@ -117,7 +107,7 @@ export default function Article() {
             </div>
 
             <div>
-              <Button link="https://www.aime.paris/" target="_blank">
+              <Button link="https://my-healthcie.com/" target="_blank">
                 {t("cta_text")}
               </Button>
             </div>
@@ -133,16 +123,16 @@ export default function Article() {
         {/* Pub */}
         <div className="col-span-2">
           <a
-            href="https://www.aime.paris/"
+            href="https://my-healthcie.com/"
             target="_blank"
-            title="AIME Paris"
+            title="My HEALTHCIE"
             className="lg:sticky lg:top-[35%] flex flex-col items-center gap-4"
           >
             <Image
               src={logo}
-              alt="AIME Paris"
-              title="AIME Paris"
-              className="size-full max-h-[350px] max-lg:max-w-[450px] object-contain m-auto"
+              alt="My HEALTHCIE"
+              title="My HEALTHCIE"
+              className="size-full max-h-[350px] max-lg:max-w-[450px] object-contain m-auto invert"
             />
             <span className="lg:hidden text-orange uppercase font-sfPro font-light">
               {t("cta_text")} +
@@ -166,7 +156,7 @@ export default function Article() {
                   <h4 className="font-sfPro font-bold text-base">{chunk}</h4>
                 ),
                 h5: (chunk) => (
-                  <h5 className="font-sfPro font-bold text-base">{chunk}</h5>
+                  <h5 className="font-sfPro underline text-base">{chunk}</h5>
                 ),
                 ul: (chunk) => (
                   <ul className="font-sfPro font-light text-base list-disc ml-6">
@@ -178,15 +168,16 @@ export default function Article() {
                     {chunk}
                   </ul>
                 ),
-                li: (chunk) => <li>{chunk}</li>,
-                i: (chunk) => <span className="italic">{chunk}</span>,
-                img: (chunk) => (
+                li: (chunk) => (
+                  <li className="font-sfPro font-light text-base">{chunk}</li>
+                ),
+                bigImg: (chunk) => (
                   <Image
                     src={chunk!.toString()}
                     alt=""
-                    width={1024}
-                    height={1024}
-                    className="py-4"
+                    width={600}
+                    height={450}
+                    className="aspect-video h-auto object-contain"
                   />
                 ),
               })}

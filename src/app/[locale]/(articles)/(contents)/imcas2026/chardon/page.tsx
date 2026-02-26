@@ -1,6 +1,6 @@
 import Button from "@/app/components/buttons/Button";
-import header from "@/app/img/articles/sophie-converset/dr-sophie-converset-heritage-magazine.jpg";
-import logo from "@/app/img/articles/sophie-converset/logo-dr-converset-viethel.png";
+import logo from "@/app/img/articles/imcas2026/chardon/benoit-chardon-consulting.svg";
+import header from "@/app/img/articles/imcas2026/chardon/benoit-chardon-heritage-magazine.png";
 import { useTranslations } from "next-intl";
 import Image from "next/image";
 
@@ -9,14 +9,14 @@ type Params = {
 };
 
 const titleEN =
-  "Dr Converset Sophie | The importance of anatomy in optimising injection safety";
+  "Aesthetic Medicine Innovations | Innovation Insider 2026 | B. Chardon & J. Vervel";
 const descriptionEN =
-  "Discover Dr Sophie Converset's article on the importance of mastering anatomy to optimise injection safety. HERITAGE Magazine";
+  "Explore how AI and regenerative biology are redefining aesthetic medicine. Exclusive insights on 8 breakthrough innovations by Benoît Chardon and Julien Vervel.";
 
 const titleFR =
-  "Dr Converset Sophie | L'importance de l'anatomie pour optimiser la sécurité des injections";
+  "Innovations en Médecine Esthétique | Innovation Insider 2026 | B. Chardon & J. Vervel";
 const descriptionFR =
-  "Découvrez l'article du Docteur Sophie Converset sur l'importance de maitriser l'anatomie pour optimiser la sécurité des injections. HERITAGE Magazine";
+  "Découvrez comment l'IA et la biologie régénérative redéfinissent la médecine esthétique. Analyse exclusive de 8 innovations de rupture par Benoît Chardon et Julien Vervel.";
 
 export async function generateMetadata({ params }: Params) {
   const locale = params.locale;
@@ -66,9 +66,19 @@ export async function generateMetadata({ params }: Params) {
 }
 
 export default function Article() {
-  const t = useTranslations("Articles.Sophie_Converset");
-  const tags = ["t1"] as const;
-  const contents = ["p1", "p2", "p3", "p4"] as const;
+  const t = useTranslations("Articles.imcas2026_Chardon");
+  const tags = ["t1", "t2", "t3"] as const;
+  const contents = [
+    "p1",
+    "p2",
+    "p3",
+    "p4",
+    "p5",
+    "p6",
+    "p7",
+    "p8",
+    "p9",
+  ] as const;
   return (
     <div>
       <section className="myContainer lg:space-x-16 full-screen max-lg:flex max-lg:flex-col-reverse max-lg:gap-10 lg:grid lg:grid-cols-5 text-mainBlue">
@@ -108,7 +118,7 @@ export default function Article() {
 
             <div>
               <Button
-                link="https://www.drconverset-viethel.fr/"
+                link="https://www.bchardonconsulting.com/"
                 target="_blank"
               >
                 {t("cta_text")}
@@ -126,15 +136,15 @@ export default function Article() {
         {/* Pub */}
         <div className="col-span-2">
           <a
-            href="https://www.drconverset-viethel.fr/"
+            href="https://www.bchardonconsulting.com/"
             target="_blank"
-            title="Dr Converset-Viethel"
+            title="Benoit Chardon Consulting"
             className="lg:sticky lg:top-[35%] flex flex-col items-center gap-4"
           >
             <Image
               src={logo}
-              alt="Dr Converset-Viethel"
-              title="Dr Converset-Viethel"
+              alt="Benoit Chardon Consulting"
+              title="Benoit Chardon Consulting"
               className="size-full max-h-[350px] max-lg:max-w-[450px] object-contain m-auto"
             />
             <span className="lg:hidden text-orange uppercase font-sfPro font-light">
@@ -160,9 +170,6 @@ export default function Article() {
                 ),
                 h5: (chunk) => (
                   <h5 className="font-sfPro underline text-base">{chunk}</h5>
-                ),
-                h6: (chunk) => (
-                  <h6 className="font-sfPro underline text-base">{chunk}</h6>
                 ),
                 ul: (chunk) => (
                   <ul className="font-sfPro font-light text-base list-disc ml-6">

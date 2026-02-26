@@ -1,6 +1,6 @@
 import Button from "@/app/components/buttons/Button";
-import header from "@/app/img/articles/sophie-converset/dr-sophie-converset-heritage-magazine.jpg";
-import logo from "@/app/img/articles/sophie-converset/logo-dr-converset-viethel.png";
+import header from "@/app/img/articles/imcas2026/avelar/dr-toledo-avelar-heritage-magazine.png";
+import logo from "@/app/img/articles/imcas2026/avelar/imcas-congres-medecine-esthetique-chirurgie-plastique-dermatologie.png";
 import { useTranslations } from "next-intl";
 import Image from "next/image";
 
@@ -9,14 +9,13 @@ type Params = {
 };
 
 const titleEN =
-  "Dr Converset Sophie | The importance of anatomy in optimising injection safety";
+  "Dr. Luiz Avelar | Skull Anthropology & Aesthetic Medicine Insights";
 const descriptionEN =
-  "Discover Dr Sophie Converset's article on the importance of mastering anatomy to optimise injection safety. HERITAGE Magazine";
+  "Dr. Luiz Eduardo Toledo Avelar shares how forensic anthropology and sexual dimorphism in human skulls are shaping the future of gender-neutral aesthetic treatments.";
 
-const titleFR =
-  "Dr Converset Sophie | L'importance de l'anatomie pour optimiser la sécurité des injections";
+const titleFR = "Dr Luiz Avelar | Anthropologie du Crâne & Médecine Esthétique";
 const descriptionFR =
-  "Découvrez l'article du Docteur Sophie Converset sur l'importance de maitriser l'anatomie pour optimiser la sécurité des injections. HERITAGE Magazine";
+  "Rencontre avec le Pr Jean-Paul Meningaud. Des transplantations faciales à la direction du congrès AIME, découvrez sa vision du futur de la chirurgie esthétique.";
 
 export async function generateMetadata({ params }: Params) {
   const locale = params.locale;
@@ -66,9 +65,9 @@ export async function generateMetadata({ params }: Params) {
 }
 
 export default function Article() {
-  const t = useTranslations("Articles.Sophie_Converset");
+  const t = useTranslations("Articles.imcas2026_avelar");
   const tags = ["t1"] as const;
-  const contents = ["p1", "p2", "p3", "p4"] as const;
+  const contents = ["p1", "p2", "p3", "p4", "p5"] as const;
   return (
     <div>
       <section className="myContainer lg:space-x-16 full-screen max-lg:flex max-lg:flex-col-reverse max-lg:gap-10 lg:grid lg:grid-cols-5 text-mainBlue">
@@ -108,7 +107,7 @@ export default function Article() {
 
             <div>
               <Button
-                link="https://www.drconverset-viethel.fr/"
+                link="https://www.imcas.com/en/profile/dr-luiz-eduardo-toledo-avelar"
                 target="_blank"
               >
                 {t("cta_text")}
@@ -126,15 +125,15 @@ export default function Article() {
         {/* Pub */}
         <div className="col-span-2">
           <a
-            href="https://www.drconverset-viethel.fr/"
+            href="https://www.imcas.com/en/profile/dr-luiz-eduardo-toledo-avelar"
             target="_blank"
-            title="Dr Converset-Viethel"
+            title="IMCAS Congress"
             className="lg:sticky lg:top-[35%] flex flex-col items-center gap-4"
           >
             <Image
               src={logo}
-              alt="Dr Converset-Viethel"
-              title="Dr Converset-Viethel"
+              alt="IMCAS Congress"
+              title="IMCAS Congress"
               className="size-full max-h-[350px] max-lg:max-w-[450px] object-contain m-auto"
             />
             <span className="lg:hidden text-orange uppercase font-sfPro font-light">
@@ -160,9 +159,6 @@ export default function Article() {
                 ),
                 h5: (chunk) => (
                   <h5 className="font-sfPro underline text-base">{chunk}</h5>
-                ),
-                h6: (chunk) => (
-                  <h6 className="font-sfPro underline text-base">{chunk}</h6>
                 ),
                 ul: (chunk) => (
                   <ul className="font-sfPro font-light text-base list-disc ml-6">

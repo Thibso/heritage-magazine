@@ -554,9 +554,424 @@
       "cta": "Read article",
       "cta_link": "/en/analysis-coste-jean-yves-aesthetic-medicine-market-insights-2025",
       "content": "Medical Aesthetics are driven by sustainable, recession proof fundamental catalysts such as ageing demographics, urbanization and trend to ever younger onboarding of patients (prejuvenation trend). Aesthetics is no longer a vanity play: looking good is considered a basic human right by the upcoming generation, Gens Y and Z aspiring to self-transcendence and instant gratification, and the active senior, who also strive to ever increasing beauty standards."
+    },
+    "imcas2026_avelar": {
+      "h2": "INVESTIGATING STRUCTURE VARIATIONS AND GENDER MORPHOLOGIES AS THE KEY TO GENDERLESS TREATMENT TRENDS",
+      "h3": "Dr. Luiz Eduardo Toledo Avelar",
+      "cta": "Read article",
+      "cta_link": "/en/interview-dr-avelar-luiz-forensic-anthropology-skull-dimorphism-aesthetics",
+      "content": "Male and female skulls are very different. We see dimorphisms across the upper, mid, and lower thirds of the face. In the lower third, the male mandible is higher, stronger, and more robust than the female one. In general, the male skull is angular, while the female skull is softer and more rounded."
+    },
+    "imcas2026_meningaud": {
+      "h2": "INTERVIEW WITH PR. MENINGAUD",
+      "h3": "Pr. Jean-Paul Meningaud",
+      "cta": "Read article",
+      "cta_link": "/en/interview-prof-jean-paul-meningaud-plastic-surgery-aime-congress-2026",
+      "content": "Jean-Paul Meningaud, MD, PhD, is a Professor of Plastic Surgery, Head of the Department of Plastic and Maxillofacial Surgery, and Director of the Department of Ambulatory Surgery at Henri Mondor Hospital (Hospitals of Paris)."
+    },
+    "imcas2026_vania": {
+      "h2": "BOTULINUM TOXIN FOR BRUXISM & MASSETERIC HYPERTROPHY",
+      "h3": "Dr. Vania Hiratsuka Dalmedo",
+      "cta": "Read article",
+      "cta_link": "/en/technique-doctor-hiratsuka-dalmedo-vania-bruxism-masseteric-hypertrophy-treatment",
+      "content": "Having qualified in Brazil at the prestigious São Paulo State University (UNESP), Dr. Hiratsuka Dalmedo has been working in the UK for the past 25 years."
+    },
+    "imcas2026_converset": {
+      "h2": "ANATOMY IN OPTIMIZING INJECTION SAFETY",
+      "h3": "Dr. Sophie Converset",
+      "cta": "Read article",
+      "cta_link": "/en/expertise-doctor-converset-sophie-importance-anatomy-optimisation-injections-patients-safety",
+      "content": "In aesthetic medicine, anatomy plays an essential role in injection safety. Precise knowledge of the anatomical structures of the face helps to minimize risks and optimize results."
+    },
+    "imcas2026_delmar": {
+      "h2": "LUXURY AND AESTHETIC SURGERY",
+      "h3": "Dr. Henry Delmar",
+      "cta": "Read article",
+      "cta_link": "/en/expertise-doctor-delmar-henry-luxury-plastic-surgery-tailor-made-approach",
+      "content": "Dr. Henry Delmar is a plastic surgeon specializing in aesthetic, reconstructive, and plastic surgery. Graduating in 1991, he began his career researching the fat compartments of the face, paving the way for significant advancements in facelift techniques."
+    },
+    "imcas2026_ahmed": {
+      "h2": "STRUCTURAL SUPPORT WITH FILLERS, CELLULAR REVITALISATION WITH POLYNUCLEOTIDES",
+      "h3": "Dr. Ahmed El Muntasar",
+      "cta": "Read article",
+      "cta_link": "/en/expertise-dr-el-muntasar-ahmed-under-eye-rejuvenation-fillers-polynucleotides",
+      "content": "Dr Ahmed El Muntasar, born in Libya, is a British doctor specializing in aesthetic medicine. Entering university at just 16, he pursued an exceptional academic path through St Andrews, Manchester, and UCL in London."
+    },
+    "imcas2026_aerolase": {
+      "h2": "ENGINEERING A NEW APPROACH TO LASER CARE",
+      "h3": "Mr. Pavel Efremkin",
+      "cta": "Read article",
+      "cta_link": "/en/interview-efremkin-pavel-aerolase-storytelling-aerospace-inspired-laser-innovation",
+      "content": "With a background in science and engineering, complemented by business and investment experience, my interest has always been in developing technologies that deliver both precision and practical value."
+    },
+    "imcas2026_haedersdal": {
+      "h2": "Innovation in clinical dermatology",
+      "h3": "Pr. Merete Haedersdal",
+      "cta": "Read article",
+      "cta_link": "/en/interview-doctor-haedersdal-merete-imcas-dermatological-innovation",
+      "content": "Dr. Merete Haedersdal, MD, PhD, DMSc, is a clinical professor of dermatology at the University of Copenhagen and senior consultant at the Department of Dermatology, Bispebjerg University Hospital, Copenhagen, Denmark."
+    },
+    "imcas2026_my_healthcie": {
+      "h2": "FOCUS MY HEALTHCIE",
+      "h3": "HEALTHCIE",
+      "cta": "Read article",
+      "cta_link": "/en/focus-my-healthcie-seo-digital-visibility-management-aesthetic-medicine",
+      "content": "Digital visibility in plastic surgery and aesthetic medicine is now based on a precise balance. Practices remain fundamentally local, built on trust, reputation, and proximity."
+    },
+    "imcas2026_Chardon": {
+      "h2": "THE 8 BREAKTHROUGH INNOVATIONS RESHAPING MEDICAL AESTHETICS",
+      "h3": "Mr. Benoît Chardon & Mr. Julien Vervel",
+      "cta": "Read article",
+      "cta_link": "/en/innovation-insider-benoit-chardon-julien-vervel-regenerative-aesthetic-medicine-2026",
+      "content": "Discover our new Innovation Insider Section by Benoît Chardon & Julien Vervel. Innovation is entering a new era defined by biological intelligence rather than cosmetic correction. Across skin, hair, body procedures, femtech and Al-driven technologies, the future of healthcare is regenerative, functional and deeply personalized, reshaping both clinical outcomes and the patient journey."
     }
   },
   "Articles": {
+    "imcas2026_avelar": {
+      "h1": "INVESTIGATING STRUCTURE VARIATIONS AND GENDER MORPHOLOGIES AS THE KEY TO GENDERLESS TREATMENT TRENDS",
+      "abstract": "As a medical examiner, I analyze skulls to identify gender, age, ethnicity, and stature.",
+      "author": "Dr. Luiz Eduardo Toledo Avelar",
+      "cta_text": "Discover IMCAS Congress",
+      "tags": {
+        "t1": {
+          "title": "Plastic surgery"
+        }
+      },
+      "img_alt": "Dr. Luiz Eduardo Toledo Avelar",
+      "p1": {
+        "title": "Based on your recent publication on the aging differentiation of human skulls by sex, what are some of the major morphology differences between male and female structures?",
+        "content": "<p>Male and female skulls are very different. We see dimorphisms across the upper, mid, and lower thirds of the face. In the lower third, the male mandible is higher, stronger, and more robust than the female one. In general, the male skull is angular, while the female skull is softer and more rounded.</p>"
+      },
+      "p2": {
+        "title": "In exploring male morphologies specifically, how does the understanding of these structures shed light on beauty and aesthetic outcomes?",
+        "content": "<p>The male forehead is flatter, and the supraorbital ridge is much more pronounced than in women. The glabella, at the base of the nose, is also stronger in men. The midface in men has no anterior projection, while in women it usually projects slightly forward. The lower face shows even greater differences. The male chin and lateral mandible are higher, creating a natural disproportionality. Beauty standards often emphasize this higher and more projected lower third as a mark of masculinity.</p>"
+      },
+      "p3": {
+        "title": "Why is it important to study these morphological differences in surgical practice?",
+        "content": "<p>Because the bone structure determines the external appearance. A solid understanding of skull and bone variations is essential for planning treatments. Men and women do not age in the same way. Bone, muscle, fat, and skin each change differently, and one layer influences another. Surgeons must recognize these processes to restore and reduce changes over time.</p>"
+      },
+      "p4": {
+        "title": "What kinds of procedures do you most often perform with this knowledge?",
+        "content": "<p>Patients may want to reinforce masculine or feminine traits, or they may ask for features associated with another gender. Treatments today are becoming more diverse and often genderless. We must listen carefully to what patients want, then adapt with products, techniques, and an understanding of anatomy.</p>"
+      },
+      "p5": {
+        "title": "How does your forensic work in anthropology complement surgery?",
+        "content": "<p>As a medical examiner, I analyze skulls to identify gender, age, ethnicity, and stature. Although forensics and surgery appear to be separate fields, they enrich one another. Studying bone structures for identification has strengthened my surgical work, especially in relation to aging and reconstruction. This excerpt is adapted from an interview with Dr. Luiz Eduardo Toledo Avelar.</p><h4>The full article was published in IMCAS Insider Magazine, Volume 2.</h4>"
+      }
+    },
+    "imcas2026_meningaud": {
+      "h1": "INTERVIEW WITH PR. MENINGAUD",
+      "abstract": "I decided to transition into private practice to offer my patients more quality time and a more personalized approach",
+      "author": "Pr. Jean-Paul Meningaud",
+      "cta_text": "Discover Pr. Meningaud",
+      "tags": {
+        "t1": {
+          "title": "Plastic surgery"
+        }
+      },
+      "img_alt": "Pr. Jean-Paul Meningaud",
+      "p1": {
+        "title": "Pr. Jean-Paul Meningaud",
+        "content": "<p>Jean-Paul Meningaud, MD, PhD, is a Professor of Plastic Surgery, Head of the Department of Plastic and Maxillofacial Surgery, and Director of the Department of Ambulatory Surgery at Henri Mondor Hospital (Hospitals of Paris). A member of the European Board of Cranio-Maxillofacial Surgery, he holds a diploma in microsurgery and an HDR (Habilitation à Diriger des Recherches), a postdoctoral degree that authorizes the holder to supervise other researchers. Professor Meningaud and his team have extensive experience in the feasibility, reproducibility, risks, and benefits of facial transplantation.</p><p>He received the James Barret Brown Award in 2011 in the United States. He served as president of the European Association for Cranio Maxillo Facial Surgery from 2018 to 2020. He was the founder of the Specialized Studies Diploma in oral surgery and its first national coordinator. He oversees ten university degrees in aesthetic medicine, microsurgery, and dental implants. He conducts research in regenerative medicine and aesthetic surgery. A certified expert by the Cour de Cassation (the highest judicial court in France), he is a full member of the French National Academy of Surgery. He is the President of the AIME Congress for Surgery and Aesthetic Medicine.</p><p>He is one of the founding fathers of the Inter University Diploma in Aesthetic Medicine, which grants the title of aesthetic physician, and its first national coordinator.</p>"
+      },
+      "p2": {
+        "title": "Could you share with us the origins of your vocation? Was there a defining moment or a particular event that triggered this passion?",
+        "content": "<p>At the end of high school, I naturally turned to a career as a researcher, deeply influenced by the work of Watson and Crick on the structure of the DNA double helix. Thus, I began scientific studies at the University of Jussieu, with the ambition to specialize in molecular pharmacology. I had the opportunity to participate in cutting-edge research, notably on the first total synthesis of PAF acether.</p><p>At the same time, I enrolled in medicine, although I was not entirely convinced at first. However, over the years and encounters, medicine gradually captured all my attention and passion. My first internship in the cardiology intensive care unit was a turning point. The pragmatic dimension of this specialty then led me to surgery, and it was plastic surgery that truly seduced me, particularly with its holistic approach and the importance it places on patient psychology. Yet my passion for research never faded. Today, I have nearly 300 publications indexed in PubMed, reflecting my ongoing commitment to advancing scientific knowledge.</p>"
+      },
+      "p3": {
+        "title": "You have recently moved into private practice. Why?",
+        "content": "<p>After more than twenty years of intense hospital and academic engagement, culminating at the highest university rank, I decided to transition into private practice to offer my patients more quality time and a more personalized approach. The institutional rhythm—often constrained—no longer allowed me to practice with the availability required for high-level aesthetic and reconstructive surgery. Private practice gives me access to an optimized surgical environment where I can refine my techniques — including deep plane facelifts, regenerative surgery, and lipoedema surgery — with a team fully trained in my protocols.</p><p>This transition does not interrupt my scientific activities: I continue my research, publications, and congress leadership, while developing new forms of teaching such as masterclasses and international fellowships. Finally, this evolution also meets a personal need for balance, allowing me to reconcile professional demands, innovation, and family life, while continuing to provide the highest quality of care to each patient.</p>"
+      },
+      "p4": {
+        "title": "You have participated in seven facial transplants since 2007, a major advancement in reconstructive surgery.",
+        "content": "<p>They are extraordinary procedures, situated at the crossroads of surgical prowess, the frontiers of immunology, and the psychological limits of the patient. This experience truly pushes you beyond yourself. I also had to face the intensity of media exposure — a dimension for which none of us had been prepared. I continue to be involved in this field, treating transplanted patients in chronic rejection who are in critical condition and contraindicated for retransplantation. These are extreme reconstructive cases of staggering complexity — technical, psychological, and immunological. I am currently working on an alternative to allotransplantation for major facial reconstructions. This aspect of my work remains largely unknown, as I am often perceived only as an aesthetic surgeon. This perception does not bother me, as my primary goal is to alleviate suffering. It must be acknowledged that aesthetic concerns themselves can generate profound distress.</p>"
+      },
+      "p5": {
+        "title": "As head of department at CHU Henri-Mondor and university professor, how do you see the evolution of training for young surgeons/doctors in your field?",
+        "content": "<p>To be honest, I am very worried. No one dares to talk about it, but we are facing a generation that, during their childhood, had very few opportunities to engage 70 in manual work. Yet, everyone agrees that surgery is undoubtedly the most demanding manual activity in the world. Surgical dexterity is acquired like a foreign language: the younger you start, the more instinctive the mastery. Try learning English (or French) at 14: with effort, you will speak correctly. But you will never be completely bilingual. The same goes for the precision of the surgical gesture. In the past, children engaged in multiple manual activities: they changed the spokes of their bike, repaired flat tires with patches, built airplane or boat models, made cabins, knitted, embroidered... So many formative experiences that have disappeared and are sorely lacking today.</p>"
+      },
+      "p6": {
+        "title": "For the past 7 years, the AIME congress has gradually established itself in France as a major event in medicine and aesthetic surgery. In your opinion, what is the recipe for this growing success?",
+        "content": "<p>You might have heard this classic joke: A person on the street asks a passerby, “How do I get to Carnegie Hall?” The passerby responds, “Practice, practice, practice!” The secret to success can be summed up in three words: work, work, work. Everything rests on the ability to offer a scientific program of such quality that it concretely transforms the professional practice of the congress participants. Every hour invested must translate, for them, into a real gain: an enriched activity, both more intense and more qualitative. To achieve this goal, there is no mystery: you must be at the forefront of advances and know how to attract the best speakers from around the world.</p>"
+      },
+      "p7": {
+        "title": "In 2025, AIME went international with a program in English and speakers from around the world. Why this turning point and what dimension do you wish to give to AIME?",
+        "content": "<p>Professor Hersant and I have had the privilege of being invited for over a decade to share our work at scientific conferences around the world. Many opinion leaders we invite today to our own congress are long-time friends. We wanted to bring them together in Paris, both to offer our audience the benefit of their expertise and to maintain these bonds that unite us. By a natural ripple effect, each of them comes accompanied by their own audience, further enriching the scope of our event. That said, the congress will be translated into French to allow everyone to attend comfortably.</p>"
+      },
+      "p8": {
+        "title": "With the rise of aesthetic techniques and technological advancements, what are the main topics that will be at the heart of the 8th edition of the AIME congress (2026)?",
+        "content": "<p>In recent years, advances have been remarkable in almost all areas: whether it be energy-based devices, injection techniques, regenerative medicine, hair transplants, menopause management, eco aging, anti-aging, new tension threads, or medical cosmetology, progress is constant and stimulating. All innovations in these areas will be highlighted. This year, we wanted to particularly spotlight Aesthetic Surgery, giving a special place to maxillofacial surgery and oculoplastic surgery. An entire room will be dedicated to them throughout the congress.</p>"
+      },
+      "p9": {
+        "title": "In your opinion, how can AIME contribute to shaping the future of medicine and aesthetic surgery on the international stage? What role does artificial intelligence play in the discussions and presentations at the AIME congress?",
+        "content": "<p>AIME occupies a unique position, halfway between the very large international congresses such as IMCAS or AMWC, and regional congresses, which also have their legitimacy. AIME thus offers a hybrid format: a program that is both dense, international, and accessible, allowing congress participants to fully grasp all the content. Its second particularity lies in its leadership: two academics at its head, bringing a resolutely academic and rigorous vision.</p><p>Finally, since its creation, AIME’s DNA rests on a clear requirement: to deliver directly applicable knowledge, concrete and transferable knowledge, immediately useful in the daily practice of participants.</p>"
+      },
+      "p10": {
+        "title": "As a major player in aesthetic surgery and medicine in France, what is your view on the evolution of these disciplines in the coming years? What advances seem the most promising to you?",
+        "content": "<p>I am convinced that the new university diploma granting the title of aesthetic physician is both a regulatory tool and a mechanism for legitimizing practitioners who dedicate most of their career to aesthetic medicine. Beyond regulation, it will significantly contribute to improving the quality of practices in this field. I am very pleased to have been entrusted with its implementation — it was a difficult battle, but fortunately a successful one. In any case, the needs of the population will continue to grow, particularly in Europe. It is therefore essential that we support this evolution by actively engaging in the training of medical professionals.</p>"
+      }
+    },
+    "imcas2026_converset": {
+      "h1": "ANATOMY IN OPTIMIZING INJECTION SAFETY",
+      "abstract": "",
+      "author": "Dr. Sophie Converset",
+      "cta_text": "Discover Dr. Converset",
+      "tags": {
+        "t1": {
+          "title": "Aesthetic medicine"
+        }
+      },
+      "img_alt": "Dr. Sophie Converset",
+      "p1": {
+        "title": "Dr. Sophie Converset",
+        "content": "<p>In aesthetic medicine, anatomy plays an essential role in injection safety. Precise knowledge of the anatomical structures of the face helps to minimize risks and optimize results. Facial anatomy is divided into two main approaches: Descriptive Anatomy (static structures) and Dynamic Anatomy (muscle movements and facial expressions). A successful injection must take into account of these two aspects to ensure a natural result and avoid complications. How can knowledge of descriptive and functional anatomy optimize the safety and efficacy of injections in aesthetic medicine?</p>"
+      },
+      "p2": {
+        "title": "Descriptive anatomy: understanding the structure of injected tissues",
+        "content": "<p>Descriptive anatomy helps to identify the structures to be protected</p><h4>A) The skin and its particularities according to the areas of the face</h4><p>The anatomy of the skin influences the choice of product, the injection technique and the final result. Consideration must be given to</p><ul><li>Skin thickness and composition (e.g. thin eyelids vs. thick forehead).</li><li>Presence of sebaceous and sweat glands (oily vs. dry areas).</li><li>Injection depth adapted to the anatomical planes. The choice of filler depends on the injection plane:</li><li>Epidermis: low permeability → low viscosity product</li><li>Dermis: high density of extracellular matrix → low viscosity and high spreading capacity</li><li>Superficial regions: low tissue pressure → product with low elasticity to avoid over-correction.</li></ul><p>The skin of the eyelids is particularly delicate (epidermis 0.05-0.1 mm vs. 1 mm elsewhere). It contains few enzymes and glands, requiring a specific hyaluronic acid to limit irregularities and ensure a natural result.</p><h4>B) The superficial musculoaponeurotic system (SMAS), the facial skin muscles and their key role</h4><p>The superficial musculoaponeurotic system (SMAS) supports tissues and influences facial expression and aging. Its anatomy guides the depth and technique of injection</p><ul><li>Sub-SMAS injection: recommended for volumizing fillers (nose, jawline, forehead).</li><li>Specific areas: SOOF (Sub Orbicularis Oculi Fat) for the cheekbone, SOOF labial for the chin.</li><li>Choice of product: hyaluronic acid resistant to muscle pressure is required.</li></ul><p>The skin muscles (Masseter, Platysma, Depressor Anguli Oris) interact with the SMAS and increase in tone with age. Botulinum toxin relaxes them and restores the balance between lowering and elevating muscles, thus treating the cause (hypertonia) before the consequence (ptosis and tissue loss).</p><h4>C) Vascular structures: high-risk areas</h4><p>It is crucial to know the course and depth of the facial artery and its branches. The facial artery has major anatomical variations, both in terms of its course and its depth. These variations directly influence the vascular risk of injections, particularly in critical areas such as the nasolabial fold, the lips and the nose.</p><h5>Classic course of the facial artery</h5><p>The facial artery arises from the external carotid artery, opposite the mandibular angle, just above the lingual artery. It first descends under the jaw, then curves upwards to cross the lower edge of the mandible. This crossing is generally made an average of 2 cm in front of the masseter muscle (the facial vein is lateral to it, an average of 1 cm from the masseter muscle). It follows an oblique path upwards and forwards, crossing the submaxillary gland before crossing the mandibular bone margin. It is therefore dangerous to inject in a deep pre-periosteal plane, on the mandibular line, in front of the masseter muscle. The facial artery then travels to the labial commissure under the platysma muscles and then under the Depressor Anguli Oris muscle. The facial artery gives rise to the superior and inferior labial or coronal arteries. The projection of these arteries to the lips is submuscular (behind the orbicularis muscle of the lips), at the junction of the dry lip and wet lip of the red lip. Injections must therefore be strictly submucosal. The bifurcation is classically submuscular, under the modiolus, leaving a safety zone of 1 cm around the commissure. However, variations have been seen in dissection: the facial artery may give a superficial branch, above the DAO, within this so-called ‘safety’ perimeter. The superior labial artery gives philtral and columellar arterial branches. The facial artery then ascends along the nasolabial fold. Up to the narcular angle, the facial artery lies beneath the muscles and is therefore deep. From the nostril angle, it becomes more superficial and travels along the nasal pyramid. It gives rise to 60 superior and inferior wing branches. These arteries are at the level of the nostril SMAS, and are therefore superficial and dangerous. The facial artery becomes the angular artery, which anastomoses with the supra trochlear artery, a branch of the ophthalmic artery.</p><p>Although its classic path (88% of cases) is described as ascending and sinuous, several studies have shown frequent variations.</p><h5>High-risk anatomical areas</h5><ul><li>Glabella and forehead: The arteries responsible are the right and left supra-trochlear arteries. The supra trochlear artery arises from the ophthalmic artery and leaves the orbit at its foramen. Its course is ascending, passing beneath the head of the corrugator muscle, and therefore deep. However, 1 cm from the upper bone margin, the supra-trochlear artery becomes superficial and travels above the muscular plane at the level of the forehead. Injections into the glabella and forehead, in the paramedian area, are therefore dangerous.</li><li>The nasolabial fold: The facial artery divides into several superficial branches. There is a major risk of damaging the main branch of the facial artery.- The nose: The arteries of the nose are at the level of the SMAS, and the anastomotic network is very dense. An injection above the SMAS with a dense product will create a compartment syndrome responsible for necrosis: the extravascular pressure is greater than the intravascular pressure. Injections into the nose should be made below the SMAS with a suitable product.</li><li>The naso-jugal groove: The infra-orbital pedicle is located 11 mm below the inferior orbital bone margin. It is medial to the pupillary line. The foramen is easily palpable.</li><li>The tear trough: The skin is thin with little subcutaneous tissue. Tyndall effect should be avoided by injecting a product dedicated to the area beforehand.</li><li>The lips: The projection of the upper and lower coronal arteries is sub-muscular, at the junction between the dry lip and the wet lip of the red lip. The injection must therefore be submucosal with a product dedicated to the region, whatever the injection technique. Major risk of damaging the main branch of the facial artery.</li></ul>"
+      },
+      "p3": {
+        "title": "Functional anatomy: adapting injection techniques to facial dynamics",
+        "content": "<p>unctional anatomy guides injections to preserve the balance of the face. It includes the dynamic anatomy of the face, which is essential for obtaining a natural result from injections and respecting facial expressions. It takes into account the movements of the facial skin muscles and their interactions with the skin and underlying tissues. It is therefore important to know each facial skin muscle, its pathway and its function. The action of agonist and antagonist muscles (frontalis vs procerus, greater zygomaticus vs depressor anguli oris...).</p>"
+      },
+      "p4": {
+        "title": "Clinical application: a secure protocol to optimize results and avoid complications",
+        "content": "<h4>A) Strategies to reduce vascular risks</h4><p>Mapping the areas at risk is essential (ultrasound? MRI?...). The use of cannulas to minimize arterial penetration is essential. Obviously, a visit to the anatomy laboratory is essential before any aesthetic medicine is carried out.</p><h4>B) Complications management: recognising and treating accidental injections</h4><ul><li>Early signs of intra-arterial injection (blanching, pain).</li><li>Emergency protocol in the event of necrosis or vascular embolisation (hyaluronidase).</li><li>Importance of post-injection monitoring and appropriate touch-ups.</li></ul><p>In conclusion, a good knowledge of anatomy is crucial to guaranteeing injection safety, preventing complications and ensuring safe, effective injections.</p>"
+      }
+    },
+    "imcas2026_delmar": {
+      "h1": "Luxury and Aesthetic Surgery",
+      "abstract": "A Tailor-Made Approach for Patients",
+      "author": "By Dr. Henry Delmar",
+      "cta_text": "Discover Clinique Del Mar",
+      "tags": {
+        "t1": {
+          "title": "Plastic surgery"
+        }
+      },
+      "img_alt": "Dr. Henry Delmar ",
+      "p1": {
+        "title": "Dr. Henry Delmar",
+        "content": "<p>Dr. Henry Delmar is a plastic surgeon specializing in aesthetic, reconstructive, and plastic surgery.  Graduating in 1991, he began his career researching the fat compartments of the face, paving the  way for significant advancements in facelift techniques. He is also an active member of several  international societies of plastic and aesthetic surgery, such as ISAPS and SOFCEP, where he  regularly contributes to scientific and technical discussions. </p><p>As the founder of Clinique Del Mar, he has created an establishment dedicated to health and beauty,  combining invasive and non-invasive treatments. Additionally, he co-developed the D.E.S.I.R.S.  method, a patient care model that integrates the emotional and psychological dimensions of  aesthetic surgery. Dr. Delmar frequently speaks at international conferences, sharing his expertise  and innovations in areas such as facial rejuvenation and breast surgery. </p>"
+      },
+      "p2": {
+        "title": "How do you define the association between luxury and aesthetic surgery in  your practice?  ",
+        "content": "<p>In my practice, luxury translates into a fully personalized, patient-centered experience. It is not just  about the surgical procedure but about an overall journey that begins with the first contact. Every  step, from the initial consultation to post-operative recovery, is designed to offer an impeccable  level of excellence. Luxury also means the ability to meet the patient's specific expectations while  providing an exceptional environment, both in terms of human interactions and material aspects. </p>"
+      },
+      "p3": {
+        "title": "What elements make your approach a unique and high-end experience?",
+        "content": "<p>A unique experience is built on several pillars: attentive listening, personalized care, and top-tier  facilities. My approach is based on understanding the patient’s expectations and emotions to design  a tailor-made treatment plan. The environment also plays a crucial role: welcoming and modern  facilities, a dedicated professional team, and meticulous attention to detail, all of which make a  difference. </p>"
+      },
+      "p4": {
+        "title": "How do you integrate the concept of personalization into your treatments? ",
+        "content": "<p>Personalization is at the core of my approach, and this is where the D.E.S.I.R.S. method plays a  fundamental role. This method, which I co-developed, is based on six key principles that form a  structured framework to analyze and respond to the patient's deeper expectations:</p>  <ul>         <li> D for Defect: Identifying the perceived defect that motivates the patient’s request.</li> <li> E for Emotion: Exploring the emotion associated with this defect, as physical concerns are  often accompanied by complex feelings. </li> <li> S for Clinical Situation: Using medical expertise to objectively assess the case while  considering the expressed expectations. </li> <li> I for Imagination: A patient’s expectations always involve some degree of imagination. We  work together to define realistic goals and avoid disappointment. </li> <li> R for Reflection: Allowing the patient time to reflect on the proposed options and make an  informed decision. </li> <li> S for Solution: Designing a solution that leads to long-term satisfaction. </li> </ul><p> This method helps me create fully customized treatment plans, taking into account not only the  patient’s aesthetic needs but also their personality, history, and emotional state. </p> "
+      },
+      "p5": {
+        "title": "Is luxury only related to the patient experience, or does it also include the  results? ",
+        "content": "<p>Luxury cannot be limited to the experience alone. The results, both aesthetic and psycho-emotional,  are just as essential. A successful procedure should not only provide a physical transformation but  also restore the patient’s confidence and self-esteem. This dual impact—combining experience and  results—represents the true essence of luxury in aesthetic surgery. </p>"
+      },
+      "p6": {
+        "title": "What are the main challenges in combining luxury with aesthetic surgery? ",
+        "content": "<p>Merging luxury and aesthetic surgery is a real challenge, which I often describe as the 'funnel  effect.' Every stage of the patient journey must be flawless, as even the slightest imperfection can  impact the overall experience. This begins with the first phone call: the reception must be warm,  professional, and reassuring. Then, every interaction—whether with administrative staff, therapists,  or myself—must reflect meticulous attention to detail. </p><p>I often compare it to the experience of a five-star luxury hotel. When you enter such a place,  everything—from the service to the quality of the amenities—is designed to exceed expectations.  Every detail, no matter how small, contributes to the impression of excellence. In aesthetic surgery,  I strive to apply this same philosophy. </p>"
+      },
+      "p7": {
+        "title": "How important are the emotional expectations of patients in this context? ",
+        "content": "<p>Emotional expectations are paramount. A surgical procedure is not just about physical  improvement; it is often a means for the patient to regain self-confidence. My role is to listen and  understand these expectations to provide an appropriate response. This approach transforms the  experience into an emotional and psychological journey. </p>"
+      },
+      "p8": {
+        "title": "What kind of feedback do you receive from patients regarding this luxurious  and personalized approach?",
+        "content": "<p>The feedback is very positive. My patients highlight the quality of listening, the personalization of  their journey, and the attention to their needs. They also emphasize the impact this approach has had  on their overall well-being, beyond physical results. What stands out the most is long-term  satisfaction and the willingness to recommend this experience to others. </p>"
+      },
+      "p9": {
+        "title": "Conclusion: A Holistic Vision of Luxury in Aesthetic Surgery ",
+        "content": "<p>Combining luxury and aesthetic surgery means going beyond traditional expectations to provide  comprehensive care, where every detail matters. By paying particular attention to human and  emotional aspects and using tools like the D.E.S.I.R.S. method, this practice becomes a truly  transformative experience. Luxury, in this context, is measured not only by the quality of results but  also by the journey the patient undergoes.</p>"
+      }
+    },
+    "imcas2026_ahmed": {
+      "h1": "STRUCTURAL SUPPORT WITH FILLERS, CELLULAR REVITALISATION WITH POLYNUCLEOTIDES",
+      "abstract": "When treating a person’s undereye area, don’t pigeon hole which treatments they may need",
+      "author": "Dr. Ahmed El Muntasar",
+      "cta_text": "Discover The Aesthetics Doctor",
+      "tags": {
+        "t1": {
+          "title": "Aesthetic medicine"
+        }
+      },
+      "img_alt": "Dr. El Muntasar",
+      "p1": {
+        "title": "Dr. Ahmed El Muntasar, British Cosmetic Doctor and GP",
+        "content": "<p>Dr Ahmed El Muntasar, born in Libya, is a British doctor specializing in aesthetic medicine. Entering university at just 16, he pursued an exceptional academic path through St Andrews, Manchester, and UCL in London. Passionate about learning, he completed 12 aesthetics courses before opening his first clinic at the age of 26. Initially drawn to plastic surgery, he eventually shifted to aesthetics for its immediate results and scientific rigor.</p><p>Founder of three clinics in London, Leeds, and Cheshire, he offers high-end, non-invasive treatments always grounded in reliable clinical data. He rejects unproven wellness trends to focus solely on evidence based techniques.</p><p>Still practicing as a GP, he is also a major social media figure with over one million followers. A strong advocate for diversity, he promotes inclusive representation in the aesthetics field. He frequently declines procedures on ethical grounds, placing mental health at the core of his consultations. As a global ambassador for Obaji, he is currently developing a training academy and his own skincare line, continuing to transform the industry through his high standards, expertise, and human-centered approach.</p>"
+      },
+      "p2": {
+        "title": "The Eye Contour: A Focal Point of Expression and Aging",
+        "content": "<p>The periorbital region is central to facial expression, non-verbal communication, and perceived vitality. It is also the first anatomical zone to show multifactorial signs of aging due to its delicate anatomical composition and continuous exposure to mechanical movement and environmental stressors.</p><p>From a psychosocial perspective, patients often associate periorbital aging with fatigue, sadness, or ill health. Hollowness, dark circles, and dermatochalasis can alter the entire facial narrative, even in individuals with preserved dermal quality elsewhere.</p>"
+      },
+      "p3": {
+        "title": "Anatomical Vulnerabilities with Age",
+        "content": "<p>Anatomically, the periorbital area presents several intrinsic weaknesses:</p><ul><li>Thin dermis: Typically under 0.5 mm, leading to early elastin and collagen degradation.</li><li>Loss of bony support: The orbital rim remodels with age, increasing aperture size, especially medially and laterally.</li><li>Fat pad displacement: Medial and lateral sub orbicularis oculi fat (SOOF) and deep malar fat compartments descend, deepening tear troughs.</li><li>Orbicularis oculi muscle laxity and ligamentous attenuation (particularly the orbitomalar and zygomaticocutaneous ligaments) contribute to periorbital deflation and shadowing.</li></ul><p>These changes manifest as infraorbital hollowing, festoons, pseudoherniation of orbital fat, and reduced skin luminosity.</p>"
+      },
+      "p4": {
+        "title": "Structural Restoration with Dermal Fillers",
+        "content": "<p>The first stage in rejuvenating the periorbital area is the strategic restoration of midface volume using hyaluronic acid fillers (if applicable). Rather than direct infraorbital injection, which carries higher risk and often yields suboptimal aesthetic outcomes, an indirect volumisation approach targeting adjacent zones provides support and softens the transition between lid and cheek.</p><h4>Understanding Volume Loss</h4><p>Midfacial deflation is both a cause and amplifier of infraorbital aging. When volume diminishes in the deep medial cheek fat and lateral SOOF, the overlying tear trough appears exaggerated, even in patients with minimal skin laxity.</p><h4>Key Injection Points:</h4><ul><li>Valley of tears (tear trough): For mild to moderate concavity without excess skin or herniation. Use a low-viscosity filler via cannula in a supraperiosteal or deep sub-orbicularis plane.</li><li>Medial and lateral cheeks: Anchoring points for midface lift; volumization here can indirectly support the lower eyelid and reduce the need for direct tear trough correction.</li><li>Temporal hollows: Addressing lateral volume loss re-establishes frame balance and reduces lateral hooding, particularly in older patients.</li></ul><h4>Technique Considerations:</h4><ul><li>Always assess lid-cheek junction length and snap back test to exclude candidates with excessive laxity or pseudoherniation.</li><li>Use a microbolus technique with small aliquots to avoid Tyndall effect, overcorrection, or edema.</li><li>Choose cohesive but soft rheological profiles (e.g. low G’, high stretch) for under-eye suitability.</li></ul><p>When executed correctly, results are immediate: the eye appears less tired, the midface more lifted. Crucially, patients retain facial identity without overt signs of intervention.</p>"
+      },
+      "p5": {
+        "title": "Illumination and Smoothing with Polynucleotides",
+        "content": "<p>Where fillers restore structure, polynucleotides provide regeneration. Polynucleotides, highly purified DNA fragments usually derived from salmon or trout, are injectable biostimulators with a strong safety profile and growing evidence base.</p><h4>Mechanism of Action:</h4><p>Polynucleotides promote fibroblast proliferation, angiogenesis, and extracellular matrix remodeling. Their viscoelastic properties allow for sustained hydration, while their molecular signalling supports tissue repair and skin elasticity over time.</p><h4>Clinical Benefits:</h4><ul><li>Improved dermal density: Increased fibroblast activity enhances collagen and elastin networks.</li><li>Reduction in periorbital fine lines and crepiness.</li><li>Brighter skin tone: Likely due to improved microcirculation and reduced inflammation.</li></ul><p>Protocol typically involves 2–4 treatments at 2-4 week intervals, with visible improvement beginning after the second session and continuing for up to 3 months.</p>"
+      },
+      "p6": {
+        "title": "The Two-Stage Strategy: Structure First, Then Radiance",
+        "content": "<p>When used in tandem, fillers and polynucleotides address both macroscopic and microscopic aging processes. The combination is not merely additive—it is synergistic.</p><ul><li>Stage One – Fillers: Rebuild the scaffolding of the midface and orbit. This restores contour, reduces shadows, and sets the foundation.</li><li>Stage Two – Polynucleotides: Once the structure is stabilized, introduce polynucleotides to regenerate dermal quality, reduce pigmentary contrast, and refine skin texture.</li></ul><h4>Personalised Protocol:</h4><ul><li>Timing: Fillers first, then polynucleotides 2–4 weeks later. Maintenance: 1 filler session per 12 24 months (as needed); biostimulators every 6–12 months.</li><li>Patient Selection: Ideal for patients with early to moderate signs of aging, particularly those concerned with skin quality as much as contour.</li><li>Contraindications: Caution in patients with active malar oedema, lymphatic insufficiency, or advanced fat prolapse.</li></ul>"
+      },
+      "p7": {
+        "title": "Subtlety is key, true to the Patient",
+        "content": "<p>The ultimate goal of periorbital rejuvenation is subtlety. When done well, the patient should look fresher, not “done.” The best aesthetic work is invisible it restores confidence without erasing individuality. By combining structure (via volume) with skin vitality (via cellular regeneration), we offer a tailored, respectful, and evidence-based approach to one of the most emotionally significant areas of the face.</p>"
+      },
+      "p8": {
+        "title": "Dr Ahmed’s Tip:",
+        "content": "<p>“When treating a person’s undereye area, don’t pigeon hole which treatments they may need. Be a little bit open minded about combination treatments; it is like treating other areas of the face. People can be very worried about treating the under eyes but if they have hollowness, think about adding volume. If the focus is on skin or colour, think about polynucleotides”.</p>"
+      }
+    },
+    "imcas2026_aerolase": {
+      "h1": "ENGINEERING A NEW APPROACH TO LASER CARE",
+      "abstract": "Maintenance-free device with no consumables, built for consistent performance and lasting value",
+      "author": "Mr. Pavel Efremkin, Founder and CEO of Aerolase",
+      "cta_text": "Discover Aerolase",
+      "tags": {
+        "t1": {
+          "title": "Dermatology"
+        },
+        "t2": {
+          "title": "Aesthetic medicine"
+        }
+      },
+      "img_alt": "Mr. Pavel Efremkin",
+      "p1": {
+        "title": "Could you tell us about your personal background and what led you to found Aerolase?",
+        "content": "<p>With a background in science and engineering, complemented by business and investment experience, my interest has always been in developing technologies that deliver both precision and practical value. When exploring the landscape of medical lasers, it became clear that existing systems were falling short — often painful, technically demanding, limited versatility, or not suited for patients with darker skin types.</p><p>That recognition led to the founding vision behind Aerolase: to redefine what a dermatological laser should be. Drawing from aerospace disciplines — where safety, efficiency, and reliability are critical — the goal was to build a platform that addressed longstanding limitations. Using medical research, science and inventive engineering, Aerolase created and brought to market a new generation of dermatological lasers that combines the best features of prior technologies while addressing the unmet needs of modern patients and practitioners.</p>"
+      },
+      "p2": {
+        "title": "What was your vision when you first began developing Aerolase’s technologies?",
+        "content": "<p>The dermatology and aesthetic industry is relatively young. Lasers were gradually adopted as new wavelengths proved effective, but early systems came from industrial or scientific use—not medicine. Entering this industry dominated by well-established competitors, we knew that if we were going to offer something new, it had to be radically better, not just marginally different. So our engineering team set out to develop a compact, easy-to-use, and reliable laser system that could deliver high efficacy across a wide range of skin treatments. This is how the Aerolase Neo Elite was created: a skin laser that pioneered a new category in dermatological treatment.</p><p>Through clinical research and close collaboration with experts, we refined a new set of laser parameters that enabled broader applications and an unmatched treatment experience. Patients not only saw real results — they loved the comfort and came back for more. Because our 650-microsecond Technology® didn’t fit into any existing category, we had to define it and validate it clinically. Ultimately, our vision was long-term: to invest in meaningful R&D, unite engineering with clinical expertise, and continually improve through practitioner and patient feedback.</p>"
+      },
+      "p3": {
+        "title": "Your technologies are described as having an “aerospace-inspired” approach — what does that mean in concrete terms?",
+        "content": "<p>That reference comes from how we think about design. In aerospace, systems are built with zero margin for error — they must function reliably under demanding conditions. We adopted that mindset early on.</p><p>A good example is our 650-microsecond Technology®. It delivers energy in a highly controlled pulse that maximizes efficacy while minimizing collateral damage and discomfort. It enables a level of precision, comfort, and outcomes that weren’t previously possible with traditional lasers. Every element — from the pulse duration to the compact footprint — was intentional. Versatility was a guiding principle: one system should be able to treat a wide range of indications while fitting seamlessly into different practice models.</p><p>The result is a maintenance-free device with no consumables, built for consistent performance and lasting value. Most importantly, it was designed to be safe for all skin types — not as an added feature, but as a fundamental requirement.</p>"
+      },
+      "p4": {
+        "title": "What developments in patient demand and clinical practice have shaped the role of Aerolase’s technology in today’s dermatological landscape? And how do the Neo Elite and Era Elite lasers stand out in this evolving market?",
+        "content": "<p>Bringing a fundamentally new laser technology to market takes significant time and effort. You have to prove the concept, perfect the design, meet strict safety regulations, and build awareness. As a medical device company, that process is even more complex — but essential for long-term impact.</p><p>Today, two major shifts are driving demand for the kind of technology Aerolase has created. The first is generational. Millennials and Gen Z have overtaken Baby Boomers as the main aesthetic patient group, with a radically different mindset. Boomers focused on correcting signs of aging — accepting aggressive treatments, long downtimes, and the “no pain means no gain” motto.</p><p>Younger patients don’t want to fix aging — they value rejuvenation, natural results, and minimal disruption. They want effective treatments without pain or downtime. Aerolase delivers exactly that, which is why this demographic embraces it — and even older generations are now excited by the experience.</p><p>The second shift is on the provider side. In the early 2000s, laser treatments were limited to a small number of pioneering dermatologists. These early adopters could charge premium fees, and patients were willing to travel for access to cutting-edge care.</p><p>Today, lasers have become essential tools — but so has the need for cost-efficiency. With increasing competition, providers must now balance patient results with business realities.</p><p>That’s where Neo Elite and Era Elite stand out. These compact, maintenance-free systems deliver both ablative and non-ablative treatments for conditions like acne, pigmentation, vascular lesions, and rejuvenation — ensuring patient satisfaction, streamlined workflow, and strong ROI.</p>"
+      },
+      "p5": {
+        "title": "How does your scientific DNA continue to shape your approach to innovation today?",
+        "content": "<p>The mindset hasn’t changed. We continue to apply core engineering principles: energy efficiency, miniaturization, thermal control, and durability. Just as in aerospace, we anticipate failure points and eliminate them through design.</p><p>Our devices are engineered to perform consistently under real-world conditions — busy clinical environments, back-to-back patients, and diverse needs — while maintaining the highest safety standards. But what truly sets us apart is what comes after the purchase: robust support, ongoing education, and long-term collaboration. That commitment to both technology and people is the key to our differentiation.</p>"
+      },
+      "p6": {
+        "title": "How do these unique features translate into the treatment of various skin conditions?",
+        "content": "<p>Aerolase bridges the gap between medicine and aesthetics — a space often fragmented in this industry. Our lasers combine medical-grade efficacy with the safety and versatility required for aesthetic procedures, enabling practitioners to treat both with a single device.</p><p>We work with partners who share our values and provide them with ongoing training and education. It’s not just about delivering a device — it’s about building long-term relationships that ensure sustainable success for everyone involved.</p>"
+      },
+      "p7": {
+        "title": "How do you see the industry evolving in the coming years, and how is Aerolase preparing for that future?",
+        "content": "<p>The industry is moving toward smarter, more patient centric solutions—technologies that address real needs rather than just meeting technical specs. That means staying close to practitioners and patients, and remaining thoughtful about R&D investments.</p><p>My advice? Focus on solving something meaningful. Validate clinically, surround yourself with the right people, and be patient — medical innovation takes time. Most importantly, never compromise on safety, ethics, or your original purpose. That’s what creates lasting impact.</p>"
+      }
+    },
+    "imcas2026_my_healthcie": {
+      "h1": "FOCUS MY HEALTHCIE",
+      "abstract": "Digital visibility: a strategic challenge that has become central",
+      "author": "by HEALTHCIE",
+      "cta_text": "Discover MY HEALTHCIE ",
+      "tags": {
+        "t1": {
+          "title": "Practice management"
+        }
+      },
+      "img_alt": "MY HEALTHCIE",
+      "p1": {
+        "title": "Introduction",
+        "content": "<p>Digital visibility in plastic surgery and aesthetic medicine is now based on a precise balance. Practices remain fundamentally local, built on trust, reputation, and proximity. Yet the way this expertise is searched for, identified, and compared now takes place within complex digital environments, dominated by search engines, local SEO, sponsored campaigns, and more recently, generative artificial intelligence.</p><p>The challenge is to understand patient digital behaviors and how industry players: practitioners, clinics, healthcare groups, laboratories, and medical device manufacturers, are visible within these ecosystems. In practice, the same observation consistently emerges: data is abundant, but its interpretation remains fragmented. SEO is still too often approached through isolated indicators, without being put into perspective with real objectives such as patient acquisition, brand awareness, or economic performance.</p><p>It is within this context that the approach of the HEALTHCIE agency and the creation of the MY HEALTHCIE monitoring platform take place.</p>"
+      },
+      "p2": {
+        "title": "An expertise built on the sector’s digital needs",
+        "content": "<p>HEALTHCIE is an agency specialized in SEO for players in aesthetic surgery and aesthetic medicine. This specialization is not incidental. Medical SEO requires a nuanced understanding of search intent, regulatory constraints, and the specific timelines of patient journeys.</p><p>The work of an SEO consultant is not limited to optimizing pages or tracking rankings. It involves analyzing search behaviors, identifying relevant semantic opportunities, understanding why certain procedures convert while others do not, and aligning digital visibility with concrete objectives. The agency has built this field expertise over the course of its projects, working alongside physicians, clinic executives, and marketing directors facing very different realities.</p><p>Gradually, one fact became evident: to effectively manage an SEO strategy, a tool was needed that could make data intelligible, contextualized, and actionable.</p>"
+      },
+      "p3": {
+        "title": "MY HEALTHCIE: a game changer born from real world needs",
+        "content": "<p>his application is not a generic platform. It was born from daily exchanges between HEALTHCIE’s SEO consultants and the needs expressed by their clients.</p><p>The same questions kept arising, regardless of profile: how can the real impact of SEO, SEA, and GEO (Generative Engine Optimization) be measured? How can we know which actions generate the most results? How can digital visibility and return on investment be assessed?</p><p>MY HEALTHCIE was designed to answer these questions. The application centralizes data from search engines, sponsored campaigns, and new sources related to generative artificial intelligence. Above all, it organizes this data within a strategic reading framework. The objective is not to display more numbers, but to enable a refined understanding of what works, what needs adjustment, and what deserves further development.</p>"
+      },
+      "p4": {
+        "title": "Three analytical pillars structuring MY HEALTHCIE",
+        "content": "<h4>Clear and reliable insight into SEO, SEA, and GEO KPIs</h4><p>The application relies on data from certified tools (Google Analytics, Google Search Console, Semrush, Google Tag Manager) to provide a reliable view of digital visibility. Indicators are selected for their real relevance: visibility by procedure or product, local performance, query evolution, user behavior, and emerging signals related to generative AI. This approach makes it possible to move beyond surface-level metrics and focus on traffic quality and search intent.</p><h4>Precise tracking of actions and their real impact</h4><p>Every intervention carried out by the SEO consultants is logged within the platform. Technical optimizations, content production, strategic adjustments, and sponsored campaigns are visible and contextualized. This transparency makes it possible to establish a direct link between the actions taken and the evolution of performance indicators. SEO ceases to be perceived as a black box and becomes a readable and measurable process serving physicians, clinic executives, and marketing directors within the industry.</p><h4>A decision-oriented strategic vision</h4><p>The application goes beyond technical analysis. Dashboards are configured according to each organization’s specialty, location, and objectives. This customization allows decision-makers to gain a clear overview to prioritize actions, guide investments, and adjust strategies based on observed results.</p>"
+      },
+      "p5": {
+        "title": "A solution for clinics and medical practices",
+        "content": "<p>Within healthcare structures, MY HEALTHCIE enables precise management of a practice’s digital visibility. Practitioners can identify their most profitable procedures, analyze content performance, measure the evolution of local SEO, and understand which levers genuinely generate appointment bookings. This factual reading of data makes it possible to structure a coherent digital strategy aligned with the medical and economic objectives of the practice or clinic.</p>"
+      },
+      "p6": {
+        "title": "A solution for medical device companies and cosmeceutical brands",
+        "content": "<p>For industry players, the challenges differ, but the logic remains the same. MY HEALTHCIE provides marketing directors with direct visibility into the performance of digital actions. The tool enables monitoring of brand awareness, content impact, product visibility, and return on investment for executed campaigns. This consolidated view facilitates strategic steering and strengthens marketing teams’ autonomy in decision making.</p>"
+      },
+      "p7": {
+        "title": "Data serving people",
+        "content": "<p>No platform can replace the analysis of a consultant with strong experience in this sector. The application is designed as a working tool. Data is interpreted, put into perspective, and translated into concrete strategic recommendations. This expertise makes it possible to identify trends, anticipate changes, and adjust digital strategies based on observed results. These strategies are designed to be evolutionary and deeply aligned with each client’s specific needs.</p><p>It is this articulation between technology and human intelligence that ensures the relevance and sustainability of performance, both for patient acquisition and for the development of brand and medical device visibility.</p>"
+      },
+      "p8": {
+        "title": "Understanding and measuring to make better decisions",
+        "content": "<p>SEO within the aesthetic medicine sector has reached a level of maturity that demands rigor and methodology. SEO, SEA, and GEO are now complementary levers serving a global strategy. In this environment, the ability to understand and manage visibility becomes a decisive strategic advantage.</p><p>MY HEALTHCIE fits into this evolution by offering a clear and intuitive application to better guide strategic decision-making. A solution designed for physicians, clinic executives, and marketing directors within the industry who wish to regain control of their digital visibility through data, analysis, and human expertise.</p>"
+      }
+    },
+    "imcas2026_Chardon": {
+      "h1": "THE 8 BREAKTHROUGH INNOVATIONS RESHAPING MEDICAL AESTHETICS",
+      "abstract": "Our new Innovation Insider Section",
+      "author": "BY MR. BENOÎT CHARDON & MR. JULIEN VERVEL",
+      "cta_text": "Discover Benoît Chardon Consulting",
+      "tags": {
+        "t1": {
+          "title": "Aesthetic medicine"
+        },
+        "t2": {
+          "title": "Market Analysis"
+        },
+        "t3": {
+          "title": "Practice management"
+        }
+      },
+      "img_alt": "Benoît Chardon & Julien Vervel",
+      "p1": {
+        "title": "New Innovation Insider Section",
+        "content": "<p>Discover our new Innovation Insider Section by Benoît Chardon & Julien Vervel. Innovation is entering a new era defined by biological intelligence rather than cosmetic correction. Across skin, hair, body procedures, femtech and Al-driven technologies, the future of healthcare is regenerative, functional and deeply personalized, reshaping both clinical outcomes and the patient journey. Drawing on his experience in breakthrough innovation, Benoît Chardon explores how science, technology and biology converge to restore tissue, optimize function and anticipate care. In parallel, Julien Vervel challenges traditional B2B digital communication models in healthcare, redefining digital not as a tool, but as a growth ecosystem, designed to create value, meaning and sustainable performance for healthcare professionals</p>"
+      },
+      "p2": {
+        "title": "Benoît Chardon",
+        "content": "<p>Benoît Chardon is a global leader in medical aesthetics with a rare dual track record: category creating innovation and large-scale value creation.</p><h4>Corporate Value Creation</h4><p>Filorga – Created the brand and led skincare development; later acquired by Colgate-Palmolive for $1.4bn</p><p>CoolSculpting – Led international marketing; category-defining body contouring platform acquired by Allergan for $2.5bn</p><p>Allurion – Scaled revenue as CCO from $3m to $65m, leading to a $0.5bn NYSE IPO</p><p>Fastox – Board Member; contributed to acquisition by AbbVie</p><h4>Innovation That Changed the Market</h4><p>Restylane Skinboosters (15 years ago): shifted injectables from volume to skin quality, creating an entirely new treatment category Sculptra Relaunch (10 years ago): repositioned biostimulation as a long-term regenerative strategy, redefining collagen-based aesthetics.</p><p>Most recently, Benoît has been appointed to the IMCAS Industry Innovation Jury, as the main award of the IMCAS Innovation Tank and as Chairman of the AMWC Catalyst, reinforcing his position as a leading authority on disruptive innovation in medical aesthetics.</p>"
+      },
+      "p3": {
+        "title": "Julien Vervel",
+        "content": "<p>Julien Vervel is a digital expert specializing in the healthcare sector, with recognized expertise in structuring online visibility, managing medical branding, and adapting digital strategies to the ethical and regulatory requirements of the industry.</p><h4>Digital Health Expertise</h4><p>Managing Director of HEALTHCIE An agency specializing in SEO and digital strategies for professionals in medicine and aesthetic surgery.</p><h4>Innovation Ecosystem</h4><p>Recipient of French Tech Prépa 2020 Recipient of French Tech Incubation 2021 Selected for the 2021 Digital Talents Directory (Diversidays)</p><h4>Institutional Engagements</h4><p>Speaker at the French National Academy of Surgery on topics related to e-reputation and medical communication.</p><p>Speaker at leading congresses in surgery and aesthetic medicine: SFME, Prague Lab, AIME</p><h4>Pharmaceutical Industry</h4><p>Consulting Digital consultant for major players in the pharmaceutical and medical device industries: AbbVie, Pfizer, Vivacy, Global D</p>"
+      },
+      "p4": {
+        "title": "SKIN REGENERATION: WHERE BIOLOGY REPLACES VOLUME",
+        "content": "<h4>AEROLASE - DUAL-WAVELENGTH IN & OUT SKIN RENEWAL (NEO ELITE + ERA ELITE)</h4><p>Why It Matters: Reverse by Aerolase® delivers dermal remodeling and epidermal renewal in a single visit by combining Neo Elite (1064 nm Nd:YAG, 650-microsecond) for deep collagen stimulation with Era Elite (2940 nm Er:YAG, 300-microsecond) for controlled rejuvenation, helping physicians address texture, tone, laxity, and overall skin quality.</p><p>Clinical Impact: Treats surface texture and deeper dermal quality together, not as separate appointments, with consistent safety across all Fitzpatrick skin types (I–VI) Efficient for patients with busy schedules, with minimal, transient recovery reported in clinical use. All without requiring anesthetic.</p><p>Evidence: In a clinical evaluation of 25 women (ages 38–61) receiving a combined Neo Elite and Era Elite treatment in same treatment visit, punch biopsies (n=7) taken before and one month after treatment showed statistically significant increases in collagen type I (57%) and collagen type III (86%).</p><h4>RoC – ULTIMATE ANTI-AGING SKINCARE ROUTINE</h4><p>Why It Matters: RoC stands out through pharmaceutical-grade clinical proof in skincare with the first clinical study performed with 35 clinics on a 5-step skincare at home routine enabling 200 patients to achieve 9,6 years skin rejuvenation in 3 months.</p><p>Clinical Impact:</p><ul><li>Bridges medical aesthetics and daily skin longevity</li><li>Ideal formulations enabling the potent combination of Retinol, Vitamin C and Hyaluronic Acid with high tolerability on all skin types</li></ul><p>Evidence: ROC35 Study on 200 patients, 35 clinics, real-world conditions over 90 days. Demonstrated 9,6 skin rejuvenation and significant improvements in wrinkles, firmness, radiance, and overall skin quality— positioning RoC among the most clinically validated anti-aging brands globally.</p><h4>TIENCE – REGENERATIVE BIOREMODELING</h4><p>Why It Matters: Tience® is the only cell-free injectable derived from human adipose bioactives, activating intrinsic skin repair without fillers, fat transfer nor foreign particles. Unlike HA fillers (volume), fat grafting (invasive, variable) or bio stimulants (inflammatory particles), it targets collagen, elastin, HA natural synthesis, and microcirculation.</p><p>Clinical Impact:</p><ul><li>Reduces need for invasive fat grafting when skin quality is the goal</li><li>Ready to use human origin regenerative aesthetics</li></ul><p>Evidence: 1,000+ treatments with no serious adverse events; documented safety study (39 subjects). Independent data shows ~21% wrinkle reduction in periorbital skin at 4 months.</p>"
+      },
+      "p5": {
+        "title": "HAIR REGENERATION: MOLECULAR PRECISION OVER SYSTEMIC THERAPY",
+        "content": "<h4>DERMA GENE – DNAZYME THERAPY</h4><p>Why It Matters: First-in-class topical DNAzyme targeting 5a-reductase (types 1 & 2) and androgen receptor mRNA, suppressing DHT signaling locally— without systemic exposure.</p><p>Clinical Impact :</p><ul><li>Ready-to-use nano fat initially developed for therapeutic indications (scars, acne & hair growth) with clinical trials on the first 2</li><li>Also demonstrated transformative results on skin quality and under eye</li></ul><p>Evidence: Preclinical models demonstrate significant downregulation of 5a-reductase (types 1 & 2) and androgen receptor expression at the follicular level. Early clinical studies show meaningful reductions in hair shedding and stabilization of hair density within 12–16 weeks, with no detectable changes in systemic hormone levels—supporting a favorable safety profile versus oral anti-androgen therapies.</p>"
+      },
+      "p6": {
+        "title": "FAT REMODELING: FROM ARTISAN PROCEDURES TO ROBOTIC PRECISION",
+        "content": "<h4>SYNTR HEALTH – FAT PROCESSING REINVENTED</h4><p>Why It Matters: FDA-cleared robotic purification and microsizing of fat, preserving regenerative cells and standardizing outcomes.</p><p>Clinical Impact:</p><ul><li>Reduces procedure time</li><li>Improves graft consistency and survival</li></ul><p>Evidence: Published multi-center adoption report higher cell yield, improved graft handling, and durable volumetric outcomes compared with manual fat processing, with high surgeon satisfaction. 82% of patients achieved “very satisfied” or “somewhat satisfied” FACE-Q satisfaction scores for mid-face and nasolabial volume correction.</p>"
+      },
+      "p7": {
+        "title": "FEMTECH: MINIMALLY INVASIVE, WOMEN-FIRST AESTHETICS",
+        "content": "<h4>MIA FEMTECH – TISSUE PRESERVATION BREAST ENHANCEMENT</h4><p>Why It Matters: A tissue-preserving, minimally invasive alternative to traditional implants, focused on natural breast enhancement without scar on the breast and without general anesthesia.</p><p>Clinical Impact</p><ul><li>Outpatient, low-trauma procedures</li><li>Expands access to breast aesthetics to women looking for less down time and most natural results</li></ul><p>Evidence: Now supported by 5-year clinical follow up data showing >90% patient satisfaction, stable aesthetic outcomes over time, and a very low complication rate (<2%), with no implant-related long-term safety concerns—confirming durability, safety, and high acceptance of this minimally invasive approach.</p>"
+      },
+      "p8": {
+        "title": "DIGITAL ENABLEMENT: WHEN AI BECOMES CLINICAL INFRASTRUCTURE",
+        "content": "<h4>ADOREAL – AI-POWERED PATIENT JOURNEY PLATFORM</h4><p>Why It Matters: Adoreal digitizes and optimizes the aesthetic patient journey, addressing a critical gap between clinical excellence and patient conversion, engagement, and retention.</p><p>By structuring consultations, treatment education, visualization, and follow-up through AI-driven workflows, Adoreal improves clarity, trust, and decision-making while reducing physician time per consultation.</p><p>Target Users: Aesthetic clinics and physician-led practices seeking higher treatment acceptance, consistency, and patient lifetime value.</p><p>Evidence: Users show improved consultation efficiency, higher conversion rates, and stronger patient satisfaction—positioning Adoreal as a foundational technology layer for modern aesthetic practices.</p>"
+      },
+      "p9": {
+        "title": "THE APPLICATION BRINGING DATA BACK TO THE HEART OF SEO STRATEGIES",
+        "content": "<h4>MY HEALTHCIE – A GAME CHANGER FOR MANAGING YOUR SEO STRATEGIES</h4><p>Why It Matters: MY HEALTHCIE recenters data at the heart of SEO, SEA, and GEO strategies in aesthetic medicine, transforming fragmented visibility metrics into clear, actionable insights. The platform helps link digital performance to patient acquisition, brand awareness, and ROI.</p><p>Target Users: Aesthetic clinics, physician-led practices, healthcare groups, and industry brands seeking better control of their digital visibility.</p><p>Evidence: Users benefit from clearer performance tracking, improved decision-making, and measurable impact of digital actions—positioning MY HEALTHCIE as a strategic monitoring layer for the sector.</p>"
+      }
+    },
     "Prague_Skinceuticals": {
       "h1": "SKINCEUTICALS: A PIONEER IN INTEGRATED SKINCARE BASED ON SCIENCE",
       "abstract": "SkinCeuticals continues to lead innovation in skincare, firmly adhering to its commitment to science",
@@ -1753,54 +2168,6 @@
         "content": "<h4>A) Strategies to reduce vascular risks</h4><p>Mapping of areas at risk is essential (ultrasound? MRI?...). The use of cannulas to minimise arterial penetration is essential. Obviously, a visit to the anatomy laboratory is essential before any aesthetic medicine is carried out. </p><h4>B) Complication management: recognising and treating accidental injections</h4><ul><li>Early signs of intra-arterial injection (blanching, pain).</li><li>Emergency protocol in the event of necrosis or vascular embolisation (hyaluronidase).</li><li>Importance of post-injection monitoring and appropriate touch-ups.</li></ul><p>In conclusion, a good knowledge of anatomy is crucial to guaranteeing injection safety, preventing complications and ensuring safe, effective injections.</p>"
       }
     },
-    "Henry_Delmar": {
-      "h1": "Luxury and Aesthetic Surgery: A Tailor-Made Approach for Patients ",
-      "abstract": "The D.E.S.I.R.S. method which I co-developed, is based on six key principles that form a structured framework to analyze and respond to the patient's deeper expectations:",
-      "author": "By Dr Henry Delmar ",
-      "cta_text": "Discover Dr. Converset",
-      "tags": {
-        "t1": {
-          "title": "Plastic surgery"
-        }
-      },
-      "img_alt": "Dr. Henry Delmar ",
-      "p1": {
-        "title": "Dr. Henry Delmar",
-        "content": "<p>Dr. Henry Delmar is a plastic surgeon specializing in aesthetic, reconstructive, and plastic surgery.  Graduating in 1991, he began his career researching the fat compartments of the face, paving the  way for significant advancements in facelift techniques. He is also an active member of several  international societies of plastic and aesthetic surgery, such as ISAPS and SOFCEP, where he  regularly contributes to scientific and technical discussions. </p><p>As the founder of Clinique Del Mar, he has created an establishment dedicated to health and beauty,  combining invasive and non-invasive treatments. Additionally, he co-developed the D.E.S.I.R.S.  method, a patient care model that integrates the emotional and psychological dimensions of  aesthetic surgery. Dr. Delmar frequently speaks at international conferences, sharing his expertise  and innovations in areas such as facial rejuvenation and breast surgery. </p>"
-      },
-      "p2": {
-        "title": "How do you define the association between luxury and aesthetic surgery in  your practice?  ",
-        "content": "<p>In my practice, luxury translates into a fully personalized, patient-centered experience. It is not just  about the surgical procedure but about an overall journey that begins with the first contact. Every  step, from the initial consultation to post-operative recovery, is designed to offer an impeccable  level of excellence. Luxury also means the ability to meet the patient's specific expectations while  providing an exceptional environment, both in terms of human interactions and material aspects. </p>"
-      },
-      "p3": {
-        "title": "What elements make your approach a unique and high-end experience?",
-        "content": "<p>A unique experience is built on several pillars: attentive listening, personalized care, and top-tier  facilities. My approach is based on understanding the patient’s expectations and emotions to design  a tailor-made treatment plan. The environment also plays a crucial role: welcoming and modern  facilities, a dedicated professional team, and meticulous attention to detail, all of which make a  difference. </p>"
-      },
-      "p4": {
-        "title": "How do you integrate the concept of personalization into your treatments? ",
-        "content": "<p>Personalization is at the core of my approach, and this is where the D.E.S.I.R.S. method plays a  fundamental role. This method, which I co-developed, is based on six key principles that form a  structured framework to analyze and respond to the patient's deeper expectations:</p>  <ul>         <li> D for Defect: Identifying the perceived defect that motivates the patient’s request.</li> <li> E for Emotion: Exploring the emotion associated with this defect, as physical concerns are  often accompanied by complex feelings. </li> <li> S for Clinical Situation: Using medical expertise to objectively assess the case while  considering the expressed expectations. </li> <li> I for Imagination: A patient’s expectations always involve some degree of imagination. We  work together to define realistic goals and avoid disappointment. </li> <li> R for Reflection: Allowing the patient time to reflect on the proposed options and make an  informed decision. </li> <li> S for Solution: Designing a solution that leads to long-term satisfaction. </li> </ul><p> This method helps me create fully customized treatment plans, taking into account not only the  patient’s aesthetic needs but also their personality, history, and emotional state. </p> "
-      },
-      "p5": {
-        "title": "Is luxury only related to the patient experience, or does it also include the  results? ",
-        "content": "<p>Luxury cannot be limited to the experience alone. The results, both aesthetic and psycho-emotional,  are just as essential. A successful procedure should not only provide a physical transformation but  also restore the patient’s confidence and self-esteem. This dual impact—combining experience and  results—represents the true essence of luxury in aesthetic surgery. </p>"
-      },
-      "p6": {
-        "title": "What are the main challenges in combining luxury with aesthetic surgery? ",
-        "content": "<p>Merging luxury and aesthetic surgery is a real challenge, which I often describe as the 'funnel  effect.' Every stage of the patient journey must be flawless, as even the slightest imperfection can  impact the overall experience. This begins with the first phone call: the reception must be warm,  professional, and reassuring. Then, every interaction—whether with administrative staff, therapists,  or myself—must reflect meticulous attention to detail. </p><p>I often compare it to the experience of a five-star luxury hotel. When you enter such a place,  everything—from the service to the quality of the amenities—is designed to exceed expectations.  Every detail, no matter how small, contributes to the impression of excellence. In aesthetic surgery,  I strive to apply this same philosophy. </p>"
-      },
-      "p7": {
-        "title": "How important are the emotional expectations of patients in this context? ",
-        "content": "<p>Emotional expectations are paramount. A surgical procedure is not just about physical  improvement; it is often a means for the patient to regain self-confidence. My role is to listen and  understand these expectations to provide an appropriate response. This approach transforms the  experience into an emotional and psychological journey. </p>"
-      },
-      "p8": {
-        "title": "What kind of feedback do you receive from patients regarding this luxurious  and personalized approach?",
-        "content": "<p>The feedback is very positive. My patients highlight the quality of listening, the personalization of  their journey, and the attention to their needs. They also emphasize the impact this approach has had  on their overall well-being, beyond physical results. What stands out the most is long-term  satisfaction and the willingness to recommend this experience to others. </p>"
-      },
-      "p9": {
-        "title": "Conclusion: A Holistic Vision of Luxury in Aesthetic Surgery ",
-        "content": "<p>Combining luxury and aesthetic surgery means going beyond traditional expectations to provide  comprehensive care, where every detail matters. By paying particular attention to human and  emotional aspects and using tools like the D.E.S.I.R.S. method, this practice becomes a truly  transformative experience. Luxury, in this context, is measured not only by the quality of results but  also by the journey the patient undergoes.</p>"
-      }
-    },
     "Meningaud": {
       "h1": "Interview with the Professor Jean-Paul Meningaud",
       "abstract": "Everything rests on the ability to offer a scientific program of such quality that it concretely transforms the professional practice of the congress participants.",
@@ -2291,7 +2658,7 @@
       "img_alt": "Jean-Yves Coste portrait",
       "p1": {
         "title": "Jean-Yves Coste",
-        "content": "<p>Jean-Yves Coste is Co-founder, Partner and Chairman of WINDOME BANKING PARTNERS.<br></br><br></br> He has over 30 years’ experience in healthcare investment banking and in executive positions in corporate environments.<br></br><br></br> Prior to co-founding WINDOME BANKING PARTNERS, he was Senior Healthcare Director at Michel Dyens & Co, a Franco-American investment bank specialising in cross-border M&A, capital raising and partnerships, covering sectors such as specialty generics, biotechnology, prophylactic and therapeutic vaccines, medtech, digital health and regenerative medicine. From 2008 to 2010, he was Senior M&A Adviser at Bryan, Garnier, an investment bank specialising in the healthcare, media, luxury goods and technology sectors. Prior to that, he headed up Cowen’s European healthcare investment banking business in London, strengthening the company’s healthcare franchise in Europe. In 2003, he joined the Big Pharma Boehringer Ingelheim to head up the M&A department, gaining first-hand expertise with the world’s top 20 pharmaceutical companies.<br></br><br></br> His investment banking career began at Deutsche Bank in Frankfurt in 1996, where he specialised in the pharmaceutical and biotech sectors. Between 2000 and 2003, he joined Deutsche Bank Securities in New York, a pioneer in the execution of cross-border M&A transactions in the fields of life sciences, molecular diagnostics, genomics and genetic medicine. He has accumulated recognised expertise in transactions focused on the prevention, therapy and management of age-related chronic degenerative diseases, as well as in aesthetic and regenerative medicine.<br></br><br></br> He worked notably on such major transactions such as BloomageRevitacare, Bridgepoint-Vivacy, MatexLab-Abris Capital, Suisselle-Sihuan Pharma Partnership, Delife-Menarini,  Croma US-JV with Hugel Corp, and MatexLab’s entry into licensing partnership with a Chinese Aesthetics player, as well as co-advising private equity funds in the development of their aesthetic and dermatological care franchises.<br></br><br></br> Since 2012, he is a Speaker at IMCAS’ World Industry Tribune, where he presents M&amp;A and valuation trends in aesthetic medicine, the American Aesthetic Innovation Summit (AIS), the Global Virtual Aesthetic Summit (GVAS), the Assises de l’Innovation en Medecine Esthétique (AIME) as well as the Thinkin Injectable Summit aunched by Dr. Benjamin Ascher in October 2024.<br></br><br></br> A graduate of HEC Paris with a specialisation in Finance, Jean-Yves Coste also holds an MBA from INSEAD, specialising in investment banking.</p>"
+        "content": "<p>Jean-Yves Coste is Co-founder, Partner and Chairman of WINDOME BANKING PARTNERS.<br></br><br></br> He has over 30 years’ experience in healthcare investment banking and in executive positions in corporate environments.<br></br><br></br> Prior to co-founding WINDOME BANKING PARTNERS, he was Senior Healthcare Director at Michel Dyens & Co, a Franco-American investment bank specialising in cross-border M&A, capital raising and partnerships, covering sectors such as specialty generics, biotechnology, prophylactic and therapeutic vaccines, medtech, digital health and regenerative medicine. From 2008 to 2010, he was Senior M&A Adviser at Bryan, Garnier, an investment bank specialising in the healthcare, media, luxury goods and technology sectors. Prior to that, he headed up Cowen’s European healthcare investment banking business in London, strengthening the company’s healthcare franchise in Europe. In 2003, he joined the Big Pharma Boehringer Ingelheim to head up the M&A department, gaining first-hand expertise with the world’s top 20 pharmaceutical companies.<br></br><br></br> His investment banking career began at Deutsche Bank in Frankfurt in 1996, where he specialised in the pharmaceutical and biotech sectors. Between 2000 and 2003, he joined Deutsche Bank Securities in New York, a pioneer in the execution of cross-border M&A transactions in the fields of life sciences, molecular diagnostics, genomics and genetic medicine. He has accumulated recognised expertise in transactions focused on the prevention, therapy and management of age-related chronic degenerative diseases, as well as in aesthetic and regenerative medicine.<br></br><br></br> He worked notably on such major transactions such as BloomageRevitacare, Bridgepoint-Vivacy, MatexLab-Abris Capital, Suisselle-Sihuan Pharma Partnership, Delife-Menarini,  Croma US-JV with Hugel Corp, and MatexLab’s entry into licensing partnership with a Chinese Aesthetics player, as well as co-advising private equity funds in the development of their aesthetic and dermatological care franchises.<br></br><br></br> Since 2012, he is a Speaker at IMCAS’ World Industry Tribune, where he presents M&A and valuation trends in aesthetic medicine, the American Aesthetic Innovation Summit (AIS), the Global Virtual Aesthetic Summit (GVAS), the Assises de l’Innovation en Medecine Esthétique (AIME) as well as the Thinkin Injectable Summit aunched by Dr. Benjamin Ascher in October 2024.<br></br><br></br> A graduate of HEC Paris with a specialisation in Finance, Jean-Yves Coste also holds an MBA from INSEAD, specialising in investment banking.</p>"
       },
       "p2": {
         "title": "Exosomes",

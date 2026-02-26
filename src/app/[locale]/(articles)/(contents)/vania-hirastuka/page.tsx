@@ -164,13 +164,11 @@ export default function Article() {
                 p: (chunk) => (
                   <p className="font-sfPro font-light text-base">{chunk}</p>
                 ),
-                b: (chunk) => (
-                  <strong className="font-sfPro font-bold text-base">
-                    {chunk}
-                  </strong>
-                ),
                 h4: (chunk) => (
                   <h4 className="font-sfPro font-bold text-base">{chunk}</h4>
+                ),
+                h5: (chunk) => (
+                  <h5 className="font-sfPro underline text-base">{chunk}</h5>
                 ),
                 ul: (chunk) => (
                   <ul className="font-sfPro font-light text-base list-disc ml-6">
@@ -178,24 +176,12 @@ export default function Article() {
                   </ul>
                 ),
                 ol: (chunk) => (
-                  <ol className="font-sfPro font-light text-base list-decimal ml-6">
+                  <ul className="font-sfPro font-light text-base list-decimal ml-6">
                     {chunk}
-                  </ol>
+                  </ul>
                 ),
-                li: (chunk) => <li>{chunk}</li>,
-                imgContainer: (chunk) => (
-                  <div className="grid grid-cols-2 gap-x-4">{chunk}</div>
-                ),
-                imgContainer2: (chunk) => (
-                  <div className="grid grid-cols-3 gap-x-4">{chunk}</div>
-                ),
-                divImg: (chunk) => <div>{chunk}</div>,
-                divTxt: (chunk) => (
-                  <div className="flex flex-col justify-center">{chunk}</div>
-                ),
-                legend: (chunk) => <p className="text-center">{chunk}</p>,
-                pImg: (chunk) => (
-                  <p className="font-sfPro font-light text-sm">{chunk}</p>
+                li: (chunk) => (
+                  <li className="font-sfPro font-light text-base">{chunk}</li>
                 ),
                 img: (chunk) => (
                   <Image
@@ -210,9 +196,24 @@ export default function Article() {
                   <Image
                     src={chunk!.toString()}
                     alt=""
-                    width={1080}
+                    width={600}
                     height={450}
+                    className="aspect-video h-auto object-contain"
                   />
+                ),
+                imgContainer: (chunk) => (
+                  <div className="grid grid-cols-2 gap-x-4">{chunk}</div>
+                ),
+                imgContainer2: (chunk) => (
+                  <div className="grid grid-cols-3 gap-x-4">{chunk}</div>
+                ),
+                divImg: (chunk) => <div>{chunk}</div>,
+                divTxt: (chunk) => (
+                  <div className="flex flex-col justify-center">{chunk}</div>
+                ),
+                legend: (chunk) => <p className="text-center">{chunk}</p>,
+                pImg: (chunk) => (
+                  <p className="font-sfPro font-light text-sm">{chunk}</p>
                 ),
               })}
             </div>

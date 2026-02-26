@@ -267,17 +267,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
       },
     },
     {
-      url: "https://magazine-heritage.com/fr/interview-professeur-meningaud-jean-paul-congres-aime-international",
-      lastModified: new Date(),
-      priority: 0.8,
-      alternates: {
-        languages: {
-          fr: "https://magazine-heritage.com/fr/interview-professeur-meningaud-jean-paul-congres-aime-international",
-          en: "https://magazine-heritage.com/en/interview-professor-meningaud-jean-paul-international-aime-congress",
-        },
-      },
-    },
-    {
       url: "https://magazine-heritage.com/fr/expertise-docteur-delmar-henry-luxe-chirurgie-esthetique-approche-sur-mesure",
       lastModified: new Date(),
       priority: 0.8,
@@ -596,6 +585,75 @@ export default function sitemap(): MetadataRoute.Sitemap {
         languages: {
           fr: "https://magazine-heritage.com/fr/focus-nivault-hugo-agence-healthcie-site-web-medical-strategie-digitale-prague-lab",
           en: "https://magazine-heritage.com/en/focus-nivault-hugo-healthcie-agency-medical-website-digital-strategy-prague-lab",
+        },
+      },
+    },
+
+    // ========================= IMCAS 2026 =========================
+
+    {
+      url: "https://magazine-heritage.com/fr/innovation-insider-benoit-chardon-julien-vervel-medecine-esthetique-regenerative-2026",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/innovation-insider-benoit-chardon-julien-vervel-medecine-esthetique-regenerative-2026",
+          en: "https://magazine-heritage.com/en/innovation-insider-benoit-chardon-julien-vervel-regenerative-aesthetic-medicine-2026",
+        },
+      },
+    },
+    {
+      url: "https://magazine-heritage.com/fr/focus-my-healthcie-pilotage-seo-visibilite-digitale-medecine-esthetique",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/focus-my-healthcie-pilotage-seo-visibilite-digitale-medecine-esthetique",
+          en: "https://magazine-heritage.com/en/focus-my-healthcie-seo-digital-visibility-management-aesthetic-medicine",
+        },
+      },
+    },
+    {
+      url: "https://magazine-heritage.com/fr/interview-efremkin-pavel-aerolase-storytelling-innovation-laser-dermatologie-aerospatiale",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/interview-efremkin-pavel-aerolase-storytelling-innovation-laser-dermatologie-aerospatiale",
+          en: "https://magazine-heritage.com/en/interview-efremkin-pavel-aerolase-storytelling-aerospace-inspired-laser-innovation",
+        },
+      },
+    },
+    {
+      url: "https://magazine-heritage.com/fr/expertise-dr-el-muntasar-ahmed-rajeunissement-regard-fillers-polynucleotides",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/expertise-dr-el-muntasar-ahmed-rajeunissement-regard-fillers-polynucleotides",
+          en: "https://magazine-heritage.com/en/expertise-dr-el-muntasar-ahmed-under-eye-rejuvenation-fillers-polynucleotides",
+        },
+      },
+    },
+    {
+      url: "https://magazine-heritage.com/fr/interview-pr-jean-paul-meningaud-chirurgie-plastique-congres-aime-2026",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/interview-pr-jean-paul-meningaud-chirurgie-plastique-congres-aime-2026",
+          en: "https://magazine-heritage.com/en/interview-prof-jean-paul-meningaud-plastic-surgery-aime-congress-2026",
+        },
+      },
+    },
+    {
+      url: "https://magazine-heritage.com/fr/interview-dr-avelar-luiz-anthropologie-medico-legale-dimorphisme-cranien-esthetique",
+      lastModified: new Date(),
+      priority: 0.8,
+      alternates: {
+        languages: {
+          fr: "https://magazine-heritage.com/fr/interview-dr-avelar-luiz-anthropologie-medico-legale-dimorphisme-cranien-esthetique",
+          en: "https://magazine-heritage.com/en/interview-dr-avelar-luiz-forensic-anthropology-skull-dimorphism-aesthetics",
         },
       },
     },

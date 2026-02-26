@@ -215,6 +215,47 @@ export const routing = defineRouting({
       fr: "/focus-nivault-hugo-agence-healthcie-site-web-medical-strategie-digitale-prague-lab",
       en: "/focus-nivault-hugo-healthcie-agency-medical-website-digital-strategy-prague-lab",
     },
+    // IMCAS 2026
+    "/imcas2026/chardon": {
+      fr: "/innovation-insider-benoit-chardon-julien-vervel-medecine-esthetique-regenerative-2026",
+      en: "/innovation-insider-benoit-chardon-julien-vervel-regenerative-aesthetic-medicine-2026",
+    },
+    "/imcas2026/my-healthcie": {
+      fr: "/focus-my-healthcie-pilotage-seo-visibilite-digitale-medecine-esthetique",
+      en: "/focus-my-healthcie-seo-digital-visibility-management-aesthetic-medicine",
+    },
+    "/imcas2026/haedersdal": {
+      fr: "/interview-pr-haedersdal-merete-dermatologie-laser-cancer-cutane-imcas",
+      en: "/interview-prof-haedersdal-merete-laser-dermatology-skin-cancer-imcas",
+    },
+    "/imcas2026/aerolase": {
+      fr: "/interview-efremkin-pavel-aerolase-storytelling-innovation-laser-dermatologie-aerospatiale",
+      en: "/interview-efremkin-pavel-aerolase-storytelling-aerospace-inspired-laser-innovation",
+    },
+    "/imcas2026/ahmed": {
+      fr: "/expertise-dr-el-muntasar-ahmed-rajeunissement-regard-fillers-polynucleotides",
+      en: "/expertise-dr-el-muntasar-ahmed-under-eye-rejuvenation-fillers-polynucleotides",
+    },
+    "/imcas2026/delmar": {
+      fr: "/interview-dr-delmar-henry-luxe-chirurgie-esthetique-methode-desirs",
+      en: "/interview-dr-delmar-henry-luxury-plastic-surgery-desirs-method",
+    },
+    "/imcas2026/converset": {
+      fr: "/expertise-dr-converset-sophie-anatomie-faciale-securite-injections-medecine-esthetique",
+      en: "/expertise-dr-converset-sophie-facial-anatomy-injection-safety-aesthetic-medicine",
+    },
+    "/imcas2026/vania": {
+      fr: "/expertise-dr-hiratsuka-dalmedo-vania-toxine-botulique-bruxisme-hypertrophie-masseter",
+      en: "/expertise-dr-hiratsuka-dalmedo-vania-botulinum-toxin-bruxism-masseter-hypertrophy",
+    },
+    "/imcas2026/meningaud": {
+      fr: "/interview-pr-jean-paul-meningaud-chirurgie-plastique-congres-aime-2026",
+      en: "/interview-prof-jean-paul-meningaud-plastic-surgery-aime-congress-2026",
+    },
+    "/imcas2026/avelar": {
+      fr: "/interview-dr-avelar-luiz-anthropologie-medico-legale-dimorphisme-cranien-esthetique",
+      en: "/interview-dr-avelar-luiz-forensic-anthropology-skull-dimorphism-aesthetics",
+    },
   },
 });
 
