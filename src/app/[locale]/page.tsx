@@ -68,8 +68,67 @@ export async function generateMetadata({ params }: Params) {
 
 export default function Home() {
   const t = useTranslations("HomePage");
+
+  // JSON MICRO-DATA
+
+  const micro_data = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "NewsMediaOrganization",
+        "@id": "https://magazine-heritage.com/#organization",
+        name: "HERITAGE Magazine",
+        url: "https://magazine-heritage.com/",
+        logo: {
+          "@type": "ImageObject",
+          url: "https://magazine-heritage.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fheritage-magazine-anti-age-innovation.f7e3326f.png&w=640&q=75",
+          width: "600",
+          height: "60",
+        },
+        description:
+          "International ecosystem and media dedicated to the future of aesthetic medicine and surgery. Merging scientific excellence with business innovation.",
+        alternateName: "HERITAGE Magazine Aesthetic Medicine & Surgery",
+        foundingDate: "2024",
+        masthead:
+          "https://magazine-heritage.com/en/media-plastic-surgery-antiaging-medicine",
+        knowsAbout: [
+          "Aesthetic Surgery",
+          "Medical Innovation",
+          "Regenerative Medicine",
+          "Health Business Strategy",
+        ],
+        sameAs: [
+          "https://www.linkedin.com/company/magazine-heritage/",
+          "https://www.instagram.com/magazine_heritage/",
+        ],
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://magazine-heritage.com/#website",
+        url: "https://magazine-heritage.com/en",
+        name: "HERITAGE Magazine",
+        inLanguage: "en-US",
+      },
+      {
+        "@type": "Periodical",
+        name: "HERITAGE Magazine",
+        issn: "3076-3673",
+        genre: "Scientific and Business Journal",
+        audience: {
+          "@type": "Audience",
+          audienceType:
+            "Plastic Surgeons, Aesthetic Doctors, MedTech Executives",
+        },
+      },
+    ],
+  };
+  //
   return (
     <main>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(micro_data) }}
+      />
       <section className="relative h-[450px] lg:h-screen max-h-[1080px]">
         <div className="bg-[url(/Influence-magazine-plastic-surgery-aesthetic-medicine.png)] bg-cover bg-fixed bg-center max-lg:hidden absolute size-full"></div>
         <div className="bg-[url(/Influence-media-plastic-surgery-aesthetic-medicine.png)] bg-cover bg-[50%_75%] lg:hidden absolute size-full"></div>

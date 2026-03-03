@@ -83,8 +83,66 @@ export default function Articles() {
   const jsonData = fs.readFileSync(filePath, "utf-8");
   const data: Item[] = JSON.parse(jsonData);
 
+  // JSON MICRO-DATA
+
+  const micro_data = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "CollectionPage",
+        "@id":
+          "https://magazine-heritage.com/en/publications-aesthetic-medicine-innovations/#webpage",
+        url: "https://magazine-heritage.com/en/publications-aesthetic-medicine-innovations",
+        name: "Scientific Publications & Medical Innovations - HERITAGE Magazine",
+        description:
+          "Exhaustive collection of international publications on surgical innovations, aesthetic medicine trends, and MedTech business strategy.",
+        publisher: {
+          "@type": "NewsMediaOrganization",
+          name: "HERITAGE Magazine",
+          logo: "https://magazine-heritage.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fheritage-magazine-anti-age-innovation.f7e3326f.png&w=640&q=75",
+        },
+      },
+      {
+        "@type": "DataFeed",
+        name: "HERITAGE Magazine Issues",
+        description:
+          "Feed of the latest magazine editions and scientific white papers.",
+        mainEntityOfPage: {
+          "@id":
+            "https://magazine-heritage.com/en/publications-aesthetic-medicine-innovations/#webpage",
+        },
+        dataFeedElement: [
+          {
+            "@type": "CreativeWorkSeries",
+            name: "HERITAGE Magazine Annual Edition",
+            issn: "3076-3673",
+            audience: {
+              "@type": "Audience",
+              audienceType: "Healthcare Professionals, Industry Leaders",
+            },
+            keywords:
+              "Aesthetic Medicine, Plastic Surgery, Innovation, MedTech Business",
+            genre: "Medical Journal",
+            inLanguage: "en-US",
+          },
+          {
+            "@type": "CreativeWorkSeries",
+            name: "The Business of Aesthetics - Special Reports",
+            genre: "Economic Analysis",
+            description: "Strategic insights into the global aesthetic market.",
+          },
+        ],
+      },
+    ],
+  };
+  //
+
   return (
     <div>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(micro_data) }}
+      />
       <section>
         <div className="px-5 py-4 max-lg:h-[500px] lg:h-screen max-h-[1200px] grid items-end relative lg:px-7 lg:py-4">
           <span className="text-white uppercase text-3xl lg:text-8xl">
