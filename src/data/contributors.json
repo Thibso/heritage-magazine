@@ -342,7 +342,7 @@
   },
   {
     "honor": "honors.dr",
-    "title": "VON-LOGHEM Jani",
+    "title": "VAN-LOGHEM Jani",
     "image": "/contributors/jani-von-loghem-heritage-magazine.png",
     "country_icon": "<NL title='Nederland' className='size-4' />",
     "country_value": "nl",
@@ -368,6 +368,26 @@
     "country_value": "cz",
     "speciality": "filters.specialities.surgery.plastic",
     "speciality_value": "medicine",
+    "link": ""
+  },
+  {
+    "honor": "honors.mr",
+    "title": "CHARDON Benoît",
+    "image": "/contributors/benoit-chardon-heritage-magazine.png",
+    "country_icon": "<FR title='France' className='size-4' />",
+    "country_value": "fr",
+    "speciality": "filters.specialities.consulting",
+    "speciality_value": "consulting",
+    "link": ""
+  },
+  {
+    "honor": "honors.dr",
+    "title": "TOLEDO AVELAR Luiz Eduardo",
+    "image": "/contributors/dr-toledo-avelar-heritage-magazine.png",
+    "country_icon": "<FR title='France' className='size-4' />",
+    "country_value": "br",
+    "speciality": "filters.specialities.surgery.plastic",
+    "speciality_value": "plastic_surgery",
     "link": ""
   }
 ]

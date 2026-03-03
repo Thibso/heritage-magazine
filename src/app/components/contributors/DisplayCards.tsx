@@ -2,6 +2,7 @@
 
 import {
   AT,
+  BR,
   CZ,
   DK,
   ES,
@@ -164,6 +165,10 @@ export default function DisplayCards({ data }: Props) {
                   {/* NL */}
                   {card.country_value === "nl" ? (
                     <NL title="Nederland" className="size-4" />
+                  ) : null}
+                  {/* NL */}
+                  {card.country_value === "br" ? (
+                    <BR title="Brazil" className="size-4" />
                   ) : null}
                   <h4 className="">
                     {t(card.honor)} {card.title}
