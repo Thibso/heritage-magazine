@@ -47,9 +47,9 @@ function Card(props: CardProps) {
       {/* CONTENT */}
       <div className="p-4 lg:px-8 lg:py-6 flex flex-col gap-y-6 lg:gap-y-8">
         {/* TITLE */}
-        <h2 className="font-sfPro font-medium text-base uppercase">
+        <h4 className="font-sfPro font-medium text-base uppercase">
           {t(props.h2)}
-        </h2>
+        </h4>
 
         {/* AUTHOR */}
         <div className="flex items-center gap-x-2 my-auto mb-0">

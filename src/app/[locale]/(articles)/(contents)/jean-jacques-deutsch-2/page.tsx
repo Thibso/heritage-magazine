@@ -9,14 +9,14 @@ type Params = {
 };
 
 const titleEN =
-  "Dr Deutsch | The role of scientific advisor of the SFME congress";
+  "Introduction to the History of French Aesthetic Medicine | Dr Deutsch";
 const descriptionEN =
-  "Discover the interview with Dr Jean-Jacques Deutsch on his role within the Scientific Committee of the French Society of Aesthetic Medicine Congress.";
+  "Discover Dr Jean-Jacques Deutsch's permanent column on the history of aesthetic medicine in France since 1970.";
 
 const titleFR =
-  "Dr Deutsch | Le rôle de conseiller scientifique du congrès SFME";
+  "Introduction à l'Histoire de la médecine esthétique Française | Dr Deutsch";
 const descriptionFR =
-  "Découvrez l'interview du Dr Jean-Jacques Deutsch sur son rôle au sein du Comité Scientifique du Congrès de la Société Française de Médecine Esthétique.";
+  "Découvrez la rubrique permanente du Dr Jean-Jacques Deutsch sur l'Histoire de la médecine esthétique en France depuis 1970.";
 
 export async function generateMetadata({ params }: Params) {
   const locale = params.locale;
