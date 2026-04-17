@@ -1,7 +1,7 @@
 "use client";
 
 import { motion, useInView } from "motion/react";
-import { useRef, useState } from "react";
+import { useRef } from "react";
 import ReactPlayer from "react-player";
 
 type Props = {
@@ -9,7 +9,6 @@ type Props = {
 };
 
 export default function YoutubeVideo(props: Props) {
-  const [playing, setPlaying] = useState(false);
   const playerRef = useRef(null);
   const containerRef = useRef<HTMLDivElement>(null);
 
