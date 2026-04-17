@@ -1,7 +1,7 @@
 import { useTranslations } from "next-intl";
 import Image from "next/image";
 import Button from "../components/buttons/Button";
-import SliderVideos from "../components/videos/SliderVideos";
+import YoutubeVideo from "../components/videos/YoutubeVideo";
 import last_mag from "../img/MEDIA-SPECIALISE-MEDECINE-ESTHETIQUE-CHIRURGIE.jpg";
 import mag from "../img/magazine-innovation-sante.jpg";
 
@@ -201,13 +201,13 @@ export default function Home() {
       </section>
 
       <section className="bg-white overflow-hidden">
-        <div className="myContainer">
+        <div className="myContainer grid space-y-8 lg:space-y-16">
           <div className="text-center">
             <h2 className="h2">{t("interviews.h2")}</h2>
             <h3 className="h3 mt-2 lg:mt-4">{t("interviews.h3")}</h3>
           </div>
 
-          <SliderVideos />
+          <YoutubeVideo url="https://www.youtube.com/embed/D4UpiuIn23g" />
         </div>
       </section>
     </main>
