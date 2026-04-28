@@ -15,10 +15,7 @@ export default function YoutubeVideo(props: Props) {
   const isInView = useInView(containerRef, { amount: 0.5 });
 
   return (
-    <motion.div
-      ref={containerRef}
-      className="w-full lg:w-[70%] aspect-video mx-auto rounded-xl"
-    >
+    <motion.div ref={containerRef} className="w-full lg:w-[70%] lg:mx-auto">
       <ReactPlayer
         ref={playerRef}
         src={props.url}
@@ -26,7 +23,9 @@ export default function YoutubeVideo(props: Props) {
         controls={true}
         style={{
           width: "100%",
-          height: "100%",
+          height: "auto",
+          maxWidth: "100%",
+          aspectRatio: 16 / 9,
         }}
       />
     </motion.div>
