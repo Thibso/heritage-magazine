@@ -115,8 +115,8 @@ export default function LastPublicationsSlider(props: Props) {
   }
 
   return (
-    <div className="relative lg:px-8">
-      <div className="touch-pan-x overflow-auto lg:overflow-hidden lg:p-2">
+    <div className="relative px-4 lg:px-8">
+      <div className="touch-pan-x overflow-auto lg:overflow-hidden p-2">
         <motion.div
           className="grid grid-cols-5 w-[400%] md:w-[225%] gap-8 lg:grid-cols-9 lg:w-[300%] lg:gap-16"
           style={{
