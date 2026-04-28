@@ -200,7 +200,7 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="bg-white max-w-full! overflow-hidden" id="youtube">
+      <section className="bg-white" id="youtube">
         <div className="myContainer grid space-y-8 lg:space-y-16">
           <div className="text-center">
             <h2 className="h2">{t("interviews.h2")}</h2>

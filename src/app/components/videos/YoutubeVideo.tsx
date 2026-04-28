@@ -17,7 +17,7 @@ export default function YoutubeVideo(props: Props) {
   return (
     <motion.div
       ref={containerRef}
-      className="w-[90%] lg:w-[70%] aspect-video mx-auto rounded-xl"
+      className="w-full lg:w-[70%] aspect-video mx-auto rounded-xl"
     >
       <ReactPlayer
         ref={playerRef}
