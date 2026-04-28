@@ -65,7 +65,7 @@ export default function LastPublications() {
   ];
 
   return (
-    <section className="overflow-hidden  m-auto bg-bgLight">
+    <section className="overflow-hidden m-auto bg-bgLight">
       <div className="myContainer space-y-8 lg:space-y-16">
         <div className="text-center">
           <h2 className="h2 text-mainBlue">{t("slider.h2")}</h2>

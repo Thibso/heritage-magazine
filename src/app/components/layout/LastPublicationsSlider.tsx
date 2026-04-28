@@ -47,7 +47,7 @@ function Card(props: CardProps) {
       {/* CONTENT */}
       <div className="p-4 lg:px-8 lg:py-6 flex flex-col gap-y-6 lg:gap-y-8">
         {/* TITLE */}
-        <h4 className="font-sfPro font-medium text-base uppercase">
+        <h4 className="font-sfPro font-medium text-sm lg:text-base uppercase">
           {t(props.h2)}
         </h4>
 
@@ -115,8 +115,8 @@ export default function LastPublicationsSlider(props: Props) {
   }
 
   return (
-    <div className="relative px-8">
-      <div className="touch-pan-x overflow-auto lg:overflow-hidden p-2">
+    <div className="relative lg:px-8">
+      <div className="touch-pan-x overflow-auto lg:overflow-hidden lg:p-2">
         <motion.div
           className="grid grid-cols-5 w-[400%] md:w-[225%] gap-8 lg:grid-cols-9 lg:w-[300%] lg:gap-16"
           style={{
