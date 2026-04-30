@@ -1,4 +1,4 @@
-import aerolase from "@/app/img/aerolase-partenaire-heritage-magazine.png";
+import aerolase from "@/app/img/Aerolase-aesthetic-device-plastic-surgeons.png";
 import aime from "@/app/img/congres-aime-partenaire-heritage-magazine.png";
 import sfme from "@/app/img/congres-sfme-partenaire-heritage-magazine.png";
 import header from "@/app/img/Formation-marketing-equipe-laboratoire-pharmaceutique.jpg";
