@@ -207,7 +207,7 @@ export default function Home() {
             <h3 className="h3 mt-2 lg:mt-4">{t("interviews.h3")}</h3>
           </div>
 
-          <YoutubeVideo url="https://www.youtube.com/embed/D4UpiuIn23g" />
+          <YoutubeVideo url="https://youtu.be/PUg8SkWJ-vU" />
         </div>
       </section>
     </main>
