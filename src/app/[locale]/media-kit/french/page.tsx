@@ -35,6 +35,11 @@ import exemple_1 from "@/app/img/media-kit/heritage-magazine-exemple article-hyd
 import exemple_2 from "@/app/img/media-kit/heritage-magazine-exemple-article-hydrafacial-print.jpg";
 import exemple_3 from "@/app/img/media-kit/heritage-magazine-exemple-article-hydrafacial-seo.jpg";
 
+// @next-codemod-ignore Cache Components adoption: this segment temporarily allows blocking.
+// Remove this opt-out after verifying the segment passes validation without it.
+// See: https://nextjs.org/docs/app/guides/migrating-to-cache-components
+export const instant = false;
+
 type Params = {
   params: { locale: string };
 };

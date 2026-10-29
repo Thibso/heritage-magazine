@@ -15,6 +15,11 @@ import { Metadata } from "next";
 import { cookies } from "next/headers";
 import LastPublications from "../components/layout/LastPublications";
 
+// @next-codemod-ignore Cache Components adoption: this segment temporarily allows blocking.
+// Remove this opt-out after verifying the segment passes validation without it.
+// See: https://nextjs.org/docs/app/guides/migrating-to-cache-components
+export const instant = false;
+
 const sfPro = localFont({
   src: "./SF-Pro.ttf",
   variable: "--font-sfPro",
