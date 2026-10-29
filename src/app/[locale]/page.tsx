@@ -5,10 +5,6 @@ import YoutubeVideo from "../components/videos/YoutubeVideo";
 import last_mag from "../img/MEDIA-SPECIALISE-MEDECINE-ESTHETIQUE-CHIRURGIE.jpg";
 import mag from "../img/magazine-innovation-sante.jpg";
 
-// @next-codemod-ignore Cache Components adoption: this segment temporarily allows blocking.
-// Remove this opt-out after verifying the segment passes validation without it.
-// See: https://nextjs.org/docs/app/guides/migrating-to-cache-components
-export const instant = false;
 
 type Params = {
   params: Promise<{ locale: string }>;
