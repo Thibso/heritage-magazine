@@ -10,7 +10,7 @@ import Image from "next/image";
 export const instant = false;
 
 type Params = {
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 };
 
 const titleEN =
@@ -23,7 +23,8 @@ const titleFR =
 const descriptionFR =
   "Découvrez en exclusivité l’interview du Dr Adda sur le laser NEO Elite, le nouveau dispositif d’Aerolase. (H)ERITAGE Magazine";
 
-export async function generateMetadata({ params }: Params) {
+export async function generateMetadata(props: Params) {
+  const params = await props.params;
   const locale = params.locale;
   if (locale === "en") {
     return {

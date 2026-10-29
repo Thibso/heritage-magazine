@@ -10,7 +10,7 @@ import Image from "next/image";
 export const instant = false;
 
 type Params = {
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 };
 
 const titleEN =
@@ -23,7 +23,8 @@ const titleFR =
 const descriptionFR =
   "Cécité après injections de produits de comblement. Découvrez l'article du Docteur Lee Walker sur la cécité et les complications les plus graves de la médecine esthétique.";
 
-export async function generateMetadata({ params }: Params) {
+export async function generateMetadata(props: Params) {
+  const params = await props.params;
   const locale = params.locale;
   if (locale === "en") {
     return {

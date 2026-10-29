@@ -10,7 +10,7 @@ import Image from "next/image";
 export const instant = false;
 
 type Params = {
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 };
 
 const titleEN = "Pr. Hersant | Interview on digital communication | HERITAGE";
@@ -22,7 +22,8 @@ const titleFR =
 const descriptionFR =
   "Découvrez en exclusivité l’interview du Pr Hersant sur la communication digitale des médecins et chirurgiens. (H)ERITAGE Magazine";
 
-export async function generateMetadata({ params }: Params) {
+export async function generateMetadata(props: Params) {
+  const params = await props.params;
   const locale = params.locale;
   if (locale === "en") {
     return {

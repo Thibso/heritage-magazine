@@ -12,7 +12,7 @@ import Image from "next/image";
 export const instant = false;
 
 type Params = {
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 };
 
 const titleEN =
@@ -25,7 +25,8 @@ const titleFR =
 const descriptionFR =
   "Découvrez le dossier de Jean-Yves Coste sur le marché de la médecine esthétique et des exosomes en 2025. (H)ERITAGE Magazine";
 
-export async function generateMetadata({ params }: Params) {
+export async function generateMetadata(props: Params) {
+  const params = await props.params;
   const locale = params.locale;
   if (locale === "en") {
     return {

@@ -10,7 +10,7 @@ import Image from "next/image";
 export const instant = false;
 
 type Params = {
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 };
 
 const titleEN = "Dr. Haykal | Interview on Hydradermabrasion | Hydrafacial®";
@@ -21,7 +21,8 @@ const titleFR = "Dr Haykal | Interview sur l’Hydradermabrasion | Hydrafacial®
 const descriptionFR =
   "Découvrez l’interview du Dr Haykal sur l’hydradermabrasion. L’alliance skincare et innovation par Hydrafacial®.";
 
-export async function generateMetadata({ params }: Params) {
+export async function generateMetadata(props: Params) {
+  const params = await props.params;
   const locale = params.locale;
   if (locale === "en") {
     return {

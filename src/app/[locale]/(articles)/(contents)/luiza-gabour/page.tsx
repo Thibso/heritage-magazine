@@ -10,7 +10,7 @@ import Image from "next/image";
 export const instant = false;
 
 type Params = {
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 };
 
 const titleEN =
@@ -23,7 +23,8 @@ const titleFR =
 const descriptionFR =
   "Découvrez l'étude comparée de Maitre Luiza Gabour sur la réglementation de la toxine botulique en France et dans les pays Européens. HERITAGE Magazine";
 
-export async function generateMetadata({ params }: Params) {
+export async function generateMetadata(props: Params) {
+  const params = await props.params;
   const locale = params.locale;
   if (locale === "en") {
     return {

@@ -10,7 +10,7 @@ import Image from "next/image";
 export const instant = false;
 
 type Params = {
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 };
 
 const titleEN = "Pr. La Padula | Periorbital Rejuvenation Technique";
@@ -21,7 +21,8 @@ const titleFR = "Pr La Padula | La Technique du Rajeunissement Péri-orbitaire";
 const descriptionFR =
   "Découvrez la technique du Pr La Padula sur le rajeunissement péri-orbitaire en chirurgie esthétique. (H)ERITAGE Magazine";
 
-export async function generateMetadata({ params }: Params) {
+export async function generateMetadata(props: Params) {
+  const params = await props.params;
   const locale = params.locale;
   if (locale === "en") {
     return {

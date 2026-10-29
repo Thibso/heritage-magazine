@@ -10,7 +10,7 @@ import Image from "next/image";
 export const instant = false;
 
 type Params = {
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 };
 
 const titleEN = "Dr. Kavkovà Monika | Lip Rejuvenation for Mature Women";
@@ -22,7 +22,8 @@ const titleFR =
 const descriptionFR =
   "Découvrez l'article du Dr Monika Kavkovà, Directrice scientifique du Congrès Prague Lab sur le rajeunissement des lèvres et de la région Peri-orale chez les femmes matures.";
 
-export async function generateMetadata({ params }: Params) {
+export async function generateMetadata(props: Params) {
+  const params = await props.params;
   const locale = params.locale;
   if (locale === "en") {
     return {

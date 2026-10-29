@@ -10,7 +10,7 @@ import Image from "next/image";
 export const instant = false;
 
 type Params = {
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 };
 
 const titleEN =
@@ -23,7 +23,8 @@ const titleFR =
 const descriptionFR =
   "Découvrez l'article complet du Docteur Michael Margulies sur la médecine intégrative & esthétique pour un accompagnement 360° du patient. HERITAGE Magazine";
 
-export async function generateMetadata({ params }: Params) {
+export async function generateMetadata(props: Params) {
+  const params = await props.params;
   const locale = params.locale;
   if (locale === "en") {
     return {

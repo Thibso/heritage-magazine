@@ -9,7 +9,7 @@ import Image from "next/image";
 export const instant = false;
 
 type Params = {
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 };
 
 const titleEN = "Aesthetic Medicine & Plastic Surgery Congresses";
@@ -20,7 +20,8 @@ const titleFR = "Congrès de Médecine Esthétique & de Chirurgie Plastique";
 const descriptionFR =
   "Congrès de médecine esthétique et de chirurgie plastique. Découvrez le calendrier des événements internationnaux en médecine esthétique.";
 
-export async function generateMetadata({ params }: Params) {
+export async function generateMetadata(props: Params) {
+  const params = await props.params;
   const locale = params.locale;
   if (locale === "en") {
     return {

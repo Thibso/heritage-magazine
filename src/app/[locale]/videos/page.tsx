@@ -1,3 +1,4 @@
+import { use } from "react";
 import header from "@/app/img/DSC04548.jpg";
 import { useTranslations } from "next-intl";
 import Image from "next/image";
@@ -8,7 +9,7 @@ import Image from "next/image";
 export const instant = false;
 
 type Params = {
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 };
 
 const titleEN = "Interviews with opinion leaders for HERITAGE";
@@ -19,7 +20,8 @@ const titleFR = "Interviews des leaders d'opinion pour HERITAGE";
 const descriptionFR =
   "Interviews des leaders d'opinion pour HERITAGE. Découvrez les dernières innovations en chirurgie esthétique & médecine anti-âge. (H)ERITAGE Magazine";
 
-export async function generateMetadata({ params }: Params) {
+export async function generateMetadata(props: Params) {
+  const params = await props.params;
   const locale = params.locale;
   if (locale === "en") {
     return {
@@ -66,7 +68,8 @@ export async function generateMetadata({ params }: Params) {
   }
 }
 
-export default function Vidéos({ params }: Params) {
+export default function Vidéos(props: Params) {
+  const params = use(props.params);
   const t = useTranslations("Videos");
   const locale = params.locale;
 

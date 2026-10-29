@@ -10,7 +10,7 @@ import Image from "next/image";
 export const instant = false;
 
 type Params = {
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 };
 
 const titleEN =
@@ -22,7 +22,8 @@ const titleFR = "Dr Luiz Avelar | Anthropologie du Crâne & Médecine Esthétiqu
 const descriptionFR =
   "Rencontre avec le Pr Jean-Paul Meningaud. Des transplantations faciales à la direction du congrès AIME, découvrez sa vision du futur de la chirurgie esthétique.";
 
-export async function generateMetadata({ params }: Params) {
+export async function generateMetadata(props: Params) {
+  const params = await props.params;
   const locale = params.locale;
   if (locale === "en") {
     return {

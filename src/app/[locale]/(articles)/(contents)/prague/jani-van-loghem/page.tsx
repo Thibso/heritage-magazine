@@ -10,7 +10,7 @@ import Image from "next/image";
 export const instant = false;
 
 type Params = {
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 };
 
 const titleEN = "Dr. Jani van Loghem | Injection Volume for Fillers";
@@ -21,7 +21,8 @@ const titleFR = "Dr Jani van Loghem | Volume d'injection pour les fillers";
 const descriptionFR =
   "Découvrez l'article exclusif du Docteur Jani van Loghem sur les volumes d'injection les plus surs dans les zones faciales à haut risque. Bonnes pratiques pour les fillers en médecine esthétique.";
 
-export async function generateMetadata({ params }: Params) {
+export async function generateMetadata(props: Params) {
+  const params = await props.params;
   const locale = params.locale;
   if (locale === "en") {
     return {

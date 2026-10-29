@@ -9,7 +9,7 @@ export const instant = false;
 // import { ReCaptchaProvider } from "next-recaptcha-v3";
 
 type Params = {
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 };
 
 const titleEN = "Contact HERITAGE Magazine | Surgery & Aesthetic Medicine";
@@ -20,7 +20,8 @@ const titleFR = "Contact HERITAGE Magazine | Chirurgie & Médecine Esthétique";
 const descriptionFR =
   "Vous êtes médecin ou industriel de santé et vous souhaitez rédiger un article dans HERITAGE Magazine, contactez-nous.";
 
-export async function generateMetadata({ params }: Params) {
+export async function generateMetadata(props: Params) {
+  const params = await props.params;
   const locale = params.locale;
   if (locale === "en") {
     return {

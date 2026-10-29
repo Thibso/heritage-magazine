@@ -10,7 +10,7 @@ import Image from "next/image";
 export const instant = false;
 
 type Params = {
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 };
 
 const titleEN = "Dr. Foucourt | Medical Cosmetology and the Rosacea Management";
@@ -22,7 +22,8 @@ const titleFR =
 const descriptionFR =
   "Découvrez la technique du Dr Foucourt sur la cosmétologie médicale et le traitement de la rosacée en médecine esthétique. (H)ERITAGE Magazine";
 
-export async function generateMetadata({ params }: Params) {
+export async function generateMetadata(props: Params) {
+  const params = await props.params;
   const locale = params.locale;
   if (locale === "en") {
     return {

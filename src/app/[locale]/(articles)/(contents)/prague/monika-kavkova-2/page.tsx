@@ -10,7 +10,7 @@ import Image from "next/image";
 export const instant = false;
 
 type Params = {
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 };
 
 const titleEN = "Hyaluronic Acid Fillers | Dr. Kavkovà Monika";
@@ -21,7 +21,8 @@ const titleFR = "Acides hyaluroniques de remplissage | Dr Kavkovà Monika";
 const descriptionFR =
   "L'AH : amplificateur ou destructeur de beauté ? Découvrez l'article complet sur l'équilibre des injections d'acide hyaluronique de remplissage avec le Docteur Monika Kavkovà.";
 
-export async function generateMetadata({ params }: Params) {
+export async function generateMetadata(props: Params) {
+  const params = await props.params;
   const locale = params.locale;
   if (locale === "en") {
     return {

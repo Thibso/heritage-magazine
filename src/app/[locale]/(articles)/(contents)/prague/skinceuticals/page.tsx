@@ -10,7 +10,7 @@ import Image from "next/image";
 export const instant = false;
 
 type Params = {
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 };
 
 const titleEN = "SKINCEUTICALS | Pioneer of Integrated Skincare";
@@ -21,7 +21,8 @@ const titleFR = "SKINCEUTICALS | Pionnier des soins de la peau intégrés";
 const descriptionFR =
   "Découvrez l’article de notre média dédié au Laboratoire SKINCEUTICALS, pionnier des soins de la peau intégrés basés sur la science. Cosmétologie & Médecine esthétique par HERITAGE Magazine.";
 
-export async function generateMetadata({ params }: Params) {
+export async function generateMetadata(props: Params) {
+  const params = await props.params;
   const locale = params.locale;
   if (locale === "en") {
     return {

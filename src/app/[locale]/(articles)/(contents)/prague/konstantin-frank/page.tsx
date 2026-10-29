@@ -10,7 +10,7 @@ import Image from "next/image";
 export const instant = false;
 
 type Params = {
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 };
 
 const titleEN = "Dr. Konstantin Frank | Interview on Face & Body Rejuvenation";
@@ -22,7 +22,8 @@ const titleFR =
 const descriptionFR =
   "Découvrez l'interview exclusive du Docteur Konstantin Frank sur le rajeunissement scientifique du visage et de la silhouette en médecine esthétique.";
 
-export async function generateMetadata({ params }: Params) {
+export async function generateMetadata(props: Params) {
+  const params = await props.params;
   const locale = params.locale;
   if (locale === "en") {
     return {

@@ -10,7 +10,7 @@ import Image from "next/image";
 export const instant = false;
 
 type Params = {
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 };
 
 const titleEN = "Coste Jean-Yves | AI & Aesthetic Medicine";
@@ -21,7 +21,8 @@ const titleFR = "Coste Jean-Yves | IA & Médecine esthétique ";
 const descriptionFR =
   "Découvrez le dossier de Jean-Yves Coste sur l'intelligence artificielle & la médecine esthétique. L'émergence du médecin augmenté par HERITAGE Magazine.";
 
-export async function generateMetadata({ params }: Params) {
+export async function generateMetadata(props: Params) {
+  const params = await props.params;
   const locale = params.locale;
   if (locale === "en") {
     return {

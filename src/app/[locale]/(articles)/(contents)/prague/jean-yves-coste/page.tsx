@@ -10,7 +10,7 @@ import Image from "next/image";
 export const instant = false;
 
 type Params = {
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 };
 
 const titleEN = "Aesthetic Medicine Market: Insights 2025 | Mr. Coste JY";
@@ -21,7 +21,8 @@ const titleFR = "Marché de la Médecine Esthétique : Insights 2025 | M Coste J
 const descriptionFR =
   "Découvrez tous les chiffrés clés du marché de la Médecine Esthétique en 2025. Retrouvez les évolutions du secteur et la répartition géographique du marché dans le dossier Business de Jean-Yves Coste.";
 
-export async function generateMetadata({ params }: Params) {
+export async function generateMetadata(props: Params) {
+  const params = await props.params;
   const locale = params.locale;
   if (locale === "en") {
     return {

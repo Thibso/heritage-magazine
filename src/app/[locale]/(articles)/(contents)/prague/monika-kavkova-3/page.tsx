@@ -10,7 +10,7 @@ import Image from "next/image";
 export const instant = false;
 
 type Params = {
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 };
 
 const titleEN = "Controversies in Biostimulation | Dr. Kavkovà Monika";
@@ -21,7 +21,8 @@ const titleFR = "Controverses dans la biostimulation | Dr Kavkovà Monika ";
 const descriptionFR =
   "La biostimulation est devenue l’un des secteurs connaissant la plus forte croissance en médecine esthétique. Le Docteur Kavková met en lumière plusieurs controverses clés de la biostimulation pour Heritage Magazine.";
 
-export async function generateMetadata({ params }: Params) {
+export async function generateMetadata(props: Params) {
+  const params = await props.params;
   const locale = params.locale;
   if (locale === "en") {
     return {

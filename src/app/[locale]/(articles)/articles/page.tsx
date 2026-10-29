@@ -11,7 +11,7 @@ import path from "path";
 export const instant = false;
 
 type Params = {
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 };
 
 const titleEN = "Innovations in surgery and aesthetic medicine | Articles";
@@ -22,7 +22,8 @@ const titleFR = "Innovations en chirurgie & médecine esthétique | Articles";
 const descriptionFR =
   "Découvrez toutes les dernières innovations en chirurgie esthétique & médecine anti-âge. Articles & interview (H)ERITAGE.";
 
-export async function generateMetadata({ params }: Params) {
+export async function generateMetadata(props: Params) {
+  const params = await props.params;
   const locale = params.locale;
   if (locale === "en") {
     return {

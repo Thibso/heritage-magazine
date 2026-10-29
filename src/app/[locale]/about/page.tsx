@@ -12,7 +12,7 @@ import Link from "next/link";
 export const instant = false;
 
 type Params = {
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 };
 
 const titleEN =
@@ -25,7 +25,8 @@ const titleFR =
 const descriptionFR =
   "Média dédié à la chirurgie & la médecine esthétique. Découvrez les dernières innovations en chirurgie esthétique & médecine anti-âge. (H)ERITAGE Magazine";
 
-export async function generateMetadata({ params }: Params) {
+export async function generateMetadata(props: Params) {
+  const params = await props.params;
   const locale = params.locale;
   if (locale === "en") {
     return {

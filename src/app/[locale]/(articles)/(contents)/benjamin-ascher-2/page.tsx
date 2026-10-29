@@ -10,7 +10,7 @@ import Image from "next/image";
 export const instant = false;
 
 type Params = {
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 };
 
 const titleEN = "SibUS-In® | The digital ultrasound probe for injections";
@@ -22,7 +22,8 @@ const titleFR =
 const descriptionFR =
   "Découvrez SibUS-In, la sonde échographique digitale pour les injections. Article co-rédigé par les Docteurs Audrey Melin & Benjamin Ascher pour HERITAGE.";
 
-export async function generateMetadata({ params }: Params) {
+export async function generateMetadata(props: Params) {
+  const params = await props.params;
   const locale = params.locale;
   if (locale === "en") {
     return {

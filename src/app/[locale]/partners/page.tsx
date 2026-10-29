@@ -30,7 +30,7 @@ import Image from "next/image";
 export const instant = false;
 
 type Params = {
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 };
 
 const titleEN = "Partners & Distributors | HERITAGE Magazine";
@@ -41,7 +41,8 @@ const titleFR = "Partenaires & distributeurs | HERITAGE Magazine";
 const descriptionFR =
   "Partenaires et distributeurs du Magazine HERITAGE. Découvrez le réseau de distribution du magazine spécialisé en chirurgie esthétique et médecine anti-âge.";
 
-export async function generateMetadata({ params }: Params) {
+export async function generateMetadata(props: Params) {
+  const params = await props.params;
   const locale = params.locale;
   if (locale === "en") {
     return {

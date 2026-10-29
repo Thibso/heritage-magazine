@@ -4,9 +4,10 @@
 export const instant = false;
 
 type Params = {
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 };
-export default function LegalNotices({ params }: Params) {
+export default async function LegalNotices(props: Params) {
+  const params = await props.params;
   const locale = params.locale;
   if (locale === "en") {
     return (

@@ -41,7 +41,7 @@ import exemple_3 from "@/app/img/media-kit/heritage-magazine-exemple-article-hyd
 export const instant = false;
 
 type Params = {
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 };
 
 const titleEN = "Media Kit HERITAGE Magazine | French Edition";
@@ -52,7 +52,8 @@ const titleFR = "Media Kit HERITAGE Magazine | Édition française";
 const descriptionFR =
   "Découvrez le media kit de l'édition française HERITAGE Magazine.";
 
-export async function generateMetadata({ params }: Params) {
+export async function generateMetadata(props: Params) {
+  const params = await props.params;
   const locale = params.locale;
   if (locale === "en") {
     return {

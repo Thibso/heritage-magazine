@@ -10,7 +10,7 @@ import Image from "next/image";
 export const instant = false;
 
 type Params = {
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 };
 
 const titleEN = "Managing an Aesthetic Clinic in 2026 | Strategies for Success";
@@ -22,7 +22,8 @@ const titleFR =
 const descriptionFR =
   "Découvrez l'article pour tout savoir sur la gestion et le développement d'une Clinique de Médecine Esthétique en 2026. Regards croisés avec Mme Eva Osvaldovà et M Julien Vervel, CEO de HEALTHCIE.";
 
-export async function generateMetadata({ params }: Params) {
+export async function generateMetadata(props: Params) {
+  const params = await props.params;
   const locale = params.locale;
   if (locale === "en") {
     return {

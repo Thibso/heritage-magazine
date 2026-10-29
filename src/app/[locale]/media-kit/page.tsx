@@ -1,3 +1,4 @@
+import { use } from "react";
 import fr from "@/app/img/media-kit/france-heritage-magazine.jpg";
 import en from "@/app/img/media-kit/international-heritage-magazine.jpg";
 import header from "@/app/img/MEDIA-SPECIALISE-MEDECINE-ESTHETIQUE-CHIRURGIE.jpg";
@@ -11,7 +12,7 @@ import Link from "next/link";
 export const instant = false;
 
 type Params = {
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 };
 
 const titleEN = "HERITAGE Magazine Media Kit | French & International Editions";
@@ -23,7 +24,8 @@ const titleFR =
 const descriptionFR =
   "Accédez au media kit de HERITAGE Magazine. Consultez la version française ou internationnale et découvrez nos opportunités publicitaires et partenariats.";
 
-export async function generateMetadata({ params }: Params) {
+export async function generateMetadata(props: Params) {
+  const params = await props.params;
   const locale = params.locale;
   if (locale === "en") {
     return {
@@ -80,7 +82,8 @@ export async function generateMetadata({ params }: Params) {
   }
 }
 
-export default function About({ params }: Params) {
+export default function About(props: Params) {
+  const params = use(props.params);
   const t = useTranslations("Media_kit");
 
   return (
