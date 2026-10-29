@@ -8,7 +8,7 @@ interface EmailTemplateProps {
   message: string;
 }
 
-export const EmailTemplate: React.FC<Readonly<EmailTemplateProps>> = ({
+export function EmailTemplate({
   firstname,
   lastname,
   email,
@@ -16,15 +16,17 @@ export const EmailTemplate: React.FC<Readonly<EmailTemplateProps>> = ({
   speciality,
   manufacturerName,
   message,
-}) => (
-  <div>
-    <h2>Contact via (H)ERITAGE Magazine</h2>
-    <p>Nom : {lastname}</p>
-    <p>Prénom : {firstname}</p>
-    <p>E-mail : {email}</p>
-    <p>Téléphone : {phone}</p>
-    {speciality ? <p>Spécialité : {speciality}</p> : null}
-    {manufacturerName ? <p>Nom du laboratoire : {manufacturerName}</p> : null}
-    <p>Message : {message}</p>
-  </div>
-);
+}: Readonly<EmailTemplateProps>) {
+  return (
+    <div>
+      <h2>Contact via (H)ERITAGE Magazine</h2>
+      <p>Nom : {lastname}</p>
+      <p>Prénom : {firstname}</p>
+      <p>E-mail : {email}</p>
+      <p>Téléphone : {phone}</p>
+      {speciality ? <p>Spécialité : {speciality}</p> : null}
+      {manufacturerName ? <p>Nom du laboratoire : {manufacturerName}</p> : null}
+      <p>Message : {message}</p>
+    </div>
+  );
+}

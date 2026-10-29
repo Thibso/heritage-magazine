@@ -5,11 +5,6 @@ import { useTranslations } from "next-intl";
 import Image from "next/image";
 import path from "path";
 
-// @next-codemod-ignore Cache Components adoption: this segment temporarily allows blocking.
-// Remove this opt-out after verifying the segment passes validation without it.
-// See: https://nextjs.org/docs/app/guides/migrating-to-cache-components
-export const instant = false;
-
 type Params = {
   params: Promise<{ locale: string }>;
 };
