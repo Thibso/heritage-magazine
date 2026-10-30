@@ -389,5 +389,85 @@
     "speciality": "filters.specialities.surgery.plastic",
     "speciality_value": "plastic_surgery",
     "link": ""
+  },
+  {
+    "honor": "honors.mrs",
+    "title": "BERTIN Camille",
+    "image": "/contributors/camille-bertin.png",
+    "country_icon": "<FR title='France' className='size-4' />",
+    "country_value": "fr",
+    "speciality": "filters.specialities.consulting",
+    "speciality_value": "consulting",
+    "link": ""
+  },
+  {
+    "honor": "honors.dr",
+    "title": "KITIC Alexandre",
+    "image": "/contributors/docteur-alexandre-kitic.png",
+    "country_icon": "<FR title='France' className='size-4' />",
+    "country_value": "fr",
+    "speciality": "filters.specialities.surgery.plastic",
+    "speciality_value": "plastic_surgery",
+    "link": ""
+  },
+  {
+    "honor": "honors.dr",
+    "title": "CRISTOFARI Sarra",
+    "image": "/contributors/docteur-cristotofari.png",
+    "country_icon": "<FR title='France' className='size-4' />",
+    "country_value": "fr",
+    "speciality": "filters.specialities.surgery.plastic",
+    "speciality_value": "plastic_surgery",
+    "link": ""
+  },
+  {
+    "honor": "honors.dr",
+    "title": "POIROT Fanny",
+    "image": "/contributors/docteur-fanny-poirot.png",
+    "country_icon": "<FR title='France' className='size-4' />",
+    "country_value": "fr",
+    "speciality": "filters.specialities.medicine",
+    "speciality_value": "medicine",
+    "link": ""
+  },
+  {
+    "honor": "honors.dr",
+    "title": "BASPEYRAS Martine",
+    "image": "/contributors/docteur-martine-baspeyras.png",
+    "country_icon": "<FR title='France' className='size-4' />",
+    "country_value": "fr",
+    "speciality": "filters.specialities.dermatology",
+    "speciality_value": "dermatology",
+    "link": ""
+  },
+  {
+    "honor": "honors.dr",
+    "title": "BADOF Melissa",
+    "image": "/contributors/docteur-melissa-badof.png",
+    "country_icon": "<FR title='France' className='size-4' />",
+    "country_value": "fr",
+    "speciality": "filters.specialities.medicine",
+    "speciality_value": "medicine",
+    "link": ""
+  },
+  {
+    "honor": "honors.mr",
+    "title": "POTIER Jonathan",
+    "image": "/contributors/jonathan-potier.png",
+    "country_icon": "<FR title='France' className='size-4' />",
+    "country_value": "fr",
+    "speciality": "filters.specialities.consulting",
+    "speciality_value": "consulting",
+    "link": ""
+  },
+  {
+    "honor": "honors.mr",
+    "title": "PRUVOT Lucas",
+    "image": "/contributors/lucas-pruvot.png",
+    "country_icon": "<FR title='France' className='size-4' />",
+    "country_value": "fr",
+    "speciality": "filters.specialities.consulting",
+    "speciality_value": "consulting",
+    "link": ""
   }
 ]
