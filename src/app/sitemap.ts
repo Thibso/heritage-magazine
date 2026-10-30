@@ -228,6 +228,43 @@ const routes = [
     fr: "interview-dr-avelar-luiz-anthropologie-medico-legale-dimorphisme-cranien-esthetique",
     en: "interview-dr-avelar-luiz-forensic-anthropology-skull-dimorphism-aesthetics",
   },
+  // SFME
+  {
+    fr: "interview-association-nationale-jeunes-plasticiens-anjp",
+    en: "interview-national-association-young-plastic-surgeons-anjp",
+  },
+  {
+    fr: "technique-dr-badof-melissa-traitement-peaux-fonces-medecine-esthetique",
+    en: "technique-dr-badof-melissa-treatment-dark-skin-types-aesthetic-medicine",
+  },
+  {
+    fr: "technique-dr-baspeyras-martine-biologie-skin-regeneration-fibroblaste",
+    en: "technique-dr-baspeyras-martine-biology-skin-regeneration-fibroblast",
+  },
+  {
+    fr: "analyse-cepton-rejuvenation-marche-biostimulation-polynucleotides",
+    en: "cepton-analysis-rejuvenation-market-biostimulation-polynucleotides",
+  },
+  {
+    fr: "innovation-insider-2027-chardon-vervel-medecine-chirurgie-esthetique",
+    en: "innovation-insider-2027-chardon-vervel-aesthetic-plastic-surgery",
+  },
+  {
+    fr: "dossier-dr-deutsch-jean-jacques-histoire-toxine-botulique-injectable",
+    en: "feature-dr-deutsch-jean-jacques-history-injectable-botulinum-toxin",
+  },
+  {
+    fr: "interview-dr-poirot-fanny-societe-francaise-medecine-esthetique-sfme",
+    en: "interview-dr-poirot-fanny-french-society-aesthetic-medicine-sfme",
+  },
+  {
+    fr: "technique-dr-melin-audrey-laser-rosacee-vasculaire",
+    en: "technique-dr-melin-audrey-laser-vascular-rosacea",
+  },
+  {
+    fr: "dossier-potier-jonathan-financement-projet-sante",
+    en: "feature-potier-jonathan-financing-healthcare-projects",
+  },
 ];
 
 export default function sitemap(): MetadataRoute.Sitemap {
