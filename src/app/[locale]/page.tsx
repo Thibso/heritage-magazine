@@ -5,7 +5,6 @@ import YoutubeVideo from "../components/videos/YoutubeVideo";
 import last_mag from "../img/MEDIA-SPECIALISE-MEDECINE-ESTHETIQUE-CHIRURGIE.jpg";
 import mag from "../img/magazine-innovation-sante.jpg";
 
-
 type Params = {
   params: Promise<{ locale: string }>;
 };
@@ -124,7 +123,7 @@ export default function Home() {
       },
     ],
   };
-  //
+
   return (
     <main>
       <script
@@ -132,8 +131,20 @@ export default function Home() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(micro_data) }}
       />
       <section className="relative h-[450px] lg:h-screen max-h-[1080px]">
-        <div className="bg-[url(/Influence-magazine-plastic-surgery-aesthetic-medicine.png)] bg-cover bg-fixed bg-center max-lg:hidden absolute size-full"></div>
-        <div className="bg-[url(/Influence-media-plastic-surgery-aesthetic-medicine.png)] bg-cover bg-[50%_75%] lg:hidden absolute size-full"></div>
+        <video
+          width="1920"
+          height="1080"
+          poster="/heritage-magazine-header-capture.jpg"
+          preload="none"
+          autoPlay
+          muted
+          loop
+          className="absolute top-0 left-0 size-full z-[-1] object-cover"
+        >
+          <source src="/heritage-magazine-header-video.mp4" type="video/mp4" />
+        </video>
+        {/* <div className="bg-[url(/Influence-magazine-plastic-surgery-aesthetic-medicine.png)] bg-cover bg-fixed bg-center max-lg:hidden absolute size-full"></div>
+        <div className="bg-[url(/Influence-media-plastic-surgery-aesthetic-medicine.png)] bg-cover bg-[50%_75%] lg:hidden absolute size-full"></div> */}
 
         <span className="h2 absolute bottom-[55px] lg:bottom-[85px] left-1/2 -translate-x-1/2 text-white">
           {t("header")}

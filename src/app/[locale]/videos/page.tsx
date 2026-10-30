@@ -1,7 +1,7 @@
-import { use } from "react";
 import header from "@/app/img/DSC04548.jpg";
 import { useTranslations } from "next-intl";
 import Image from "next/image";
+import { use } from "react";
 
 type Params = {
   params: Promise<{ locale: string }>;
@@ -96,6 +96,70 @@ export default function Vidéos(props: Params) {
           {locale === "fr" ? (
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
               <iframe
+                width="1197"
+                height="674"
+                src="https://www.youtube.com/embed/vN_mYU505zs"
+                title="Aerolase | A New Approach To Laser Care | interview Pavel Efremkin"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                className="w-full h-auto aspect-video"
+              ></iframe>
+              <iframe
+                width="1197"
+                height="674"
+                src="https://www.youtube.com/embed/bZr1pP2p86c"
+                title="Cellular Revitalisation With Polynucleotides | aesthetic medicine | Dr. Ahmed El Muntasar"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                className="w-full h-auto aspect-video"
+              ></iframe>
+              <iframe
+                width="1197"
+                height="674"
+                src="https://www.youtube.com/embed/gHn7TGKWW4A"
+                title="Importance Of Anatomy In Optimising Injection Safety | Interview Dr. Sophie Converset"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                className="w-full h-auto aspect-video"
+              ></iframe>
+              <iframe
+                width="1197"
+                height="674"
+                src="https://www.youtube.com/embed/UiXYCXfeDJA"
+                title="Data Driven Insights | Interview with Jean-Yves Coste"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                className="w-full h-auto aspect-video"
+              ></iframe>
+              <iframe
+                width="1197"
+                height="674"
+                src="https://www.youtube.com/embed/eEaGFuBHQNA"
+                title="Precision and Personalization Powered by AI | Interview with Fauad Hasan"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                className="w-full h-auto aspect-video"
+              ></iframe>
+              <iframe
+                width="1197"
+                height="674"
+                src="https://www.youtube.com/embed/1_MUogN8hIE"
+                title="Understanding Laser Treatments on Couperose and Skin Conditions | Dr. Audrey Melin"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                className="w-full h-auto aspect-video"
+              ></iframe>
+              <iframe
+                width="1197"
+                height="674"
+                src="https://www.youtube.com/embed/242Ii3OKhFA"
+                title="AIME Congress | Interview Pr. Jean-Paul Meningaud"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                className="w-full h-auto aspect-video"
+              ></iframe>
+              <iframe
+                width="1197"
+                height="674"
+                src="https://www.youtube.com/embed/kphFsqE0Wkc"
+                title="Botulinum Toxin for Bruxism &amp; Masseteric Hypertrophy | Dr. Vania Hiratsuka"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                className="w-full h-auto aspect-video"
+              ></iframe>
+              <iframe
                 width="1194"
                 height="672"
                 src="https://www.youtube.com/embed/fiWonCcWNuY"
@@ -138,6 +202,70 @@ export default function Vidéos(props: Params) {
             </div>
           ) : (
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+              <iframe
+                width="1197"
+                height="674"
+                src="https://www.youtube.com/embed/vN_mYU505zs"
+                title="Aerolase | A New Approach To Laser Care | interview Pavel Efremkin"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                className="w-full h-auto aspect-video"
+              ></iframe>
+              <iframe
+                width="1197"
+                height="674"
+                src="https://www.youtube.com/embed/bZr1pP2p86c"
+                title="Cellular Revitalisation With Polynucleotides | aesthetic medicine | Dr. Ahmed El Muntasar"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                className="w-full h-auto aspect-video"
+              ></iframe>
+              <iframe
+                width="1197"
+                height="674"
+                src="https://www.youtube.com/embed/gHn7TGKWW4A"
+                title="Importance Of Anatomy In Optimising Injection Safety | Interview Dr. Sophie Converset"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                className="w-full h-auto aspect-video"
+              ></iframe>
+              <iframe
+                width="1197"
+                height="674"
+                src="https://www.youtube.com/embed/UiXYCXfeDJA"
+                title="Data Driven Insights | Interview with Jean-Yves Coste"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                className="w-full h-auto aspect-video"
+              ></iframe>
+              <iframe
+                width="1197"
+                height="674"
+                src="https://www.youtube.com/embed/eEaGFuBHQNA"
+                title="Precision and Personalization Powered by AI | Interview with Fauad Hasan"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                className="w-full h-auto aspect-video"
+              ></iframe>
+              <iframe
+                width="1197"
+                height="674"
+                src="https://www.youtube.com/embed/1_MUogN8hIE"
+                title="Understanding Laser Treatments on Couperose and Skin Conditions | Dr. Audrey Melin"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                className="w-full h-auto aspect-video"
+              ></iframe>
+              <iframe
+                width="1197"
+                height="674"
+                src="https://www.youtube.com/embed/242Ii3OKhFA"
+                title="AIME Congress | Interview Pr. Jean-Paul Meningaud"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                className="w-full h-auto aspect-video"
+              ></iframe>
+              <iframe
+                width="1197"
+                height="674"
+                src="https://www.youtube.com/embed/kphFsqE0Wkc"
+                title="Botulinum Toxin for Bruxism &amp; Masseteric Hypertrophy | Dr. Vania Hiratsuka"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                className="w-full h-auto aspect-video"
+              ></iframe>
               <iframe
                 width="1194"
                 height="672"
