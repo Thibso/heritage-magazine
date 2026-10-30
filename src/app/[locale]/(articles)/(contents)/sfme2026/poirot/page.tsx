@@ -1,6 +1,5 @@
-import Button from "@/app/components/buttons/Button";
-import logo from "@/app/img/articles/imcas2026/aerolase/aerolase-heritage-magazine.png";
 import header from "@/app/img/articles/sfme2026/poirot/dr-fanny-poirot-heritage-magazine.jpg";
+import logo from "@/app/img/heritage-magazine.png";
 import { useTranslations } from "next-intl";
 import Image from "next/image";
 
@@ -106,12 +105,6 @@ export default function Poirot() {
                 {t("author")}
               </h2>
             </div>
-
-            <div>
-              <Button link="https://www.aerolase.com/?r=0" target="_blank">
-                {t("cta_text")}
-              </Button>
-            </div>
           </div>
 
           <p className="text-left font-sfPro italic font-bold text-xl lg:text-3xl xl:text-4xl uppercase">
@@ -124,15 +117,14 @@ export default function Poirot() {
         {/* Pub */}
         <div className="col-span-2">
           <a
-            href="https://www.aerolase.com/?r=0"
-            target="_blank"
-            title="Aerolase"
+            href="/"
+            title="Heritage Magazine"
             className="lg:sticky lg:top-[35%] flex flex-col items-center gap-4"
           >
             <Image
               src={logo}
-              alt="Aerolase"
-              title="Aerolase"
+              alt="Heritage Magazine"
+              title="Heritage Magazine"
               className="size-full max-h-[350px] max-lg:max-w-[450px] object-contain m-auto"
             />
             <span className="lg:hidden text-orange uppercase font-sfPro font-light">
