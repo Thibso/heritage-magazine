@@ -1,5 +1,106 @@
 [
   {
+    "image": "/contributors/doctor-deutsch-jean-jacques-heritage-magazine.png",
+    "head": "/publications/dr-deutsch-leading-figure-aesthetic-medicine.jpg",
+    "alt": "Dr. Jean-Jacques DEUTSCH HERITAGE Magazine",
+    "h2": "sfme2026_deutsch.h2",
+    "h3": "sfme2026_deutsch.h3",
+    "p": "sfme2026_deutsch.content",
+    "linkTo": "sfme2026_deutsch.cta_link",
+    "linkText": "sfme2026_deutsch.cta",
+    "tags": ["sfme2026_deutsch.tags.t1.title"]
+  },
+  {
+    "image": "/contributors/jonathan-potier.png",
+    "head": "/publications/article-jonathan-potier-heritage-magazine.jpg",
+    "alt": "Jonathan POTIER HERITAGE Magazine",
+    "h2": "sfme2026_potier.h2",
+    "h3": "sfme2026_potier.h3",
+    "p": "sfme2026_potier.content",
+    "linkTo": "sfme2026_potier.cta_link",
+    "linkText": "sfme2026_potier.cta",
+    "tags": ["sfme2026_potier.tags.t1.title"]
+  },
+  {
+    "image": "/contributors/docteur-alexandre-kitic.png",
+    "head": "/publications/anjp-heritage-magazine.jpg",
+    "alt": "ANJP HERITAGE Magazine",
+    "h2": "sfme2026_anjp.h2",
+    "h3": "sfme2026_anjp.h3",
+    "p": "sfme2026_anjp.content",
+    "linkTo": "sfme2026_anjp.cta_link",
+    "linkText": "sfme2026_anjp.cta",
+    "tags": ["sfme2026_anjp.tags.t1.title"]
+  },
+  {
+    "image": "/contributors/docteur-fanny-poirot.png",
+    "head": "/publications/dr-fanny-poirot-heritage-magazine.jpg",
+    "alt": "Dr. Fanny POIROT HERITAGE Magazine",
+    "h2": "sfme2026_poirot.h2",
+    "h3": "sfme2026_poirot.h3",
+    "p": "sfme2026_poirot.content",
+    "linkTo": "sfme2026_poirot.cta_link",
+    "linkText": "sfme2026_poirot.cta",
+    "tags": ["sfme2026_poirot.tags.t1.title"]
+  },
+  {
+    "image": "/contributors/docteur-melissa-badof.png",
+    "head": "/publications/docteur-badof-article-heritage.jpg",
+    "alt": "Dr. Mélissa Badof HERITAGE Magazine",
+    "h2": "sfme2026_badof.h2",
+    "h3": "sfme2026_badof.h3",
+    "p": "sfme2026_badof.content",
+    "linkTo": "sfme2026_badof.cta_link",
+    "linkText": "sfme2026_badof.cta",
+    "tags": ["sfme2026_badof.tags.t1.title"]
+  },
+  {
+    "image": "/contributors/doctor-melin-audrey-heritage-magazine.png",
+    "head": "/publications/dr-melin-audrey-article-heritage.jpg",
+    "alt": "Dr. Audrey Melin HERITAGE Magazine",
+    "h2": "sfme2026_melin.h2",
+    "h3": "sfme2026_melin.h3",
+    "p": "sfme2026_melin.content",
+    "linkTo": "sfme2026_melin.cta_link",
+    "linkText": "sfme2026_melin.cta",
+    "tags": ["sfme2026_melin.tags.t1.title"]
+  },
+  {
+    "image": "/contributors/benoit-chardon-heritage-magazine.png",
+    "head": "/publications/innovation-insider-chardon-vervel.jpg",
+    "alt": "Benoit CHARDON & Julien VERVEL HERITAGE Magazine",
+    "h2": "sfme2026_innovation.h2",
+    "h3": "sfme2026_innovation.h3",
+    "p": "sfme2026_innovation.content",
+    "linkTo": "sfme2026_innovation.cta_link",
+    "linkText": "sfme2026_innovation.cta",
+    "tags": ["sfme2026_innovation.tags.t1.title"]
+  },
+  {
+    "image": "/contributors/docteur-martine-baspeyras.png",
+    "head": "/publications/martine-baspeyras-article-heritage.jpg",
+    "alt": "Dr. Martine Baspeyras HERITAGE Magazine",
+    "h2": "sfme2026_baspeyras.h2",
+    "h3": "sfme2026_baspeyras.h3",
+    "p": "sfme2026_baspeyras.content",
+    "linkTo": "sfme2026_baspeyras.cta_link",
+    "linkText": "sfme2026_baspeyras.cta",
+    "tags": ["sfme2026_baspeyras.tags.t1.title"]
+  },
+
+  {
+    "image": "/contributors/camille-bertin.png",
+    "head": "/publications/cepton-heritage-magazine.jpg",
+    "alt": "CEPTON HERITAGE Magazine",
+    "h2": "sfme2026_cepton.h2",
+    "h3": "sfme2026_cepton.h3",
+    "p": "sfme2026_cepton.content",
+    "linkTo": "sfme2026_cepton.cta_link",
+    "linkText": "sfme2026_cepton.cta",
+    "tags": ["sfme2026_cepton.tags.t1.title"]
+  },
+
+  {
     "image": "/contributors/dr-toledo-avelar-heritage-magazine.png",
     "head": "/publications/dr-avelar-heritage-magazine.jpg",
     "alt": "Dr. Toledo Avelar HERITAGE Magazine",

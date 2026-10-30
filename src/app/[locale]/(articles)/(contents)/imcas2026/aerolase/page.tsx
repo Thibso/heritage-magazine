@@ -172,13 +172,27 @@ export default function Article() {
                 li: (chunk) => (
                   <li className="font-sfPro font-light text-base">{chunk}</li>
                 ),
+                imgContainer: (chunk) => (
+                  <div className="grid grid-cols-3 gap-x-4">{chunk}</div>
+                ),
+                divImg: (chunk) => <div className="space-y-4">{chunk}</div>,
+                pImg: (chunk) => (
+                  <p className="font-sfPro font-light text-sm">{chunk}</p>
+                ),
+                img: (chunk) => (
+                  <Image
+                    src={chunk!.toString()}
+                    alt=""
+                    width={250}
+                    height={250}
+                  />
+                ),
                 bigImg: (chunk) => (
                   <Image
                     src={chunk!.toString()}
                     alt=""
-                    width={600}
+                    width={1080}
                     height={450}
-                    className="aspect-video h-auto object-contain"
                   />
                 ),
               })}

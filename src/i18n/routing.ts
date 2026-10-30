@@ -256,6 +256,43 @@ export const routing = defineRouting({
       fr: "/interview-dr-avelar-luiz-anthropologie-medico-legale-dimorphisme-cranien-esthetique",
       en: "/interview-dr-avelar-luiz-forensic-anthropology-skull-dimorphism-aesthetics",
     },
+    // SFME 2026
+    "/sfme2026/anjp": {
+      fr: "/interview-association-nationale-jeunes-plasticiens-anjp",
+      en: "/interview-national-association-young-plastic-surgeons-anjp",
+    },
+    "/sfme2026/badof": {
+      fr: "/technique-dr-badof-melissa-traitement-peaux-fonces-medecine-esthetique",
+      en: "/technique-dr-badof-melissa-treatment-dark-skin-types-aesthetic-medicine",
+    },
+    "/sfme2026/baspeyras": {
+      fr: "/technique-dr-baspeyras-martine-biologie-skin-regeneration-fibroblaste",
+      en: "/technique-dr-baspeyras-martine-biology-skin-regeneration-fibroblast",
+    },
+    "/sfme2026/cepton": {
+      fr: "/analyse-cepton-rejuvenation-marche-biostimulation-polynucleotides",
+      en: "/cepton-analysis-rejuvenation-market-biostimulation-polynucleotides",
+    },
+    "/sfme2026/innovation": {
+      fr: "/innovation-insider-2027-chardon-vervel-medecine-chirurgie-esthetique",
+      en: "/innovation-insider-2027-chardon-vervel-aesthetic-plastic-surgery",
+    },
+    "/sfme2026/deutsch": {
+      fr: "/dossier-dr-deutsch-jean-jacques-histoire-toxine-botulique-injectable",
+      en: "/feature-dr-deutsch-jean-jacques-history-injectable-botulinum-toxin",
+    },
+    "/sfme2026/poirot": {
+      fr: "/interview-dr-poirot-fanny-societe-francaise-medecine-esthetique-sfme",
+      en: "/interview-dr-poirot-fanny-french-society-aesthetic-medicine-sfme",
+    },
+    "/sfme2026/melin": {
+      fr: "/technique-dr-melin-audrey-laser-rosacee-vasculaire",
+      en: "/technique-dr-melin-audrey-laser-vascular-rosacea",
+    },
+    "/sfme2026/potier": {
+      fr: "/dossier-potier-jonathan-financement-projet-sante",
+      en: "/feature-potier-jonathan-financing-healthcare-projects",
+    },
   },
 });
 
