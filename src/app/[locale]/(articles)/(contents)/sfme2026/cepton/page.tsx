@@ -14,7 +14,7 @@ const descriptionEN =
   "Discover CEPTON's analysis on how rejuvenation, biostimulators, and polynucleotides are reshaping the aesthetic medicine market.";
 
 const titleFR =
-  "CEPTION | Réjuvénation | Protocoles intégrés & Analyse du Marché";
+  "CEPTON | Réjuvénation | Protocoles intégrés & Analyse du Marché";
 const descriptionFR =
   "Découvrez l'analyse de CEPTON, comment la réjuvénation, les biostimulateurs et les polynucléotides redessinent le marché de la médecine esthétique.";
 
