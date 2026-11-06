@@ -139,6 +139,9 @@ export default function Home() {
           autoPlay
           muted
           loop
+          playsInline
+          disablePictureInPicture
+          controls={false}
           className="absolute top-0 left-0 size-full z-[-1] object-cover"
         >
           <source src="/heritage-magazine-header-video.mp4" type="video/mp4" />
